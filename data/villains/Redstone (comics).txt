@@ -1,7 +1,6 @@
 {{Refimprove|date=January 2009}}
-
-{{Superherobox| <!--Wikipedia:WikiProject Comics-->
-  image = [[Image:Redstone(comics).jpg|250px]]
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Redstone(comics).jpg|250px]]
 | caption = Redstone fighting [[Hyperion (comics)|Hyperion]]
 | character_name = Redstone
 | publisher = [[Marvel Comics]]
@@ -15,7 +14,6 @@
 | supports=<!--optional-->
 | powers = ('''First''') super-strength<BR>('''Second''') super strength, invulnerability, and Flash-Vision
 }}
-
 '''Redstone''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Various incarnations of Redstone==
@@ -54,6 +52,8 @@ The Redstone of the Squadron Supreme's Earth possesses superhuman strength, stam
 *http://www.marvel.com/universe/Redstone_(Earth-712)
 *[http://www.classicmarvel.com/cast/redstone.htm]
 
+{{Squadron Supreme}}
+
 {{DEFAULTSORT:Redstone}}
 [[Category:Characters created by Mark Gruenwald]]
 [[Category:Comics characters introduced in 1986]]
@@ -62,3 +62,4 @@ The Redstone of the Squadron Supreme's Earth possesses superhuman strength, stam
 [[Category:Fictional soldiers]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Squadron Supreme]]

@@ -1,6 +1,6 @@
 {{Infobox comics character <!-- Wikipedia:WikiProject Comics -->
 | character_name = Gabriel
-| image = [[File:Gabriel New-Gen.jpg]]
+| image = Gabriel New-Gen.jpg
 | imagesize =
 | converted = y
 | caption = Gabriel. Art by Abdul H. Rashid.

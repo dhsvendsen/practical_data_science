@@ -5,8 +5,8 @@
 | character_name=Ego the Living Planet
 | publisher=[[Marvel Comics]]
 | debut=<small>Cameo appearance:</small> ''[[The Mighty Thor]]'' #132 (September 1966)<br><small>Full appearance:</small> ''The Mighty Thor'' #133 (October 1966)
-| creators=[[Stan Lee]]<br>[[Jack Kirby]]
-| species=Sentient [[Planet]]
+| creators=[[Stan Lee]]<br />[[Jack Kirby]]
+| species=[[Sentient]] [[Planet]]
 | homeworld=Black Galaxy
 | alter_ego=
 | alliances= [[Nova Corps]]<br>[[Elders of the Universe]]
@@ -18,21 +18,23 @@
 | villain=y
 | sortkey=Ego the Living Planet
 }}
-'''Ego the Living Planet''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #132 (September 1966) and was created by writer [[Stan Lee]] and artist [[Jack Kirby]].
+'''Ego the Living Planet''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #132 (September 1966) and was created by writer [[Stan Lee]] and artist [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=121}}</ref>
 
-[[Kurt Russell]] portrayed the character in the [[Marvel Cinematic Universe]] film ''[[Guardians of the Galaxy Vol. 2]]'' (2017).
+The character has made limited appearances in animation and video games, while [[Kurt Russell]] portrayed the character in the live-action [[Marvel Cinematic Universe]] film ''[[Guardians of the Galaxy Vol. 2]]'' (2017), in which Ego is reimagined as a [[Celestial (comics)|Celestial]] and [[Star-Lord|Peter Quill]]'s father.
 
 ==Publication history==
-Ego the Living Planet was initially introduced in ''[[The Mighty Thor]]'' #132 (September 1966), and was created by writer [[Stan Lee]] and artist [[Jack Kirby]].
+Ego the Living Planet was initially introduced in ''[[The Mighty Thor]]'' #132 (September 1966), and was created by [[Jack Kirby]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=118}}</ref>
 
-Ego was created by Kirby during a phase in which he was fascinated with the universe. Ego, the [[Extraterrestrial life|alien]] [[Kree]], and [[Rigellians (Marvel Comics)|The Colonizers]] immediately followed the creation of [[Galactus]], thus establishing Marvel Comics' own "[[space age]] [[mythology]]".<ref>{{cite journal| last=Gartland | first= Mike | title=A Failure to Communicate: Part Two| work= Jack Kirby Collector|number= 22}} Reprinted in {{cite book |title=The Collected Jack Kirby Collector, Volume 5 | first=John, ed.|last=Morrow |publisher=[[TwoMorrows Publishing]] |year=2006 |ISBN=1-893905-57-8 |page=196}}</ref> As Kirby recalled in 1969, shortly after the character's debut, Ego's genesis came when:
+Ego was created by Kirby during a phase in which he was fascinated with the expanse of the universe. Ego, the [[Extraterrestrial life|alien]] [[Kree]], and [[Rigellians (Marvel Comics)|The Colonizers]] immediately followed the creation of [[Galactus]], thus establishing Marvel Comics' own "[[space age]] [[mythology]]".<ref>{{cite journal| last=Gartland | first= Mike | title=A Failure to Communicate: Part Two| work= Jack Kirby Collector|number= 22}} Reprinted in {{cite book |title=The Collected Jack Kirby Collector, Volume 5 | first=John, ed.|last=Morrow |publisher=[[TwoMorrows Publishing]] |year=2006 |ISBN=1-893905-57-8 |page=196}}</ref> As Kirby recalled in 1969, shortly after the character's debut, Ego's genesis came when:
 {{quote|I began to experiment ...and that's how Ego came about. ... A planet that was alive; a planet that was intelligent. That was nothing new either because there had been other stories [about] live planets but that's not acceptable. ... [Y]ou would say, 'Yeah, that's wild,' but how do you relate to it? Why is it alive? So I felt somewhere out in the universe, the universe ... becomes denser and turns liquid — and that in this liquid, there was a giant multiple virus, and if [it] remained isolated for millions and millions of years, it would ... begin to evolve by itself and it would begin to think. By the time we reached it, it might be quite superior to us — and that was Ego.<ref>{{cite news|title='There is Something Stupid in Violence as Violence'| publisher= (Jack Kirby interview), [[The Comics Journal|The Nostalgia Journal]] (interview conducted early 1969) | number=30–31| date=November 1976}} Reprinted in {{cite book|first = George, ed. | last=Milo |title = The Comics Journal Library, Volume One: Jack Kirby | publisher = [[Fantagraphics Books]]| year = 2002| isbn = 1-56097-466-4 | page = 7}}</ref>}}
+
+The reader's first glimpse of Ego on the last page of ''Thor'' #132 is a full-page splash panel [[photomontage|photo collage]] with Ego's human features superimposed on a bulbous, chaotic planetoid. Kirby had been using photo collages for several years; this image has been called "his most effective and freakish to date."<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=91}}</ref>
 
 Ego returned as a protagonist in ''Thor'' #160–161 (Jan.–Feb. 1969), and made a guest appearance in #201. His origin is explored in ''Thor'' #228.
 
 Following appearances in ''Fantastic Four'' #234–235 (Sept.–Oct. 1981) and ''[[Rom the Spaceknight|Rom]]'' #69 (Aug. 1985), Ego had a recurring role in ''Silver Surfer'' vol, 3 #4–22 (1987–1989). The character returned in the 1991 ''Thor'' annual and issues #448–450 (June–Aug 1992).
 
-Ego played a prominent role in the company-wide crossover storyline "[[Maximum Security (comics)|Maximum Security]]",  appearing in ''[[Avengers (comics)|Avengers]]'' #35 (Dec. 2000); ''Maximum Security: Dangerous Planet'' (Oct. 2000); ''[[Iron Man]]'' #34–35 (Nov.–Dec. 2000); ''[[X-Men Unlimited]]'' #29 (Dec. 2000); ''[[Gambit (comics)|Gambit]]'' #23 (Dec. 2000) and ''[[Maximum Security (comics)|Maximum Security]]'' #1–3 (Dec. 2000{{snd}}Jan. 2001).
+Ego played a prominent role in the company-wide crossover storyline "[[Maximum Security (comics)|Maximum Security]]",  appearing in ''[[Avengers (comics)|Avengers]]'' #35 (Dec. 2000); ''Maximum Security: Dangerous Planet'' (Oct. 2000); ''[[Iron Man]]'' #34–35 (Nov.–Dec. 2000); ''[[X-Men Unlimited]]'' #29 (Dec. 2000); ''[[Gambit (Marvel Comics)|Gambit]]'' #23 (Dec. 2000) and ''[[Maximum Security (comics)|Maximum Security]]'' #1–3 (Dec. 2000{{snd}}Jan. 2001).
 
 The character returned in ''Nova'' vol 4 #20–30 and ''Astonishing Thor'' #1–5 (Nov 2010{{snd}}July 2011).
 
@@ -96,16 +98,16 @@ When [[Galactus#King Thor|Galactus the World Butcher]] was bonded to [[Symbiote 
 ===Television===
 *Ego the Living Planet appears in the ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "To Battle the Living Planet", voiced by [[Kay E. Kuter]].{{Citation needed|date=March 2019}}
 *Ego the Living Planet appears in ''[[Silver Surfer (TV series)|Silver Surfer]]'', voiced by Roy Lewis.{{Citation needed|date=March 2019}}
-*Ego the Living Planet makes a cameo in ''[[The Super Hero Squad Show]]'' episode "World War Witch".{{Citation needed|date=March 2019}} While [[Falcon (comics)|Falcon]] was teaching [[Scarlet Witch]] how to drive the [[Helicarrier]], they briefly stop and see Ego and his "children" crossing their path.
-*Ego the Living Planet appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "All About Ego", voiced by [[Kevin Michael Richardson]].<ref name="btva">{{cite web | title=Ego the Living Planet Voice – Mighty Thor franchise <nowiki>|</nowiki> Behind The Voice Actors | url=https://www.behindthevoiceactors.com/characters/Mighty-Thor/Ego-the-Living-Planet/ | work=Behind The Voice Actors | accessdate=December 23, 2019| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref>  He later appears in the two-part episode "Planet Hulk" and "Planet Monster" Pt. 2.
+*Ego the Living Planet makes a cameo in ''[[The Super Hero Squad Show]]'' episode "World War Witch".{{Citation needed|date=March 2019}}
+*Ego the Living Planet appears in ''[[Hulk and the Agents of S.M.A.S.H.]]'', voiced by [[Kevin Michael Richardson]].<ref name="btva">{{cite web | title=Ego the Living Planet Voice – Mighty Thor franchise <nowiki>|</nowiki> Behind The Voice Actors | url=https://www.behindthevoiceactors.com/characters/Mighty-Thor/Ego-the-Living-Planet/ | work=Behind The Voice Actors | access-date=December 23, 2019| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> This version is controlled by '''Little Ego''', a smaller version of its outer self that requires its connection to the host planet to survive. The [[Hulk]] and [[Rick Jones (comics)|A-Bomb]] also took control of the host planet, causing it to take on their respective heads' appearances. Ego appears in the episode "All About Ego", the two-part episode "Planet Hulk", and "Planet Monster" Pt. 2.
 
 ===Film===
-[[File:Kurt Russell as Ego in Guardians of the Galaxy Vol 2.jpg|thumb|[[Kurt Russell]] as Ego in the 2017 film ''[[Guardians of the Galaxy Vol. 2]]'']]
-*Ego appears in ''[[Guardians of the Galaxy Vol. 2]]'', played by [[Kurt Russell]].<ref>Martston, George (July 23, 2016). [http://www.newsarama.com/30349-star-lord-s-father-confirmed.html "STAR-LORD's FATHER Revealed ... James Gunn Explains in Detail"]. [[Newsarama]]. [https://web.archive.org/web/20170514150213/http://www.newsarama.com/30349-star-lord-s-father-confirmed.html Archived] from the original on May 14, 2017.</ref> Ego is portrayed as being [[Peter Quill]]'s biological father. In the film, Ego claims to be a [[Celestial (comics)|Celestial]] and explains that he came into existence millions of years ago, and has learned to use his cosmic powers to manipulate matter around himself, using this ability to form an entire planet around himself, as well as many resources and a human body to interact with sentient beings. However, being bored of immortality and disappointed with a universe full of inferior life, Ego decides to remake all worlds in the universe into extensions of himself, a plan that requires planted seedlings and the power of another Celestial to activate them. To achieve this, Ego mates with various species until a suitable offspring would be conceived to help put his plan into action. The only suitable child turns out to be Peter Quill, although he rebels when Quill learns that Ego killed Quill's mother in order to eliminate the distraction she would have posed to his plan and helps destroy Ego in the end.
+[[File:Kurt Russell as Ego.jpg|thumb|[[Kurt Russell]] as Ego in the 2017 film ''[[Guardians of the Galaxy Vol. 2]]'']]
+Ego appears in the live-action [[Marvel Cinematic Universe]] film ''[[Guardians of the Galaxy Vol. 2]]'', portrayed by [[Kurt Russell]].<ref>Martston, George (July 23, 2016). [http://www.newsarama.com/30349-star-lord-s-father-confirmed.html "STAR-LORD's FATHER Revealed ... James Gunn Explains in Detail"]. [[Newsarama]]. [https://web.archive.org/web/20170514150213/http://www.newsarama.com/30349-star-lord-s-father-confirmed.html Archived] from the original on May 14, 2017.</ref> This iteration is portrayed as being [[Peter Quill]]'s biological father and claims to be a [[Celestial (comics)|Celestial]]. After finding his son, he explains that he came into existence millions of years ago and learned to use his cosmic powers to manipulate matter and form an entire planet around himself as well as utilize many resources and a human body to interact with other sentient beings. After becoming bored of immortality and disappointed with a universe full of inferior life, Ego decided to remake all worlds in the universe into extensions of himself, a plan that required planted seedlings and the power of another Celestial to activate them. To achieve this, Ego mates with various species until a suitable offspring would be conceived to help put his plan into action. While Quill was the only one capable of helping him, the former rebelled against Ego after learning the latter had killed his mother. In the end, Quill and the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] destroy Ego and foil his plan.
 
 ===Video games===
-* Ego the Living Planet appears in ''[[Lego Marvel Super Heroes]]'', on the game's main menu screen.<ref>[http://metro.co.uk/2013/09/11/lego-marvel-super-heroes-preview-and-interview-from-iron-man-to-squirrel-girl-3959229/ "Lego Marvel Super Heroes preview and interview – from Iron Man to Squirrel Girl"]. ''[[Metro (British newspaper)|Metro]]''. September 11, 2013.</ref>
-* Ego the Living Planet appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>Marnell, Blair (May 27, 2017), "[http://nerdist.com/lego-marvel-super-heroes-2-trailer-kang-guardians-of-the-galaxy-spider-gwen/ Lego Marvel Super Heroes 2 Trailer Introduces Kang and a Crazy Lineup of Heroes] {{Webarchive|url=https://web.archive.org/web/20171228171832/https://nerdist.com/lego-marvel-super-heroes-2-trailer-kang-guardians-of-the-galaxy-spider-gwen/ |date=2017-12-28 }}," [[Nerdist News]]. Retrieved June 7, 2017</ref> At the time when the heroes are planning to bring [[Knowhere]] to Chronopolis, Kang interferes by creating a portal for Ego to come through. While Ego plans to make Kang pay for his insolence, he also plans to make the heroes pay for their incompetence. After certain things are done, the portal that was to bring Ego to Chronopolis closes as he plans to one day make Kang pay for his impertinence. The MCU version of Ego is a playable character in the ''Guardians of the Galaxy Vol. 2'' DLC.
+* Ego the Living Planet appears in ''[[Lego Marvel Super Heroes]]''.<ref>[http://metro.co.uk/2013/09/11/lego-marvel-super-heroes-preview-and-interview-from-iron-man-to-squirrel-girl-3959229/ "Lego Marvel Super Heroes preview and interview – from Iron Man to Squirrel Girl"]. ''[[Metro (British newspaper)|Metro]]''. September 11, 2013.</ref>
+* Ego the Living Planet appears in ''[[Lego Marvel Super Heroes 2]]'',<ref>Marnell, Blair (May 27, 2017), "[http://nerdist.com/lego-marvel-super-heroes-2-trailer-kang-guardians-of-the-galaxy-spider-gwen/ Lego Marvel Super Heroes 2 Trailer Introduces Kang and a Crazy Lineup of Heroes] {{Webarchive|url=https://web.archive.org/web/20171228171832/https://nerdist.com/lego-marvel-super-heroes-2-trailer-kang-guardians-of-the-galaxy-spider-gwen/ |date=2017-12-28 }}," [[Nerdist News]]. Retrieved June 7, 2017</ref> with the MCU version being a playable character via the ''Guardians of the Galaxy Vol. 2'' [[Downloadable content|DLC]].{{cn|date=December 2020}} While the heroes are planning to bring [[Knowhere]] to Chronopolis, [[Kang the Conqueror]] interferes by creating a portal for Ego to come through. However, Ego seeks to make Kang and the heroes pay for their insolence and incompetence respectively. Eventually, the portal that brought Ego to Chronopolis is closed, stopping the living planet.
 
 ===Music===
 American [[stoner metal]] band [[Monster Magnet]] recorded a song called "Ego, the Living Planet" on the album ''[[Dopes to Infinity]]''.
@@ -113,16 +115,17 @@ American [[stoner metal]] band [[Monster Magnet]] recorded a song called "Ego, t
 ==Reception==
 In his 1972 book ''Outlaws of America'', Author Roger Lewis argues that Ego the Living Planet reflected [[risks to civilization, humans and planet Earth]] that people were contemplating in the 1960s, when he was initially conceived.<ref>{{cite book | title = Outlaws of America | author = Roger Lewis | publisher = Penguin | year = 1972}}</ref>
 
-In 2007 "Ego the Loving Planet", the story that ran in ''[[Marvel Adventures: The Avengers]]'' #12, featured Ego, and was praised by Ray Tate of ComicsBulletin for its simultaneous inventiveness and logical sense.<ref>{{cite web|url=http://www.comicsbulletin.com/reviews/117718711510698.htm|title=Marvel Adventures #12 Review|last=Tate|first=Ray|date=2007-04-21|publisher=Comics Bulletin|accessdate=2009-01-20}}</ref>
+In 2007 "Ego the Loving Planet", the story that ran in ''[[Marvel Adventures: The Avengers]]'' #12, featured Ego, and was praised by Ray Tate of ComicsBulletin for its simultaneous inventiveness and logical sense.<ref>{{cite web|url=http://www.comicsbulletin.com/reviews/117718711510698.htm|title=Marvel Adventures #12 Review|last=Tate|first=Ray|date=2007-04-21|publisher=Comics Bulletin|access-date=2009-01-20}}</ref>
 
 In August 2009, ''[[Time (magazine)|Time]]'' listed Ego as one of the "Top 10 Oddest Marvel Characters".<ref>{{cite news|newspaper=[[Time (magazine)|Time]]|url=http://entertainment.time.com/2009/09/02/top-10-oddest-marvel-characters/slide/ego/|title=Top 10 Oddest Marvel Characters|date=August 31, 2009}}</ref>
+
+Pierre Comtois in the 2015 book ''Marvel Comics in the 1960s'' says, "With the creation of Ego [Lee and Kirby], unbelievably, managed to equal if not top their introduction of Galactus only a few months before. Not just a living planet, but a living "bio-verse", Ego presents the reader with a menace so gigantic, so incalculable that it dwarfed even a character with the power of a god."<ref>{{cite book |last1=Comtois |first1=Pierre |title=Marvel Comics in the 1960s: An Issue By Issue Field Guide to a Pop Culture Phenomenon |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1-60549-016-8 |page=140}}</ref>
 
 ==See also==
 *[[Mogo]]
 *[[Boltzmann Brain]]
 *[[Gaia (Foundation universe)]]
 *[[Celestial (comics)]]
-*[[Devil Dinosaur]]
 
 ==References==
 {{Reflist}}
@@ -132,9 +135,9 @@ In August 2009, ''[[Time (magazine)|Time]]'' listed Ego as one of the "Top 10 Od
 * [http://www.marveldatabase.com/Ego Ego the Living Planet]. Marvel Comics Database Project
 
 {{Guardians of the Galaxy}}
-{{Thor}}
-{{Silver Surfer}}
 {{Nova}}
+{{Silver Surfer}}
+{{Thor}}
 {{Marvel Cosmic}}
 {{Stan Lee}}
 {{Jack Kirby}}
@@ -146,6 +149,7 @@ In August 2009, ''[[Time (magazine)|Time]]'' listed Ego as one of the "Top 10 Od
 [[Category:Elders of the Universe]]
 [[Category:Extraterrestrial supervillains]]
 [[Category:Fictional living planets]]
+[[Category:Marvel Comics film characters]]
 [[Category:Marvel Comics planets]]
 [[Category:Guardians of the Galaxy characters]]
 [[Category:Thor (Marvel Comics)]]

@@ -1,7 +1,7 @@
 {{Infobox comic book title <!--Wikipedia:WikiProject Comics-->
 <!-- | title = Ghost Rider 2099 -->
 | image = Ghost Rider 2099 2 cover.jpg
-| caption = Cover to ''Ghost Rider 2099'' #2 (June 1994).<br>Art by [[Mark Buckingham]].
+| caption = Cover to ''Ghost Rider 2099'' #2 (June 1994).<br>Art by [[Mark Buckingham (comic book artist)|Mark Buckingham]].
 | schedule = Monthly
 | format = 
 | ongoing = y
@@ -9,13 +9,12 @@
 | date = May [[1994 in comics|1994]] – May [[1996 in comics|1996]]
 | issues = 25
 | main_char_team =
-| alter_ego= Kenshiro "Zero" Cochrane 
 | writers = [[Len Kaminski]]
-| artists = [[Chris Bachalo]]<br>[[Mark Buckingham]]<br>[[Ashley Wood]]<br>[[Kyle Hotz]]
+| artists = [[Chris Bachalo]]<br>[[Mark Buckingham (comic book artist)|Mark Buckingham]]<br>[[Ashley Wood]]<br>[[Kyle Hotz]]
 | pencillers = 
 | inkers = [[Jim Daly (comics)|Jim Daly]]
 | colorists = 
-| letterer = [[John Roshell]]
+| letterers = [[John Roshell]]
 | creative_team_month = 
 | creative_team_year = 
 | creators = 
@@ -85,7 +84,7 @@ Ghost Rider rode a modified version of Zero Cochrane's original souped-up motorc
 ===Video games===
 *Ghost Rider 2099 appears as an alternate costume in the ''[[Ghost Rider (video game)|Ghost Rider]]'' movie tie-in video game.
 *Ghost Rider 2099 appears as an alternate costume for Ghost Rider in ''[[Ultimate Marvel vs Capcom 3]]''.
-*Ghost Rider 2099 appears as a playable character in ''[[Marvel Avengers Academy]]'', voiced by Nicholas Andrew Louie.<ref>{{cite web|url=http://nicholasandrewlouie.com/character-samples/|title=CHARACTER GALLERY — Nicholas Andrew Louie|website=nicholasandrewlouie.com|date=|accessdate=February 25, 2018|archive-url=https://web.archive.org/web/20180226211715/https://www.nicholasandrewlouie.com/character-samples/|archive-date=February 26, 2018|url-status=dead}}</ref>
+*Ghost Rider 2099 appears as a playable character in ''[[Marvel Avengers Academy]]'', voiced by Nicholas Andrew Louie.<ref>{{cite web|url=http://nicholasandrewlouie.com/character-samples/|title=CHARACTER GALLERY — Nicholas Andrew Louie|website=nicholasandrewlouie.com|access-date=February 25, 2018|archive-url=https://web.archive.org/web/20180226211715/https://www.nicholasandrewlouie.com/character-samples/|archive-date=February 26, 2018|url-status=dead}}</ref>
 
 ==References==
 {{Reflist}}

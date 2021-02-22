@@ -1,4 +1,4 @@
-{{For|the Indian cellphone company|Micromax Mobile}}
+{{For|the Indian cellphone company|Micromax Informatics}}
 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
   image =[[Image:Micromax.jpg|250px]]
@@ -13,7 +13,11 @@
 | aliases =Mr. Right
 | powers =Mass and size manipulation<br>Strength proportionate to size<br>Limited shapeshifting}}
 
-'''Micromax''' ('''Scott Wright''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]].  Micromax was created by [[Alan Davis]] and first appeared in ''[[Excalibur (comic book)|Excalibur]]'' vol. 1 #44 (Dec 1991).
+'''Micromax''' ('''Scott Wright''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=December 2020}}
+Micromax was created by [[Alan Davis]] and first appeared in ''[[Excalibur (comic book)|Excalibur]]'' vol. 1 #44 (Dec 1991).
 
 ==Fictional character biography==
 Prior to the discovery of his mutant abilities, Scott Wright was a [[disk jockey]]. With the discovery of his powers he became a special British government operative for M.I.6, a secret British national security unit, under the name '''Micromax'''.
@@ -48,8 +52,11 @@ In the [[Ultimate Marvel]] universe, Micromax is featured as a former mutant pri
 * [http://www.marvunapp.com/Appendix3/micromax.htm Micromax] at the Appendix to the Handbook of the Marvel Universe
 * [http://uncannyxmen.net/characters/micromax UncannyXmen.net Character Profile on Micromax]
 
+{{Excalibur}}
+
 [[Category:Characters created by Alan Davis]]
 [[Category:Comics characters introduced in 1991]]
+[[Category:Excalibur (comics)]]
 [[Category:Fictional DJs]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]

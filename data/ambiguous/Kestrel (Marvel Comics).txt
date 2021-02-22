@@ -1,3 +1,4 @@
+{{short description|Character in the Marvel comics}}
 {{Overly detailed|date=January 2019}}
 {{In-universe|date=January 2019}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
@@ -39,7 +40,7 @@ Wraith had the psionic ability to phase-jump; meaning he could seemingly disappe
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=
 |character_name=Colonel John Wraith
-|real_name(s)=John Wraith 
+|real_name=John Wraith 
 |publisher=[[Marvel Comics]] ([[Ultimate Marvel]] Imprint)
 |debut=''Ultimate X-Men'' #2
 |creators= [[Mark Millar]]<br>[[Adam Kubert]]
@@ -63,11 +64,11 @@ Canadian government forces saved Wraith's life by injecting him with the Banshee
 
 ==In other media==
 ===Television===
-* Kestrel is mentioned in ''[[X-Men Evolution]]''. In the episode "Target X", [[Omega Red]] references both Maverick and Kestrel to Wolverine, mentioning the latter during a rundown of Weapon X adversaries.
+* Kestrel is mentioned in ''[[X-Men: Evolution]]''. In the episode "Target X", [[Omega Red]] references both Maverick and Kestrel to Wolverine, mentioning the latter during a rundown of Weapon X adversaries.
 * A character based on the Ultimate Marvel version of John Wraith appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'': '''Colonel Moss''' (voiced by [[Michael Ironside]]). He is in charge of the [[Mutant Response Division]] and has a vendetta against [[Wolverine (character)|Wolverine]] as Moss has claw marks across his face thanks to Wolverine at some point in the past. He was a former head of [[Weapon X]] that worked under [[Professor Thorton]] and [[Abraham Cornelius]]. In the [[Days of Future Past|Sentinel-dominated future]], he is a [[cyborg]] who handles putting power dampeners on mutants in prisons. Whenever his biological half is compromised by a [[telepath]], his [[Sentinel (comics)|Sentinel]] mode would take over.
 
 ===Film===
-* Recording artist [[Will.i.am]] (of [[The Black Eyed Peas]]) portrays John Wraith in the 2009 feature film ''[[X-Men Origins: Wolverine]]''.<ref>{{cite news| url= http://www.variety.com/article/VR1117981136.html?categoryid=13&cs=1 |title= Reynolds, will.i.am join 'Wolverine' | work= [[Variety (magazine)|Variety]] | date= 19 February 2008 | first= Marc |last= Graser| accessdate= 22 April 2015}}</ref>  This version is a teleporting mutant and a member of Team X alongside [[Wolverine (character)|Wolverine]] (James "Logan" Howlett), [[Sabretooth (comics)|Victor Creed]], [[Deadpool|Wade Wilson]], [[David North (comics)|Agent Zero]], [[Chris Bradley]] and [[Blob (comics)|Fred Dukes]] under [[William Stryker]]'s leadership. While initially loyal to the team, Wraith eventually quits the team due to morality issues as he and Logan didn't like what the team did but follows orders anyway (like abducting fellow mutants) and becomes a boxing manager. He appears to be the one member whom Logan fully trusts, being the first whom Logan pays a visit after many years. When Wolverine arrives for information about Stryker's base, Wraith tells him to ask an obese Dukes that he's boxing to keep in shape. Before giving Logan any information, Dukes challenges Logan to a boxing match. Logan wins thanks to the adamantium skeleton and Dukes directs him toward escaped captive [[Gambit (comics)|Remy LeBeau]]. Wraith goes with Wolverine which leads them to a casino in Louisiana. Wraith guards the back, only to be confronted by Creed. Knowing that Creed killed Bradley as well as apparently Wade and Dukes, Wraith fights Creed despite Logan's wish to kill Creed personally. Wraith uses his teleportation ability to his advantage and manages to strike Creed multiple times, but Creed, predicting Wraith's move, eventually positions himself in exactly the right place to grab Wraith's spine as Wraith appears, mortally wounding him. Creed takes a sample of Wraith's blood and his teleportation ability is used for Weapon XI.<ref>[http://images.rottentomatoes.com/images/features/wolverine_characters/wolverinecharacters_JohnWraith.jpg John Wraith as portrayed by Will.i.am in ''X-Men Origins: Wolverine'']</ref>
+* Recording artist [[Will.i.am]] (of [[The Black Eyed Peas]]) portrays John Wraith in the 2009 feature film ''[[X-Men Origins: Wolverine]]''.<ref>{{cite news| url= https://www.variety.com/article/VR1117981136.html?categoryid=13&cs=1 |title= Reynolds, will.i.am join 'Wolverine' | work= [[Variety (magazine)|Variety]] | date= 19 February 2008 | first= Marc |last= Graser| access-date= 22 April 2015}}</ref>  This version is a teleporting mutant and a member of Team X alongside [[Wolverine (character)|Wolverine]] (James "Logan" Howlett), [[Sabretooth (comics)|Victor Creed]], [[Deadpool|Wade Wilson]], [[David North (comics)|Agent Zero]], [[Chris Bradley]] and [[Blob (comics)|Fred Dukes]] under [[William Stryker]]'s leadership. While initially loyal to the team, Wraith eventually quits the team due to morality issues as he and Logan didn't like what the team did but follows orders anyway (like abducting fellow mutants) and becomes a boxing manager. He appears to be the one member whom Logan fully trusts, being the first whom Logan pays a visit after many years. When Wolverine arrives for information about Stryker's base, Wraith tells him to ask an obese Dukes that he's boxing to keep in shape. Before giving Logan any information, Dukes challenges Logan to a boxing match. Logan wins thanks to the adamantium skeleton and Dukes directs him toward escaped captive [[Gambit (Marvel Comics)|Remy LeBeau]]. Wraith goes with Wolverine which leads them to a casino in Louisiana. Wraith guards the back, only to be confronted by Creed. Knowing that Creed killed Bradley as well as apparently Wade and Dukes, Wraith fights Creed despite Logan's wish to kill Creed personally. Wraith uses his teleportation ability to his advantage and manages to strike Creed multiple times, but Creed, predicting Wraith's move, eventually positions himself in exactly the right place to grab Wraith's spine as Wraith appears, mortally wounding him. Creed takes a sample of Wraith's blood and his teleportation ability is used for Weapon XI.<ref>[http://images.rottentomatoes.com/images/features/wolverine_characters/wolverinecharacters_JohnWraith.jpg John Wraith as portrayed by Will.i.am in ''X-Men Origins: Wolverine'']</ref>
 
 ===Video games===
 * John Wraith appears in the ''[[X-Men Origins: Wolverine (video game)|X-Men Origins: Wolverine]]'' video game, voiced by [[Will.i.am]]. He first appears when Wolverine is rescuing him from the headquarters of [[Project Wideawake|Project: WideAwake]] with the aid of [[Mystique (comics)|Raven Darkholme]], during which it is implied that he is the father of [[Nightcrawler (comics)|Nightcrawler]]. He leads Logan to Team X colleague Frederick Dukes, then to Remy LeBeau, and covers the back of the casino. Victor Creed sneak attacks and kills Wraith.
@@ -84,8 +85,8 @@ Canadian government forces saved Wraith's life by injecting him with the Banshee
 [[Category:Fictional African-American people]]
 [[Category:Fictional colonels]]
 [[Category:Fictional American secret agents]]
-[[Category:Superhero film characters]]
 [[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics film characters]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
@@ -93,3 +94,4 @@ Canadian government forces saved Wraith's life by injecting him with the Banshee
 [[Category:Fictional priests and priestesses]]
 [[Category:S.H.I.E.L.D. agents]]
 [[Category:Fictional characters with memory disorders]]
+[[Category:X-Men supporting characters]]

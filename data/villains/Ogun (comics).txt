@@ -2,7 +2,7 @@
 |image=[[File:Ogun (comics).jpg|160px]]
 |caption=Ogun from ''Kitty Pryde and Wolverine'' #2<br>Art by [[Al Milgrom]]
 |character_name=Ogun
-|real_name=unrevealed
+|real_name=Unknown
 |species=Human
 |publisher=[[Marvel Comics]]
 |debut=''[[Kitty Pryde and Wolverine]]'' #1 (November 1984) 
@@ -12,7 +12,7 @@
 |powers= Telepathic ability to switch bodies and control minds which is derived from either a mutation or mystical powers<br>Superhuman agility and reflexes<br>Slowed or halted aging. 
 |}}
 
-'''Ogun''' is a [[fictional character]], a [[Japan]]ese [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]] and a foe of [[Wolverine (character)|Wolverine]]. His first appearance was in ''[[Kitty Pryde and Wolverine]]'' #1 (November 1984), and was scripted by [[Chris Claremont]] and drawn by [[Allen Milgrom]].<ref>''Kitty Pryde and Wolverine'' #2-4</ref>
+'''Ogun''' is a [[fictional character]], a [[Japan]]ese [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]] and a foe of [[Wolverine (character)|Wolverine]]. His first appearance was in ''[[Kitty Pryde and Wolverine]]'' #2 (Dec 1984), and was scripted by [[Chris Claremont]] and drawn by [[Allen Milgrom]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=261}}</ref>
 
 ==Fictional character biography==
 Ogun was a [[ninja]] and [[martial arts]] master who acted as [[Wolverine (character)|Wolverine]]'s mentor. Very little is known of his past or the exact nature of his abilities, but he was apparently a [[Mutant (Marvel Comics)|mutant]] who could possess and control minds via [[telepathy]]. His reflexes and reaction time also appear to have been enhanced beyond the range attainable by normal humans, such as that he was easily a match for Wolverine. Note that either or both of these abilities may have been wholly or partially [[Mysticism|mystical]] in nature.<ref>''Wolverine'' #50</ref>
@@ -56,4 +56,4 @@ The Series 6 Wolverine figure from ToyBiz's Marvel Legends line came with a disp
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Chris Claremont]]
 [[Category:Characters created by Al Milgrom]]
-[[Category:Fictional characters with slowed aging]]
+[[Category:Fictional characters with slowed ageing]]

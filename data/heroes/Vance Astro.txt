@@ -17,7 +17,7 @@ image=[[Image:Vanceastro.jpg|250px]]
 
 '''Vance Astro''', born '''Vance Astrovik''' and going by the code name '''Major Victory''', is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as being from the [[Earth-691]] timeline of the [[Marvel Universe]].
 
-Astro first appeared in January 1969 as a founding member of the Guardians of the Galaxy in the partial reprint title Marvel Super-Heroes with issue #18.
+Astro first appeared in January 1969 as a founding member of the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]] in the partial reprint title ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' with issue #18.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=228}}</ref>
 
 Vance Astro is a mutant who possesses a [[psychokinesis|psychokinetic]] ability, limited to projecting concussive blasts.
 
@@ -65,9 +65,11 @@ Vance later joins this incarnation of the Guardians of the Galaxy and helps to r
 Vance later worked with a time-displaced Namorita to safeguard a mission into the 'Cancerverse', a realm threatening the known universe.<ref>''The Thanos Imperative" #1-6 (2010)</ref>
 
 ==Powers and abilities==
-Vance Astro is a [[Mutant (Marvel Comics)|mutant]] who possesses the psionic ability of [[psychokinesis]], the ability to affect matter with his mind. For some reason, Vance's psionic powers can only be manifested as "psyche-blasts", focused psychokinetic blasts of explosive concussive force, which can disrupt the [[synapse]]s in the minds of any living being they strike. He can focus the energy at will, creating anything from a narrow {{convert|2|in|mm|adj=mid|-diameter}} beam to a 360 degree expanding sphere of force. Vance has eventually shown some marginal improvement of the control of his psychokinesis, such as generating small psionic pulses to slow the descent of falling people, or gentle psychic bursts to move objects forwards or backwards (all without inflicting any damage on the people or objects).  Vance can only employ his psionic powers at maximum exertion for about a half-hour before suffering mental fatigue and a need to replenish his store of psionic energy. He was once forced to wear a copper alloy bodysuit to prevent his body from decaying on exposure to air. During the time when he carried Captain America's shield in combat, he would use his power to propel the shield and manipulate its flight path, simulating the Captain's use of the shield as a throwing weapon. All of these abilities were augmented by a transfusion of Hollywood's (a 1,000-year-old [[Wonder Man|Simon Williams]]) ionically-enhanced blood.<ref>''Guardians of the Galaxy'' #20</ref> Vance's dependency on his suit was cured by a spell by [[Krugarr]] and the blood transfusion from Hollywood.
+Vance Astro is a [[Mutant (Marvel Comics)|mutant]] who possesses the psionic ability of [[psychokinesis]], the ability to affect matter with his mind. Vance's psionic powers can only be manifested as "psyche-blasts", focused psychokinetic blasts of explosive concussive force, which can disrupt the [[synapse]]s in the minds of any living being they strike. He can focus the energy at will, creating anything from a narrow {{convert|2|in|mm|adj=mid|-diameter}} beam to a 360 degree expanding sphere of force. Over time, Vance has shown some marginal improvement of the control of his psychokinesis, such as generating small psionic pulses to slow the descent of falling people, or gentle psychic bursts to move objects forwards or backwards (all without inflicting any damage on the people or objects).  Vance can only employ his psionic powers at maximum exertion for about a half-hour before suffering mental fatigue, after which he must replenish his store of psionic energy. During the time when he carried Captain America's shield in combat, he would use his power to propel the shield and manipulate its flight path, simulating the Captain's use of the shield as a throwing weapon. Going by the code name Hollywood, a 1,000-year-old [[Wonder Man|Simon Williams's]] helped to augment all of Astro's abilities by a transfusion of Williams's ionically-enhanced blood.<ref>''Guardians of the Galaxy'' #20</ref>
 
-Astro is an above average athlete and an excellent hand-to-hand combatant, having received unarmed combat training in the U.S. Air Force circa 20th Century. Vance is also an excellent starship pilot and astronaut, and a superb leader and strategist.
+Astro is often seen wearing a copper alloy bodysuit, which preserved his body on his 1,000-year journey through space, and prevents his body from decaying when exposured to air. Vance's dependency on his suit was cured by a spell by [[Krugarr]] and the blood transfusion from Hollywood, though he wears a similar full-body suit to this day.
+
+Astro is an above average athlete and an excellent hand-to-hand combatant, having received unarmed combat training in the U.S. Air Force in the 20th Century. Vance is also an excellent starship pilot and astronaut, and a superb leader and strategist.
 
 ==Other versions==
 {{Main|Vance Astrovik}}
@@ -88,8 +90,8 @@ Astro is an above average athlete and an excellent hand-to-hand combatant, havin
 {{DEFAULTSORT:Astro, Vance}}
 [[Category:Characters created by Arnold Drake]]
 [[Category:Comics characters introduced in 1969]]
-[[Category:Fictional astronauts]]
 [[Category:Fictional majors]]
+[[Category:Fictional NASA astronauts]]
 [[Category:Fictional United States Air Force personnel]]
 [[Category:Guardians of the Galaxy characters]]
 [[Category:Jewish superheroes]]

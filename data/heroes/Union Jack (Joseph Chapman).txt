@@ -30,7 +30,7 @@ Dan Abnett and Gary Erskine featured Chapman in ''[[Knights of Pendragon]]'' Vol
 
 Skip Dietz and Hoang Nguyen featured him in a ''Knights of Pendragon'' story for ''[[Marvel Comics Presents]]'' #122 (February 1993); the story is about an investigation into the cause of [[crop circles]].
 
-[[John Freeman (editor)|John Freeman]] pitched a follow-up to ''Knights of Pendragon'' called ''Armageddon Knights'' in late 1993, but never received a response; the story, which featured Chapman, would have wrapped up loose-ends from the preceding series.<ref name="DTT01">{{cite web |title="Genesis '92": Looking Back and What Might Have Been |first= |last= |coauthors= |url=http://downthetubes.net/?page_id=10749 |work=Down the Tubes |date= |accessdate=2015-07-26 }}</ref>
+[[John Freeman (editor)|John Freeman]] pitched a follow-up to ''Knights of Pendragon'' called ''Armageddon Knights'' in late 1993, but never received a response; the story, which featured Chapman, would have wrapped up loose-ends from the preceding series.<ref name="DTT01">{{cite web |title="Genesis '92": Looking Back and What Might Have Been |url=http://downthetubes.net/?page_id=10749 |work=Down the Tubes |access-date=2015-07-26 }}</ref>
 
 [[Ben Raab]] and [[John Cassaday]] featured him in the three-issue ''Union Jack'' (December 1998-February 1999) mini-series; in the story he loses his friend Kenneth to the vampiric [[Baroness Blood]].
 
@@ -44,6 +44,8 @@ Chapman also appears as a supporting character in [[Chuck Austen]] and [[Scott K
 Chapman stars in yet another self-titled mini-series in late 2006, spun off from his appearance in [[Ed Brubaker]]'s run on ''Captain America'', written by [[Christos Gage]]<ref>[http://www.comicbookresources.com/?page=article&id=7092 Battler of Britain: Gage talks "Union Jack"], [[Comic Book Resources]], May 17, 2006</ref> with pencils and inks by [[Mike Perkins]]<ref>[http://www.comicbookresources.com/?page=article&id=7184 Rule Britannia: Perkins talks "Union Jack"], [[Comic Book Resources]], May 30, 2006</ref> and Andrew Hennesy, respectively.
 
 The character would then make brief appearances alongside Spitfire in ''[[Captain Britain & MI:13]]'' #5 and 13, before becoming a member of a re-formed Invaders in ''[[Invaders Now]]''.
+
+Union Jack is a member of the British super team [[The Union (comics)|The Union]] created by [[Paul Grist]] and [[Andrea Di Vito]].<ref>{{Cite web|url=https://www.wired.co.uk/article/marvel-captain-britain-the-union|title=Marvel's The Union is a grim metaphor for post-Brexit Britain|first=Matt|last=Kamen|date=February 21, 2020|via=www.wired.co.uk}}</ref>
 
 ==Fictional character biography==
 ===Origin===
@@ -114,7 +116,7 @@ Joseph Chapman's major appearances have been collected in a number of [[trade pa
 ==In other media==
 
 ===Video games===
-* The Joseph Chapman version of Union Jack appears in ''[[Lego Marvel Super Heroes]]''.<ref name="EGX 2013">{{cite web|title=LEGO Marvel Super Heroes - #EGX 2013|url=https://www.youtube.com/watch?v=jCNW2-N0uFA|accessdate=28 September 2013}}</ref>
+* The Joseph Chapman version of Union Jack appears in ''[[Lego Marvel Super Heroes]]''.<ref name="EGX 2013">{{cite web|title=LEGO Marvel Super Heroes - #EGX 2013|url=https://www.youtube.com/watch?v=jCNW2-N0uFA|access-date=28 September 2013}}</ref>
 * The Joseph Chapman version of Union Jack appears in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=February 2016}}
 
 ==References==

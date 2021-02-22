@@ -14,14 +14,14 @@ image=[[Image:Monolith.png|250px]]
 |powers=Energy absorption and projection<br>Superhuman strength, durability and longevity<br>Size and mass manipulation<br>[[Telepathy]]
 }}
 
-The '''Living Monolith''' ('''Ahmet Abdol''') is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[The Uncanny X-Men|X-Men]]'' #54 (March [[1969 in comics|1969]]).
+The '''Living Monolith''' ('''Ahmet Abdol''') is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[The Uncanny X-Men|X-Men]]'' #54 (March [[1969 in comics|1969]]).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=215}}</ref>
 
-Abdol is the '''Living [[Pharaoh]]''' while in his normal appearance, but once he obtained enough cosmic energy, he would increase in mass, size, and power, thus becoming the Living [[Monolith]].
+Abdol is the '''Living [[Pharaoh]]''' while in his normal appearance, but once he obtained enough cosmic energy, he would increase in mass, size, and power, thus becoming the Living [[Monolith]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=191}}</ref>
 
 Abdol has mainly been an X-Men villain, usually using [[Havok (comics)|Havok]] to become the Living Monolith. He has also used other superheroes, including the [[Fantastic Four]] (who gained their super powers from exposure to cosmic rays). He even killed his own daughter to achieve his goal.
 
 ==Fictional character biography==
-Ahmet Abdol was born in [[Cairo]], [[Egypt]].  He was a professor of [[Egyptology]] and archeologist who discovered he had the ability to manipulate cosmic energy, mainly by absorbing it and projecting it as energy blasts. Deciding to use his powers for his own personal gain, Abdol created a cult around himself as messiah, the Cult of the Living Pharaoh, became a supervillain and set about his plan to rule the [[world]].
+Ahmet Abdol was born in [[Cairo]], [[Egypt]].  He was a professor of [[Egyptology]] and archeologist who discovered he had the ability to manipulate cosmic energy, mainly by absorbing it and projecting it as energy blasts. Deciding to use his powers for his own personal gain, Abdol created a cult around himself as messiah, the Cult of the Living Pharaoh, became a supervillain and set about his plan to rule the world.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=135}}</ref>
 
 Abdol discovered that another mutant, [[Havok (comics)|Havok]] (Alex Summers, brother to [[Cyclops (Marvel Comics)|Scott Summers]] also known as Cyclops) could absorb and project cosmic energy more easily than Abdol could. Abdol kidnapped Havok and used him to increase his power, and battled the [[X-Men]].<ref>''X-Men'' Vol. 1 #54-55</ref> He then first became the Living Monolith, and battled the X-Men in this form.<ref>''X-Men'' Vol. 1 #56-57</ref> He was then captured by the [[Sentinel (comics)|Sentinels]], but escaped.<ref>''X-Men'' Vol. 1 #58-60</ref>
 
@@ -81,3 +81,4 @@ Abdol has a gifted intellect, and is an expert archeologist and Egyptologist, wi
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics telepaths]]
+[[Category:X-Men supporting characters]]

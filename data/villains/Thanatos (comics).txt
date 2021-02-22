@@ -1,9 +1,9 @@
-#Redirect [[List of deities in Marvel Comics]]
+#Redirect [[Olympians (Marvel Comics)#Known members]]
 
 {{Rcat shell|
 {{R from fictional character|Marvel Comics}}
 {{R comics from merge}}
-{{R comics to list entry}}
+{{R comics to section}}
 }}
 
 [[Category:Comics characters introduced in 2010]]

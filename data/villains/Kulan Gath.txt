@@ -1,5 +1,8 @@
-{{Unreferenced|date=December 2009}}
-{{Notability|date=August 2018}}
+{{short description|Character by Robert E. Howard}}
+{{multiple issues|
+{{one source|date=April 2020}}
+{{Notability||date=August 2018}}
+}}
 {{Infobox comics character
 |image=
 |caption=
@@ -13,15 +16,15 @@
 |powers=Reality alteration, Immortality
 }}
 
-'''Kulan Gath''' is a fictional [[villain]]ous [[magic (paranormal)|magician]] appearing in [[American comic book]]s published by [[Marvel Comics]] and [[Dynamite Entertainment]]. The character was created as a foe of [[Conan the Barbarian]] and was later fully integrated into the [[Marvel Universe]] and in 2006 was used in [[Dynamite Entertainment]]'s revamped [[Red Sonja]] series.
+'''Kulan Gath''' is a fictional [[villain]]ous [[magic (paranormal)|magician]] appearing in [[American comic book]]s published by [[Marvel Comics]] and [[Dynamite Entertainment]]. The character first appeared in ''[[Conan the Barbarian (comics)|Conan the Barbarian]]'' #15 (May 1972) as a foe of Conan.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=208}}</ref> 
 
-The character's first appearance was in ''Conan the Barbarian'' No. 14 and No. 15. Despite not being owned by Marvel{{citation needed|date=May 2015}}, he has fought several of Marvel's modern-day [[superhero]]es, and was particularly made popular from his use in ''X-Men''.
+He was later fully integrated into the [[Marvel Universe]], and became popular for his appearances in ''X-Men''. In 2006, he was used in [[Dynamite Entertainment]]'s revamped ''[[Red Sonja]]'' series.
 
 == Fictional character biography ==
 ===Conan era===
 Kulan Gath was a sorcerer in Earth's Hyborian Era, the ancient time period in which Conan the Barbarian lived. At some point, he marries the witch Vammatar in an alliance to obtain the power of the demon [[Shuma-Gorath]]. He has an apprentice named Razal Gulath, and is an enemy of the immortal vampire-like [[Mutant (Marvel Comics)|mutant]] named [[Selene (comics)|Selene]]. In his first appearance, he seeks the power of the Melnibonéan sorceress Terhali, who had been exiled to Earth and placed in suspended animation; when Terhali awoke, she disintegrated Kulan Gath with a magical bolt of energy.
 
-This proves to be only a setback for Kulan Gath, as he had achieved effective immortality by placing his life energy into a magical amulet. He eventually regains his body, allied with Vammatar, and fought Conan and [[Red Sonja]]. Kulan Gath and his bride were apparently destroyed when they attempted to control the demon [[Shuma-Gorath]]. Kulan Gath returned again in the miniseries ''Conan: The Flame and the Fiend'', thanks to the efforts of his new wife, Armati, but he was decapitated by Conan. At some point, his body was restored, but his heart was cut out by Red Sonja; a silhouetted scene in ''Marvel Saga'' No. 1 suggests that this may have occurred with the assistance of Conan.
+This proves to be only a setback for Kulan Gath, as he had achieved effective immortality by placing his life energy into a magical amulet. He eventually regains his body, allied with Vammatar, and fought Conan and [[Red Sonja]]. Kulan Gath and his bride were apparently destroyed when they attempted to control the demon [[Shuma-Gorath]]. Kulan Gath returned again in the miniseries ''Conan: The Flame and the Fiend'', thanks to the efforts of his new wife, Armati, but he was killed by Conan. At some point, his body was restored, but his heart was cut out by Red Sonja; a silhouetted scene in ''Marvel Saga'' No. 1 suggests that this may have occurred with the assistance of Conan.
 
 ===Modern adventures===
 Millennia later, Kulan Gath returned to life in the modern world when the necklace that housed his essence turned up at a museum display in New York City. The necklace was donned by a night watchman; the sorcerer transformed the guard's body into a duplicate of his own, which he then possessed. He was defeated by Red Sonja, who had been temporarily reincarnated in the present day in the body of [[Mary Jane Watson]], and her newfound ally [[Spider-Man]]. Spider-Man later tossed the necklace off of a ferry bound for Staten Island, but it was found not long afterwards by a fisherman named Jaime Rodriquez; although Jaime resisted Kulan Gath, a mugger who subsequently killed him was considerably weaker in willpower, and when the mugger donned the necklace, he was possessed instantly and transformed by the wizard.

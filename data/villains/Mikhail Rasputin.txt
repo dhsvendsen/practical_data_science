@@ -12,7 +12,7 @@ image=[[Image:Mikhail Rasputin.jpg|238px]]
 |powers=Matter manipulation on the sub-atomic level<br />Superhuman Strength<br />Energy blasts<br />[[Teleportation|Portal Creation]]
 }}
 
-'''Mikhail Nikolaievitch Rasputin''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is the older brother of [[Colossus (comics)|Colossus]] of the [[X-Men]] and [[Magik (Illyana Rasputin)|Magik]] of the [[New Mutants]].
+'''Mikhail Nikolaievitch Rasputin''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is the older brother of [[Colossus (comics)|Colossus]] of the [[X-Men]] and [[Magik (Illyana Rasputin)|Magik]] of the [[New Mutants]]. He first appeared in ''[[Uncanny X-Men]]'' #284 (Jan 1992).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=290}}</ref>
 
 Rasputin is a [[Mutant (Marvel Comics)|mutant]] with substance-altering and [[Parallel universe (fiction)|dimension-hopping]] abilities. He was a [[Astronaut|Cosmonaut]] and the [[Russian Federal Space Agency]] tried to test his powers by sending him on a suicide mission. He was the only surviving member of his crew and returned to [[Earth]] mentally unbalanced, harboring a dangerous [[messiah complex]].
 
@@ -62,6 +62,7 @@ Rasputin abandoned North America and approached the Human High Council with an o
 * [http://www.marvel.com/universe/Rasputin,_Mikhail Mikhail Rasputin] at Marvel.com
 * [http://uncannyxmen.net/characters/rasputin-mikhail UncannyXmen.net Character Profile on Mikhail Rasputin]
 
+{{X-Men}}
 {{Grigori Rasputin in popular culture}}
 
 {{DEFAULTSORT:Rasputin, Mikhail}}
@@ -74,3 +75,4 @@ Rasputin abandoned North America and approached the Human High Council with an o
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]
+[[Category:X-Men supporting characters]]

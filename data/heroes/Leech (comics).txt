@@ -8,7 +8,7 @@
 | species = [[Mutant (Marvel Comics)|Human Mutant]]
 | publisher = [[Marvel Comics]]
 | debut = ''Uncanny X-Men'' #179 (March 1984)
-| creators = [[Chris Claremont]] <br />[[John Romita Jr]]
+| creators = [[Chris Claremont]] (writer)<br />[[John Romita Jr]] (artist)
 | alliances = {{Plain list | 
 * [[Future Foundation]]
 * [[Weapon X]]
@@ -20,7 +20,7 @@
 * [[Morlocks (comics)|Morlocks]]
 * [[Xavier Institute]]
 }}
-| aliases= The Cure
+| aliases= The Cure <br /> Kid Incredible
 | powers= Telekinesis
 | cat = super
 | subcat = Marvel Comics
@@ -33,7 +33,7 @@
 Leech made his first appearance in ''Uncanny X-Men'' as a [[Morlocks (comics)|Morlock]], a group of [[Mutant (Marvel Comics)|mutants]] whose deformities force them to live in the sewers under [[Manhattan]]. He is usually depicted as being around twelve years old (his exact age is unrevealed). He speaks in broken English and refers to himself in the third person.
 
 ==Publication history==
-Leech first appeared in ''Uncanny X-Men'' #179 (March 1984), and was created by [[Chris Claremont]].
+Leech first appeared in ''Uncanny X-Men'' #179 (March 1984), and was created by [[Chris Claremont]] and [[John Romita Jr]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=211}}</ref>
 
 Leech appeared as part of the "Morlocks" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #9.
 
@@ -68,7 +68,7 @@ When an exploding supervillain causes the general public to turn on superheroes,
 Leech and Artie Maddicks were invited to Franklin Richards's birthday, and as a gift, Franklin invited them to live with the Fantastic Four.<ref>''Fantastic Four'' #574</ref> The two are now in a special class with intelligent moloids, Alex Power (Zero-G) of the [[Power Pack]] and other gifted kids.<ref>''Fantastic Four'' #578</ref> It is later revealed that Leech's cancelling powers were the reason that Reed Richards wanted him to be with Franklin.<ref>''Fantastic Four'' #587</ref> Leech later joins Reed's new [[Future Foundation]] superhero team.{{issue|date=March 2013}}
 
 ==Powers and abilities==
-Leech can dampen or completely suppress, neutralize, and negate for an undetermined amount of time the powers and abilities of any superpowered beings within 50 feet of him.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref> His dampening ability in the beginning was involuntary and uncontrollable, but now his ability appears to be under his conscious control. Leech explained to [[Johnny Dee]] he could consciously bring his dampening field in close, so that persons are not dampened unless they touch him.<ref>''X-Men: The 198''</ref>
+Leech can dampen or completely suppress, neutralize, and negate for an undetermined amount of time the powers and abilities of any superpowered beings within 50 feet of him.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded}}</ref> His dampening ability in the beginning was involuntary and uncontrollable, but now his ability appears to be under his conscious control. Leech explained to [[Johnny Dee]] he could consciously bring his dampening field in close, so that persons are not dampened unless they touch him.<ref>''X-Men: The 198''</ref>
 
 Leech has also been shown to dampen abilities that are non-mutant in origin at times, like the Fantastic Four, Hazmat of the Avengers Academy,<ref>''Avengers Academy,'' #10</ref> and during Marvel's ''[[Mutant Massacre]]'' [[Crossover (fiction)|crossover]] event, Leech negated the powers of the superhero team [[Power Pack]], whose abilities were bestowed on them by an extraterrestrial.<ref>''Power Pack,'' vol. 1 #12 & #27</ref>
 
@@ -87,11 +87,11 @@ Leech was introduced to the [[Ultimate Marvel]] [[Multiverse (Marvel Comics)|Uni
 
 ===Television===
 * Leech appears in a few episodes of the ''[[X-Men (TV series)|X-Men Animated Series]]'', voiced by [[John Stocker (voice actor)|John Stocker]]. In addition to his power-dampening ability, he displays telekinesis. His most notable appearance was in the Christmas episode "Have Yourself a Morlock Little Christmas" where he needed a blood transfusion from Wolverine, temporarily granting him Wolverine's healing ability in order to fight off a disease.
-* Leech appears in the ''[[X-Men: Evolution]]'' episode titled "Uprising" voiced by Danny McKinnon. In this series, his name was '''Dorian Leach''', and he appeared fairly human with brown hair, only with pale, slightly greenish skin. His mutant ability releases an omni-directional pulse over an area at least the size of a city block. In addition to suppressing mutant abilities, it also nullifies all forms of energy, much like an [[electromagnetic pulse]]. The effect is temporary, seemingly fading after only one minute. In the episode, Leach's mother attempts to protect her son from being persecuted as a mutant, but is ultimately unsuccessful after a run-in with [[Spyke]] convinces the boy that he is a mutant despite his mother's insistence otherwise. Following Leach's first use of his power to protect Spyke, Professor X approaches his mother with an offer for Leach to join his school when she feels that he is ready. He has a non-speaking role in the season finale, when [[Rogue (comics)|Rogue]] absorbs his power/ability-neutralizing ability as part of a plan by Wolverine to beat [[Apocalypse (comics)|Apocalypse]]. Her use of the ability in the fight demonstrates that it can be used to restore mutant abilities as well as negate them, as well as being able to direct the pulse as the ability's possessor fit.
+* Leech appears in the ''[[X-Men: Evolution]]'' episode titled "Uprising" voiced by Danny McKinnon. In this series, his name was '''Dorian Leach''', and he appeared fairly human with brown hair, only with pale, slightly greenish skin. His mutant ability releases an omni-directional pulse over an area at least the size of a city block. In addition to suppressing mutant abilities, it also nullifies all forms of energy, much like an [[electromagnetic pulse]]. The lasting effects are temporary, mostly fading after only one minute. In the episode, Leach's mother attempts to protect her son from being persecuted as a mutant, but is ultimately unsuccessful after a run-in with [[Spyke]] convinces him the boy is a mutant despite his mother's insistence otherwise. Following Leach's first use of his power to protect Spyke, Professor X approaches his mother with an offer for Leach to join his school when she feels that he is ready. He has a non-speaking role in the season finale, when [[Rogue (comics)|Rogue]] absorbs his power/ability-neutralizing ability as part of a plan by Wolverine to beat [[Apocalypse (comics)|Apocalypse]]. Her use of the ability in the fight demonstrates that it can be used to restore mutant abilities as well as negate them, as well as being able to direct the pulse as the ability's possessor sees fit.
 
 ===Film===
-[[File:Leech (X-Men the Last Stand).jpg|right|thumb|200k|[[Kitty Pryde]] rescuing Leech as seen in ''[[X-Men: The Last Stand]]''.]]
-* Leech appears in ''[[X-Men: The Last Stand]]'', played by [[Cameron Bright]]. Leech (named '''Jimmy''' in the film, and code named Leech on a file handed to Beast) is a child but unlike the comics has no outward physical mutations aside from his absence of hair. His power automatically cancels the mutation of any mutant that is within a few feet of him, including reversing physical mutations such as [[Beast (comics)|Hank McCoy]]'s blue fur: when Hank reaches out to shake Jimmy's hand, his own hand loses its furry blue appearance; the mutation returns once he pulls it away. Leech plays a pivotal role in the film as the source of the "cure" for the mutant X-Gene, the cure being a sort of retroviral gene therapy using Leech's DNA, that permanently cancels the mutation of any mutant. [[Magneto (Marvel Comics)|Magneto]] plans to kill Leech, who is being kept at the facility at [[Alcatraz]], thus destroying the mutant cure (at that point they had no way of synthesizing the cure artificially) and effectively preserving the mutant species. Magneto and his newly expanded [[Brotherhood of Mutants]] attack the facility, which is defended by federal troops who are joined by the X-Men. During the battle, [[Juggernaut (comics)|Juggernaut]] is sent to kill Jimmy and [[Kitty Pryde]] races to save him. Juggernaut (who is also a mutant in the film) is defeated when Kitty uses Leech's nullification power against him, taunting him into charging at them head-on and then moving them both out of his way, causing him to knock himself out against a wall. Kitty and Jimmy then escape the building through the holes that Juggernaut smashed on his way in. Later, Jimmy is seen evacuating Alcatraz Island with the help of Pryde and [[Iceman (comics)|Bobby Drake]]. At the end of the film, Jimmy is seen as a member of the Xavier Institute with a full head of hair and is received by the new leader, [[Storm (Marvel Comics)|Storm]].
+[[File:Leech (X-Men the Last Stand).jpg|right|thumb|200px|[[Kitty Pryde]] rescuing Leech as seen in ''[[X-Men: The Last Stand]]''.]]
+* Leech appears in ''[[X-Men: The Last Stand]]'', played by [[Cameron Bright]]. Leech (named '''Jimmy''' in the film, and code named Leech on a file handed to Beast) is a child, however, unlike the comics, he speaks normal English and has no outward physical mutations, but he does have an absence of hair. His power automatically cancels the mutation of any mutant that comes within an area of only a few feet around him, even including reversing physical mutations such as [[Beast (comics)|Hank McCoy]]'s blue fur: when Hank reaches out to shake Jimmy's hand, his own hand loses its furry blue appearance; the mutation returns once he pulls it away. Leech plays a pivotal role in the film as the source of a newly-created "cure" for the mutant X-Gene, the cure being a sort of retroviral gene therapy using Leech's DNA, that permanently cancels the mutation of any mutant. [[Magneto (Marvel Comics)|Magneto]] plans to kill Leech, who is being kept at the cure-producing facility, set up in [[Alcatraz]], thus destroying the cure's source (as at that point, they were still working on finding a way to synthesize the cure artificially) and effectively preserving the mutant species. Magneto and his newly expanded [[Brotherhood of Mutants]] attack the facility, which is defended by federal troops before they are joined by the X-Men. During the X-Men's fight against the Brotherhood, [[Juggernaut (comics)|Juggernaut]] is sent in to kill Jimmy and [[Kitty Pryde]] races to save Jimmy from him. She reaches Leech before Juggernaut (who is also a mutant in the film), and defeats him by using Leech's nullification power against him, taunting him into charging right at them, and then moving them both out of his way as he comes close enough for his power to be canceled, causing him to knock himself out against a wall. Kitty and Jimmy then escape the building through the holes that Juggernaut smashed on his way in. Later, Jimmy is seen evacuating Alcatraz Island with the help of Pryde, and they receive further help from [[Iceman (comics)|Bobby Drake]]. At the end of the film, Jimmy is seen as a member of the Xavier Institute with a full head of hair and is received by the new leader, [[Storm (Marvel Comics)|Storm]].
 
 ==References==
 {{Reflist}}
@@ -101,9 +101,11 @@ Leech was introduced to the [[Ultimate Marvel]] [[Multiverse (Marvel Comics)|Uni
 * [https://web.archive.org/web/20051120061717/http://mutanthigh.com/leech.html Cerebro's Files: Leech]
 * {{comicbookdb|type=character|id=3594|title=Leech}}
 
-[[Category:Comics characters introduced in 1984]]
-[[Category:Marvel Comics superheroes]]
-[[Category:Fictional orphans]]
-[[Category:Marvel Comics mutants]]
-[[Category:Superhero film characters]]
 [[Category:Characters created by Chris Claremont]]
+[[Category:Comics characters introduced in 1984]]
+[[Category:Fictional illeists]]
+[[Category:Marvel Comics film characters]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics orphans]]
+[[Category:X-Factor (comics)]]

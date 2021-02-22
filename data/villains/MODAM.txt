@@ -1,3 +1,4 @@
+{{short description|Fictional character appearing in American comic books published by Marvel Comics}}
 {{distinguish|Modem|Modum}}
 {{more citations needed|date=December 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
@@ -40,7 +41,7 @@ MODAM is permanently encased within an exo-skeletal shell of life-supporting mac
 * [http://www.comicvine.com/modam/4005-25588/ MODAM] at Comic Vine
 
 {{Captain America}}
-{{Hank Pym}}
+{{Ant-Man and Wasp}}
 {{Portal bar|Speculative fiction|1980s}}
 
 [[Category:Characters created by Al Milgrom]]
@@ -49,5 +50,6 @@ MODAM is permanently encased within an exo-skeletal shell of life-supporting mac
 [[Category:Female supervillains]]
 [[Category:Fictional characters with precognition]]
 [[Category:Fictional cyborgs]]
+[[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]

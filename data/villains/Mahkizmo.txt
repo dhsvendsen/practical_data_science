@@ -18,16 +18,11 @@ image=
 He was created as an antagonist of [[Thundra]], herself a character meant to symbolize extreme [[feminism]].<ref>{{cite book
   | last = Robinson
   | first = Lillian S.
-  | authorlink = 
-  | coauthors = 
   | title = Wonder Women: Feminisms and Superheroes
   | publisher = Routledge
   | year = 2004
-  | location = 
   | pages = 103
   | url = https://books.google.com/books?id=nN8wvtMrmuIC&pg=PA103&dq=Mahkizmo&lr=&sig=S5zu-3nVZUXOe4VE93c9YK4l8Fw
-  | doi = 
-  | id = 
   | isbn = 0-415-96631-0}}</ref>
 
 Mahkizmo first appeared in ''Fantastic Four'' #151-153 (October–December 1974) and was created by [[Gerry Conway]] and [[Rich Buckler]].

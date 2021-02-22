@@ -1,8 +1,9 @@
 {{Use mdy dates|date=January 2015}}
+{{Multiple issues|
 {{refimprove|date=August 2016}}
 {{notability|date=July 2018}}
 {{In-universe|date=July 2018}}
-
+}}
 {{Superherobox| <!--Wikipedia:WikiProject Comics-->
 image=
 |caption=

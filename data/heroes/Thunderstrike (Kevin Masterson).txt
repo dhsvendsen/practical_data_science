@@ -3,8 +3,8 @@ image= ThunderstrikeHA.jpg
 |caption= Thunderstrike during the ''[[Heroic Age (comics)|Heroic Age]]''. Art by [[Ron Frenz]].
 |imagesize= <!-- numeral only, defaults to 250 -->
 |converted = y
-|character_name=Thunderstrike
-|real_name=Kevin "The" Masterson
+|character_name= Kevin Masterson
+|real_name=
 |publisher=[[Marvel Comics]]
 |debut=''[[Thor (Marvel Comics)|Thor]]'' vol. 1 #392 (June 1988) 
 |creators=[[Tom DeFalco]]<br>[[Ron Frenz]]
@@ -12,7 +12,7 @@ image= ThunderstrikeHA.jpg
 |aliases=
 |powers='''(MC2)'''<br>Superhuman strength and durability<br>Great leaping<br>Sonic blasts<br>Ability to shatter objects by touching them<br>'''(Earth-616)'''<br>Superhuman strength, speed, agility, durability, reflexes and endurance<br>'''Via Thunderstrike''':<br>Flight<br>Dimensional travel
 }}
-'''Kevin Masterson''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was first introduced as a supporting character in ''[[Thor (Marvel Comics)|Thor]]'' and appeared again in the [[Spin-off (media)|spin-off]] series ''[[Thunderstrike (Eric Masterson)|Thunderstrike]]'', as the son of Eric Masterson, the featured character of both series. Kevin Masterson was later re-introduced in the [[Marvel Comics 2|MC2]] series ''[[A-Next]]'', as the superhero '''[[Thunderstrike (comics)|Thunderstrike]]''', a theme which would be revisited in the [[Heroic Age (comics)|Heroic Age]] of Marvel Comics in the eponymous limited series.<ref>[http://insidepulse.com/2010/11/24/spoiler-warnings-new-thunderstrike-revealed-in-thunderstrike-1-by-tom-defalco/]</ref><ref>http://www.comicvine.com/news/comic-book-reviews-for-the-week-of-112410/142598/</ref>
+'''Kevin Masterson''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was first introduced as a supporting character in ''[[Thor (Marvel Comics)|Thor]]'' and appeared again in the [[Spin-off (media)|spin-off]] series ''[[Thunderstrike (Eric Masterson)|Thunderstrike]]'', as the son of Eric Masterson, the featured character of both series. Kevin Masterson was later re-introduced in the [[Marvel Comics 2]] series ''[[A-Next]]'', as the superhero '''[[Thunderstrike (comics)|Thunderstrike]]''', a theme which would be revisited in the [[Heroic Age (comics)|Heroic Age]] of Marvel Comics in the eponymous limited series.<ref>[http://insidepulse.com/2010/11/24/spoiler-warnings-new-thunderstrike-revealed-in-thunderstrike-1-by-tom-defalco/]</ref><ref>http://www.comicvine.com/news/comic-book-reviews-for-the-week-of-112410/142598/</ref>
 
 ==Publication history==
 Kevin Masterson was created by [[Tom DeFalco]] and [[Ron Frenz]], first appearing in ''Thor'' vol. 1 #392 in June 1988 as the son of the original hero known as Thunderstrike, Eric Masterson. He would continue to appear in a supporting role in ''Thor'' and spin-off series ''Thunderstrike''.

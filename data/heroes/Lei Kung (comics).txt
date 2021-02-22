@@ -13,7 +13,11 @@
 |}}
 '''Lei Kung the Thunderer''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. His notable pupils include [[Iron Fist (comics)|Iron Fist]] and his son [[Steel Serpent]].
 
-Lei Kung was portrayed by [[Hoon Lee]] in the [[Netflix]] television series ''[[Iron Fist (TV series)|Iron Fist]]'', set in the [[Marvel Cinematic Universe]].
+Lei Kung was portrayed by [[Hoon Lee]] in the [[Marvel Cinematic Universe]] [[Netflix]] television series ''[[Iron Fist (TV series)|Iron Fist]]'', set in the [[Marvel Cinematic Universe]].
+
+==Publication history==
+{{expand-section|date=April 2020}}
+The character first appeared in ''[[Marvel Premiere]]'' #16 (July 1974).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=212}}</ref>
 
 ==Fictional character biography==
 [[Yu-Ti]] apprenticed the young [[Iron Fist (comics)|Daniel Rand]] to Lei Kung the Thunderer, who teaches him the martial arts while in the mystical city of [[K'un-L'un]]. The [[Steel Serpent]] (the exiled son of Lei Kung) later becomes one of the adversaries of the Iron Fist as he coveted the Iron Fist power.<ref>''Marvel Premiere'' #15. Marvel Comics.</ref>
@@ -40,4 +44,5 @@ Lei Kung appears in the Netflix web series ''[[Iron Fist (TV series)|Iron Fist]]
 
 {{Iron Fist}}
 
+[[Category:Iron Fist (comics)]]
 [[Category:Marvel Comics superheroes]]

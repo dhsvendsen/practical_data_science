@@ -1,3 +1,4 @@
+{{short description|Comic book character}}
 {{In-universe|date=August 2018}}
 {{Notability|date=October 2018}}
 {{Infobox comics character
@@ -27,7 +28,7 @@
 }}
 '''Supernova''', also known as '''Nova Omega''' and '''Garthan Saal''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared as an antagonist in ''[[The Avengers (comic book)|Avengers]]'' vol 1 #301 in [[1988 in comics|1988]].
 
-As a Nova Corps officer, he was played by [[Peter Serafinowicz]] in the film in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]].''
+As a Nova Corps officer, he was played by [[Peter Serafinowicz]] in the [[Marvel Cinematic Universe]] 2014 film in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]].''
 
 ==Publication history==
 Supernova first appeared as the primary antagonist in ''[[The Avengers (comic book)|Avengers]]'' vol 1 #301-303. He later returned in ''[[New Warriors]]'' vol 1 and ''[[Nova (Richard Rider)|Nova]]'' vol 4.
@@ -59,7 +60,7 @@ During the ''[[Original Sin (comics)|Original Sin]]'' storyline, [[Nova (Sam Ale
 ==In other media==
 
 ===Film===
-* Saal appears in the 2014 film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]],'' portrayed by British actor [[Peter Serafinowicz]].<ref name="Serafinowicz">{{cite web| date=July 23, 2013 |first=Peter |last=Serafinowicz |authorlink=Peter Serafinowicz |title=Re Guardians, I'm a Nova Corps Officer with John C Reilly. |publisher=[[Twitter]] |url=https://twitter.com/serafinowicz/status/359740653015543810 |accessdate=July 23, 2013 |archivedate=June 25, 2014 |archiveurl=https://www.webcitation.org/6QbfftJto|url-status=live}}</ref><ref name="ComingSoonReview">{{cite web|url=http://www.comingsoon.net/news/reviewsnews.php?id=120857|title=Guardians of the Galaxy|last=Douglas|first=Edward|publisher=[[ComingSoon.net]]|date=July 24, 2014|accessdate=July 24, 2014|archiveurl=https://www.webcitation.org/6RJZgX833|archivedate=July 24, 2014|url-status=live}}</ref> In the film, he holds the rank of Denarian and reports to [[Irani Rael|Nova Prime Rael]] of [[Gamora]]'s capture. Saal is not corrupt with power like his comic book counterpart, but is stern and righteous with his position. He acts as commander of [[Nova Corps]]' fighter fleet, coordinating with [[Rocket Raccoon|Rocket]] and the Ravagers to protect the evacuation of Xandar and stall [[Ronan the Accuser|Ronan]]'s ship, the Dark Aster, while the remaining Guardians board. He is killed after Ronan uses the [[Infinity Stone]] to break Dark Aster through the shield Nova Corps had created.
+* Saal appears in the 2014 film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]],'' portrayed by British actor [[Peter Serafinowicz]].<ref name="Serafinowicz">{{cite web| date=July 23, 2013 |first=Peter |last=Serafinowicz |author-link=Peter Serafinowicz |title=Re Guardians, I'm a Nova Corps Officer with John C Reilly. |publisher=[[Twitter]] |url=https://twitter.com/serafinowicz/status/359740653015543810 |access-date=July 23, 2013 |archive-date=June 26, 2014 |archive-url=https://www.webcitation.org/6QbfftJto?url=https://twitter.com/serafinowicz/status/359740653015543810|url-status=live}}</ref><ref name="ComingSoonReview">{{cite web|url=http://www.comingsoon.net/news/reviewsnews.php?id=120857|title=Guardians of the Galaxy|last=Douglas|first=Edward|publisher=[[ComingSoon.net]]|date=July 24, 2014|access-date=July 24, 2014|archive-url=https://www.webcitation.org/6RJZgX833?url=http://www.comingsoon.net/news/reviewsnews.php?id=120857|archive-date=July 24, 2014|url-status=live}}</ref> In the film, he holds the rank of Denarian and reports to [[Irani Rael|Nova Prime Rael]] of [[Gamora]]'s capture. Saal is not corrupt with power like his comic book counterpart, but is stern and righteous with his position. He acts as commander of [[Nova Corps]]' fighter fleet, coordinating with [[Rocket Raccoon|Rocket]] and the Ravagers to protect the evacuation of Xandar and stall [[Ronan the Accuser|Ronan]]'s ship, the Dark Aster, while the remaining Guardians board. He is killed after Ronan uses the [[Infinity Stone]] to break Dark Aster through the shield Nova Corps had created.
 
 ==References==
 {{reflist}}

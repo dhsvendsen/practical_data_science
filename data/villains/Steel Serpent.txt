@@ -14,7 +14,6 @@
 | partners       = <!-- optional -->
 | supports       = <!-- optional -->
 | aliases        = Steel Phoenix
-| relatives      = [[Lei Kung (comics)|Lei Kung]] (father)
 | powers         = Master martial artist<br/>The power of the Serpent's Sting<br/>The ability to drain the power of the Iron Fist from its wielder
 | cat            = super
 | subcat         = Marvel Comics
@@ -26,7 +25,7 @@
 
 '''Steel Serpent''' ('''Davos''') is a fictional character, a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of [[Iron Fist (comics)|Iron Fist]].
 
-Davos was portrayed by [[Sacha Dhawan]] in the [[Netflix]] television series ''[[Iron Fist (TV series)|Iron Fist]]'', set in the [[Marvel Cinematic Universe]].
+Davos was portrayed by [[Sacha Dhawan]] in the [[Marvel Cinematic Universe]] [[Netflix]] television series ''[[Iron Fist (TV series)|Iron Fist]]''.
 
 ==Publication history==
 The first, otherwise unnamed, Steel Serpent appeared in ''[[The Deadly Hands of Kung Fu]]'' #10 (1974), his only appearance, and was created by [[Tony Isabella]] and [[Frank McLaughlin (artist)|Frank McLaughlin]].<ref>{{Marvunapp|http://www.marvunapp.com/Appendix/steelsp1.htm|Steel Serpent (unnamed)}}</ref>
@@ -81,5 +80,5 @@ Since taking on the [[Pseudonym#Noms de guerre|nom de guerre]] of the Steel Phoe
 [[Category:Characters created by Tony Isabella]]
 [[Category:Comics characters introduced in 1974]]
 [[Category:Comics characters introduced in 1975]]
+[[Category:Iron Fist (comics)]]
 [[Category:Marvel Comics martial artists]]
-[[Category:Marvel Comics television characters]]

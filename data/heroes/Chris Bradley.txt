@@ -20,14 +20,14 @@
 |hero=y
 |sortkey=Bradley, Chris
 }}
-'''Christopher Bradley''', formerly known as '''Bolt''' and '''Maverick''', is a [[fictional character|fictional]] character appearing in [[American comic book]]s published by [[Marvel Comics]], in particular those featuring the [[X-Men]]. He is a young [[Mutant (Marvel Comics)|mutant]] who first appeared in ''[[X-Men Unlimited]]'' #8.
+'''Christopher Bradley''', formerly known as '''Bolt''' and '''Maverick''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]], in particular those featuring the [[X-Men]]. He is a young [[Mutant (Marvel Comics)|mutant]] who first appeared in ''[[X-Men Unlimited]]'' #8.
 
 The character has appeared in several [[X-Men]] [[animation|animated series]] and was portrayed by [[Dominic Monaghan]] in the 2009 film ''[[X-Men Origins: Wolverine]]''.
 
 ==Fictional character biography==
 
 ===Legacy Virus===
-Chris Bradley was first introduced as a young boy who began suffering from increasingly painful headaches.  The headaches resulted from his electrical mutant powers, which manifested and grew out of control in the middle of a class at school, leaving him unconscious.  He was rescued by [[Jean Grey]] and [[Gambit (comics)|Gambit]], who had been sent by Professor Xavier to keep an eye on him and approach him should his powers reveal themselves.  After taking him home, the [[X-Men]] offered him training at the [[X-Mansion|Xavier Institute for Higher Learning]].  At first Chris was reluctant, but after being shunned by his best friend, agreed to join the school.
+Chris Bradley was first introduced as a young boy who began suffering from increasingly painful headaches.  The headaches resulted from his electrical mutant powers, which manifested and grew out of control in the middle of a class at school, leaving him unconscious.  He was rescued by [[Jean Grey]] and [[Gambit (Marvel Comics)|Gambit]], who had been sent by Professor Xavier to keep an eye on him and approach him should his powers reveal themselves.  After taking him home, the [[X-Men]] offered him training at the [[X-Mansion|Xavier Institute for Higher Learning]].  At first Chris was reluctant, but after being shunned by his best friend, agreed to join the school.
 
 Chris spent several weeks at the school, quickly developing close friendships with the X-Men, particularly [[Iceman (comics)|Iceman]], whose own youthful personality seemed to connect well with Chris'.  However, when the [[Beast (comics)|Beast]] ran a medical test on Chris, it was revealed that he was infected with the [[Legacy Virus]], which would eventually kill him.  Chris was afraid of what his future would hold, but Iceman and the other X-Men offered him aid should he ever need it.{{Issue|date=January 2010}}
 
@@ -48,7 +48,7 @@ Chris could absorb ambient charges of static electricity from the atmosphere and
 ==In other media==
 
 ===Film===
-* [[Dominic Monaghan]] plays Chris Bradley / Bolt in the 2009 film ''[[X-Men Origins: Wolverine]]''. Bradley is not mentored by [[David North (comics)|David North]], but is his teammate. Bradley is a part of [[Team X (comics)|Team X]], alongside [[Wolverine (character)|James Howlett]], [[Sabretooth (comics)|Victor Creed]], [[David North (comics)|Agent Zero]], [[Blob (comics)|Fred Dukes]], [[Kestrel (Marvel Comics)|John Wraith]] and [[Deadpool|Wade Wilson]], and is led by Major [[William Stryker]]. He has the ability to remotely control and power anything electric and in that capacity pilots the airplane that transports him and his teammates. He also has the ability to send and receive radio transmissions telepathically. Six years after the events in Africa, Bradley works in a circus in Springfield, Ohio. He is visited by Victor Creed, who kills him in his trailer causing all electronic hardware to shut down in the surrounding area. Bradley's electrical capabilities are later used for the mutant killer Weapon XI / Deadpool, specifically so that Stryker can completely control Deadpool from a computer. Bradley speaks with Monaghan's own English accent, which differs from the comics origin of the character as an American from [[Dutchess County, New York]].
+* [[Dominic Monaghan]] plays Chris Bradley in the 2009 film ''[[X-Men Origins: Wolverine]]''. Bradley is not mentored by [[David North (comics)|David North]], but is his teammate (Agent Zero). Bradley is a part of [[Team X (comics)|Team X]], alongside [[Wolverine (character)|Logan]], [[Sabretooth (comics)|Victor Creed]], [[David North (comics)|Agent Zero]], [[Blob (comics)|Fred Dukes]], [[Kestrel (Marvel Comics)|John Wraith]] and [[Deadpool|Wade Wilson]], and is led by Major [[William Stryker]]. He has the ability to remotely control and power anything electric and in that capacity pilots the airplane that transports him and his teammates. He also has the ability to send and receive radio transmissions telepathically. Six years after the events in Africa, Bradley works in a circus in Springfield, Ohio. He is visited by Victor Creed, who kills him in his trailer causing all electronic hardware to shut down in the surrounding area. Bradley's electrical capabilities are later used for the mutant killer Weapon XI / Deadpool, specifically so that Stryker can completely control Deadpool from a computer. Bradley speaks with Monaghan's own English accent, which differs from the comics origin of the character as an American from [[Dutchess County, New York]].
 * In the 2017 film ''[[Logan (film)|Logan]]'', a child named Bobby (portrayed by Bryant Tardy) is created by Transigen and has the powers of Chris Bradley because he is based on Bradley's genetic code. Bradley's name can also be seen on a document talking about Bobby.
 
 ===Video Games===
@@ -66,3 +66,4 @@ Chris could absorb ambient charges of static electricity from the atmosphere and
 [[Category:Superhero film characters]]
 [[Category:Fictional technopaths]]
 [[Category:Characters created by Howard Mackie]]
+[[Category:X-Men supporting characters]]

@@ -1,7 +1,7 @@
 '''Lucifer''' is the name of two unrelated fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. One is an alien supervillain of the [[X-Men]] and the other is a villain of [[Ghost Rider]] and is referred to as the Prince of Darkness.
 
 ==Publication history==
-The first Lucifer first appearance was in ''[[X-Men|The X-Men]]'' (Vol.1) #9 and was created by [[Stan Lee]] and [[Jack Kirby]]. He is an agent of the [[List of Marvel Comics alien races#Quists|Quists]], an alien race who are also known as the Arcane.
+The first Lucifer first appearance was in ''[[X-Men|The X-Men]]'' (Vol.1) #9 and was created by [[Stan Lee]] and [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=219}}</ref> He is an agent of the [[List of Marvel Comics alien races#Quists|Quists]], an alien race who are also known as the Arcane.
 
 ==Fictional character biography==
 ===Lucifer (Quists)===
@@ -18,11 +18,11 @@ The first Lucifer first appearance was in ''[[X-Men|The X-Men]]'' (Vol.1) #9 and
 |aliases=Agent One
 |powers=Telepathy<br>Ionic manipulation
 }}
-An [[extraterrestrial life|alien]], the being known as Lucifer was born on the planet Quistalium, in the Quistraa star system in the Milky Way Galaxy, who had invaded many worlds. He first came to Earth as an advance agent for the invasion of Earth by the Arcane (also known as the Quists), and succeeded in placing some humans under hypnotic control, allowing him to take control of a small area. This invasion, however, was foiled by the young Charles Xavier (later [[Professor X]], leader of the [[X-Men]]). In retaliation, Lucifer dropped an enormous stone block on Xavier, leaving his legs crippled so that he would need a wheelchair.
+An [[extraterrestrial life|alien]], the being known as Lucifer was born on the planet Quistalium, in the Quistraa star system in the Milky Way Galaxy, who had invaded many worlds. He first came to Earth as an advance agent for the invasion of Earth by the Arcane (also known as the Quists), and succeeded in placing some humans under hypnotic control, allowing him to take control of a small area. This invasion, however, was foiled by the young Charles Xavier (later [[Professor X]], leader of the [[X-Men]]). In retaliation, Lucifer dropped an enormous stone block on Xavier, leaving his legs paralyzed so that he would need a wheelchair.
 
 Lucifer made several later attempts to conquer Earth, all foiled by the X-Men or other heroes,{{issue|date=March 2013}} although one of his attempts did force the first X-Men team to confront the [[Avengers (comics)|Avengers]] due to a misunderstanding.<ref>''X-Men'' Vol. 1 #9</ref>
 
-Lucifer returned to Earth years after crippling Xavier, and battled Professor Xavier once again in the Balkan Mountains, where he revealed a device attached to his heart would set off a bomb if he was killed.<ref>''X-Men'' Vol. 1 #9</ref> Lucifer later manipulated the [[Blob (comics)|Blob]] and [[Unus the Untouchable|Unus]] into framing the X-Men as criminals. He revealed how he rendered Xavier a cripple years ago. He was thwarted by the X-Men who defeated his robot, and teleported from Earth by the Quistalian Supreme one for punishment.<ref>''X-Men'' Vol. 1 #20–21</ref>
+Lucifer returned to Earth years after paralyzing Xavier, and battled Professor Xavier once again in the Balkan Mountains, where he revealed a device attached to his heart would set off a bomb if he was killed.<ref>''X-Men'' Vol. 1 #9</ref> Lucifer later manipulated the [[Blob (comics)|Blob]] and [[Unus the Untouchable|Unus]] into framing the X-Men as criminals. He revealed how he rendered Xavier a paraplegic years ago. He was thwarted by the X-Men who defeated his robot, and teleported from Earth by the Quistalian Supreme one for punishment.<ref>''X-Men'' Vol. 1 #20–21</ref>
 
 Lucifer was exiled to an alternate realm known as the "Nameless Dimension". There, he somehow used "ionic energy" to give himself superhuman strength and the ability to project force beams from his hands, in addition to his apparently pre-existing telepathic powers.  He continued to try conquering Earth by using his "dimensional transmitter" to imbue humans with ionic energy and turning them into his minions. He first "fused" with Charlie Gray, although Gray fought and defeated Lucifer.<ref>''Iron Man'' #20</ref> Lucifer later fused simultaneously with criminal Rafe Michel and [[Aries (comics)#Grover Raymond|Aries]] of the [[Zodiac (comics)|Zodiac]] crime cartel. Michel and Aries fought [[Captain America]] and the [[Falcon (comics)|Falcon]]. Lucifer became trapped in the "Nameless Dimension" again when both hosts died.<ref>''Captain America and the Falcon'' #177–178</ref> Lucifer's masters ultimately apparently "terminated" him for his failures, and replaced him with the computer [[Dominus (Marvel Comics)|Dominus]].<ref>''West Coast Avengers'' Vol. 2 #24</ref>
 
@@ -39,7 +39,7 @@ Lucifer was exiled to an alternate realm known as the "Nameless Dimension". Ther
 
 '''Lucifer''' is a fictional character, a [[supervillain]] in [[Marvel Comics]] and mostly associated with [[Ghost Rider]].
 
-Lucifer possesses a vast array of powers, on a par with [[Mephisto (comics)|Mephisto]] or [[Thog (comics)|Thog]]. Deception, suggestion and manipulation are quite appealing to this creature, but he is not above tearing his opponents apart with his bare claws.
+Lucifer possesses a vast array of powers. Deception, suggestion and manipulation are quite appealing to this creature, but he is not above tearing his opponents apart with his bare claws.
 
 Lucifer has kept his true history mysterious throughout the years through deceit and deception. It is believed that he was once an angel who led other angels in banishing the N'Garai from Earth and led a group of followers in a rebellion against ''[[Gods (Marvel Comics)|God]]'' during the great war in Heaven, thus essentially representing the true "devil" in the Marvel Universe of Christian theology. Following his defeat, Lucifer and his lieutenants Beelzeboul, Kazann, Malachi, Pazuzu, Xaphan and others were all cast down to Hell as punishment. During this time, he became the demon known as the Prince of Lies, ruling a realm in Hell.<ref>''Marvel Previews'' #7</ref>
 
@@ -79,6 +79,7 @@ In the novel ''Shadows of the Past'' by [[Michael Jan Friedman]], the alien [[#L
 [[Category:Extraterrestrial supervillains]]
 [[Category:Mythology in Marvel Comics]]
 [[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics demons]]
 [[Category:Marvel Comics devils]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics telepaths]]

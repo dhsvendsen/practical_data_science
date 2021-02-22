@@ -16,7 +16,7 @@
 '''Gladiatrix''' ('''Robin Braxton''') is a fictional super [[heroine]] appearing in [[American comic book]]s published by [[Marvel Comics]], first introduced in 1986. She was created by [[Mike Carlin]] and [[Ron Wilson (comics)|Ron Wilson]] as a super strong professional wrestler and supervillain as part of [[the Grapplers]]. She later appeared in ''[[Captain America (comic book)|Captain America]]'' and featured in [[Civil War (comics)|Civil War]] siding with the anti-registration faction. 
 
 ==Publication history==
-Gladiatrix first appeared in ''[[Thing (comics)|Thing]]''  #33 ''(March 1986)'', and was created by [[Mike Carlin]] and [[Ron Wilson (comics)|Ron Wilson]].<ref name=Thing33/> She later appeared in several issues of the first [[Captain America]] volume, first in issue 352,<ref>''Captain America'' #352</ref> and later as part of the ''Superia Strategem''.<ref name=Superia>''Captain America'' #387–#392</ref> She was included as an "Anti-Registration" character in the 2006–07 [[fictional crossover|crossover]] storyline [[Civil War (comics)|Civil War]].<ref>''Civil War: Front Line'' #4''</ref> The Grapplers received an entry in the appendix of the first volume of the ''[[Official Handbook of the Marvel Universe]]'',<ref name=OHMUVol1-5>{{Cite comic | story =Appendix: The Grapplers | title = [[Official Handbook of the Marvel Universe]] | volume =1 | issue =5 | date = May 1983 | publisher =[[Marvel Comics]] | location =[[New York, NY]]}}</ref> and a full team entry in volume two with a section for Gladiatrix.<ref name=OHMUVol2-5>{{Cite comic | story =The Grapplers | title = [[Official Handbook of the Marvel Universe]] | volume =2 | issue =5 | date = April 1986 | publisher =[[Marvel Comics]] | location =[[New York, NY]]}}</ref>
+Gladiatrix first appeared in ''[[Thing (comics)|Thing]]''  #33 (March 1986), and was created by [[Mike Carlin]] and [[Ron Wilson (comics)|Ron Wilson]].<ref name=Thing33/> She later appeared in several issues of the first [[Captain America]] volume, first in issue 352,<ref>''Captain America'' #352</ref> and later as part of the ''Superia Strategem''.<ref name=Superia>''Captain America'' #387–#392</ref> She was included as an "Anti-Registration" character in the 2006–07 [[fictional crossover|crossover]] storyline [[Civil War (comics)|Civil War]].<ref>''Civil War: Front Line'' #4''</ref> The Grapplers received an entry in the appendix of the first volume of the ''[[Official Handbook of the Marvel Universe]]'',<ref name=OHMUVol1-5>{{Cite comic | story =Appendix: The Grapplers | title = [[Official Handbook of the Marvel Universe]] | volume =1 | issue =5 | date = May 1983 | publisher =[[Marvel Comics]] | location =[[New York, NY]]}}</ref> and a full team entry in volume two with a section for Gladiatrix.<ref name=OHMUVol2-5>{{Cite comic | story =The Grapplers | title = [[Official Handbook of the Marvel Universe]] | volume =2 | issue =5 | date = April 1986 | publisher =[[Marvel Comics]] | location =[[New York, NY]]}}</ref>
 
 ==Fictional character biography==
 Becoming a professional wrestler shortly after her youth, '''Robin Braxton''' has been fighting for her life ever since. She gained her current enhanced strength through an augmentation given by Power Broker INC. Shortly afterward she abandoned her life as a wrestler and became part of [[The Grapplers]].
@@ -48,8 +48,11 @@ A version of Gladiatrix appeared in ''World War Hulk'': Front Line issue 4, depi
 [[Category:Female supervillains]]
 [[Category:Fictional mercenaries]]
 [[Category:Fictional professional wrestlers]]
+[[Category:Fictional women soldiers and warriors]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics female supervillains]]
+[[Category:Marvel Comics martial artists]]<!--Wrestling is a martial art-->
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

@@ -11,19 +11,19 @@
 |aliases=Circus Master of Ceremonies; Martin Thraller
 |powers=Hypnotic mind control via device on his hat<br>Formerly:<br>Reality manipulation via cosmic powered ring
 |}}
-The '''Ringmaster''' is a [[fictional]] character, a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The best known Ringmaster in the Marvel Universe is '''Maynard Tiboldt''' who debuted in ''[[The Incredible Hulk (comic book)|Hulk]]'' #3.
+The '''Ringmaster''' is a [[fictional]] character, a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The best known Ringmaster in the Marvel Universe is '''Maynard Tiboldt''' who debuted in ''[[The Incredible Hulk (comic book)|Hulk]]'' #3, and is the leader of the [[Circus of Crime]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=299-300}}</ref>
 
 ==Publication history==
-A villain known as the Ringmaster of Death appeared in ''[[Captain America]] Comics'' #5 (Aug 1941).  This character also appeared much later in flashback in ''Captain America'' #112 (April 1969).
+A villain known as the Ringmaster of Death appeared in ''[[Captain America Comics]]'' #5 (Aug 1941).  This character also appeared much later in flashback in ''Captain America'' #112 (April 1969).
 
-The second Ringmaster is '''Maynard Tiboldt'''. Since his first appearance in ''[[Hulk]]'' #3, he has turned up as a somewhat pathetic and luckless opponent for virtually every hero in the Marvel universe, ranging from [[Spider-Man]] to [[Howard the Duck]]. He is a tall thin man who sports a [[Fu Manchu moustache]] and dresses in a green variation on the traditional circus [[ringmaster (circus)|ringmaster]] costume. Having acquired a hypnosis-wave generator originally created by the [[Red Skull]] and mounted said device in his costume's [[top hat]], the Ringmaster's usual scheme is to lead the self-titled "[[Circus of Crime]]" into a community and rob the local citizenry as they attend his circus. Nearly every appearance of the Ringmaster ends with him being thrown back into jail, having been defeated by his current foe.
+The second Ringmaster is '''Maynard Tiboldt'''. Since his first appearance in ''[[The Incredible Hulk (comic book)|Hulk]]'' #3, he has turned up as a somewhat pathetic and luckless opponent for virtually every hero in the Marvel universe, ranging from [[Spider-Man]] to [[Howard the Duck]]. He is a tall thin man who sports a [[Fu Manchu moustache]] and dresses in a green variation on the traditional circus [[ringmaster (circus)|ringmaster]] costume. Having acquired a hypnosis-wave generator originally created by the [[Red Skull]] and mounted said device in his costume's [[top hat]], the Ringmaster's usual scheme is to lead the self-titled "[[Circus of Crime]]" into a community and rob the local citizenry as they attend his circus. Nearly every appearance of the Ringmaster ends with him being thrown back into jail, having been defeated by his current foe.
 
 ==Fictional character biography==
 
 ===Fritz Tiboldt===
-The Ringmaster is a [[Nazi Party|Naz]]i agent, whose circus was a cover for murdering US government officials. He traveled with midget Tommy Thumb; snake charmer Omar; strongman [[List of Marvel Comics characters#Zandow|Zandow]] and the Trapeze Trio. After murdering a U.S. sergeant with a tiger, [[Captain America]] and [[Bucky Barnes|Bucky]] become suspicious of their activities. The Ringmaster kidnaps [[Golden Girl (Timely Comics)|Betsy Ross]] and the heroes trace him and his circus and defeat the foes.<ref>''Captain America Comics'' Vol. 1 5 #5</ref>
+The Ringmaster is a [[Nazi Party|Nazi]] agent, whose circus was a cover for murdering US government officials. He traveled with midget Tommy Thumb; snake charmer Omar; strongman [[List of Marvel Comics characters#Zandow|Zandow]] and the Trapeze Trio. After murdering a U.S. sergeant with a tiger, [[Captain America]] and [[Bucky Barnes|Bucky]] become suspicious of their activities. The Ringmaster kidnaps [[Golden Girl (Timely Comics)|Betsy Ross]] and the heroes trace him and his circus and defeat the foes.<ref>''Captain America Comics'' #5</ref>
 
-Later on Fritz, along with his wife, were killed by the Nazi's for their defeat at the hands of Captain America.<ref>''Marvel Two-In-One'' #76</ref> Following the introduction of Maynard Tiboldt, this character was revealed to be the later Ringmaster's father.<ref>''The Incredible Hulk'' Vol. 1 #3</ref>
+Later on Fritz, along with his wife, were killed by the Nazis for their defeat at the hands of Captain America.<ref>''Marvel Two-In-One'' #76</ref> Following the introduction of Maynard Tiboldt, this character was revealed to be the later Ringmaster's father.<ref>''The Incredible Hulk'' Vol. 1 #3</ref>
 
 ===Maynard Tiboldt===
 Maynard Tiboldt was born in [[Vienna, Austria]] to the original Ringmaster of Death Fritz Tiboldt, and his wife Lola. He inherited the Circus when his parents were murdered.
@@ -57,7 +57,7 @@ With the Cosmic Ring, Tiboldt gained the ability to alter reality in a {{convert
 
 ===Television===
 * Ringmaster appears in the Incredible Hulk segment of ''[[The Marvel Super Heroes]]''.
-* The Ringmaster appears in the 1980s ''[[Spider-Man (1981 TV series)|Spider-Man]]'' episode "Carnival of Crime," voiced by [[Stan Jones (actor)|Stan Jones]].<ref name="Voice">{{cite web|url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Ringmaster/|title=Voice of Ringmaster|website=Behind the Voice Actors|accessdate=May 17, 2018}}</ref>
+* The Ringmaster appears in the 1980s ''[[Spider-Man (1981 TV series)|Spider-Man]]'' episode "Carnival of Crime," voiced by [[Stan Jones (actor)|Stan Jones]].<ref name="Voice">{{cite web|url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Ringmaster/|title=Voice of Ringmaster|website=Behind the Voice Actors|access-date=May 17, 2018}}</ref>
 * Ringmaster is featured in the ''[[Avengers: United They Stand]]'' episode "Comes a Swordsman", voiced by Normand Bissonnette.<ref name="Voice" />
 * Ringmaster appears in ''[[The Super Hero Squad Show]]'' episodes "O Captain, My Captain" and "Mysterious Mayhem at Mutant Academy", voiced by [[Carlos Alazraqui]].<ref>[http://www.comicscontinuum.com/stories/0907/28/voices.htm Comics Continuum]</ref>
 * Ringmaster appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Crime and Circuses", voiced by [[Fred Tatasciore]].<ref name="Voice" /> Besides sporting his trademark top hat, Ringmaster wields flamethrower gloves, and can vanish in a cloud of smoke.
@@ -71,6 +71,7 @@ With the Cosmic Ring, Tiboldt gained the ability to alter reality in a {{convert
 
 ==External links==
 * [http://marvel.com/universe/Ringmaster_%28disambiguation%29 Ringmaster (disambiguation)] at Marvel.com
+{{Hulk}}
 {{Secret Avengers}}
 {{Stan Lee}}
 {{Jack Kirby}}

@@ -1,5 +1,11 @@
 {{Notability|date=August 2018}}
-<!-- Deleted image removed: [[Image:Tai.jpg|thumb|right|165px|Tai. Art by [[Mark Bagley]]]] -->
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|character_name=Tai
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #411 (Dec 1989)
+|creators=[[Tom Defalco]] (writer) and [[Ron Frenz]] (artist)
+|real_name= 
+|alliances = [[New Warriors]]}}
 '''Tai''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. A [[Cambodia]]n, Tai was something of a mentor for the [[New Warriors]] in the first 25 issues of their first series.
 
 ==Fictional character biography==

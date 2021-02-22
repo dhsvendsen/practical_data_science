@@ -1,6 +1,8 @@
+{{Multiple issues|
 {{Refimprove|date=December 2009}}
 {{Notability|date=August 2018}}
 {{In-universe|date=August 2018}}
+}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=
 |caption=
@@ -24,7 +26,7 @@ Having been isolated between the destruction and the experiments, she had not kn
 
 She joined the team,<ref>''Thunderbolts'' #4</ref> and eventually convinced most of the now-wavering former villains to become heroes.<ref>''Thunderbolts'' #11</ref> She went on the run with the team.<ref>''Thunderbolts'' #15-20</ref> before Hawkeye joined. At first she resented Hawkeye because he created civilian identities for Charcoal and Jolt and made them return to school but she later admitted that she respected him for having been where the Thunderbolts were and giving them that same chance to redeem themselves that he had been given.<ref>''Thunderbolts'' #27, #35</ref> Later she would be "killed" by [[Scourge of the Underworld|Scourge]].<ref>''Thunderbolts'' #34-35</ref> Revived by [[Fixer (comics)|Techno]], she could now become a being of pure electricity, but the damage from the time she spent "dead" left her crippled in her human form,<ref>''Thunderbolts'' #48</ref> although after much therapy, she fully recovered.<ref>''Thunderbolts'' #51</ref>
 
-After being stranded on [[Counter-Earth (comics)|Counter-Earth]] with most of the Thunderbolts, she chose to stay behind to help the devastated planet as one of the [[Young Allies]].<ref>''Thunderbolts'' #60-75</ref> However, Jolt made a brief return to Earth, in order to help both the Thunderbolts and Avengers to stop the out-of-control [[Moonstone (comics)|Moonstone]] (who had possessed two moonstones at the time and was losing control when she absorbed the Liberator's energies within her).<ref>''Avengers/Thunderbolts'' #5-6</ref>
+After being stranded on [[Counter-Earth (comics)|Counter-Earth]] with most of the Thunderbolts, she chose to stay behind to help the devastated planet as one of the [[Young Allies]].<ref>''Thunderbolts'' #60-75</ref> However, Jolt made a brief return to Earth, in order to help both the Thunderbolts and Avengers to stop the out-of-control [[Karla Sofen|Moonstone]] (who had possessed two moonstones at the time and was losing control when she absorbed the Liberator's energies within her).<ref>''Avengers/Thunderbolts'' #5-6</ref>
 
 At the time when Atlas was fighting Baron Helmut Zemo's third incarnation of the Masters of Evil, Jolt showed up to help Atlas fight the Masters of Evil.<ref>''Thunderbolts'' Vol. 3 #10</ref>
 
@@ -58,9 +60,7 @@ Jolt was part of a team of zombified Thunderbolts in ''[[Marvel Zombies: Dead Da
 
 {{DEFAULTSORT:Jolt (Comics)}}
 [[Category:Marvel Comics superheroes]]
-[[Category:Fictional American people of Japanese descent]]
 [[Category:Marvel Comics mutates]]
 [[Category:Characters created by Kurt Busiek]]
 [[Category:Characters created by Mark Bagley]]
-{{Thunderbolts}}
 [[Category:Marvel Comics female superheroes]]

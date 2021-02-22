@@ -1,4 +1,3 @@
-{{notability|date=June 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image=
 |caption=
@@ -6,7 +5,7 @@ image=
 |real_name=Ferdinand Lopez
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Captain America]]'' #302 (Feb 1985)
+|debut=''[[Captain America (comic book)|Captain America]]'' #302 (Feb 1985)
 |creators=[[Mike Carlin]]<br>[[Paul Neary]]
 |status=
 |alliances=[[Batroc the Leaper|Batroc's Brigade]]
@@ -16,8 +15,7 @@ image=
 |powers=Expert with bladed and throwing weapons<br>Experienced tactician<br>Wears Kevlar flak jacket<br>Possesses various weapons  
 }} 
 
-'''Machete''' is the name of a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Also known as '''Ferdinand Lopez''', the character has been a member of [[Batroc's Brigade]] and [[Doom's Brigade]].  He was also a former revolutionary of San Diablo in [[South America]]. He became a mercenary to finance a revolution but is reportedly killed by [[Everyman (Marvel Comics)|Zeitgeist]].  He first appeared in ''[[Captain America]]''  #302.
-
+'''Machete''' is the name of a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Also known as '''Ferdinand Lopez''', the character has been a member of [[Batroc's Brigade]] and Doom's Brigade.  He was also a former revolutionary of San Diablo in [[South America]]. He became a mercenary to finance a revolution but is reportedly killed by [[Everyman (Marvel Comics)|Zeitgeist]].  He first appeared in ''[[Captain America (comic book)|Captain America]]''  #302.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=196}}</ref>
 
 ==Fictional character biography==
 
@@ -31,7 +29,7 @@ Fernando's brothers, Alfonso and Mariano Lopez, have also each briefly taken on 
 
 Fernando Lopez is an athletic man with no superhuman powers. He is an expert with bladed weapons and the throwing of such weapons. He has extensive knowledge of guerilla warfare tactics.
 
-Machete wore a bulletproof Kevlar flak jacket with a variety of pockets and pouches for carrying various weapons, particularly throwing-knives. He wore custom-made combat boots with additional weapons pouches; the remainder of his costume consisted of conventional military surplus items. Machete carried a variety of specially manufactured weighted steel throwing knives, two three-foot machetes, and other items as necessary. Additionally, his costume's gloves were equipped with strong electromagnets to help him retrieve his weapons in case he was disarmed.
+Machete wore a bulletproof Kevlar flak jacket with a variety of pockets and pouches for carrying various weapons, particularly throwing-knives. He wore custom-made combat boots with additional weapons pouches; the remainder of his costume consisted of conventional military surplus items. Machete carried a variety of specially manufactured weighted steel throwing knives, two three-foot machetes, and other items as necessary. Additionally, his costume's gloves were equipped with strong electromagnets to help him retrieve his weapons in case he was disarmed.<ref>''Captain America'' Vol.1 #302 (February 1985)</ref>
 {{-}}
 
 ==Other versions==
@@ -39,7 +37,7 @@ Machete wore a bulletproof Kevlar flak jacket with a variety of pockets and pouc
 In this reality, Machete is a member of [[Shang-Chi]]'s Dragons criminal organization, alongside, [[Mantis (Marvel Comics)|Mantis]], [[Zaran]] and [[Swordsman (comics)|Swordsman]].<ref>''House of M: Avengers'' #2</ref>
 
 ==In other media==
-Machete appears in the video game ''[[Spider-Man and Captain America in Doctor Doom's Revenge]]'' (1989).
+Machete appears in the video game ''[[Spider-Man and Captain America in Doctor Doom's Revenge]]'' (1989).{{cn|date=May 2020}}
 
 ==References==
 {{reflist}}

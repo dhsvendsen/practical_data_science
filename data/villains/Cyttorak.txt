@@ -1,6 +1,8 @@
+{{Multiple issues|
 {{Notability|date=August 2018}}
 {{In-universe|date=August 2018}}
 {{All plot|date=August 2018}}
+}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image          = Cyttorak.jpg
 |caption        = Two of Cyttorak's manifestations
@@ -9,7 +11,7 @@
 |publisher      = [[Marvel Comics]]
 |debut          = '''(First mentioned)''':<br>''Strange Tales I'' #124 (September 1964)<br>'''(Actual appearance)''':<br>''Doctor Strange,Sorcerer Supreme'' #44 (August 1992)
 |creators       = [[Stan Lee]] (Writer)<br>[[Jack Kirby]] (Artist)<br>[[Alex Toth]]
-|species        = [[Gods (Marvel Comics)|Deity]]–[[Demons (Marvel Comics)|Demon]]
+|species        = [[Gods (Marvel Comics)|Deity]]
 |alliances      =
 |partners       = [[Octessence]]<br/>[[Juggernaut (comics)|Juggernaut]]
 |aliases        =
@@ -27,11 +29,11 @@ Approximately one thousand years ago, a gathering of eight great magical beings 
 
 At some point in the past, the great adept the [[Ancient One]] encountered and engaged in battle with Xorak near Cyttorak's temple.
 
-"Centuries ago" (possibly before or after the aforementioned battle between the Ancient One and Xorak), a group of renegade monks tried to summon Cyttorak but instead brought his "most destructive aspect" to Southeast Asia. An adept named Gomurr, who served as the apprentice to "one of the most disreputable conjurers on the continent" opposed this avatar of Cyttorak. Gomurr received the aid of Tar, his friendly rival, as well as an "Initiate of the Ebon Vein." Gomurr and Tar, collaborating, succeeded in forcing this aspect of Cyttorak within the [[Crimson Gem of Cyttorak]]. Tar later attained the title of the "Proctor of the [[Crimson Dawn]]", but Gomurr would later hold this office.
+"Centuries ago" (possibly before or after the aforementioned battle between the Ancient One and Xorak), a group of renegade monks tried to summon Cyttorak but instead brought his "most destructive aspect" to Southeast Asia. An adept named Gomurr, who served as the apprentice to "one of the most disreputable conjurers on the continent" opposed this avatar of Cyttorak. Gomurr received the aid of Tar, his friendly rival, as well as an "Initiate of the Ebon Vein". Gomurr and Tar, collaborating, succeeded in forcing this aspect of Cyttorak within the [[Crimson Gem of Cyttorak]]. Tar later attained the title of the "Proctor of the [[Crimson Dawn]]", but Gomurr would later hold this office.
 
 Cyttorak was last seen being released from a magical prison by [[Pete Wisdom]] during the [[Secret Invasion|Skrull invasion]] of Otherworld.
 
-Shortly after the ''[[Maximum Carnage (comics)|Maximum Carnage]]'' storyline, [[Spider-Man]] encountered two malevolent demons in the form of masks while investigating the ruins of [[Doctor Strange]]'s townhouse.<ref>''Spectacular Spider-Man'' #207</ref> Calling themselves the Screaming Masks of Cyttorak, they claimed to be [[familiar]]s of Cytorrak who fed on fear and anguish. The hero defeated them with the aid of the heroic vigilante Shroud, and trapped them in a block of cement; the hero claimed he would "bury it somewhere" until he found Strange, but they were not mentioned again.<ref>''Spectacular Spider-Man'' #208</ref>
+Shortly after the "[[Maximum Carnage (comics)|Maximum Carnage]]" storyline, [[Spider-Man]] encountered two malevolent demons in the form of masks while investigating the ruins of [[Doctor Strange]]'s townhouse.<ref>''Spectacular Spider-Man'' #207</ref> Calling themselves the Screaming Masks of Cyttorak, they claimed to be [[familiar]]s of Cytorrak who fed on fear and anguish. The hero defeated them with the aid of the heroic vigilante Shroud, and trapped them in a block of cement; the hero claimed he would "bury it somewhere" until he found Strange, but they were not mentioned again.<ref>''Spectacular Spider-Man'' #208</ref>
 
 During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Magik took herself, Colossus, and Kitty Pryde to the Crimson Cosmos to speak to Cyttorak. They inform Cyttorak that Juggernaut has been transformed into Kuurth: Breaker of Stone and is under the control of the [[Serpent (comics)|Serpent]]. [[Colossus (comics)|Colossus]] makes a bargain with Cyttorak to gain the power to stand against Kuurth.<ref>''Uncanny X-Men'' #542</ref> Cyttorak agrees to the terms and Colossus becomes the new avatar of the Juggernaut and is able to push Cain Marko back until Cain is summoned by the Serpent.<ref>''Uncanny X-Men'' #543</ref> Cyttorak later attended the Devil's Advocacy where he fiercely spoke out against the Serpent's actions on Earth where he took control of Cain Marko.<ref>''Journey Into Mystery'' #627</ref>
 
@@ -67,7 +69,7 @@ The entities behind the Wager of the Octessence decided to implement the creatio
 
 ===Third Avatar===
 ====Hongdo Park====
-Cyttorak granted the power and form of the Juggernaut to an unnamed youth, whom Cain knew. This child had attracted the attention of the X-Men by torturing animals. This new Juggernaut attacked Cain while he and the She-Hulk were enjoying the afterglow of sexual intercourse. Marko, who had only half of his original power fought with his brains instead of his brawn. Recognizing the kid, Cain thought of the Juggernaut persona as "an angry kid in a muscle suit."
+Cyttorak granted the power and form of the Juggernaut to an unnamed youth, whom Cain knew. This child had attracted the attention of the X-Men by torturing animals. This new Juggernaut attacked Cain while he and the She-Hulk were enjoying the afterglow of sexual intercourse. Marko, who had only half of his original power fought with his brains instead of his brawn. Recognizing the kid, Cain thought of the Juggernaut persona as "an angry kid in a muscle suit".
 
 In the "She-Hulk" series, it is shown that a piece of one of his gems was used to create a new creature from [[Man-Elephant]] calling itself Behemoth where he had an elephant-like appearance.
 
@@ -110,6 +112,6 @@ Other people who have gained powers from Cyttorak include the Skrull Jazinda, th
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Jack Kirby]]
-[[Category:Fictional male deities]]
+[[Category:Fictional gods]]
 [[Category:Marvel Comics demons]]
 [[Category:Marvel Comics principalities]]

@@ -1,28 +1,28 @@
 {{in-universe|date=June 2018}}
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-|image=Wild child.jpg
-|image_size=250
-|caption=Wild Child, art by [[Simone Bianchi (artist)|Simone Bianchi]].
-|character_name=Wild Child
-|real_name=Kyle Gibney
-|species=[[Mutant (Marvel Comics)|Human Mutant]]
-|publisher=[[Marvel Comics]]
-|debut=''[[Alpha Flight (comic book)|Alpha Flight]]'' #1 (Aug 1983) (cameo)<br>(full introduction) ''Alpha Flight'' #11
-|creators=[[John Byrne (comics)|John Byrne]]
-|alliances=[[Weapon X]]<br>[[Alpha Flight]]<br>[[X-Factor (comics)|X-Factor]]<br>[[Omega Flight]]<br>[[Gamma Flight]]
-|aliases= Weapon Omega,<ref>''Alpha Flight'' #102</ref> Wildheart<ref>''Alpha Flight'' #118</ref>
-|powers=<br>
-*Superhuman senses, speed, agility, reflexes, coordination, balance, endurance
-*Regenerative healing factor
-*Slowed aging process
-*Razor sharp claws and fangs
-*Olympic-level trained acrobat/gymnast, special ops-trained hand-to-hand fighter
-|}}
-'''Wild Child''' ('''Kyle Gibney''') alternately spelled '''Wildchild''' and also known as '''Weapon Omega''' and '''Wildheart''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has been active as both a [[superhero]] and a [[supervillain]].  He has been a member of [[Alpha Flight]], [[X-Factor (comics)|X-Factor]], and [[Weapon X]].
+{{Infobox comics character
+| image=Wild child.jpg
+| image_size=250
+| caption=Wild Child, art by [[Simone Bianchi (artist)|Simone Bianchi]].
+| character_name=Wild Child
+| real_name=Kyle Gibney
+| species=[[Mutant (Marvel Comics)|Human Mutant]]
+| publisher=[[Marvel Comics]]
+| debut=''[[Alpha Flight (comic book)|Alpha Flight]]'' #1 (Aug 1983) (cameo)<br>(full introduction) ''Alpha Flight'' #11
+| creators=[[John Byrne (comics)|John Byrne]]
+| alliances=[[Weapon X]]<br>[[Alpha Flight]]<br>[[X-Factor (comics)|X-Factor]]<br>[[Omega Flight]]<br>[[Gamma Flight]]
+| aliases= Weapon Omega,<ref>''Alpha Flight'' #102</ref> Wildheart<ref>''Alpha Flight'' #118</ref>
+| powers=
+* Superhuman senses, speed, agility, reflexes, coordination, balance, endurance
+* Regenerative healing factor
+* Slowed aging process
+* Razor sharp claws and fangs
+* Olympic-level trained acrobat/gymnast, special ops-trained hand-to-hand fighter
+}}
+'''Wild Child''' ('''Kyle Gibney''') alternately spelled '''Wildchild''' and also known as '''Weapon Omega''' and '''Wildheart''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has been depicted as both a [[superhero]] and a [[supervillain]], and as a member of [[Alpha Flight]], [[X-Factor (comics)|X-Factor]] and [[Weapon X]].
 
 ==Publication history==
 {{Expand section|date=December 2012}}
-He was created by [[John Byrne (comics)|John Byrne]] and appeared in a [[cameo appearance]] in ''[[Alpha Flight (comic book)|Alpha Flight]]'' #1, but he did not appear in full until ''Alpha Flight'' #11.
+He was created by [[John Byrne (comics)|John Byrne]] and appeared in a [[cameo appearance]] in ''[[Alpha Flight (comic book)|Alpha Flight]]'' #1 (Aug 1983),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=408}}</ref> but he did not appear in full until ''Alpha Flight'' #11.
 
 ==Fictional character biography==
 '''Kyle Gibney''' is a [[Mutant (Marvel Comics)|mutant]] who manifested a [[feral]] mutation during [[puberty]]; this mutation granted him enhanced physical abilities and an increased rate of regeneration. He also suffered from a bestial freakish appearance, which prompted his parents to throw him out of their house. Living on the streets, he was kidnapped by the conspiratorial [[Secret Empire (organization)|Secret Empire]] and subjected to mind- and body-altering experiments. The experiments had the consequence of making him psychologically unstable, and in particular prone to violent and animalistic behavior. During this time, he became acquainted with Dr. [[Valerie Cooper]], a [[United States]] government official who was unaware of the Secret Empire's true nature or activities. He was freed by [[Wyre (comics)|Wyre]], the man who had unwittingly been the source for the genetic material that was used in the Empire's experiments.
@@ -61,7 +61,7 @@ Wild Child has since been returned to the ''Age of Apocalypse'' timeline as he i
 In the ''[[House of M]]'' reality, Wild Child (alongside [[Arclight (comics)|Arclight]] and [[Mentallo]]) is a Red Guard member positioned in Australia to serve Exodus.<ref>''Hulk: Broken Worlds'' #1</ref>
 
 ===Mutant X===
-In the ''[[Mutant X (comics)|Mutant X]]'' alternate reality, Wild Child roams the wilds of Canada, feral, along with that reality's version of Sabretooth and Wolverine, both as feral as he. They operated under the name "The Pack." For a time, the hero known as [[Alternative versions of Beast#Mutant X|the Brute]] ran with them.<ref>''Mutant X'' #3</ref>
+In the ''[[Mutant X (comics)|Mutant X]]'' alternate reality, Wild Child roams the wilds of Canada, feral, along with that reality's version of Sabretooth and Wolverine, both as feral as he. They operated under the name "The Pack." For a time, the hero known as [[Beast (comics)|the Brute]] ran with them.<ref>''Mutant X'' #3</ref>
 
 ===Weapon X: Days of Future Now===
 Kyle is still a part of the splinter group of Weapon X, run by Brent Jackson.<ref>''Weapon X: Days of Future Past'' #1–5</ref>
@@ -78,10 +78,10 @@ The [[Ultimate Marvel]] version of Wild Child appears in ''Ultimate Comics: Wolv
 The Age of Apocalypse version of Wild Child was also made into a non-posable figure pack-in with Sabertooth for the Age of Apocalypse toyline manufactured by ToyBiz.
 
 ==References==
-{{reflist|2}}
+{{Reflist}}
 
 ==External links==
-* [http://www.alphaflight.net/alphanex/index.php?title=Wild_Child '''AlphaFlight.Net''' Alphanex Entry on Wild Child]
+* [http://www.alphaflight.net/alphanex/index.php?title=Wild_Child AlphaFlight.Net Alphanex Entry on Wild Child]
 * [http://marvel.com/universe/Wild_Child Wild Child] at Marvel.com
 * [http://uncannyxmen.net/characters/wild-child UncannyXmen.net Spotlight on Wild Child]
 
@@ -99,3 +99,4 @@ The Age of Apocalypse version of Wild Child was also made into a non-posable fig
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Wolverine characters]]
+[[Category:X-Factor (comics)]]

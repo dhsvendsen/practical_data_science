@@ -1,5 +1,5 @@
 {{refimprove|date=August 2016}}
-
+{{Lead too short|date=December 2020}}
 The '''Doombots''' are fictional [[robot]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==History==
@@ -11,7 +11,7 @@ The Doombots were present when Doctor Doom empowered three criminals to be the T
 
 During his plan to drive Doctor Doom out of Latveria, Prince Rudolfo has a woman named Ramona (who resembles Doctor Doom's childhood love Valeria) be picked up by a patrolling Doombot. Following the Doomsman that Doctor Doom had created coming to life, Doctor Doom sends the Doombots to deal with Prince Rudolfo and his men.<ref>''Astonishing Tales'' #1</ref>
 
-A Doombot in the form of Doctor Doom captured [[Arcade (Marvel Comics)|Arcade]] and the families of the X-Men so that the X-Men can come after Arcade. This caused the X-Men's Team 1 (consisting of [[Warren Worthington III|Angel]], [[Colossus (comics)|Colossus]], [[Nightcrawler (comics)|Nightcrawler]], [[Storm (Marvel Comics)|Storm]], [[Wolverine (character)|Wolverine]]) to go after Doctor Doom while [[Banshee (comics)|Banshee]], [[Havok (comics)|Havok]], [[Iceman (comics)|Iceman]], and [[Polaris (comics)|Polaris]] head to Murderworld to rescue the captive parents. This turned out to be a trap for Team 1 since the Doombot is actually in an alliance with Arcade.<ref>''Uncanny X-Men'' #145</ref> Arcade and the Doombot have designed the traps that the captive X-Men members are placed in. The captive family members at Murderworld turn out to be robots that attacks the X-Men members that were sent there.<ref>''Uncanny X-Men'' #146</ref> When Storm becomes one with the planet, she attacks the Doombot<ref>''Uncanny X-Men'' #147</ref>
+A Doombot in the form of Doctor Doom captured [[Arcade (Marvel Comics)|Arcade]] and the families of the X-Men so that the X-Men can come after Arcade. This caused the X-Men's Team 1 (consisting of [[Warren Worthington III|Angel]], [[Colossus (comics)|Colossus]], [[Nightcrawler (comics)|Nightcrawler]], [[Storm (Marvel Comics)|Storm]], [[Wolverine (character)|Wolverine]]) to go after Doctor Doom while [[Banshee (comics)|Banshee]], [[Havok (comics)|Havok]], [[Iceman (comics)|Iceman]], and [[Polaris (Marvel Comics)|Polaris]] head to Murderworld to rescue the captive parents. This turned out to be a trap for Team 1 since the Doombot is actually in an alliance with Arcade.<ref>''Uncanny X-Men'' #145</ref> Arcade and the Doombot have designed the traps that the captive X-Men members are placed in. The captive family members at Murderworld turn out to be robots that attacks the X-Men members that were sent there.<ref>''Uncanny X-Men'' #146</ref> When Storm becomes one with the planet, she attacks the Doombot<ref>''Uncanny X-Men'' #147</ref>
 
 [[Puppet Master (Marvel Comics)|Puppet Master]] later makes a doll of Doctor Doom as he controls Doctor Doom into sending his Doombots to attack the Fantastic Four.<ref>''Fantastic Four'' #246</ref>
 
@@ -80,6 +80,7 @@ There were different models of the Doombots:
 * The Doombots appear in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Days of Future Smash: The Dino Era". They are seen in the Latverian embassy guarding it while Doctor Doom is away. The Agents of S.M.A.S.H. fight through the Doombots at the time when Leader infiltrates the Latverian embassy to get to Doctor Doom's experimental time belts.
 
 ===Video games===
+* The Doombots appear in ''[[Fantastic Four (2005 video game)|Fantastic Four]]''.
 * The Doombots appear in ''[[Marvel: Ultimate Alliance]]''.
 * The Doombots appear in ''[[Marvel Super Hero Squad (video game)|Marvel Super Hero Squad]]''.
 * The Doombots appear in ''[[Marvel: Avengers Alliance]]''.
@@ -100,3 +101,4 @@ There were different models of the Doombots:
 {{Stan Lee}}
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics robots]]
+[[Category:Doctor Doom]]

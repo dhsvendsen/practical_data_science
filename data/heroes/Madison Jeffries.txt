@@ -5,7 +5,7 @@
 {{Long plot|date=August 2018}}
 }}
 {{Superherobox|<!--Wikipedia:WikiProject Comics-->
-|[[File:Madison Jeffries.jpg|thumb]]
+|image = 
 |caption=
 |character_name=Madison Jeffries
 |real_name=Madison Jeffries

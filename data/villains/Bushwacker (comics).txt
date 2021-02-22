@@ -1,6 +1,6 @@
 {{short description|Fictional comic book character}}
 {{Other uses|Bushwhackers (disambiguation)}}
-{{Merge to|List of Marvel Comics characters: B|discuss=Talk:List of Marvel Comics characters: B#Proposed merge with Bushwacker (comics)|date=January 2020}}
+
 {{Primary sources|date=February 2008}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name=Bushwacker
@@ -67,7 +67,7 @@ Bushwacker appeared in the [[House of M]] reality spin-off ''House of M: Masters
 ===Video games===
 * In the 1993 ''[[The Punisher (1993 video game)|The Punisher]]'' arcade game, Bushwacker is working for the [[Kingpin (character)|Kingpin]].{{cn|date=September 2016}}
 * Bushwacker is a boss in the 2004 video game ''[[The Punisher (2004 video game)|The Punisher]]'', voiced by [[Phil Hayes (actor)|Phil Hayes]]. In this game, Bushwacker is a familiar foe to the Punisher, and works for [[Ma Gnucci|Gnucci family]].
-* Bushwacker is one of several playable characters in the [[PlayStation 3]] downloadable game ''[[The Punisher: No Mercy]]''.<ref>{{Cite web | url=http://www.giantbomb.com/quick-look-the-punisher-no-mercy/17-992/ | title=Quick Look: ''The Punisher: No Mercy'' | work=Giant Bomb | accessdate=2011-02-06}}</ref>
+* Bushwacker is one of several playable characters in the [[PlayStation 3]] downloadable game ''[[The Punisher: No Mercy]]''.<ref>{{Cite web | url=http://www.giantbomb.com/quick-look-the-punisher-no-mercy/17-992/ | title=Quick Look: ''The Punisher: No Mercy'' | work=Giant Bomb | access-date=2011-02-06}}</ref>
 
 ==References==
 {{Reflist|2}}

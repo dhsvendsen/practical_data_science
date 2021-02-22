@@ -1,12 +1,11 @@
 {{short description|Fictional comic book villains}}
-{{refimprove|date=February 2019}}
 {{Infobox comics organization| <!--Wikipedia:WikiProject Comics-->
 |image= <!-- "filename format only -->
 |imagesize= <!-- numeral only, defaults to 250 -->
 |caption= 
 |name= Hammer and Anvil
 |publisher= [[Marvel Comics]]
-|debut=''[[The Incredible Hulk (comic book)|Hulk]]'' #182, (December 1974) 
+|debut=''[[The Incredible Hulk (comic book)|Hulk]]'' #182 (December 1974) 
 |creators=[[Len Wein]] (writer)<br>[[Herb Trimpe]]  (artist)
 |base= Deterrence Research Corporation
 |members=Hammer<br>Anvil
@@ -15,7 +14,10 @@
 |villain= y
 }}
 
-'''Hammer and Anvil''' are [[Character (arts)|fictional]] [[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. They first appeared in ''[[The Incredible Hulk (comic book)|Hulk]]'' #182, (December 1974), and were created by [[Len Wein]] and [[Herb Trimpe]].
+'''Hammer and Anvil''' are [[Character (arts)|fictional]] [[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. 
+
+==Publication history==
+They first appeared in ''[[The Incredible Hulk (comic book)|Hulk]]'' #182 (December 1974), and were created by [[Len Wein]] and [[Herb Trimpe]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=153}}</ref>
 
 ==Fictional character biographies==
 '''Leroy "Hammer" Jackson''' was an African-American prisoner said to hate everyone and everything. As part of a chain gang, he was chained to a white racist named '''Johnny Anvil'''. The pair's hatred of prison, however, was stronger than their hate for each other and they succeeded in escaping the chain gang while still chained together. Hammer stole a .38 handgun from a guard. When the two encountered an alien who had crashed on Earth, Hammer tried to kill it but inadvertently saved the creature's life instead; it fed on metal, and used the bullets fired at it to regenerate. The alien wanted to thank them, and replaced the chain linking them with a device that granted them superhuman powers. The two returned to prison seeking revenge, but wound up battling the [[Hulk]] instead.<ref>''Hulk'' #182</ref>

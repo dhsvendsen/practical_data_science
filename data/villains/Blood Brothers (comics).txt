@@ -51,11 +51,11 @@ Each Blood Brother's tremendous strength and durability is dependent on his prox
 
 ==External links==
 * [http://marvel.com/universe/Blood_Brothers Blood Brothers] at Marvel.com
-* [http://marvel.wikia.com/wiki/Blood_Brothers_%28Earth-616%29 Blood Brothers] at Marvel Wiki
+* [https://web.archive.org/web/20180509004349/http://marvel.wikia.com/wiki/Blood_Brothers_(Earth-616) Blood Brothers] at Marvel Wiki
 * {{comicbookdb|type=character|id=3518|title=Blood Brother(s)}}
 
 {{Iron Man}}
-{{Avengers}}
+{{Avengers characters}}
 {{Marvel Cosmic}}
 {{Jim Starlin}}
 

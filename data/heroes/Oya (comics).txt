@@ -1,5 +1,4 @@
 {{Hatnote|For the female deity in Yoruba mythology see [[Oya]].}}
-{{Notability|date=August 2018}}
 {{Infobox comics character  <!--Part of Wikipedia:WikiProject Comics-->
 |character_name=Oya
 |image=[[File:XMEN Oya.jpg]]
@@ -46,11 +45,10 @@ Idie has the mutant power of temperature manipulation.  This power allows her to
 {{Reflist}}
 {{Portal bar|Speculative fiction|Comics}}
 
-[[Category:Comics characters introduced in 2010]]
-[[Category:Female characters in comics]]
 [[Category:African-American superheroes]]
-[[Category:Fictional Nigerian people]]
+[[Category:Comics characters introduced in 2010]]
 [[Category:Fictional characters with fire or heat abilities]]
 [[Category:Fictional characters with ice or cold abilities]]
-[[Category:Marvel Comics mutants]]
+[[Category:Fictional Nigerian people]]
 [[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics mutants]]

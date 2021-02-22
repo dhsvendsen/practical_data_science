@@ -1,7 +1,3 @@
-{{multiple issues|
-{{Notability|date=August 2018}}
-{{In-universe|date=August 2018}}
-}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Bloodstone
@@ -35,7 +31,7 @@
 '''Bloodstone''' ('''Cullen Bloodstone''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Bloodstone first appeared in issue #1 of the ''[[Avengers Arena]]'' series as part of the ''[[Marvel NOW!]]'' event, and was created by [[Dennis Hopeless]] and [[Kev Walker]].
+Bloodstone first appeared in issue #1 of the ''[[Avengers Arena]]'' series as part of the ''[[Marvel NOW!]]'' event, and was created by [[Dennis Hopeless]] and [[Kev Walker]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=59}}</ref>
 
 Cullen Bloodstone appears as one of the main characters in ''[[Avengers Undercover]]'' beginning in 2014.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=48419 |title=NYCC EXCLUSIVE: HOPELESS IS SEDUCED BY EVIL IN "AVENGERS UNDERCOVER" |publisher=Comicbookresources.com |date=2013-10-11 |accessdate=2013-10-12}}</ref>
 
@@ -68,4 +64,6 @@ Cullen has shown a high degree of marksmanship with firearms.
 [[Category:Characters created by Kev Walker]]
 [[Category:Comics characters introduced in 2012]]
 [[Category:LGBT superheroes]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics LGBT superheroes]]
 [[Category:Marvel Comics superheroes]]

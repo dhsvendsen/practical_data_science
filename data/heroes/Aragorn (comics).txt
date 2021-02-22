@@ -1,3 +1,5 @@
+{{Short description|Fictional character appearing in American comic books published by Marvel Comics}}
+
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 |image=ValkyrieDefenders4.jpg
 |image_size=200
@@ -36,16 +38,6 @@ When [[Kraven the Hunter]]'s son [[Kraven the Hunter (Alyosha Kravinoff)|Alyosha
 ==Powers and abilities==
 Aragorn was a normal horse until [[Black Knight (Dane Whitman)|Dane Whitman]] used [[Black Knight (Nathan Garrett)|Nathan Garrett]]'s techniques to give him large, fully feathered wings that allow him to fly. He is an experienced battle steed on land and aloft. Aragorn's enhanced intelligence gives him an excellent rapport with both the [[Valkyrie (Marvel Comics)|Valkyrie]] and Dane Whitman, enabling him to understand and obey complex commands.
 
-==In other media==
-===Television===
-* The Vatican Black Knight's Aragorn appears in the ''[[Black Panther (TV series)|Black Panther]]'' TV series. The Vatican Black Knight rides Aragorn during Klaw's invasion of Wakanda.
-
-===Film===
-* Aragorn appears in a few scenes in the direct-to-video animated film ''[[Hulk Vs]]'' during the "Hulk vs Thor" segment. As in the comics, he appears as Valkyrie's steed, who leads the [[Asgardians (Marvel Universe)|Asgardian]] warriors to protect [[Odin (comics)|Odin]] from the Hulk's rampage.
-
-===Video games===
-* Aragorn appears in ''[[Marvel: Avengers Alliance]]''. He can be summoned as part of Valkyrie's "Flight of Valkyrie" attack.
-
 ==References==
 {{reflist|3}}
 
@@ -54,6 +46,7 @@ Aragorn was a normal horse until [[Black Knight (Dane Whitman)|Dane Whitman]] us
 * [http://marvel.wikia.com/Aragorn_%28Vatican%27s_Black_Knight%29_%28Earth-616%29 Vatican Black Knight's Aragorn] at Marvel Wiki
 * [http://www.comicvine.com/aragorn/4005-6810/ Aragorn] at Comic Vine
 
+{{Defenders}}
 {{Thor}}
 
 [[Category:Characters created by Roy Thomas]]

@@ -10,8 +10,8 @@
 |debut=''Free Comic Book Day 2016 Civil War II'' (July, 2016)
 |creators=[[Mark Waid]] (writer)<br>[[Alan Davis]] (artist)
 |aliases=The Wasp<br>Nadia Pym
-|partners = [[Wasp (comics)|Wasp (Janet van Dyne)]]
-|alliances=[[Avengers (comics)|Avengers]]<br>[[All-New, All-Different Avengers]]<br>[[Champions (2016 team)|Champions]]
+|partners = [[Wasp (comics)|Wasp (Janet van Dyne)]]<br>[[Scott Lang|Ant-Man (Scott Lang)]]
+|alliances=[[Avengers (comics)|Avengers]]<br>[[All-New, All-Different Avengers]]<br>[[Champions (2016 team)|Champions]]<br>[[G.I.R.L.]]
 |powers=
 * Size manipulation
 * Flight
@@ -19,11 +19,13 @@
 * Telepathic insect control
 }}
 
-'''Nadia van Dyne''' is a [[fictional character]] appearing in [[American comic book|American comic books]] published by [[Marvel Comics]]. Created by [[Mark Waid]] and [[Alan Davis]], the character first appeared in ''Free Comic Book Day 2016 Civil War II'' (July 2016).
+'''Nadia van Dyne''' is a fictional [[superhero]] appearing in [[American comic book|American comic books]] published by [[Marvel Comics]]. Created by [[Mark Waid]] and [[Alan Davis]], the character first appeared in ''Free Comic Book Day 2016 Civil War II'' (July 2016).
 
 ==Publication history==
 {{expand section|date=June 2018}}
-Nadia van Dyne is the Marvel Comics version of the [[Hope van Dyne]] seen in the Marvel Cinematic Universe and briefly had her own comic, ''The Unstoppable Wasp'', but it was cancelled after eight issues for low sales. A second series with the same title debuted in October 2018. This second series was, in turn, cancelled after ten issues.<ref>https://www.bleedingcool.com/2019/05/14/unstoppable-wasp-canceled-after-issue-10-but-is-it-goodbye-or-so-long-for-now/</ref>
+Nadia van Dyne is the Marvel Comics version of the [[Hope van Dyne]] seen in the Marvel Cinematic Universe and briefly had her own comic, ''The Unstoppable Wasp'', but it was cancelled after eight issues for low sales. A second series with the same title debuted in October 2018. This second series was, in turn, cancelled after ten issues.<ref>https://www.bleedingcool.com/2019/05/14/unstoppable-wasp-canceled-after-issue-10-but-is-it-goodbye-or-so-long-for-now/</ref> She also had a 5 issues limited series with [[Scott Lang|Ant-Man]] in 2018.
+
+In May 2020 Disney Books published a young adult novel written by [[Sam Maggs]] titled The Unstoppable Wasp: Built On Hope
 
 ==Fictional character biography==
 Nadia is the child of [[Hank Pym]] and his first wife, Maria Trovaya, who was abducted and supposedly killed by foreign agents. Nadia was raised in the [[Red Room (comics)|Red Room]] until she obtained a Pym Particle sample and escaped.<ref name="Nadia">''All-New, All-Different Avengers'' #9</ref> Initially intending to meet her father, Nadia learns that he is more or less dead, and instead uses parts of his costume and other materials to create a Wasp suit,<ref>''Free Comic Book Day Avengers 2016''</ref> hoping to obtain the admiration of her father's allies.<ref name="Nadia" /> She later meets [[Wasp (comics)|Janet van Dyne]], and they get along quite well, with Janet feeling that she has the potential to become a true hero.<ref>''All-New, All-Different Avengers'' #12</ref><ref>''All-New, All-Different Avengers'' #14</ref>
@@ -32,10 +34,10 @@ Nadia soon joins the [[Avengers (comics)|Avengers]] and gains [[Citizenship of t
 
 At one point she aids [[Ant-Man (Scott Lang)|Scott Lang]] - who is in outer space at that time - in an attempt to return to Earth, which results in a sequence of bizarre adventures in the microverse. However, in the process, the two of them became [[Quantum entanglement|quantum-entangled]] with each other.<ref>''Ant-Man and the Wasp'' #1-5 (June-August 2018)</ref>
 
-In issue 4 of the second series, it's revealed that Nadia has [[bipolar disorder]].<ref>https://observationdeck.kinja.com/the-new-unstoppable-wasp-gives-nadia-a-problem-she-cant-1832851202</ref>
+In issue 4 of the second series, it's revealed that Nadia has [[bipolar disorder]], just like her dad.<ref>https://observationdeck.kinja.com/the-new-unstoppable-wasp-gives-nadia-a-problem-she-cant-1832851202</ref>
 
 ==Powers and abilities==
-Nadia uses Pym particles to alter her size at will. She has the ability to shrink down to sub atomic size and uses wasp like wings to fly at a tiny size. She also possess Pym Particles in her gauntlets that allow her to change the size of people and objects. Nadia is also able to grow in size much like her father and adopted mother, however it is yet known what the limit of this ability is yet.
+Nadia uses Pym particles to alter her size at will. She has the ability to shrink down to sub atomic size and uses wasp like wings to fly at a tiny size. She also possess Pym Particles in her gauntlets that allow her to change the size of people and objects. Nadia is also able to grow in size much like her father and adopted mother, however it is not yet known what the limit of this ability is yet.
 
 Nadia is a skilled martial artist as a result of her Red Room training, particularly in [[Krav Maga]].<ref>''Unstoppable Wasp'' #4 (April 2017)</ref>
 
@@ -54,6 +56,11 @@ Nadia is a skilled martial artist as a result of her Red Room training, particul
 | March 13, 2018 
 | {{ISBNT|978-1302906474}}
 |-
+| '''''Ant-Man and the Wasp'': Lost & Found'''
+| ''Ant-Man and the Wasp'' #1-5
+| November 20, 2018
+| {{ISBNT|978-0785194620}}
+|-
 | '''''The Unstoppable Wasp'': G.I.R.L. Power'''
 | ''The Unstoppable Wasp'' #1-8
 | April 02, 2019 
@@ -63,22 +70,31 @@ Nadia is a skilled martial artist as a result of her Red Room training, particul
 | ''The Unstoppable Wasp'' (vol. 2) #1-5
 | May 07, 2019 
 | {{ISBNT|978-1302914264}}
+|-
+| '''''The Unstoppable Wasp'': Unlimited Vol. 2: G.I.R.L. VS. A.I.M.'''
+| ''The Unstoppable Wasp'' (vol. 2) #6-10
+| September 11, 2019
+| {{ISBNT|978-1302914271}}
 |}
+
+==In other media==
+===Video games===
+The Nadia van Dyne/Wasp iteration of the character is a playable character in ''[[Marvel Future Fight]]''.
 
 ==References==
 {{reflist}}
 
 ==External links==
-*[https://marvel.fandom.com/wiki/Nadia_Pym_(Earth-616) Nadia van Dyne] on the Marvel Wiki
+*[https://marvel.fandom.com/wiki/Nadia_Van_Dyne_(Earth-616) Nadia van Dyne] on the Marvel Wiki
 
 {{Henry Pym}}
 
+{{DEFAULTSORT:van Dyne, Nadia}}
 [[Category:Characters created by Mark Waid]]
 [[Category:Characters created by Alan Davis]]
 [[Category:Comics about women]]
 [[Category:Comics characters introduced in 2016]]
 [[Category:Female characters in comics]]
-[[Category:Fictional American people of European descent]]
 [[Category:Fictional characters who can change size]]
 [[Category:Fictional characters with bipolar disorder]]
 [[Category:Fictional female assassins]]
@@ -87,7 +103,7 @@ Nadia is a skilled martial artist as a result of her Red Room training, particul
 [[Category:Fictional immigrants to the United States]]
 [[Category:Fictional people with acquired American citizenship]]
 [[Category:Fictional Russian people]]
-[[Category:Fictional women scientists]]
+[[Category:Fictional female scientists]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics female superheroes]]

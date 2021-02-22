@@ -1,8 +1,8 @@
+{{short description|Fictional character in Marvel Comics}}
 {{other uses|Dragon man (disambiguation)}}
-{{more citations needed|date=November 2017}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| image = 
-| caption = 
+| image = File:Dragon_Man.jpg
+| caption = Dragon Man appears on the cover of ''[[Fantastic Four (comic book)|Fantastic Four]]'' #35.
 | character_name = Dragon Man
 | real_name =
 | publisher = [[Marvel Comics]]
@@ -14,31 +14,21 @@
 | powers =Superhuman strength, durability and intelligence<br>Flight via wings<br>Flame projection
 }}
 
-'''Dragon Man''' is a [[fiction]]al [[Character (arts)|character]], a former [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an artificial [[dragon]]-like [[humanoid]] [[Android (robot)|android]] who was animated via [[alchemy]].
+'''Dragon Man''' is a [[fiction]]al [[Character (arts)|character]], a former [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an artificial [[dragon]]-like [[humanoid]] android who was animated via [[alchemy]].
 
 ==Publication history==
-{{expand section|date=January 2016}}
-Dragon Man first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #35 (February 1965) and was created by [[Stan Lee]] and [[Jack Kirby]].
+Dragon Man first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #35 (February 1965) and was created by [[Stan Lee]] and [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=117}}</ref>
 
 ==Fictional character biography==
-Dragon Man is an android built by '''Professor Gregson Gilbert''' of [[Empire State University]] as an experiment. Gregson hoped to find a way to bring it to life. He could not find a way to do this until the alchemist [[Diablo (Marvel Comics)|Diablo]] arrived and brought it to life under his partial control using his supernatural powers. However, Dragon Man broke his control and attempted to kill Diablo.<ref>{{Comic book reference
- | Writer = [[Stan Lee]]
- | Penciller = [[Jack Kirby]]
- | Inker = [[Chic Stone]]
- | Story = Calamity On The Campus!
- | Title = Fantastic Four
- | Volume = 1
- | Issue = 35
- | Date = February 1965
- | Publisher = [[Marvel Comics]]
- }}</ref>
+Dragon Man is an android built by '''Professor Gregson Gilbert''' of [[Empire State University]] as an experiment. Gregson hoped to find a way to bring it to life. He could not find a way to do this until the alchemist [[Diablo (Marvel Comics)|Diablo]] arrived and brought it to life under his partial control using his supernatural powers. However, Dragon Man broke his control and attempted to kill Diablo.<ref>{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Jack Kirby]] | Inker = [[Chic Stone]] | Story = Calamity On The Campus! | Title = Fantastic Four | Volume = 1 | Issue = 35 | Date = February 1965 | Publisher = [[Marvel Comics]] }}</ref><ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=107}}</ref>
+
 Although Dragon Man is slow-minded to the point that he is incapable of speech, he understands orders given by Diablo and is a determined foe of the [[Fantastic Four]] (although the creature has always displayed a [[King Kong]]-like affection towards [[Invisible Woman|Sue Richards]]). Dragon Man is not especially malicious, although he is easily manipulated and provoked to violence.
 
 After his first activation, Dragon Man was later revived. He encountered [[Medusa (comics)|Medusa]] and [[Gorgon (Inhuman)|Gorgon]], and fought the [[Thing (comics)|Thing]] and [[Human Torch]].<ref>''Fantastic Four'' #44-47</ref>
 
-Dragon Man was later studied by [[Hank Pym]] at his laboratory. He was restored to life again by Diablo and was defeated by Pym as '''Goliath''' and escaped.<ref>''Avengers'' #41</ref> Dragon Man battled [[Hercules (Marvel Comics)|Hercules]] and the [[Avengers (comics)|Avengers]] destroyed Diablo's army of Dragon Men.<ref>''Avengers'' #42</ref>
+Dragon Man was later studied by [[Hank Pym]] at his laboratory. He was restored to life again by Diablo and was defeated by Pym as Goliath and escaped.<ref>''Avengers'' #41</ref> Dragon Man battled [[Hercules (Marvel Comics)|Hercules]] and the [[Avengers (comics)|Avengers]] destroyed Diablo's army of Dragon Men.<ref>''Avengers'' #42</ref>
 
-Dragon Man was once found by the original [[X-Men]] and was considered an unofficial mascot of sorts. After a period of time on the team where he developed a deep affection for [[Jean Grey]], Dragon Man had to be released to the creature filled island known in the Marvel Universe as [[Monster Island (comics)|Monster Island]].
+Dragon Man was once found by the original [[X-Men]] and was considered an unofficial mascot of sorts. After a period of time on the team where he developed a deep affection for [[Jean Grey]], Dragon Man had to be released to the creature-filled island known in the Marvel Universe as [[Monster Island (comics)|Monster Island]].
 
 Dragon Man was reclaimed by Professor Gregson Gilbert and sent by [[Lemuel Dorcas]] to attack [[Namor]].<ref>''Sub-Mariner'' #15</ref> It was next used by [[Gregory Gideon]] to attack the Fantastic Four.<ref>''Fantastic Four'' #134-135</ref> Dragon Man was then sent by [[Machinesmith]] to attack [[Captain America]].<ref>''Captain America'' #248-249</ref> He became the mount for the extra-dimensional dragon rider [[Dragon Lord (comics)#Ral Dorn|Ral Dorn]].<ref>''Fantastic Four Annual'' #16</ref> Dragon Man then fought [[Hulk]] and [[Kate Waynesboro]] when it was under the control of [[Ringmaster (comics)|Ringmaster]] and the [[Circus of Crime]].<ref>''Incredible Hulk'' #292</ref>
 
@@ -71,7 +61,7 @@ As part of the ''[[Marvel NOW!]]'' event, Dragon Man created the Thing Rings for
 ==Powers and abilities==
 Dragon Man gains its powers from its robotic materials, design, and construction, as well as unknown alchemical potions used by [[Diablo (Marvel Comics)|Diablo]]. Dragon Man is superhumanly strong and durable. He is able to stand toe to toe with the likes of [[Hercules (Marvel Comics)|Hercules]] and the [[Hulk]] in combat situations. He can use the wings on his back to fly. He can also exhale methane gas (produced by his digestive system) which can be ignited by striking together his specialized teeth, producing flame hot enough to melt [[iron]].
 
-The Dragon Man originally could military press sixty tons. Since it was a machine imbued with magic the artificial creature never grows tired. It can recharge itself by eating organic materials, and its wings did not allow it to fly. It uses two anti gravity generators located in its body to propel itself. Its large wings give it great mobility in the air and theoretically(ms) in water also.
+The Dragon Man originally could military press sixty tons. Since it was a machine imbued with magic the artificial creature never grows tired. It can recharge itself by eating organic materials, and its wings did not allow it to fly. It uses two anti gravity generators located in its body to propel itself. Its large wings give it great mobility in the air.
 
 Dragon Man was initially non-sentient, but had the capacity for limited self-motivated activity.
 
@@ -88,21 +78,20 @@ In the ''[[Earth X]]'' reality, Dragon Man had come into possession of King Brit
 Dragon Man appears as a villain in the series, appearing in the last battle restrained by [[Green Lantern]] and breathing fire at [[Superman]].<ref>''JLA/Avengers'' #3</ref>
 
 ==In other media==
-
 ===Television===
-* Dragon Man appears in the 1978 ''[[Fantastic Four (1978 TV series)|Fantastic Four]]'' TV series. This version was an android built for good by Professor Gilbert before its controls were stolen by his assistant George. With info from Professor Gilbert, the [[Fantastic Four]] used the cold to stop Dragon Man.
-* Dragon Man appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "Frightful". This version had been heavily re-imagined and is a member of [[Wizard (Marvel Comics)|Wizard]]'s [[Frightful Four]]. While still a robot, Dragon Man is more human-shaped, has grey skin and large teeth, and his wings are part of his arms.
-* Dragon Man appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''. This version was created by [[Doctor Octopus]]. Dragon Man makes a cameo appearance during the beginning of the episode "Venom" where it was unleashed by Doctor Octopus to fight Spider-Man. In the episode "Back in Black," Dragon Man is unleashed by Doctor Octopus to attack Mid-Town twice where he is taken down by the mysterious [[Harry Osborn|black-suited Spider-Man]] both times. Dragon Man later attacks [[Spider-Man]] until the black-suited Spider-Man arrives and defeats Dragon Man a third time.
+* Dragon Man appears in the 1978 ''[[Fantastic Four (1978 TV series)|Fantastic Four]]'' animated series.{{cn|date=October 2020}} This version was an android built for good by Professor Gilbert before its controls were stolen by his assistant, George. With help from Professor Gilbert, the [[Fantastic Four]] used cold temperatures to stop Dragon Man.
+* Dragon Man appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "Frightful".{{cn|date=October 2020}} This version is a member of the [[Wizard (Marvel Comics)|Wizard]]'s [[Frightful Four]] and resembles an anthropomorphic dragon.
+* Dragon Man appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series.{{cn|date=October 2020}} This version was created by [[Doctor Octopus]]. Dragon Man makes a cameo appearance in the episode "Venom", where it was unleashed by Doctor Octopus to fight [[Spider-Man]].{{cn|date=October 2020}} In the episode "Back in Black", Dragon Man is unleashed by Doctor Octopus to attack Midtown twice, but it is defeated by the mysterious [[Harry Osborn|black-suited Spider-Man]] both times. Dragon Man later attacks the original Spider-Man until the black-suited Spider-Man arrives and defeats Dragon Man a third time.
 
 ===Video games===
-* Dragon Man appears in the game ''[[Spider-Man: Web of Fire]]''.
-* Dragon Man appears as an enemy in the 1997 video game ''[[Fantastic Four (1997 video game)|Fantastic Four]]'' for [[PlayStation]].
-* Dragon Man appeared as one of the bosses in the 2005 video game ''[[Fantastic Four (video game)|Fantastic Four]]''.
-* Dragon Man appears as a mini-boss in ''[[Marvel: Ultimate Alliance]]''. He is shown enslaved to the [[Mandarin (comics)|Mandarin]]. He is optional to fight because you can avoid him. A VS simulation disk has the heroes fighting Dragon Man on the [[Skrull]] homeworld.
-* Dragon Man appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.
+* Dragon Man appears in ''[[Spider-Man: Web of Fire]]''.{{cn|date=October 2020}}
+* Dragon Man appears in the 1997 video game ''[[Fantastic Four (1997 video game)|Fantastic Four]]'' for the [[PlayStation]].{{cn|date=October 2020}}
+* Dragon Man appears as a boss in the 2005 video game ''[[Fantastic Four (video game)|Fantastic Four]]''.{{cn|date=October 2020}}
+* Dragon Man appears as a mini-boss in ''[[Marvel: Ultimate Alliance]]''.{{cn|date=October 2020}}
+* Dragon Man appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.{{cn|date=October 2020}}
 
-===Action figure===
-* Dragon Man had an action figure released by Toy Biz in 2006. The figure is part of the Fantastic Four Classics Series 2 line.
+===Action figures===
+* Dragon Man has been represented in several [[action figure]] lines released by [[Toy Biz]].{{cn|date=October 2020}} The character was included in Fantastic Four series 2 (1995), Fantastic Four Metal Mania (1995), Marvel Universe (1997), and Fantastic Four Classics series 2 (2007).
 
 ==References==
 {{Reflist|30em}}

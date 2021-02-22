@@ -12,6 +12,10 @@
 }}
 '''Master Pandemonium''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
+==Publication history==
+{{expand section|date=June 2020}}
+The character first appeared in ''[[West Coast Avengers]]'' #4 (Jan 1986).<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=210-211}}</ref>
+
 ==Fictional character biography==
 Martin Preston was born in [[Rutland (city), Vermont|Rutland, Vermont]]. He was originally an [[actor]] who lost an arm in a car crash, and made a pact with [[Mephisto (comics)|Mephisto]] to regain his limb. Mephisto instead took the man's other three limbs, then replaced them all with [[Demons (Marvel Comics)|demon]]ic grafts. He was also given a hole in his chest in the shape of an inverted five-pointed star, and the ability to survive despite this hole in his chest. He was also given the ability to command the demons inside him.
 
@@ -33,6 +37,8 @@ Master Pandemonium appears in a cameo as one of the villains summoned by [[Sin (
 
 As part of the ''[[Marvel NOW!]]'' event, Master Pandemonium was recruited by Kade Kilgore to be a teacher at the [[Hellfire Club (comics)|Hellfire Club]]'s Hellfire Academy, where Master Pandemonium teaches Hell Literature.<ref>''Wolverine and the X-Men'' #20</ref>
 
+Pandemonium eventually made his way to San Francisco, where he formed a cult of demons to boost his own power, but he was eventually defeated by the Superior Spider-Man and Doctor Strange, Strange redirecting a demonic portal Pandemonium had attempted to open to trap the villain back in Mephisto's realm.<ref>''Superior Spider-Man'' vol.2 #6</ref>
+
 ==Powers and abilities==
 Master Pandemonium was given superhuman powers through the replacement of his arms with those of demons and his bodily transformation into a living "abode of demons" by [[Mephisto (comics)|Mephisto]]. He has superhuman strength in his arms, and he has the ability to detach his arms and legs, without harm to himself, and have them turn into demonic servitors. He has the ability to command any of the Rakasha, the horde of demons who reside within his body, and can summon demons through the pentagram-shaped hole in his chest. Due to his demonic nature he can expel mystical hellfire from his mouth capable of melting the outer layer of [[Iron Man]]'s armor, and he has the ability to project rays of mystical concussive force from his hands. He also has the ability of self-levitation. After obtaining the [[Amulet of Azmodeus]] (the dwelling place of Master Pandemonium's avian familiar) he is able to [[Teleportation|teleport]] inter-dimensionally.{{issue|date=July 2019}}
 
@@ -48,7 +54,7 @@ Martin Preston is a talented actor, and possesses knowledge of demon lore and ce
 * [http://www.marveldirectory.com/individuals/m/masterpandemonium.htm Master Pandemonium at MarvelDirectory.com]
 
 {{Avengers}}
-
+{{Avengers characters}}
 [[Category:Characters created by Al Milgrom]]
 [[Category:Characters created by Steve Englehart]]
 [[Category:Comics characters introduced in 1986]]

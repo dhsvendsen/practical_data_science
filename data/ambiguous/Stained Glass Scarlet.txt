@@ -15,7 +15,7 @@
 |powers         = Mysterious [[psychic]] bond with [[Moon Knight]]<br>Expert in martial art and weapons
 |}}
 
-'''Stained Glass Scarlet''' (real name Scarlet Fasinera) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Doug Moench]], [[Bill Sienkiewicz]], and [[Jim Shooter]].
+'''Stained Glass Scarlet''' (real name '''Scarlet Fasinera''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Doug Moench]], [[Bill Sienkiewicz]], and [[Jim Shooter]].
 
 ==Publication history==
 Scarlet made her debut in December 1981 in ''Moon Knight'' #14.
@@ -34,7 +34,7 @@ Later in life, she met and married Vince Fasinera, a small-time criminal, believ
 When he escaped prison, Scarlet took it upon herself to save her son from his life of crime, but in the end she was forced to kill him. Scarlet turned into a vigilante and started hunting down all the criminals who had ever had a hand to play in her son's turning to crime. [[Moon Knight]] tried to stop her, but ended up letting her escape.<ref>''Moon Knight'' #14 (December 1981)</ref>
 
 ===Scarlet Redemption===
-[[File:Scarlet Fasinera and nuns.jpg|thumb|left|upright|Scarlet and her nuns in ''Marc Spector: Moon Knight'' #26 (May 1991)]]
+<!-- Deleted image removed: [[File:Scarlet Fasinera and nuns.jpg|thumb|left|upright|Scarlet and her nuns in ''Marc Spector: Moon Knight'' #26 (May 1991)]] -->
 
 Scarlet returns and haunts the streets of [[Brooklyn]] armed with her crossbow. She finds [[Bertrand Crawley]] and, recognizing him as a friend of Marc Spector (or Jake Lockley), fires a crossbow bolt into his shoulder. Crawley runs off and falls through the glass front door of Gena's Diner. Scarlet follows after him, firing several more shots into the diner. She pitches Gena Landers through a window then fires a shot into the oven's gas lines, causing the entire building to explode. Scarlet returns to the church where she lives, confident that her "sweet angel" will come for her.
 
@@ -48,7 +48,7 @@ Scarlet aids the apparently-resurrected Moon Knight in fighting an alliance of s
 
 ===Civil War===
 
-In the aftermath of the superhero Civil War, Scarlet is among the names listed as a potential recruit for the 50-States Initiative in the appendix of Tony Stark's battle damage report. <ref>Civil War Battle Damage Report (2007)</ref>
+In the aftermath of the [[Civil War (comics)|superhero Civil War]], Scarlet is among the names listed as a potential recruit for the [[Fifty State Initiative|50-States Initiative]] in the appendix of [[Tony Stark]]'s battle damage report. <ref>Civil War Battle Damage Report (2007)</ref>
 
 ==Powers and abilities==
 While Scarlet does not have any apparent powers, she possesses a mysterious psychic bond with Moon Knight. This psychic bond is not systematic. It appears when Stained Glass Scarlet concentrates on Moon Knight, and can manifest in the form of dreams during which their thoughts intermingle and allow them to briefly communicate. This bond between Stained Glass Scarlet and Moon Knight could be due to an entity close to the Egyptian god of the moon, [[Khonshu (Marvel Comics)|Khonshu]], and reincarnated as Stained Glass Scarlet.
@@ -72,3 +72,5 @@ Scarlet is an expert in [[martial arts]]. She is able to wield [[bayonets]], gun
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics female supervillains]]

@@ -14,7 +14,7 @@
 '''Human Cannonball''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-The Human Cannonball first appeared in ''[[The Incredible Hulk (comic book)|Incredible Hulk]]'' #3 (September 1962), and was created by [[Stan Lee]] and [[Jack Kirby]].
+The Human Cannonball first appeared in ''[[The Incredible Hulk (comic book)|Incredible Hulk]]'' #3 (September 1962) as a member of the [[Circus of Crime]], and was created by [[Stan Lee]] and [[Jack Kirby]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=388-389}}</ref>
 
 The character subsequently appears in ''The Amazing Spider-Man'' #16 (September 1964), #22 (March 1965), ''The Avengers'' #22 (November 1965), ''The Amazing Spider-Man Annual'' #2 (1965), ''Thor'' #145-147 (October–December 1967), ''Marvel Spectacular'' #15-17 (July–September 1975), ''Super-Villain Team-Up'' #8 (October 1976), ''Ghost Rider'' #72-73 (September–October 1982), and ''X-Men and Power Pack'' #3 (February 2006).
 
@@ -37,7 +37,7 @@ The Human Cannonball wears padded steel armor to protect his head, shoulders, wr
 ==In other media==
 ===Television===
 * Human Cannonball appears in "The Incredible Hulk" portion of ''[[The Marvel Super Heroes]]''.
-* Human Cannonball appears in the ''[[Spider-Man (1981 TV series)|Spider-Man]]'' episode "Carnival of Crime."
+* Human Cannonball appears in the ''[[Spider-Man (1981 TV series)|Spider-Man]]'' episode "Carnival of Crime".
 * Human Cannonball appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Crime and Circuses", voiced by [[Bumper Robinson]].
 
 ==References==
@@ -46,10 +46,12 @@ The Human Cannonball wears padded steel armor to protect his head, shoulders, wr
 ==External links==
 * [http://marvel.wikia.com/wiki/Jack_Pulver_(Earth-616) Human Cannonball] at Marvel Wiki
 * [https://comicvine.gamespot.com/human-cannonball/4005-10858/ Human Cannonball] at Comic Vine
-{{Stan Lee}}
 
+{{Stan Lee}}
+{{Jack Kirby}}
+
+[[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
-[[Category:Characters created by Steve Ditko]]
 [[Category:Comics characters introduced in 1962]]
 [[Category:Fictional characters from Los Angeles County]]
 [[Category:Marvel Comics supervillains]]

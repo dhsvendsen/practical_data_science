@@ -1,3 +1,4 @@
+{{short description|Comic book character}}
 {{Superherobox <!--Wikipedia:WikiProject Comics-->
 |character_name = Drax the Destroyer
 |image          = Drax-cover.jpg
@@ -8,15 +9,16 @@
 |publisher      = [[Marvel Comics]]
 |debut          = ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 (February 1973)
 |creators       = [[Jim Starlin]]
-|species        = Human Mutate
+|species        = Human [[Mutant|Mutate]]
 |homeworld      = [[Burbank, California]]
 |alliances      = [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]]<br />[[Infinity Watch]]<br />[[Legion of the Unliving]]<br />[[Phalanx (comics)|Phalanx]]<br />[[Secret Defenders]]<br />[[United Front (comics)|United Front]]<br>[[Nova Corps]]
 |aliases        = <!-- optional: actual identities the character uses, not nicknames -->
 |supports       = <!--optional-->
 |powers         = 
-*Superhuman strength, endurance, stamina, speed, senses
+*Superhuman strength, stamina, speed, reflexes
 *Skilled [[swordsman]] and hand-to-hand combatant
-*Limited Cosmic awareness
+*Regeneration
+*Limited cosmic awareness
 |}}
 
 '''Drax the Destroyer''' ('''Arthur Douglas''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Jim Starlin]], the character first appeared in ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 (February 1973).
@@ -34,14 +36,14 @@ Starlin resurrected Drax in ''[[Silver Surfer]]'' vol 3 #35 (1990), and he had a
 
 Drax received an eponymous 4 issue miniseries in 2004, and was a starring character in ''Annihilation: [[Nova (Richard Rider)|Nova]]'' #1–4 (2005) and ''[[Annihilation (comics)|Annihilation]]'' #1–6 (2006). After a follow up appearance in ''Nova'' vol 4 #4–7 (2007) and the 2008 "[[Annihilation: Conquest]]" storyline, he was featured as a team member in the 2008 relaunch of [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]], and appeared in the 25 issue series of the same name. The character had a small role in ''[[The Thanos Imperative]]'' #1–3 (2010), in which he was killed.
 
-The character reappeared in ''[[Avengers Assemble (comics)|Avengers Assemble]]'' issues #4–8 (June–October 2012), with no reference to his death. He will star in ''Guardians of the Galaxy'' vol. 3, a part of the [[Marvel NOW!]] relaunch.<ref name="MarvelNOW">{{cite web |url=http://www.comicbookresources.com/?page=article&id=41610 |title=NYCC: Bendis, McNiven & Wacker Relaunch the "Guardians of the Galaxy" |last=Richards |first=Dave |date=14 October 2012 |publisher=Comic Book Resources |accessdate=15 October 2012}}</ref>
+The character reappeared in ''[[Avengers Assemble (comics)|Avengers Assemble]]'' issues #4–8 (June–October 2012), with no reference to his death. He will star in ''Guardians of the Galaxy'' vol. 3, a part of the [[Marvel NOW!]] relaunch.<ref name="MarvelNOW">{{cite web |url=http://www.comicbookresources.com/?page=article&id=41610 |title=NYCC: Bendis, McNiven & Wacker Relaunch the "Guardians of the Galaxy" |last=Richards |first=Dave |date=14 October 2012 |publisher=Comic Book Resources |access-date=15 October 2012}}</ref>
 
 ==Fictional character biography==
 
 ===Creation and early life===
 While driving through a desert with his wife and daughter, Arthur Douglas' car is attacked by a spaceship piloted by [[Thanos]], who thinks the humans have seen him.<ref name="CaptMv1no32" /> His daughter, Heather, survives the crash and is adopted by Thanos' father, [[Mentor (A'lars)|Mentor]], and raised on [[Titan (Marvel Comics location)|Titan]]. She later becomes [[Moondragon]].<ref name="DDv1no107" />
 
-[[File:Captain Marvel Drax.jpg|200px|thumb|Drax (left) on the cover of ''[[Captain Marvel (Mar-Vell)|Captain Marvel]]'' #58 (September 1978). Art by [[Dave Cockrum]].]]
+[[File:Captain Marvel Drax.jpg|200px|thumb|Drax (top) on the cover of ''[[Captain Marvel (Mar-Vell)|Captain Marvel]]'' #58 (September 1978). Art by [[Dave Cockrum]].]]
 Needing a champion to combat the threat from Thanos, Mentor and the Titan god [[Kronos (comics)|Kronos]] capture Douglas' spirit and placed it in a powerful new body. He is rechristened "Drax the Destroyer", and his sole purpose is to kill Thanos. With [[Iron Man]], Drax battles Thanos and the [[Blood Brothers (comics)|Blood Brothers]],<ref name="IMv1no55" /> but Thanos escapes. While trying to prevent Thanos from getting the [[Cosmic Cube]],<ref name="CaptMv1no27-31" /> Drax's memories are restored to him.<ref name="CaptMv1no32" /> After seeing [[Captain Marvel (Mar-Vell)|Captain Marvel]] defeat Thanos,<ref name="CaptMv1no33" /> Drax attacks Captain Marvel, for robbing him of his purpose.<ref name="CaptMv1no42-44" /> Drax wanders space in grim contemplation, searching for a resurrected Thanos. By the time he learns that Thanos had managed to rematerialize himself, Thanos has once again been destroyed in battle with Captain Marvel, [[Avengers (comics)|the Avengers]], and [[Adam Warlock]].<ref name="CaptMv1no58" /><ref name="MTIO1977" /> Alongside Captain Marvel, Drax battles [[ISAAC (comics)|ISAAC]], Stellarax, Lord Gaea, [[Elysius]], and Chaos.<ref name="CaptMv1no59-62" /><ref name="MarvelSLv2no1-2" />
 
 Some time later, Drax, possessed by an alien entity, battles his daughter Moondragon and the superhero [[Thor (Marvel Comics)|Thor]]. After Drax recovers, he and Moondragon journey through space in search of knowledge.<ref name="Thor314" /> Eventually, they come upon the planet Ba-Banis, a world of humanoid aliens caught in a vast civil war. Moondragon uses her mental powers to quell the conflict and then decides to set herself up as the world's goddess. Drax recognizes that her ambitions are ignoble and so sends their ship to Earth with a holographic distress message. The Avengers respond and discover Moondragon's world of mentally enforced tranquility.<ref name="Avengers219" /> Freed by the Avengers from his daughter's mental domination, Drax advances toward her, seeking to end her menace. In order to stop him, Moondragon mentally forces Drax's life essence to vacate his artificial body.<ref name="Avengers220" />
@@ -83,8 +85,9 @@ Just prior to the 2006 "Annihilation" mini-series and continuing through the pre
 * Drax appears in ''[[Lego Marvel Super Heroes – Guardians of the Galaxy: The Thanos Threat]]'', voiced again by David Sobolov.<ref>End credits for ''Lego Marvel Super Heroes – Guardians of the Galaxy: The Thanos Threat''</ref>{{better source|date=June 2018}}
 
 ===Film===
-[[File:Dave Bautista as Drax the Destroyer.jpg|thumb|right|upright|[[Dave Bautista]] as Drax in a character poster for the 2014 film, ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.]]
-[[Dave Bautista]] plays Drax in the live-action 2014 [[Marvel Studios]] film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.<ref name="GotGBautista" /> In the film, Drax is an alien whose wife and daughter were slaughtered by [[Ronan the Accuser]], on the instructions of Thanos, for which Drax vows revenge. He first meets the other Guardians of the Galaxy in prison, including [[Gamora]], whom he holds responsible for his family's deaths because she is a daughter of Thanos. She tells him that she was raised by Thanos only after he slaughtered her own family, and bears no loyalty to him, and the two join [[Peter Quill]] in escaping prison in order to confront Ronan, whom they eventually kill. A recurring gag throughout the film is Drax's inability to understand metaphors because Drax's species is, according to [[Rocket Raccoon|Rocket]], completely literal. Bautista reprised his role as Drax in its 2017 sequel ''[[Guardians of the Galaxy Vol. 2]]'' and again in ''[[Avengers: Infinity War]]'' (2018) and ''[[Avengers: Endgame]]'' (2019).<ref name="Bautista">{{cite tweet|date=January 22, 2017 |first=Dave|last=Bautista|authorlink=Dave Bautista|user=DaveBautista|title=Welp!!! That makes 3 of us! And I start filming tomorrow! 😱 #MarvelShroudofSecrecy 😖|number=823294808655532036 |accessdate=January 22, 2017|archivedate=January 23, 2017 |archiveurl=https://www.webcitation.org/6nibckobt?url=https://twitter.com/DaveBautista/status/823294808655532036 |url-status=live }}</ref><ref name="GotGSequel">{{cite web |url=http://comicbook.com/2015/11/04/dave-bautista-says-james-gunn-making-guardians-of-the-galaxy-vol/ |title=Dave Bautista Says James Gunn Making Guardians of the Galaxy Vol. 2 Different |last=Siegel |first=Lucas |publisher=Comicbook.com |date=November 4, 2015 |accessdate=November 5, 2015 |archiveurl=https://web.archive.org/web/20151106232438/http://comicbook.com/2015/11/04/dave-bautista-says-james-gunn-making-guardians-of-the-galaxy-vol |archivedate=November 6, 2015 |url-status=live}}</ref><ref name="Dave Bautista – IMDb">{{cite web |url=https://www.imdb.com/name/nm1176985/ |title=Dave Bautista – IMDb | access-date=4 May 2017}}</ref>
+[[File:Dave Bautista as Drax in Guardians of the Galaxy poster.jpg|thumb|right|upright|[[Dave Bautista]] as Drax in a character poster for the 2014 film, ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.]]
+{{Main| Drax (Marvel Cinematic Universe)}}
+[[Dave Bautista]] plays Drax in the live-action 2014 [[Marvel Studios]] film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.<ref name="GotGBautista" /> In the film, Drax is an alien who was obsessed with killing [[Ronan the Accuser]] who slaughtered his wife and daughter. He first meets the other Guardians of the Galaxy in prison, including [[Gamora]], whom he holds responsible for his family's deaths because she is a daughter of Thanos. She tells him that she was raised by Thanos only after he slaughtered her own family, and bears no loyalty to him, and the two join [[Peter Quill]] in escaping prison in order to confront Ronan, whom they eventually kill. A recurring gag throughout the film is Drax's inability to understand metaphors because Drax's species is, according to [[Rocket Raccoon|Rocket]], completely literal. Bautista reprised his role as Drax in its 2017 sequel ''[[Guardians of the Galaxy Vol. 2]]'' and again in ''[[Avengers: Infinity War]]'' (2018) and ''[[Avengers: Endgame]]'' (2019).<ref name="Bautista">{{cite tweet|date=January 22, 2017 |first=Dave|last=Bautista|author-link=Dave Bautista|user=DaveBautista|title=Welp!!! That makes 3 of us! And I start filming tomorrow! 😱 #MarvelShroudofSecrecy 😖|number=823294808655532036 |access-date=January 22, 2017|archive-date=January 23, 2017 |archive-url=https://www.webcitation.org/6nibckobt?url=https://twitter.com/DaveBautista/status/823294808655532036 |url-status=live }}</ref><ref name="GotGSequel">{{cite web |url=http://comicbook.com/2015/11/04/dave-bautista-says-james-gunn-making-guardians-of-the-galaxy-vol/ |title=Dave Bautista Says James Gunn Making Guardians of the Galaxy Vol. 2 Different |last=Siegel |first=Lucas |publisher=Comicbook.com |date=November 4, 2015 |access-date=November 5, 2015 |archive-url=https://web.archive.org/web/20151106232438/http://comicbook.com/2015/11/04/dave-bautista-says-james-gunn-making-guardians-of-the-galaxy-vol |archive-date=November 6, 2015 |url-status=live}}</ref><ref name="Dave Bautista – IMDb">{{cite web |url=https://www.imdb.com/name/nm1176985/ |title=Dave Bautista – IMDb | access-date=4 May 2017}}</ref>
 
 ===Video games===
 * Drax makes a [[cameo appearance]] as he is seen as frozen statues in the backgrounds of [[Thanos]] stages in ''[[Marvel Super Heroes (video game)|Marvel Super Heroes]]''.{{citation needed|date=December 2017}} Once Thanos is defeated by any of the superheroes, he is unfrozen and the heroes are saved.
@@ -94,9 +97,10 @@ Just prior to the 2006 "Annihilation" mini-series and continuing through the pre
 * Drax is a playable character in the video game ''[[Disney Infinity: Marvel Super Heroes|Disney Infinity 2.0]]'' and ''[[Disney Infinity 3.0]],'' voiced by David Sobolov. He is playable in the “Guardians of the Galaxy” and “Marvel Battlegrounds” playsets.<ref>{{Cite web|url=https://www.hollywoodreporter.com/heat-vision/guardians-galaxy-added-disney-infinity-720653|title='Guardians of the Galaxy' Added to 'Disney Infinity' Videogame (Video)|website=The Hollywood Reporter|language=en|access-date=2019-08-12}}</ref><ref>{{Cite web|url=http://disneyinfinitycodes.com/marvel-battlegrounds-unlock-guide/|title=Marvel Battlegrounds Unlock Guide - Disney Infinity Codes - Cheats & Help Blog|website=disneyinfinitycodes.com|access-date=2019-08-12}}</ref>
 * Drax is an unlockable and playable character in the game ''[[Marvel Contest of Champions]]'', along with other Guardians of the Galaxy members like Gamora, Star-Lord and Rocket Raccoon.{{citation needed|date=December 2017}}
 * Drax is a playable character in ''[[Marvel: Future Fight]]''.{{citation needed|date=December 2017}}
+* Drax is a playable character in ''[[Marvel Puzzle Quest]]''.<ref>[https://twitter.com/BillRosemann/status/723563073248759808 With the addition of Drax, now all 5 #GuardiansOfTheGalaxy are in @MarvelPuzzle! ]</ref>
 * Drax appears in ''[[Guardians of the Galaxy: The Telltale Series]]'', voiced by [[Brandon Paul Eells]].<ref>{{Cite web|url=https://www.dualshockers.com/guardians-of-the-galaxy-the-telltale-series-voice-cast/|title=Guardians of the Galaxy: The Telltale Series' Voice Cast Revealed|date=2017-03-09|website=DualShockers|language=en|access-date=2019-08-12}}</ref> This version has a wife named Hovat and daughter named Kamaria, who were killed by Thanos.
 * Drax is a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{Cite web|url=https://gameranx.com/features/id/127480/article/lego-marvel-super-heroes-2-walkthrough-level-1-no-eson-of-mine/|title=LEGO Marvel Super Heroes 2 Walkthrough {{!}} Level 1: No Eson of Mine|last=Thielenhaus|first=Kevin|date=2017-11-16|website=Gameranx|language=en-US|access-date=2019-08-12}}</ref>
-* Drax is a playable character in ''[[Marvel Strike Force]]'', with Dave Bautista reprising his role.<ref>{{cite web|url=https://ew.com/gaming/2018/03/28/marvel-strike-force-game-trailer/|title=Drax hilariously takes center stage in new 'MARVEL Strike Force' trailer — exclusive|website=EW.com|accessdate=28 December 2018}}</ref>
+* Drax is a playable character in ''[[Marvel Strike Force]]'', with Dave Bautista reprising his role.<ref>{{cite web|url=https://ew.com/gaming/2018/03/28/marvel-strike-force-game-trailer/|title=Drax hilariously takes center stage in new 'MARVEL Strike Force' trailer — exclusive|website=EW.com|access-date=28 December 2018}}</ref>
 
 ==References==
 {{Reflist|30em|refs=
@@ -191,7 +195,7 @@ Just prior to the 2006 "Annihilation" mini-series and continuing through the pre
 
 <ref name="AAv2no5">{{Cite comic| writer=[[Brian Michael Bendis]] |penciller=[[Mark Bagley]] |inker=Danny Miki |story= |title=[[Avengers Assemble (comics)|Avengers Assemble]] |volume=2 |issue=5 |date=September 2012 |publisher=Marvel Comics}}</ref>
 
-<ref name="GotGBautista">{{cite web |url=http://www.hollywoodreporter.com/heat-vision/marvel-signs-wwes-dave-bautista-428724 |title=Marvel Signs WWE's Dave Bautista for 'Guardians of the Galaxy' (Exclusive) |first=Borys |last=Kit |work=[[The Hollywood Reporter]] |date=March 14, 2013 |accessdate=March 14, 2013 |archiveurl=https://web.archive.org/web/20130316005732/http://www.hollywoodreporter.com/heat-vision/marvel-signs-wwes-dave-bautista-428724 |archivedate=March 16, 2013 |url-status=live}}</ref>
+<ref name="GotGBautista">{{cite web |url=http://www.hollywoodreporter.com/heat-vision/marvel-signs-wwes-dave-bautista-428724 |title=Marvel Signs WWE's Dave Bautista for 'Guardians of the Galaxy' (Exclusive) |first=Borys |last=Kit |work=[[The Hollywood Reporter]] |date=March 14, 2013 |access-date=March 14, 2013 |archive-url=https://web.archive.org/web/20130316005732/http://www.hollywoodreporter.com/heat-vision/marvel-signs-wwes-dave-bautista-428724 |archive-date=March 16, 2013 |url-status=live}}</ref>
 }}
 
 ==External links==
@@ -202,12 +206,14 @@ Just prior to the 2006 "Annihilation" mini-series and continuing through the pre
 {{Guardians of the Galaxy}}
 {{Silver Surfer}}
 {{Marvel Cosmic}}
+{{Defenders}}
 {{Jim Starlin}}
 
 [[Category:Characters created by Jim Starlin]]
 [[Category:Characters created by Mike Friedrich]]
 [[Category:Comics characters introduced in 1973]]
 [[Category:Fictional characters from Los Angeles County]]
+[[Category:Fictional knife-fighters]]
 [[Category:Guardians of the Galaxy characters]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]

@@ -1,4 +1,3 @@
-{{refimprove|date=December 2017}}
 {{Infobox comics character
 |character_name = Deathbird
 |image          = xdeathbirdlee.jpg
@@ -22,9 +21,8 @@
 Deathbird is part of a segment of the [[fictional extraterrestrials|extraterrestrial]] [[Shi'ar]] race that possesses [[claw|talon]]-tipped [[wing]]s. She is the hated sister of the Shi'ar empress [[Lilandra Neramani]], the mother of the Shi'ar warrior, [[Deathcry]], and constantly seeks to usurp her sister's throne. She is also a sister of [[D'Ken]], the first depicted ruler of the Shi'ar.
 
 ==Publication history==
-{{expand section|date=July 2014}}
 
-Created by writer [[Chris Claremont]] and artists [[John Byrne (comics)|John Byrne]] and [[Dave Cockrum]], she first appeared in ''[[Ms. Marvel]]'' #9.
+Created by writer [[Chris Claremont]] and artists [[John Byrne (comics)|John Byrne]] and [[Dave Cockrum]], she first appeared in ''[[Ms. Marvel]]'' #9.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=106}}</ref>
 
 ==Fictional character biography==
 [[Image:Ms-Marvel-009.jpg|left|180px|thumb|Deathbird's first appearance, in ''Ms. Marvel'' (vol. 1) #9 (1977).]]
@@ -39,7 +37,7 @@ Some time later [[Skrull|War Skrulls]] impersonating [[Professor X|Charles Xavie
 Deathbird later came to her sister's aid during the short [[Kree-Shi'ar War]], assassinating Kree leaders [[Kree#Notable Kree|Ael-Dann and Dar-Benn]].<ref>''Avengers'' #346</ref> She was captured by [[Hawkeye (Clint Barton)|Clint Barton]] in his guise as Goliath.<ref>''Iron Man'' #279</ref> She was later released and granted dominion over the conquered Kree Empire as [[viceroy]], and also made praetor (leader) of the Kree [[Starforce (comics)|Starforce]] by Lilandra.<ref>''Avengers'' #347</ref> She led the Starforce in a confrontation with [[Quasar (comics)|Quasar]].<ref>''Quasar'' #35</ref> The Kree seem to have since become independent once more.
 
 ===Romance with Bishop===
-When the [[Shi'ar]] asked for the X-Men’s help against the invading [[Phalanx (comics)|Phalanx]], who had already reached their throne-world Chandilar, the X-Men allied themselves with Deathbird. They managed to fend off a Phalanx assault on the Shi'ar Empire, and during the conflict, Deathbird and the X-Man [[Bishop (comics)|Bishop]] forged a warrior's respect for each other. Deathbird was amazed that the Earth mutant showed no fear and stood up to her, and they also seemed physically attracted to each other.<ref>''Uncanny X-Men'' (1st series) #341-345</ref>
+When the [[Shi'ar]] asked for the X-Men's help against the invading [[Phalanx (comics)|Phalanx]], who had already reached their throne-world Chandilar, the X-Men allied themselves with Deathbird. They managed to fend off a Phalanx assault on the Shi'ar Empire, and during the conflict, Deathbird and the X-Man [[Bishop (comics)|Bishop]] forged a warrior's respect for each other. Deathbird was amazed that the Earth mutant showed no fear and stood up to her, and they also seemed physically attracted to each other.<ref>''Uncanny X-Men'' (1st series) #341-345</ref>
 
 As a gesture of honor, Deathbird escorted the mutants back to Earth, but their ship was inexplicably destroyed in transit.<ref>''Uncanny X-Men'' (1st series) #348</ref> Deathbird and an injured Bishop escaped using a private ship.<ref>''Uncanny X-Men'' (1st series) #353</ref> She initially convinced Bishop that he was [[paralysis|paralyzed]] due to his injuries and that, of all the X-Men, only he survived.<ref>''Uncanny X-Men'' (1st series) #354</ref> However, not before long, Bishop realized that he was not injured but that Deathbird was using the lab equipment to hold him in stasis.<ref>''Uncanny X-Men'' (1st series) #357</ref> The craft was soon attacked, and Bishop convinced her to release him so that they could deal with the matter together. Eventually, they bonded and soon became romantically involved.<ref>''Uncanny X-Men'' (1st series) #358</ref>
 
@@ -61,13 +59,13 @@ Deathbird was rescued by the Imperial Guard; Lilandra imprisoned her because she
 
 Vulcan is enthralled by Deathbird, and they become romantically involved. He promises to put his quest for vengeance on hold.  Deathbird convinces Vulcan to finish the healing process that the Shi'ar members of the secret order had begun on [[D'Ken]], who remained in a coma since the [[M'Kraan Crystal]] incident. When D'Ken discerns Vulcan's feelings for Deathbird, he invokes an ancient Shi'ar custom and invites Vulcan to marry Deathbird and become part of Shi'ar royalty.<ref>''[[Uncanny X-Men]]'' #483</ref>
 
-Vulcan and Deathbird are married in front of the M'Kraan Crystal just as the X-Men, Lilandra, The Starjammers, and the Shi'ar loyal to Lilandra attack.  During the chaos that ensues Vulcan kills D'Ken (never having promised not to kill him) and assumes the throne of Emperor of the Shi'ar Empire, with Deathbird as his Empress.  During the fight [[Polaris (comics)|Polaris]] crushes the ribs of Deathbird's husband and she instructs the Imperial Guard, still loyal to the ruling family, to protect them as they flee.
+Vulcan and Deathbird are married in front of the M'Kraan Crystal just as the X-Men, Lilandra, The Starjammers, and the Shi'ar loyal to Lilandra attack.  During the chaos that ensues Vulcan kills D'Ken (never having promised not to kill him) and assumes the throne of Emperor of the Shi'ar Empire, with Deathbird as his Empress.  During the fight [[Polaris (Marvel Comics)|Polaris]] crushes the ribs of Deathbird's husband and she instructs the Imperial Guard, still loyal to the ruling family, to protect them as they flee.
 
 ===The Providian Order===
 At some point after Vulcan's death she was captured by a top secret organization, however they were not interested in Deathbird, but in her child - a hybrid of an atavistic Shi'ar and a Human Mutant.<ref>''X-Men'' (Vol 4) #18</ref> The Providian Order, as the organization calls itself, was created to bring equality and uniformity to the universe, by creating a new perfect race.<ref>''X-Men'' (Vol 4) #19</ref> Sharada Darthri, the geneticist of the Providian Order, experimented on the baby and infused it with Kree geneline, thought the influx was stopped by the awakening of Deathbird, who rampaged through the laboratory.<ref>''X-Men'' (Vol 4) #20</ref>
 
 ==Powers and abilities==
-Deathbird is a genetic mutant of the Shi'ar species; she has superhuman strength, speed, stamina, agility, flexibility, reflexes, coordination, balance, and endurance well beyond the average limits of her race. She shares the same avian-like physiology typical of her race, such as having hollow bones, but in her case the avian characteristics are more pronounced. This is because she is a "genetic throwback," meaning that she resembles the more primitive Shi'ar who were [[bird of prey|birds of prey]]. She has inherited atavistic characteristics, such as fully functioning wings, which most Shi'ar lack, and is capable of self-propelled flight at a natural winged flight limit velocity. Her wings are also very strong, as she could flex her wing to throw [[Ms.Marvel]] off the building or to the wall.<ref>''[[Ms.Marvel]]'' vol. 1 #9-10 </ref>
+Deathbird is a genetic mutant of the Shi'ar species; she has superhuman strength, speed, stamina, agility, flexibility, reflexes, coordination, balance, and endurance well beyond the average limits of her race. She shares the same avian-like physiology typical of her race, such as having hollow bones, but in her case the avian characteristics are more pronounced. This is because she is a "genetic throwback", meaning that she resembles the more primitive Shi'ar who were birds of prey. She has inherited atavistic characteristics, such as fully functioning wings, which most Shi'ar lack, and is capable of self-propelled flight at a natural winged flight limit velocity. Her wings are also very strong, as she could flex her wing to throw [[Ms.Marvel]] off the building or to the wall.<ref>''[[Ms.Marvel]]'' vol. 1 #9-10 </ref>
 
 Deathbird's fingernails are essentially talons which can score steel and tear through substances such as bone and tissue easily.
 
@@ -84,7 +82,7 @@ In the [[Age of Apocalypse]], Deathbird appears as the leader of the [[Starjamme
 Deathbird defies the will of her sister and leads a Shi'ar force into the Star Trek reality. There, she attempts to partner with the reality-controlling [[Gary Mitchell (Star Trek)|Gary Mitchell]].
 
 ===X-Men: The End===
-*In ''[[X-Men: The End]]'', written by [[Chris Claremont]], an alternate future of the X-Men's last days, it is revealed that there is a mutant named [[Aliyah Bishop|Aliyah]] who is the daughter of [[Bishop (comics)|Lucas Bishop]] and Deathbird.  In the end, she is killed by her daughter, after having been infected with a [[Brood (comics)#Brood species|Brood Queen]] egg.
+In ''[[X-Men: The End]]'', written by [[Chris Claremont]], an alternate future of the X-Men's last days, it is revealed that there is a mutant named [[Aliyah Bishop|Aliyah]] who is the daughter of [[Bishop (comics)|Lucas Bishop]] and Deathbird.  In the end, she is killed by her daughter, after having been infected with a [[Brood (comics)#Brood species|Brood Queen]] egg.
 
 ==In other media==
 
@@ -114,6 +112,7 @@ Deathbird defies the will of her sister and leads a Shi'ar force into the Star T
 [[Category:Fictional emperors and empresses]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutants]]
 [[Category:Shi'ar]]

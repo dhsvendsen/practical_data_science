@@ -1,8 +1,3 @@
-{{Use mdy dates|date=October 2019}}
-{{Multiple issues|
-{{In-universe|date=March 2013}}
-{{More footnotes|date=March 2013}}
-}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Captain Universe.jpg
 |caption=Cover to ''[[Marvel Spotlight]]'' #9 (November 1980) featuring Captain Universe, art by [[Steve Ditko]]
@@ -18,7 +13,7 @@
 '''Captain Universe''' is a fictional character, a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. It is the guardian and protector of [[Eternity (comics)|Eternity]]. Rather than a character with a single identity, Captain Universe is a [[persona]] that has merged with several hosts during its publication history.
 
 ==Publication history==
-Captain Universe first appeared in ''[[Micronauts (comics)|Micronauts]]'' #8 and was created by [[Bill Mantlo]] and [[Michael Golden (comics)|Michael Golden]].
+Captain Universe first appeared in ''[[Micronauts (comics)|Micronauts]]'' #8 and was created by [[Bill Mantlo]] and [[Michael Golden (comics)|Michael Golden]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=78}}</ref>
 
 Captain Universe hosts have appeared in either special one-shots or short stories throughout the years, initially in the first series of the ''Micronauts'' in 1979.
 
@@ -28,7 +23,7 @@ Their appearances became even scarcer in the 1990s, appearing in ''Guardians of 
 
 In 1994, Captain Universe appeared in a one-shot, coinciding with a promotion, with the claim that readers could have a comic about themselves made for a fee. The comics were generally stock stories, with minor details (such as skin or hair color, key names or phrases, etc.) altered based on information provided by the purchaser. Veterinary student Jeff Christiansen, who would later become the force behind the resurgence of the ''[[Official Handbook of the Marvel Universe]]'' in the mid-2000s was made the official Captain Universe of the comic so that it could be considered an in-continuity comic. The one-shot was titled ''X-Men/Captain Universe: Sleeping Giants''.
 
-In 2005, after a four-year break from comic appearances, Captain Universe returned in the second series of ''Amazing Fantasy.''<ref>{{cite comic|title=Amazing Fantasy|volume=2|issue=#13 | year= 2005}}</ref> Also in 2005, a series of one-shot specials linked together by the [[Uni-Power]]/Captain Universe were released featuring different characters from the Marvel Universe as the Uni-Power each imbues them with power of Captain Universe. These titles were ''Captain Universe/Hulk'', ''Captain Universe/Daredevil'', ''Captain Universe/X-23'', ''Captain Universe/Invisible Woman'' and ''Captain Universe/Silver Surfer''. The Uni-Power made a brief appearance in ''Nextwave'', he also made a "cameo" as Cosmic Spider-Man for the variant cover of ''Friendly Neighborhood Spider-Man'' #3 and played an important part in the [[Death's Head 3.0]] saga chronicled in ''Amazing Fantasy''.
+In 2005, after a four-year break from comic appearances, Captain Universe returned in the second series of ''Amazing Fantasy.''<ref>{{cite comic|title=Amazing Fantasy|volume=2|issue=#13 | date= 2005|story=Power Corrupted, Part One|url=https://www.comics.org/issue/271185/#542773}}</ref> Also in 2005, a series of one-shot specials linked together by the [[Uni-Power]]/Captain Universe were released featuring different characters from the Marvel Universe as the Uni-Power each imbues them with power of Captain Universe. These titles were ''Captain Universe/Hulk'', ''Captain Universe/Daredevil'', ''Captain Universe/X-23'', ''Captain Universe/Invisible Woman'' and ''Captain Universe/Silver Surfer''. The Uni-Power made a brief appearance in ''Nextwave'', he also made a "cameo" as Cosmic Spider-Man for the variant cover of ''Friendly Neighborhood Spider-Man'' #3 and played an important part in the [[Death's Head 3.0]] saga chronicled in ''Amazing Fantasy''.
 
 Captain Universe made his return in ''[[Annihilation Conquest]]: Star-Lord'' and then in ''Annihilation Conquest'' #3. Captain Universe later returns to stop the [[Juggernaut (comics)|Juggernaut]], in an attempt to fulfill his destiny, as seen in ''Amazing Spider-Man'' #627–629.
 
@@ -51,7 +46,7 @@ Three former hosts of the Uni-Power (Susan Storm-Richards, Spider-Man and X-23) 
 
 An African-American woman acting as the newest Captain Universe joins the [[Avengers (comics)|Avengers]]<ref>''Avengers'' Vol. 5 #1 (December 2012). Marvel Comics.</ref> in the fight against [[Ex Nihilo (comics)|Ex Nihilo]], his sister [[Abyss (comics)|Abyss]], and a Builder named Aleph on Mars. Captain Universe vaporizes Aleph when he does not agree to stop transforming or destroying planets.<ref>''Avengers'' Vol. 5 #3. Marvel Comics.</ref> She is revealed to be Tamara Devoux, a woman who remained in a coma for ten years after a car crash. During a talk with [[Nightmask#Earth-616|Nightmask]], she translates his language and announces that not only is the universe dying, but the [[White Event]] is coming.<ref name="Avengers Vol. 5 #6">''Avengers'' Vol. 5 #6. Marvel Comics.</ref>
 
-During the "[[Spider-Geddon]]" storyline, the Spider-Men summoned the Enigma Force to aid them in their fight. The Enigma Force choose to make [[Miles Morales]] the new Captain Universe, which he used to help defeat them. Using the Sword Vigor from Leopardon, Miles was able to defeat Solus, Brix, Bora, and Daemos. The Enigma Force left him after the battle was won.<ref>''Spider-Geddon'' #4-5. Marvel Comics.</ref>
+During the "[[Spider-Geddon]]" storyline, the Spider-Men summoned the Enigma Force to aid them in their fight. The Enigma Force chose to make [[Miles Morales]] the new Captain Universe, which he used to help defeat them. Using the Sword Vigor from Leopardon, Miles was able to defeat Solus, Brix, Bora, and Daemos. The Enigma Force left him after the battle was won.<ref>''Spider-Geddon'' #4-5. Marvel Comics.</ref>
 
 ==Powers and abilities==
 Captain Universe generally possesses [[superhuman]] strength, flight, Uni-Vision (microscopic vision, [[X-ray]] vision, and telescopic vision), [[telekinesis]], enhanced senses, and a psychic awareness of imminent danger; when a person already possessing one or more of these abilities was transformed into Captain Universe, those abilities were amplified by vast amounts. Some manifestations of the Uni-Power have demonstrated other, less common abilities as well as failing to exhibit some of the more 'usual' powers, which vary in intensity with each wielder according to the strength and imagination of each. Captain Universe usually possesses the ability of molecular rearrangement of organic and inorganic matter, transmutation of elements, the ability to fire bursts of energy and concussive force, and hypnosis (using the Uni-Vision energy). Possessing its own sentience, the Uni-Power can and will abandon a host if necessary, or if said host uses or intends to use the granted abilities in a detrimental or criminal fashion.
@@ -123,20 +118,10 @@ Over the years the various incarnations of Captain Universe have faced many enem
 |''Web of Spider-Man Annual'' #5 (1989)
 |A scientist.
 |-
-|[[Spider-Man]]
-|Peter Parker
-|''Spectacular Spider-Man'' #158 (1989)
-|Possessed by them during the ''[[Acts of Vengeance]]'' storyline.
-|-
 |Little Eddie
 |Edward Price
 |''Web of Spider-Man Annual'' #6 (1990)
 |A toddler who became possessed by the Enigma Power to protect his parents from two demons named Gart and Rath that were summoned by Jane and Roger Price.
-|-
-|L'Matto
-|
-|''Guardians of the Galaxy'' #30 (1990)
-|A [[Badoon]] who wielded the Enigma Power to prevent the Guardians of the Galaxy from exterminating the Badoons.
 |-
 |Jeff Christiansen
 |Jeffrey Steven Christiansen
@@ -198,14 +183,9 @@ Over the years the various incarnations of Captain Universe have faced many enem
 |''Captain Universe/Silver Surfer'' #1 (2005)
 |A discharged [[Marine (military)|Marine]] of the [[United States Marine Corps]] that was wounded in action and was honorably discharged. First Captain Universe to get arrested by the Kree after he stopped a group from killing Kree Civilians (Annihilation Wave Sympathizers). He was then assigned to Peter Quill's Special Ops group. During his mission he accidentally killed teammate [[Deathcry]] who was attempting to kill him after he 'stole' one of her kills. The Uni-Power leaves Gabriel after he cures the airborne Phalanx virus. Gabriel is killed by Phalanx Select [[Blastaar]] sometime after the Uni-Power leaves him.
 |-
-|The Phalanx
-|Phalanx Drone
-|''Annihilation Conquest: Star-Lord'' #4 (2007)
-|First Techno-Organic organism to hold the Uni-Power.
-|-
 |William Nguyen
 |William Nguyen
-|''Amazing Spider-Man'' #627 (2010)
+|''Amazing Spider-Man'' #627-#629 (2010)
 |A man who was possessed by the Uni-Power and planned revenge on Juggernaut for ruining his life.
 |-
 |[[Juggernaut (comics)|Juggernaut]]
@@ -215,8 +195,13 @@ Over the years the various incarnations of Captain Universe have faced many enem
 |-
 |Tamara Devoux
 |Tamara Devoux
-|''Avengers'' Vol. 5 #1
-|An African-American woman who was hurt in a car crash. At the time of the crash, her little girl Ella was in the car. Tamara had been in a coma for 10 years. The Uni-Power (Enigma Force) sought out Tamara because she was dying as it was dying as well.<ref name="Avengers Vol. 5 #6"/>
+|''Avengers'' Vol. 5 #1 & #2 (2012)
+|An African-American woman who was hurt in a car crash. At the time of the crash, her little girl Ella was in the car. Tamara had been in a coma for 10 years. The Uni-Power (Enigma Force) sought out Tamara because she was dying as it was dying as well. Only makes a brief appearance in #2. <ref name="Avengers Vol. 5 #1"/>
+|-
+|The Phalanx
+|Phalanx Drone
+|''Annihilation: Conquest - Star-Lord'' #4 (2014)
+|First Techno-Organic organism to hold the Uni-Power.
 |-
 |[[Deadpool]]
 |Wade Winston Wilson

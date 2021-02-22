@@ -4,7 +4,7 @@
 A creature based on "Cyclone" appeared in the 2019 [[Marvel Cinematic Universe]] film ''[[Spider-Man: Far From Home]]'', which was actually an illusion created by a series of drones operated by [[Mysterio]].
 
 ==Publication history==
-The original Cyclone first appeared in ''[[The Amazing Spider-Man]]'' #143 and was created by [[Gerry Conway]] and [[Ross Andru]].
+The original Cyclone first appeared in ''[[The Amazing Spider-Man]]'' #143 and was created by [[Gerry Conway]] and [[Ross Andru]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=81}}</ref>
 
 The second Cyclone first appeared in ''[[Marvel Comics Presents]]'' #47 and was created by Sholly Fisch, [[Mark Bagley]], and [[Don Hudson]].
 
@@ -114,8 +114,7 @@ The original Cyclone was a man with gifted intelligence, with a master's degree 
 He designed a costume for himself which contained mechanisms that enabled him to accelerate volumes of air up to {{convert|300|mi/h|km/h}} within a radius of {{convert|100|ft|m}} from his body in the form of tornado-force whirlwinds about himself. He was able to use these whirlwinds to fly and could use them offensively against opponents. His costume was later passed on to the second Cyclone and later recreated for the third Cyclone.
 
 ==In other media==
-===Film===
-A member of the [[Elementals (Marvel Comics)|Elementals]] that is modeled after Cyclone appears in ''[[Spider-Man: Far From Home]]''.<ref>{{Cite web|url=https://www.cinemablend.com/news/2476052/how-kevin-feige-and-jon-watts-feel-about-potentially-bringing-green-goblin-and-doc-ock-back-to-the-spider-man-movies|title=How Kevin Feige And Jon Watts Feel About Potentially Bringing Green Goblin And Doc Ock Back To The Spider-Man Movies|date=2019-07-04|website=CINEMABLEND|access-date=2019-07-05}}</ref> It was labeled as an Air Elemental with power over wind, though its preferred method of attack was the use of lightning strikes. Though defeated offscreen in Morocco, the Air Elemental, like the other Elementals, was actually drones using illusion technology that was utilized by Quentin Beck and his fellow ex-Stark Industries employees (it is, in fact, the first Elemental to be determined an illusion—courtesy of Michelle Jones—and is the last Elemental to be seen as such before the final Elemental fusion illusion in London).
+A member of the [[Elementals (Marvel Comics)|Elementals]] modeled after Cyclone appears in the live-action [[Marvel Cinematic Universe]] film ''[[Spider-Man: Far From Home]]''.<ref>{{Cite web|url=https://www.cinemablend.com/news/2476052/how-kevin-feige-and-jon-watts-feel-about-potentially-bringing-green-goblin-and-doc-ock-back-to-the-spider-man-movies|title=How Kevin Feige And Jon Watts Feel About Potentially Bringing Green Goblin And Doc Ock Back To The Spider-Man Movies|date=2019-07-04|website=CINEMABLEND|access-date=2019-07-05}}</ref> Identified as the Air Elemental, it was said to have power over wind and storms. Prior to the film's events, [[Mysterio]] claims to have defeated it, but [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]] discovers all of the Elementals were actually drones equipped with holographic technology that Mysterio and his fellow ex-[[Stark Industries]] employees used to acquire [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]]'s technology and pass off Mysterio as a superhero.
 
 ==References==
 {{reflist}}
@@ -138,6 +137,5 @@ A member of the [[Elementals (Marvel Comics)|Elementals]] that is modeled after 
 [[Category:Comics characters introduced in 1975]]
 [[Category:Fictional characters with air or wind abilities]]
 [[Category:Fictional French people]]
-[[Category:Fictional mobsters]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]

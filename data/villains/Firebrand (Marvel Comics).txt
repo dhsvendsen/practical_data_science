@@ -1,0 +1,67 @@
+{{Short description|Fictional character in comics by Marvel Comics}}
+{{For|the DC Comics character|Firebrand (DC Comics)}}
+'''Firebrand''' (real name: Gary Gilbert) is a [[fictional character|fictional]] [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  A superpowered enforcer for corrupt [[industrialist]] [[Justin Hammer]], Firebrand is a former activist who turned to violence after believing peaceful protest produced no results.
+
+==Publication history==
+Firebrand first appeared in ''[[Iron Man (comic book)|Iron Man]]'' vol. 1 #27 (July 1970), and was created by [[Archie Goodwin (comics)|Archie Goodwin]] and [[Don Heck]].<ref name=Chronicles>{{cite book |last1=Sacks |first1=Jason |last2=Dallas |first2=Keith |title=American Comic Book Chronicles: The 1970s |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490564 |page=27}}</ref>
+
+==Fictional character biography==
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=Firebrand 001.jpg
+|caption=Firebrand (Gary Gilbert)
+|character_name=Firebrand
+|real_name=Gary Gilbert
+|publisher=Marvel Comics
+|debut=''[[Iron Man (comic book)|Iron Man]]'' vol. 1 #27 (Jul 1970)
+|creators=[[Archie Goodwin (comics)|Archie Goodwin]] (Writer)<br>[[Don Heck]] (Artist)
+|alliances=
+|aliases=
+|powers=[[Powered armor]] grants:<br>Superhuman strength<br>Flight via flying jets<br>Thermal blasts via flamethrowers<br>Resistance to fire
+|}}
+
+Gary Gilbert was born in [[Detroit, Michigan]]. A superpowered enforcer for corrupt [[industrialist]] [[Justin Hammer]], as Firebrand he is a former radical activist saboteur who turns to violence after believing peaceful protest produced no results.<ref>''Iron Man'' #27</ref> Firebrand is [[African-American]], and the "clenched fist" logo on his chest recalls the [[Black Power]] movement.<ref name=Chronicles/>
+
+In his first appearance in ''Iron Man'' #27 (July 1970), Firebrand describes his experiences demonstrating for the [[civil rights movement]] in a speech to Iron Man:
+
+{{quote|"I'm just an all-American boy, Iron Man, one of those wide-eyed innocents who started out to make the world a better place. I sat in for Civil Rights, marched for peace, demonstrated on campus, and got chased by vicious dogs, spat on by bigots, beat on by "patriots", choked by tear gas, and blinded by mace until I finally caught on. This country doesn't want to be changed! The only way to build anything decent is to tear down what's here and start over."}}
+
+While the story includes some positive messages about the civil rights movement, Firebrand is presented as a villain, because he sets himself outside of the existing political structure, and is willing to let innocents die to further his political and social aims. In his article "Everyday Heroism in Superhero Narratives", Michael Goodrum writes, "Having pursued tactics of accommodation without result, he turns to confrontation, asserting that there is nothing of value left in the system if it treats peaceful reformers with violence — essentially laying bare the coercive nature of power. It is Firebrand's absolutism that marks him as a villain in terms of the narrative."<ref>{{cite book |last1=Goodrum |first1=Michael |editor1-last=Wendt |editor1-first=Simon |title=Extraordinary Ordinariness: Everyday Heroism in the United States, Germany, and Britain, 1800-2015 |publisher=Campus Verlag |isbn=9783593506173 |pages=260–262 |url=https://www.google.com/books/edition/Extraordinary_Ordinariness/FO14DQAAQBAJ?hl=en&gbpv=1&bsq=firebrand |access-date=14 September 2020 |chapter=It Must Have Been Cold There in My Shadow: Everyday Heroism in Superhero Narratives}}</ref>
+
+Firebrand accidentally killed his own father.<ref>''Iron Man'' #45-48</ref> He also won the [[Black Lama]]'s "War of the Supervillains".<ref name="Iron Man #48">''Iron Man'' #48</ref> He then fell to alcoholism and gave up political activism only to work for other villains because he "needed the work".<ref name="Iron Man #60">''Iron Man'' #60</ref>  He later gave up his costumed identity and became a "supervillain agent", brokering employment for other costumed villains.<ref name="Iron Man #48"/><ref name="Iron Man #60"/>
+
+When news of the [[Scourge of the Underworld]]'s initial wave of supervillain murders spread among the criminal community, Gilbert took it upon himself to gather several costumed criminals for a meeting to determine what should be done about this menace. The meeting, held at an abandoned tavern in Medina County, Ohio, known among the criminal underworld as "The Bar With No Name", turned out to be a massacre, as Scourge infiltrated the event disguised as a bartender; a few minutes into the meeting, Scourge slaughtered every criminal present, including Gilbert, with machine gun fire.<ref>{{cite comic|writer = [[Mark Gruenwald]]|penciller = [[Paul Neary]]|inker = [[Dennis Janke]]|story = Overkill|title = [[Captain America]]|volume = 1|issue = 319|date = July 1986|publisher = Marvel Comics}}</ref>
+
+Firebrand was later among seventeen of the criminals murdered by the Scourge, who were resurrected by [[Hood (comics)|Hood]] using the power of [[Dormammu]] as part of a squad assembled to eliminate the [[Punisher]].<ref>''Punisher'' Vol. 7 #5</ref> His fire powers are augmented, and he can melt through concrete or metal.<ref>http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/punisher/villains/PunisherVillains-5.jpg</ref> After the Punisher is captured, he is present at the ritual where the Hood intends to resurrect the Punisher's family. [[Microchip (comics)|Microchip]] shoots [[G. W. Bridge]] in the head, which activates the ritual using Bridge's life force to resurrect Microchip and Punisher's families. The Punisher refuses to accept this, and forces Firebrand to burn his family alive, and then Punisher shoots Firebrand in the back of the head.<ref>''Punisher'' Vol. 7 #10</ref>
+{{Clear}}
+
+==Powers, abilities, and equipment==
+Gary Gilbert wore a suit with an armored exoskeleton that gave him superhuman strength and resistance to fire. It also housed flamethrowers (which allowed him to fire thermal blasts from his hands), one mounted on each wrist, and flying jets that gave him the ability to fly.
+
+==In other media==
+* The Gary Gilbert version of Firebrand appears in the 1994 ''[[Iron Man (TV series)|Iron Man]]'' animated series episode "Fire and Rain", voiced by [[Neal McDonough]].{{citation needed|date=August 2020}} This iteration is the son of the late ex-[[Stark Industries]] employee Simon Gilbert, who had stolen money from Tony Stark and started a fire that killed him, which Gary blamed Stark for. Calling himself Firebrand, Gary attacked power sources and demanded a ransom of a million dollars. Iron Man and [[War Machine]] confronted him at a dam that Gary detonated, but after Gary's jetpack and Iron Man's armor malfunctioned, War Machine confronted his fear of water to save them. Once they diverted the flood, Iron Man and War Machine handed Gary over to the police.
+* Firebrand appears in the ''[[Iron Man: Armored Adventures]]'' animated series episode "World on Fire". This version is a fire spirit and the guardian of the fourth Makluan Ring created by the original [[Mandarin (character)|Mandarin]] to test his potential successors' temperance. Anyone who fails the test becomes possessed by the Firebrand and turned into a lava monster until someone passes.<ref name="World on Fire">{{cite episode|title=World on Fire|series=Iron Man: Armored Adventures|network=NickToons|season=1|number=20|airdate=October 16, 2009}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marveldatabase.com/Gary_Gilbert_%28Earth-616%29 Firebrand I] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/firebrandbroxtel.htm|Firebrand II}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/firebranddennison.htm|Firebrand III}}
+
+{{Iron Man}}
+{{New Warriors}}
+
+[[Category:Characters created by Archie Goodwin]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Kurt Busiek]]
+[[Category:Characters created by Matt Fraction]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Comics characters introduced in 1991]]
+[[Category:Comics characters introduced in 1998]]
+[[Category:Comics characters introduced in 2012]]
+[[Category:Fictional activists]]
+[[Category:Fictional characters from Detroit]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Marvel Comics female supervillains]]
+[[Category:Marvel Comics supervillains]]

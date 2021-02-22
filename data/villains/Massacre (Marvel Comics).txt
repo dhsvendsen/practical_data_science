@@ -1,7 +1,7 @@
 {{Distinguish|text = [[Massacre (DC Comics)]] or [[List of Marvel Comics characters: M#Masacre|Masacre (Marvel Comics)]]}}
 {{Infobox comics character
 |character_name=Massacre
-|image=[[File:Massacre, as he appears on the cover of Superior Spider-Man.jpg|x310px|x310px]]
+|image=[[File:Massacre, as he appears on the cover of Superior Spider-Man.jpg|x310px]]
 |caption=Massacre as seen on the cover of ''The Superior Spider-Man'' #4.
 |alter_ego=Marcus Lyman
 |debut=''[[The Amazing Spider-Man]]'' #655 (April 2011)
@@ -43,3 +43,4 @@ While Massacre doesn't have any traditional super-powers, an accident made it ne
 [[Category:Comics characters introduced in 2011]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]
+[[Category:Fictional murderers]]

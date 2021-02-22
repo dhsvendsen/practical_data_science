@@ -1,3 +1,4 @@
+{{short description|Marvel Comics character}}
 {{Superherobox
 |image=[[File:Balder (comics).jpg|250px]]
 |caption=Balder.<br>Art by [[Olivier Coipel]].
@@ -19,8 +20,8 @@
 '''Balder the Brave''' is a [[Character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is based on the [[deity]] [[Baldr]] from [[Norse mythology]].
 
 ==Publication history==
-{{Expand section|date=December 2012}}
-Created by editor-plotter [[Stan Lee]] and penciller [[Jack Kirby]], Balder [[First appearance|first appears]] in ''[[Journey into Mystery]]'' #85 (October 1962).
+
+Created by editor-plotter [[Stan Lee]] and penciller [[Jack Kirby]], Balder [[First appearance|first appears]] in ''[[Journey into Mystery]]'' #85 (October 1962).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=40}}</ref>
 
 ==Fictional character biography==
 One of the Norse Gods of [[Asgard (comics)|Asgard]], Balder is the half-brother of the Thunder God [[Thor (Marvel Comics)|Thor]], companion to the [[Warriors Three]] and a loyal follower and son of [[Odin (comics)|Odin]], ruler of the gods.
@@ -35,7 +36,7 @@ Balder later accepts the warrior part of himself and goes on to save Karnilla's 
 
 Loki reveals Balder is the son of Odin and [[Frigga (comics)|Frigga]], and the half-brother of Thor, meaning he is then made a Prince of Asgard.<ref name="thorv310">''Thor'' vol. 3, #10 (Sept. 2008)</ref> When Thor is forced to kill his reborn grandfather Bor, Loki coerces Balder - now a royal prince - into exiling the Thunder God. Balder then assumes the throne of Asgard.<ref name="thor600">''Thor'' #600 (Apr. 2009)</ref> When Loki has the Asgardians moved to Latveria, he is shown at a banquet held by Doctor Doom. Balder even asked that since the Asgardians are now in Latveria, why couldn't they invite Thor as well. Loki calmed Balder down to prevent Doctor Doom from reacting to the comment.<ref name="thor601">''Thor'' #601 (June 2009)</ref> Balder meets a diner owner named Bill (who fell in love with [[Kelda (comics)|Kelda]] and followed her to Latveria) and gives him a cloak to keep warm.<ref name="thor602">''Thor'' #602 (Aug. 2009)</ref> Balder later witnesses Bill's assault by Loki's henchmen, upon Bill having discovered the evil nature of Loki's scheme with Doctor Doom.<ref name="thor603">''Thor'' #603 (Nov. 2009)</ref> After fending them off, Bill dies in Balder's arms having Balder tell Kelda that he loves her and telling Balder about Loki's plot.<ref name="thorgsf">''Thor Giant-Size Finale'' (Jan. 2010)</ref> Balder and the other Asgardians retaliate even after Doctor Doom kills Kelda. Balder and the other Asgardians are forced to fight Endrik (who has been modified with technological implants) and many other mutilated Asgardians.<ref name="thor604">''Thor'' #604 (Feb. 2010)</ref> Balder and the other Asgardians continued their fight with the mutilated Asgardians while Thor battled Doctor Doom.<ref name="thor605">''Thor'' #605 (Jan. 2010)</ref> Balder kills the mutilated Asgardians in order to get to Kelda's heart. After Loki restores Kelda to life and Thor defeats Doctor Doom's Destroyer armor, Balder leads the Asgardians back to Broxton, Oklahoma. Back in Asgard, Balder is concerned over his foolishness over allowing what transpired in Latveria to happen. Loki assures him he is a fine king.<ref name="thor606">''Thor'' #606 (Mar. 2010)</ref>
 
-During the ''[[Siege (comics)|Siege]]'' storyline, Loki warns Balder that Norman Osborn is rallying up an army to invade Asgard following the incident with [[Volstagg]] and the [[U-Foes]] at [[Soldier Field]].<ref name="siege1">''Siege'' #1 (Mar. 2010)</ref><ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=24329 |title=STORMING HEAVEN: "Siege" #1 |publisher=[[Comic Book Resources]] News |date=January 7, 2010 |accessdate=September 26, 2010 }}</ref> Balder is later informed about the situation with Volstagg by [[Hogun]] and [[Fandral]].<ref name="thor607">''Thor'' #607 (Apr. 2010)</ref> When [[Captain America]] arrives with the New Avengers and the Secret Warriors, Balder is pleased at the fact that Thor's allies have joined the battle.<ref name="siege3">''Siege'' #3 (May 2010)</ref><ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=25450 |title=STORMING HEAVEN: "Siege" #3 |publisher=[[Comic Book Resources]] News |date=March 29, 2010 |accessdate=September 26, 2010 }}</ref> Balder remains King of Asgard after the failed Siege, but is stricken with great guilt, believing his rule has led to naught but ruin, but Thor persuades him to remain monarch and accept him as his new Chief Advisor.<ref name="thor610">''Thor'' #610 (July 2010)</ref>
+During the ''[[Siege (comics)|Siege]]'' storyline, Loki warns Balder that Norman Osborn is rallying up an army to invade Asgard following the incident with [[Volstagg]] and the [[U-Foes]] at [[Soldier Field]].<ref name="siege1">''Siege'' #1 (Mar. 2010)</ref><ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=24329 |title=STORMING HEAVEN: "Siege" #1 |publisher=[[Comic Book Resources]] News |date=January 7, 2010 |access-date=September 26, 2010 }}</ref> Balder is later informed about the situation with Volstagg by [[Hogun]] and [[Fandral]].<ref name="thor607">''Thor'' #607 (Apr. 2010)</ref> When [[Captain America]] arrives with the New Avengers and the Secret Warriors, Balder is pleased at the fact that Thor's allies have joined the battle.<ref name="siege3">''Siege'' #3 (May 2010)</ref><ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=25450 |title=STORMING HEAVEN: "Siege" #3 |publisher=[[Comic Book Resources]] News |date=March 29, 2010 |access-date=September 26, 2010 }}</ref> Balder remains King of Asgard after the failed Siege, but is stricken with great guilt, believing his rule has led to naught but ruin, but Thor persuades him to remain monarch and accept him as his new Chief Advisor.<ref name="thor610">''Thor'' #610 (July 2010)</ref>
 
 Balder attends the Council of Godheads convened to counter the imminent universal threat of the ''Chaos King'' and his impending ''[[Chaos War (comics)|Chaos War]]'', to decide which mortal paragon they would choose to combat Mikaboshi. Vali Halfling later appears to the Council and challenges them to disprove their own impotence by stopping him before he himself attained godhood, and Balder tells Anansi that Halfling was the son of Loki and banished to Midgard long ago. When the Chaos War at long last nears Earth, the Council summons Hercules, Amadeus Cho and Delphyne Gorgon before them and command them to bow before their authority; in return, the newly restored and empowered Hercules fights and easily bests most of them, including Balder himself with a single rage-fueled blow.<ref name="chaosw1">''Chaos War'' #1 (Dec. 2010)</ref>
 
@@ -67,11 +68,11 @@ Balder first appears in the [[Ultimate Marvel]] Universe in the prequel limited 
 ===Television===
 * Balder appears in The Mighty Thor segment of ''[[The Marvel Super Heroes]]'', voiced by [[Chris Wiggins]].
 * Balder made a cameo appearance on the ''[[Spider-Man and His Amazing Friends]]'' episode "The Vengeance of Loki!".
-* Balder appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episodes "Thor the Mighty" and "Breakout, Part 1", voiced by [[Nolan North]].<ref name="lamarravengerscartoon">{{cite web|url=http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html|title=AVENGERS Animated Assembling w/ Phil Lamarr|first=Jenna|last=Busch|date=2010-02-08|publisher=[[Newsarama]]|accessdate=2010-02-08| archiveurl= https://web.archive.org/web/20100211013131/http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html| archivedate= 11 February 2010 | url-status= live}}</ref>
+* Balder appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episodes "Thor the Mighty" and "Breakout, Part 1", voiced by [[Nolan North]].<ref name="lamarravengerscartoon">{{cite web|url=http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html|title=AVENGERS Animated Assembling w/ Phil Lamarr|first=Jenna|last=Busch|date=2010-02-08|publisher=[[Newsarama]]|access-date=2010-02-08| archive-url= https://web.archive.org/web/20100211013131/http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html| archive-date= 11 February 2010 | url-status= live}}</ref>
 * Balder appears in ''[[The Super Hero Squad Show]]'' episode "Lo, How the Mighty Hath Abdicated", voiced by [[Travis Willingham]].
 
 ===Film===
-* Balder makes an appearance in the animated direct-to-video film ''[[Hulk Vs|Hulk vs. Thor]]'' voiced by [[Michael Adamthwaite]].<ref>{{cite web |url=http://efilmcritic.com/review.php?movie=18391&reviewer=402 |title=Movie Review - Hulk Vs. |author=Mel Valentin |date=January 28, 2009|publisher=efilmcritic.com |accessdate=September 8, 2010}}</ref>
+* Balder makes an appearance in the animated direct-to-video film ''[[Hulk Vs|Hulk vs. Thor]]'' voiced by [[Michael Adamthwaite]].<ref>{{cite web |url=http://efilmcritic.com/review.php?movie=18391&reviewer=402 |title=Movie Review - Hulk Vs. |author=Mel Valentin |date=January 28, 2009|publisher=efilmcritic.com |access-date=September 8, 2010}}</ref>
 
 ===Video games===
 * Balder appears in the video game ''[[Marvel: Ultimate Alliance]]'', voiced by [[Dave Wittenberg]].
@@ -91,10 +92,10 @@ Balder first appears in the [[Ultimate Marvel]] Universe in the prequel limited 
 {{Jack Kirby}}
 {{Stan Lee}}
 
-[[Category:Baldr]]
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1964]]
-[[Category:Fictional male deities]]
+[[Category:Fictional gods]]
+[[Category:Fictional swordfighters]]
 [[Category:Marvel Comics Asgardians]]
 [[Category:Marvel Comics superheroes]]

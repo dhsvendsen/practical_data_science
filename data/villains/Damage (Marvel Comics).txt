@@ -1,3 +1,4 @@
+{{About||the DC Comics character|Damage (DC Comics)}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Damage
@@ -67,11 +68,11 @@ As a cyborg, Damage possessed superhuman strength and durability, as well as num
 [[Category:Fictional gangsters]]
 [[Category:Punisher characters]]
 [[Category:Fictional assassins]]
+[[Category:Fictional characters with disfigurements]]
 [[Category:Fictional mass murderers]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Jim Lee]]
 [[Category:Comics characters introduced in 1989]]
 [[Category:Fictional characters from New York City]]
-[[Category:Fictional American people of Mexican descent]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Fictional characters with electric or magnetic abilities]]

@@ -1,7 +1,6 @@
 {{multiple issues|
-{{notability|date=July 2018}}
+{{refimprove|date=August 2020}}
 {{in-universe|date=July 2018}}
-{{More citations needed|date=November 2010}}
 }}
 {{Infobox comics character
 |image=ScimitarExcalibur.jpg
@@ -12,7 +11,6 @@
 |publisher=[[Marvel Comics]]
 |debut=''[[Iron Fist (comics)|Iron Fist]]'' v1# 5 (March 1976)
 |creators=[[Chris Claremont]] and [[John Byrne (comics)|John Byrne]]
-|alliance=Night Medical Center, New York
 |alliances= Weaponeers
 |aliases=
 |powers=Highly skilled with a blade

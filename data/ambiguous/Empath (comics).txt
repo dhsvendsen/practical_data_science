@@ -1,8 +1,4 @@
-{{Multiple issues|
-{{Lead too short|date=February 2010}}
-{{More citations needed|date=August 2008}}
 {{In-universe|date=September 2018}}
-}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image=NewMutants 62.jpg
 | caption = Cover to [[New Mutants]] #62 featuring [[Magma (comics)|Magma]] and Empath, April 1988. Art by [[Jon J Muth]].
@@ -17,15 +13,15 @@
 | powers = Psionic ability to sense and control emotions of others
 }}
 
-'''Empath''' ('''Manuel Alfonso Rodrigo de la Rocha'''), is a fictional [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Empath''' ('''Manuel Alfonso Rodrigo de la Rocha''') is a fictional [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted with abilities to control emotion in other people.
 
 ==Publication history==
-{{expand-section|date=September 2018}}
-Empath was created by [[Chris Claremont]] and [[Sal Buscema]] and first appeared in ''New Mutants'' <!-- only denote volume number after first --> #16-17 (June–July 1984) as a member of [[Emma Frost]]'s original [[Hellions (Marvel Comics)|Hellions]].
+
+Empath was created by [[Chris Claremont]] and [[Sal Buscema]] and first appeared in ''New Mutants'' <!-- only denote volume number after first --> #16-17 (June–July 1984) as a member of [[Emma Frost]]'s original [[Hellions (Marvel Comics)|Hellions]]. <ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=121}}</ref>
 
 ==Fictional character biography==
 ===Hellions===
-Manuel de la Rocha was born in [[Castile (historical region)|Castile]], [[Spain]]. He is a mutant who attended school at the Massachusetts Academy, where he was one of the original students of then villain, the [[Emma Frost|White Queen]]. Frost's students, who were known as the Hellions, were rivals of [[Professor X|Charles Xavier]]'s students, the [[New Mutants]]. Manuel fancied Frost so much that during the night, he attempted to take one peek in her mind but she detected instantly, deciding to show him ''everything'' about her. De la Rocha described her as cold as ice.{{Issue|date=April 2009}} De la Rocha was one of the few Hellions, along with [[Warpath (comics)|James Proudstar]], [[Magma (comics)|Amara Aquilla]], and [[Firestar (Marvel Comics)|Angelica Jones]] to survive an attack by time-travelling villain [[Trevor Fitzroy]] (although Empath's former teammate, [[Tarot (comics)|Tarot]] would eventually be resurrected).{{Issue|date=April 2010}}
+Empath was born in [[Castile (historical region)|Castile]], [[Spain]]. He is a mutant in the [[Marvel universe]] who attended school at the Massachusetts Academy, where he was one of the original students of then-villain, the [[Emma Frost|White Queen]]. Frost's students, who were known as the Hellions, were rivals of [[Professor X|Charles Xavier]]'s students, the [[New Mutants]]. Manuel fancied Frost so much that during the night, he attempted to read her mind but she noticed instantly, deciding to show him everything about her. Empath described her as cold as ice.{{Issue|date=April 2009}} De la Rocha was one of the few Hellions, along with [[Warpath (comics)|James Proudstar]], [[Magma (comics)|Amara Aquilla]], and [[Firestar (Marvel Comics)|Angelica Jones]] to survive an attack by time-travelling villain [[Trevor Fitzroy]] (although Empath's former teammate, [[Tarot (comics)|Tarot]] would eventually be resurrected).{{Issue|date=April 2010}}
 
 The White Queen once used Empath to manipulate Magneto into allowing the New Mutants to join the Hellions.{{issue|date=January 2015}} This was made easier as the New Mutants had been deeply traumatized by a powerful energy being called the [[Beyonder]].{{issue|date=January 2015}} During the course of this plan, he met two of Xavier's allies, [[Tom Corsi]] and [[Sharon Friedlander]].{{issue|date=January 2015}} He took the opportunity to attack them mentally, changing a subtle attraction to full blown obsessive sexual desire between the two.{{issue|date=January 2015}} They would show up several days later, severely traumatized.<ref>''New Mutants'' Vol. 1 #38</ref>
 
@@ -44,6 +40,11 @@ It is later revealed that Empath was meant to be a Trojan Horse, whose rejuvenat
 
 ===Necrosha===
 Empath was moved to the X-Men's new [[Utopia (comics)|Utopia]] prison, made out of [[Asteroid M]], alongside [[Sebastian Shaw (comics)|Sebastian Shaw]] and [[Donald Pierce]]. He was trapped in a psychic illusion where he is with Amara, before the illusion is shattered when [[Selene (comics)|Selene]]'s minions appear on Utopia's shores.<ref>''Necrosha'' one-shot</ref>
+
+===Dawn of X===
+Empath is later seen on Krakoa where he uses his powers to wreak havoc by manipulating his fellow Hellions into fighting each other, and also anyone who comes in his way, and as a result, he is assessed by the island's scientists and psychics. To their horror, they learned Empath is not a violent sociopath with an X-gene; rather, his X-gene transformed him into a violent sociopath. Because most people learn right or wrong by observing the reactions of others, swiftly realizing that negative behavior generates painful responses, when his X-gene activated at an unusually young age, it colored his natural development and psychological growth, so Empath had no way of learning these lessons. No matter what he did, no matter how much pain he caused, he only had to flex his mind and he would receive love and adulation. There were no consequences of abusing his powers, of taking advantage of others, and so he never had a way to learn right from wrong. Environmental cause and effect, the emotional data the mind requires to understand others, disappeared. As other mutants, whose powers are violent by nature, are also becoming a little out of control, the Quiet Council meet to discuss this matter, and the decision is to task Sinister with gathering a team to send into "therapeutic" missions where they are allowed to actually use their powers. The team's first mission is to destroy the now abandoned clone farm that Sinister left under the orphanage where Alex and Scott lived. <ref>''Hellions'' (Vol. 2) #1</ref>
+
+After the team enters the orphanage, Empath starts fooling around with Nanny's emotions which leads to her trying to 'nurse' Greycrow. Psylocke calls him out on it, but Greycrow has another answer to Manuel and shoots him straight in the head.<ref>''Hellions'' (Vol. 2) #2</ref>
 
 ==Powers and abilities==
 Empath possesses the psionic ability to sense and manipulate the emotions of others. He can affect large groups of individuals at a time and can exert varying levels of empathic control over them, ranging from subtle manipulations that others are generally unaware of, to a complete negation of emotion that reduces them to a zombie-like state in which he can command them with little effort. His power operates by means of Empath's own brainwaves overriding the parts of the brain that govern emotion in others.

@@ -1,5 +1,4 @@
 {{short description|Comic book supervillain}}
-{{primary sources|date=February 2010}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image=[[Image:RomulusWolverine.PNG|250px]]
 |caption=Variant cover art for ''Wolverine: Origins'' #40.<br>Art by [[Simone Bianchi (artist)|Simone Bianchi]]
@@ -15,7 +14,7 @@
 '''Romulus''' is a fictional comic book supervillain appearing in books published by [[Marvel Comics]], in particular those featuring [[Wolverine (character)|Wolverine]]. He is the leader of the Lupines, a species resembling humans that he claims evolved from [[Canidae|canines]] instead of [[primate]]s through [[convergent evolution]]. A shadowy character whose origin and motives remain a mystery, he is shown to have orchestrated most major events in the life of Wolverine, manipulating and controlling him for most of his life.
 
 ==Publication history==
-Created by writer [[Jeph Loeb]] and artist [[Simone Bianchi (artist)|Simone Bianchi]], the character first appeared obscured by shadow in ''Wolverine'' vol. 3 #50 (March 2007), and made his first full appearance in ''[[Wolverine: Origins]]'' #39 (August 2009).
+Created by writer [[Jeph Loeb]] and artist [[Simone Bianchi (artist)|Simone Bianchi]], the character first appeared obscured by shadow in ''Wolverine'' vol. 3 #50 (March 2007), and made his first full appearance in ''[[Wolverine: Origins]]'' #39 (August 2009).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=300}}</ref>
 
 ==Fictional character biography==
 Romulus is first seen in several flashbacks that [[Wolverine (character)|Wolverine]] experiences, later explained by [[Wild Child (comics)|Wild Child]] to have been induced by Romulus himself. He is shown leading the Lupines in prehistoric<ref>''Wolverine'' vol. 3 #50-51</ref> and barbaric<ref>''Wolverine'' vol. 3 #52</ref> times, being an emperor in [[Ancient Rome]],<ref>''Wolverine'' vol. 3 #53</ref> as well as being the main force behind [[Weapon X]].<ref>''Wolverine'' vol. 3 #54</ref>
@@ -57,7 +56,7 @@ Romulus is extremely intelligent with detailed knowledge of genetics and other a
 [[Category:Comics characters introduced in 2007]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Fictional life scientists]]
-[[Category:Fictional characters with slowed aging]]
+[[Category:Fictional characters with slowed ageing]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Jeph Loeb]]

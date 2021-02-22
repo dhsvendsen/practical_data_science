@@ -18,11 +18,11 @@
 '''Dreadknight''' ('''Bram Velsing''') is a fictional character, a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-{{expand section|date=August 2015}}
-The character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #101 (Aug. 1977) and was created by writer [[Bill Mantlo]] and penciller [[George Tuska]].
+
+The character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #101 (Aug. 1977) and was created by writer [[Bill Mantlo]] and penciller [[George Tuska]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=118}}</ref>
 
 ==Fictional character biography==
-'''Bram Velsing''' is a [[Latveria]]n scientist, unsatisfied with serving [[Doctor Doom]] whom he referred to as a "grotesque mockery of a man" and thought himself as his superior. Upon learning of Velsing's treacherous ideals, Doom uses a bio-fusion device to graft a skull-like metal helmet to Velsing's head, scarring him as a way to make him even with Doom. Velsing flees and comes under the care of Victoria Frankenstein, who nurses him back to health at Castle Frankenstein. The character gains a variety of weapons and rides the "Hellhorse", a mutated bat-winged flying black horse genetically engineered from [[Black Knight (Nathan Garrett)|Nathan Garrett]]'s flying white horse by Victoria Frankenstein. Calling himself the Dreadknight, the character attempts to force more resources from Frankenstein to defeat Doctor Doom, only to be defeated by [[Iron Man]] and [[Frankenstein's Monster (Marvel Comics)|Frankenstein's Monster]].<ref>''Iron Man'' #101-102</ref>
+'''Bram Velsing''' is a [[Latveria]]n scientist, unsatisfied with serving [[Doctor Doom]] whom he referred to as a "grotesque mockery of a man" and thought himself as his superior. Upon learning of Velsing's treacherous ideals, Doom uses a bio-fusion device to graft a skull-like metal helmet to Velsing's head, scarring him as a way to make him even with Doom.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=113}}</ref> Velsing flees and comes under the care of Victoria Frankenstein, who nurses him back to health at Castle Frankenstein. The character gains a variety of weapons and rides the "Hellhorse", a mutated bat-winged flying black horse genetically engineered from [[Black Knight (Nathan Garrett)|Nathan Garrett]]'s flying white horse by Victoria Frankenstein. Calling himself the Dreadknight, the character attempts to force more resources from Frankenstein to defeat Doctor Doom, only to be defeated by [[Iron Man]] and [[Frankenstein's Monster (Marvel Comics)|Frankenstein's Monster]].<ref>''Iron Man'' #101-102</ref>
 
 Dreadknight is revived by the mystical villains [[Morgan le Fay (Marvel Comics)|Morgan Le Fay]] and [[Mordred (comics)|Mordred]] and menaced [[Captain Britain]], [[Victoria Bentley]], and [[Bloodwraith|Sean Dolan]], but is defeated by [[Black Knight (Dane Whitman)|Dane Whitman]].<ref>''Black Knight'' (vol. 2) #2</ref>
 
@@ -49,13 +49,13 @@ The [[Ultimate Marvel]] version of Bram Velsing appears in a suit of armor based
 
 ==In other media==
 ===Television===
-* Dreadknight appeared in the 1990s ''[[Iron Man (TV series)|Iron Man]]'' TV series, voiced by [[Neil Dickson]]. He serves as one of the minions of the [[Mandarin (comics)|Mandarin]]. Dreadknight and [[Whiplash (comics)|Blacklash]] were rivals for the affections of [[Hypnotia]] (the sole female member of the Mandarin's followers). In this incarnation his Hellhorse is named Nightwing. 
-* The Dreadknights appear in ''[[Iron Man: Armored Adventures]]''. In the episode "Ancient History 101", they are a legion of stone statues brought to life by a test formed by the first Mandarin detailing about the Test of Wisdom. The word to stop them and pass the test is [[Carl Jung|Jung]] (which Iron Man managed to translate off of a sword that belonged to one of the Dreadknights).
+* Dreadknight appears in the 1990s ''[[Iron Man (TV series)|Iron Man]]'' animated series, voiced by [[Neil Dickson]].{{cn|date=August 2020}} He and his Hellhorse, Nightwing, serve as the [[Mandarin (character)|Mandarin]]'s henchmen, and the former competed against fellow henchman [[Whiplash (comics)|Blacklash]] for Hypnotia's affection.
+* A legion of Dreadknights appear in the ''[[Iron Man: Armored Adventures]]'' animated series episode "Ancient History 101".{{cn|date=August 2020}} The Dreadknights are stone statues created by the original Mandarin to guard one of his Makluan rings and test his potential successors' wisdom. They come to life after [[Temugin|Gene Khan]] fails the test and continue to attack him and his friends until Tony Stark passes the aforementioned test.
 
 ===Toys===
-* [[Toy Biz]] produced a Dreadknight action figure for the 1994 ''Iron Man'' animated series.
-* A figure of Dreadknight was released in ''The Danger of Dreadknight'' four-pack from the ''[[Marvel Super Hero Squad]]'' line, packaged with two figures of Iron Man and one of [[Mandarin (comics)|Mandarin]].
-* Dreadknight is also included in the San Diego Comic Con exclusive Marvel Legends "The Raft" box set.
+* [[Toy Biz]] produced a Dreadknight action figure for the 1994 ''Iron Man'' animated series tie-in line.
+* A figure of Dreadknight was released in ''The Danger of Dreadknight'' four-pack from the ''[[Marvel Super Hero Squad]]'' line, packaged with two figures of Iron Man and one of the [[Mandarin (character)|Mandarin]].
+* A figure of Dreadknight is included in the San Diego Comic Con exclusive Marvel Legends "The Raft" box set.
 
 ==References==
 {{reflist}}

@@ -5,7 +5,7 @@
 |real_name=Johnny Horton
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Amazing Adventures]]'' vol. 2 #15 (Nov 1972)
+|debut=''[[Amazing Adventures]]'' vol. 2 #15 (November 1972)
 |creators=[[Steve Englehart]]<br>[[Tom Sutton]]
 |alliances=[[Secret Empire (organization)|Secret Empire]]<br/>[[Masters of Evil]]
 |partners=[[Headlok]]
@@ -16,7 +16,7 @@
 
 ==Publication history==
 {{Expand section|date=March 2015}}
-Griffin first appeared in ''[[Amazing Adventures]]'' vol. 1 #15 (Nov 1972) and was created by [[Steve Englehart]] and [[Tom Sutton]].
+Griffin first appeared in ''[[Amazing Adventures]]'' vol. 1 #15 (Nov 1972) and was created by [[Steve Englehart]] and [[Tom Sutton]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=149-150}}</ref>
 
 ==Fictional character biography==
 John "Johnny" Horton was born in [[Tacoma, Washington]]. He later became a punk in the [[New Orleans]] gangs trying to make a name for himself until a [[Chicago]] man used him for some local muscle. Impressing his employer, Horton wanted to be more than a cheap hood resulting in the Chicago man bringing him to the [[Secret Empire (organization)|Secret Empire]] to be made into a supervillain. Horton did not know what the Secret Empire did. An unnamed scientist/surgeon that worked there followed the Empire's orders by surgically grafting a mane, large wings, lion-like paws, and a spiked prehensile tail to his body as well giving him an experimental mutagenic serum. The Empire's #1, #3, and #6 were present at this surgery. When Horton recovered, his face had become white and he was now a freak. Thus, he became the professional criminal known as the '''Griffin''' due to his resemblance to the mythological creature.
@@ -31,7 +31,7 @@ He later fought [[Ghost Rider (Johnny Blaze)|Ghost Rider]], Angel, and the [[Cha
 
 When he was residing in the [[Adirondack Mountains]], he fell under the control of [[Headlok]] who used him to attack the [[West Coast Avengers]]. He was calmed by [[Tigra]] and defeated and sent to the [[Vault (comics)|Vault]].<ref>''West Coast Avengers'' Vol. 2 #10</ref>
 
-During [[Iron Man]]'s "[[Armor Wars]]," Griffin escaped with [[Mister Hyde (comics)|Mister Hyde]], [[Mary MacPherran|Titania]], [[Armadillo (comics)|Armadillo]], and [[Vibro (comics)|Vibro]]. He was defeated and was re-imprisoned by [[Falcon (comics)|Falcon]] and [[Demolition Man (comics)|Demolition-Man]].<ref>''Captain America'' #340</ref>
+During [[Iron Man]]'s "[[Armor Wars]]", Griffin escaped with [[Mister Hyde (comics)|Mister Hyde]], [[Mary MacPherran|Titania]], [[Armadillo (comics)|Armadillo]], and [[Vibro (comics)|Vibro]]. He was defeated and was re-imprisoned by [[Falcon (comics)|Falcon]] and [[Demolition Man (comics)|Demolition-Man]].<ref>''Captain America'' #340</ref>
 
 Griffin was seen in the Vault's Cell Block Five during the [[Acts of Vengeance]] storyline. He participated in a mass escape from the Vault.<ref>''Avengers Spotlight'' #26</ref>
 
@@ -70,7 +70,7 @@ His costume is composed of synthetic stretch fabric and leather.
 
 ==In other media==
 ===Television===
-* Griffin appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' with his vocal effects provided by [[Fred Tatasciore]].{{cn|date=July 2017}} In the episode "The Breakout" Pt. 1, Griffin is seen as an inmate of the Big House when a mass breakout occurs. He tries to attack Ant-Man only to end up colliding with Whirlwind. In the episode "Who Do You Trust," [[Daisy Johnson]] uses her powers on Griffin to drive it berserk enough to attract the Avengers as a diversion so that Black Widow can bring Iron Man to Nick Fury. Griffin ended up locked in combat by Ms. Marvel. It was stated that Griffin broke his teeth on Ms. Marvel's leg following the battle.
+* Griffin appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' with his vocal effects provided by [[Fred Tatasciore]].{{cn|date=July 2017}} In the episode "The Breakout" Pt. 1, Griffin is seen as an inmate of the Big House when a mass breakout occurs. He tries to attack Ant-Man only to end up colliding with Whirlwind. In the episode "Who Do You Trust", [[Daisy Johnson]] uses her powers on Griffin to drive it berserk enough to attract the Avengers as a diversion so that Black Widow can bring Iron Man to Nick Fury. Griffin ended up locked in combat by Ms. Marvel. It was stated that Griffin broke his teeth on Ms. Marvel's leg following the battle.
 
 ===Film===
 * Griffin appears in ''[[Avengers Confidential: Black Widow & Punisher]]''. Right before joining the battle, he is shown transforming from his humanoid form into a more bestial one with wings & larger muscles. During the fight, Griffin was incapacitated by [[War Machine]] and presumably incarcerated by [[S.H.I.E.L.D.]] along with other villains present.
@@ -83,9 +83,12 @@ His costume is composed of synthetic stretch fabric and leather.
 * [http://comicvine.gamespot.com/griffin/4005-15386/ Griffin] at Comic Vine
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/griffinhorton.htm|Griffin}}
 
-{{Avengers}}
+{{Avengers characters}}
+{{Captain America}}
+{{Champions (comics)|Champions}}
 {{Namor}}
-
+{{Spider-Man characters}}
+{{X-Men}}
 [[Category:Characters created by Steve Englehart]]
 [[Category:Comics characters introduced in 1972]]
 [[Category:Fictional characters from New Orleans]]

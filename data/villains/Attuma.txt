@@ -16,11 +16,11 @@
 |supports= <!--optional-->
 |powers=Expert hand-to-hand combatant<br>Superhuman strength, agility, stamina, reflexes, and endurance<br>High level swimming speed<br>Specially developed vision<br>Self-propelled flight<br>Underwater and land adaptation<br>Access to highly advanced weaponry
 }}
-'''Attuma''' is a [[fictional character|fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an [[Atlantis (Marvel Comics)|Atlantean]] nomadic [[warlord]] who is usually depicted as an enemy of [[Namor|Namor the Sub-Mariner]], and is the father of the superhero [[Andromeda (Marvel Comics)|Andromeda]]. He believes he is the prophesied conqueror of the Atlantean Empire.
+'''Attuma''' is a [[fictional character|fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an [[Atlantis (Marvel Comics)|Atlantean]] nomadic [[warlord]] who is usually depicted as an enemy of [[Namor|Namor the Sub-Mariner]], and is the father of the superhero [[Andromeda (Marvel Comics)|Andromeda]]. He believes he is the prophesied conqueror of the Atlantean Empire.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=12}}</ref>
 
 ==Publication history==
-{{Expand section|date=March 2015}}
-Attuma first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' volume 1 #33 (1964), and was created by [[Stan Lee]] (writer) and [[Jack Kirby]] (artist).
+
+Attuma first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' volume 1 #33 (1964), and was created by [[Stan Lee]] (writer) and [[Jack Kirby]] (artist).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=29}}</ref>
 
 ==Fictional character biography==
 Attuma was born as a member of a tribe of barbaric [[Atlantis (Marvel Comics)|Atlanteans]], who were banished from [[Atlantis (Marvel Comics)|Atlantis]] ages ago. For unknown reasons Attuma was born with strength, endurance, and speed far superior to those of any normal Atlantean. Attuma quickly became leader of his tribe and declared that he would conquer the city of Atlantis as an ancient prophecy predicted. Attuma had an illegitimate daughter, [[Andromeda (Marvel Comics)|Andromeda]] by a woman named Lady Gelva, but he did not know she gave birth to his only child until confronted by Andromeda.<ref name="Iron Man Annual #10">''Iron Man Annual'' #10</ref> Attuma was disappointed to learn he had a child who wasn't a boy and was disgusted to find out Lady Gelva was the mother as he saw her as a "bullocked whale". Andromeda would later challenge her father as is the right of every first born male child, Attuma allowed the challenge to proceed because Andromeda had been raised as a warrior. Attuma won the challenge but Andromeda was kidnapped by Ghaur before Attuma could kill her.<ref name="X-Factor Annual #4">''X-Factor Annual'' #4</ref>
@@ -69,17 +69,17 @@ A zombie Attuma makes an appearance in ''Dead Days'' on one panel fighting the [
 ==In other media==
 
 ===Television===
-* Attuma appeared in the Namor segment of ''[[The Marvel Super Heroes]]''.
-* Attuma appeared in the 1967 ''[[Fantastic Four (1967 TV series)|Fantastic Four]]'' episode "Danger in the Depths", voiced by [[Henry Corden]].<ref name="Behind the Voice Actors">[https://www.behindthevoiceactors.com/characters/Marvel-Universe/Attuma/ Voice(s) of "Attuma."] ''Behind The Voice Actors''.</ref>
-* Attuma appears in ''[[The Avengers: United They Stand]]'' episode "To Rule Atlantis," voiced by [[Philip Akin]].<ref name="Behind the Voice Actors"/>
-* Attuma appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "Atlantis Attacks".
-* Attuma appears in [[List of Avengers Assemble episodes|several episodes]] of ''[[Avengers Assemble (TV series)|Avengers Assemble]]'',<ref>"[http://io9.com/5989494/first-look-at-disneys-new-avengers-assemble-cartoon First Look at Disney's New Avengers Assemble Cartoon]," [[io9]]. Retrieved December 15, 2016</ref> voiced by [[Dwight Schultz]] in season one and two<ref name="Behind the Voice Actors"/> and by [[Dan Donohue]] in season five.<ref>{{cite episode|title=Shadow of Atlantis Pt. 2|series=Avengers Assemble|network=Disney XD|season=5|number=2|airdate=September 23, 2018}}</ref> He is initially a member of [[Red Skull]]'s [[Cabal (comics)|Cabal]] until their disbandment. In the two-part episode "Shadow of Atlantis," Attuma and Atlantis are mentioned to have signed a peace treaty with the surface world. He later appears to apprehend his traitorous general Tiger Shark to face Atlantean justice. Though Black Panther and Shuri plan to follow him.
-* Attuma appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man: Web Warriors]]'', voiced again by Dwight Schultz.<ref name="Behind the Voice Actors"/> In the episodes "The Avenging Spider-Man" Pt. 1, Spider-Man and the Avengers fight Attuma and defeat him. In the episode "Contest of Champions" Pt. 3, Attuma, [[Annihilus]], and [[Terrax]] selected by Grandmaster to fight against Collector's team of Spider-Man, Thor, Agent Venom, and Iron Spider.
+* Attuma appeared in the ''Namor'' segment of ''[[The Marvel Super Heroes]]'' animated series.{{cn|date=October 2020}}
+* Attuma appeared in the 1967 ''[[Fantastic Four (1967 TV series)|Fantastic Four]]'' animated series episode "Danger in the Depths", voiced by [[Henry Corden]].<ref name="Behind the Voice Actors">[https://www.behindthevoiceactors.com/characters/Marvel-Universe/Attuma/ Voice(s) of "Attuma."] ''Behind The Voice Actors''.</ref>
+* Attuma appears in ''[[The Avengers: United They Stand]]'' animated series episode "To Rule Atlantis", voiced by [[Philip Akin]].<ref name="Behind the Voice Actors"/>
+* Attuma appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' animated series episode "Atlantis Attacks".{{cn|date=October 2020}}
+* Attuma appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series,<ref>"[http://io9.com/5989494/first-look-at-disneys-new-avengers-assemble-cartoon First Look at Disney's New Avengers Assemble Cartoon], [[io9]]. Retrieved December 15, 2016</ref> voiced by [[Dwight Schultz]] in season one and two<ref name="Behind the Voice Actors"/> and by Dan Donohue in season five.<ref>{{cite episode|title=Shadow of Atlantis Pt. 2|series=Avengers Assemble|network=Disney XD|season=5|number=2|airdate=September 23, 2018}}</ref> In season one, he is a member of the [[Red Skull]]'s [[Cabal (comics)|Cabal]] until the latter betrays them.
+* Attuma appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man: Web Warriors]]'' animated series episodes "The Avenging Spider-Man" Pt. 1 and "Contest of Champions" Pt. 3, voiced again by Dwight Schultz.<ref name="Behind the Voice Actors"/>
 
 ===Video games===
-* Attuma is a boss in the 1997 [[PlayStation (console)|PlayStation]] ''[[Fantastic Four (1997 video game)|Fantastic Four]]'' video game.<ref>{{cite video game | title=Fantastic Four| developer=Probe Entertainment | publisher=Acclaim Entertainment | date=1997-09-30}}</ref>
-* Attuma appears as a boss in the video game ''[[Marvel: Ultimate Alliance]]'',<ref>{{cite video game | title=Marvel: Ultimate Alliance | developer=Raven Software | publisher=Activision | date=2010-01-19 }}</ref> voiced by [[Gregg Berger]].<ref name="Behind the Voice Actors"/> He is revealed to have dethroned [[Namor]] and has taken over Atlantis alongside [[Tiger Shark (Marvel Comics)|Tiger Shark]] until the players defeat him.
-* Attuma appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|accessdate=13 January 2018}}</ref> He is first seen operating an undersea base in the Pacific Ocean that was backed by Roxxon Energy Corporation, until it was destroyed by Iron Man and Captain Marvel. After Kang creates Chronopolis, Attuma takes over Lemuria, as well as one of the five shards of the Nexus of Realities.  Captain America, Captain Marvel, Doctor Strange, and Thor come to retrieve the shard, but Attuma sets a trap and sends them to Sakaar. However, the heroes escape from Sakaar and recruit Hulk, as well as Stingray. Together, they return to Lemuria where they defeat [[List of monsters in Marvel Comics#Torg|Torg]], under Attuma's control, and then Attuma himself, retrivieng the shard.
+* Attuma appears as a boss in the 1997 [[PlayStation (console)|PlayStation]] ''[[Fantastic Four (1997 video game)|Fantastic Four]]'' video game.<ref>{{cite video game | title=Fantastic Four| developer=Probe Entertainment | publisher=Acclaim Entertainment | date=1997-09-30}}</ref>
+* Attuma appears as a boss in ''[[Marvel: Ultimate Alliance]]'',<ref>{{cite video game | title=Marvel: Ultimate Alliance | developer=Raven Software | publisher=Activision | date=2010-01-19 }}</ref> voiced by [[Gregg Berger]].<ref name="Behind the Voice Actors"/> He dethroned [[Namor]] and took over Atlantis alongside [[Tiger Shark (Marvel Comics)|Tiger Shark]], but the heroes are able to defeat him.
+* Attuma appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=13 January 2018}}</ref> He operates an undersea base backed by [[Roxxon]] until it was destroyed by [[Iron Man]] and [[Carol Danvers|Captain Marvel]]. After [[Kang the Conqueror]] creates Chronopolis, Attuma takes over Lemuria, as well as a shard of the Nexus of Realities. [[Captain America]], Captain Marvel, [[Doctor Strange]], and [[Thor (Marvel Comics)|Thor]] come to retrieve the shard, but Attuma traps and sends them to [[Sakaar]]. However, the heroes escape and recruit the [[Hulk]] and [[Stingray (comics)|Stingray]] to aid them. Together, they return to Lemuria, where they defeat Attuma and his monster [[List of monsters in Marvel Comics#Torg|Torg]] before retrieving the shard.
 
 ==References==
 {{reflist|2}}
@@ -89,8 +89,13 @@ A zombie Attuma makes an appearance in ''Dead Days'' on one panel fighting the [
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/attumanamor.htm|Attuma}}
 * {{Marveldatabase}}
 
-{{Namor}}
+{{Avengers}}
 {{Defenders}}
+{{Fantastic Four}}
+{{Flight Program}}
+{{Namor}}
+{{Hulk}}
+{{X-Factor}}
 {{Jack Kirby}}
 {{Stan Lee}}
 

@@ -1,7 +1,4 @@
 {{For|the DC Comics character|Mad Dog (DC Comics)}}
-
-{{in-universe|date=January 2009}}
-
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[File:Mad dog - solo avengers 9.jpg|250px]]
 |caption=Mad-Dog from a panel in ''Solo Avengers'' #9
@@ -15,11 +12,11 @@ image=[[File:Mad dog - solo avengers 9.jpg|250px]]
 |powers=enhanced senses and physical abilities, secretes neurotoxin in saliva
 }}
 
-'''Mad-Dog''' ('''Robert "Buzz" Baxter''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Mad-Dog''' ('''Robert "Buzz" Baxter''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=198-199}}</ref>
 
 ==Publication history==
-{{Expand section|date=October 2009}}
-Buzz Baxter's first appearance was in ''Miss America Comics'' #2 (1944), as the boyfriend of [[Patsy Walker]]. He continued to appear as a supporting character of Patsy until her comic was cancelled in 1965. He reappeared, alongside Patsy, in ''Amazing Adventures'' #13 (Jul. 1972) and made occasional appearances afterwards. He was revamped as the villain Mad-Dog in ''Defenders'' vol. 1 #125 (Nov. 1983).
+{{expand-section|date=May 2020}}
+Buzz Baxter's first appearance was in ''Miss America Comics'' #2 (1944), as the boyfriend of [[Patsy Walker]]. He continued to appear as a supporting character of Patsy until her comic was cancelled in 1965. He reappeared, alongside Patsy, in ''Amazing Adventures'' #13 (Jul. 1972) and made occasional appearances afterwards.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=221}}</ref> He was revamped as the villain Mad-Dog in ''Defenders'' vol. 1 #125 (Nov. 1983).
 
 ==Fictional character biography==
 Robert "Buzz" Baxter was born in Centerville, California. He and Patsy Walker were high school sweethearts, and got married shortly after graduation. After high school, he joined the [[United States Air Force|USAF]], serving in the [[Vietnam War]], eventually earning the rank of [[colonel]].<ref>''Avengers'' #144</ref> He later became the security consultant to the [[Roxxon Energy Corporation|Brand Corporation]]. He began an investigation of the [[Beast (comics)|Beast]]'s appearances at the Brand Corporation.<ref>''Amazing Adventures'' vol. 2 #13</ref> While he was working for Brand, he and Patsy grew distant and got divorced. Baxter had the [[Squadron Supreme]] capture the [[Avengers (comics)|Avengers]], and held them prisoner at a Brand facility. Baxter confronted his ex-wife Patsy, and was forced by Hellcat to release the Avengers from Brand captivity.<ref>''Avengers'' #141–142, 149</ref>
@@ -43,6 +40,7 @@ Robert Baxter has received combat training from the U.S. Air Force.
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/maddogbaxter.htm|Mad-Dog}}
 
+[[Category:Characters created by Ruth Atkinson]]
 [[Category:Comics characters introduced in 1944]]
 [[Category:Fictional characters from California]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]

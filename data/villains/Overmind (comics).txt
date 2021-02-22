@@ -1,8 +1,3 @@
-{{Multiple issues|
-{{lead too short|date=January 2016}}
-{{in-universe|date=July 2018}}
-{{more citations needed|date=March 2019}}
-}}
 {{short description|Villain in the Marvel Comics universe}}
 {{Infobox comics character 
 |character_name = Overmind
@@ -22,8 +17,12 @@
 }}
 '''Overmind''' (originally '''Over-Mind''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
+==Publication history==
+{{expand-section|date=June 2020}}
+The character first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #113 (Aug 1971).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=263}}</ref>
+
 ==Fictional character biography==
-The Overmind is an alien belonging to the [[Eternals (comics)|Eternals]] of Eyung. He was born uncounted millennia ago on the planet Eyung ("Eternus") as Grom. Acting as one of their warlords, he led massacres of entire species. He was also the reigning champion in their gladiatorial arenas. When his race had engaged the Gigantians in a war about to lead to mutual absolute destruction, Grom was chosen for his physical prowess as the receptacle for their entire population of several hundred million minds. He was launched in a protective capsule, unconscious for thousands of years while assimilating them into one single mind.
+The Overmind is an alien belonging to the [[Eternals (comics)|Eternals]] of Eyung. He was born uncounted millennia ago on the planet Eyung ("Eternus") as Grom.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=256}}</ref> Acting as one of their warlords, he led massacres of entire species. He was also the reigning champion in their gladiatorial arenas. When his race had engaged the Gigantians in a war about to lead to mutual absolute destruction, Grom was chosen for his physical prowess as the receptacle for their entire population of several hundred million minds. He was launched in a protective capsule, unconscious for thousands of years while assimilating them into one single mind.
 
 In recent years he awoke and piloted his ship to the nearest inhabited planet, Earth. There he came into contact with the [[Fantastic Four]], who had been warned by [[Uatu the Watcher]]. The Overmind took over the mind of [[Mister Fantastic]], and battled the Fantastic Four and [[Doctor Doom]], who proved unable to stop him until the [[Stranger (comics)|Stranger]] intervened and shrank the Overmind into a subatomic [[microverse]] on a dust mote, where he was left completely isolated with no available conquests, and went mad from the strain.<ref>''Fantastic Four'' #113–116</ref>
 
@@ -43,12 +42,12 @@ Shortly afterwards Grom was affected by the [[Purple Man]]'s mind-controlling ph
 ==Powers and abilities==
 The Overmind possesses vast psychic powers derived from the synthesized intellects of the billion Eternals of Eyung composing his essence, including telepathy, telekinesis, or illusion-casting, and can use them over great distances. The Overmind can scan the thoughts of others and project his thoughts into others' minds within an unrevealed radius. His victims are completely unaware of his influence unless he allows them. Even when severely weakened, with his mind comatose and his body under the influence of the 7 telepaths, whose assembled might was likened to a drop in the ocean compared to his own, he was able to control the minds of 800 people, and at full power he managed to push the [[Stranger (comics)|Stranger]], a cosmic entity rivaling [[Galactus]] in scope, to his mental limits. He possesses psychokinetic ability enabling him to lift psychokinetically approximately what he can physically lift. He can project psychokinetic concussion blasts capable of deforming steel at {{convert|10|ft|m}}.
 
-His sole weaknesses are his inability to control Eternals of any race, and his schizoid composition can make his abilities weaken immensely when sufficiently stressed.  The Overmind is susceptible to magic, the imposition of superior intellects and powers, and fatigue. Twice he suffered mental breakdowns, rendering him mentally vulnerable.
+His sole weaknesses are his inability to control Eternals of any race, and his [[schizoid]] composition can make his abilities weaken immensely when sufficiently stressed.  The Overmind is susceptible to magic, the imposition of superior intellects and powers, and fatigue. Twice he suffered mental breakdowns, rendering him mentally vulnerable.
 
 As a result of his alien physiognomy and metabolism, he possesses great superhuman physical strength, magnified sevenfold through psionic augmentation; and even more impressive speed, stamina, and durability. He is an experienced veteran of many wars, with considerable fighting skills.
 
 ==Notes==
-{{reflist|2}}
+{{reflist}}
 
 ==References==
 {{refbegin}}

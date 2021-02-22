@@ -13,7 +13,7 @@
 | powers = Superhuman strength and durability<br>Flame-throwing gauntlets<br>Projectile spikes on knuckles<br>Electrifying touch<br>Ability to cause radiation emission from eyes<br>Freezing breath
 }}
 
-'''Dreadnoughts''' are a type of [[fictional character|fictional]] [[robot]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Frequently employed by [[villain]]ous organizations, different forms are depicted within said organizations.
+'''Dreadnoughts''' are a type of [[fictional character|fictional]] [[robot]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Frequently employed by villainous organizations, different forms are depicted within said organizations. The robots first appeared in ''[[Strange Tales]]'' #154 (May 1940).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=118}}</ref>
 
 ==Fictional character biography==
 The Dreadnought is a non-sentient robotic combat instrument originally created by the subversive [[Hydra (comics)|HYDRA]] organization for use in various commando operations.<ref>''Strange Tales'' Vol. 1 #154</ref> The Dreadnought was first used to breach the [[S.H.I.E.L.D.]] [[Helicarrier]] to attempt to assassinate [[Nick Fury]].{{Issue|date=April 2010}}
@@ -36,13 +36,13 @@ The Dreadnought 2000 designed by A.I.M. has gauntlet projectors firing high pres
 ==In other media==
 
 ===Television===
-* The Dreadnoughts appear in ''[[The Avengers: Earth's Mightiest Heroes]]''.{{cn|date=March 2017}} This version is built around [[Stark Industries]]' technology by [[Hydra (comics)|HYDRA]] and are basically fully robotic versions of the [[S.H.I.E.L.D.]] [[Mandroid]]s. In the episode "Iron Man is Born", they are unleashed after [[Iron Man]] defeated HYDRA agents. Iron Man manages to defeat the Dreadnoughts.
-* The Dreadnoughts appear in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series, voiced by [[David Kaye (voice actor)|David Kaye]] (four legged robot),<ref name="Crack in the System">{{cite episode|title=Crack in the System|serieslink=Avengers Assemble (TV series)|series=Avengers Assemble|network=Disney XD|season=2|number=14|airdate=April 12, 2015}}</ref> and by [[Jason Spisak]] (Justin Hammer's battle suit).<ref name="Crack in the System"/> Three versions are built by [[Justin Hammer]]: a giant four legged robot, the original depiction and an experimental battle suit. In the episode "Crack in the System", the Dreadnoughts' variants are under [[Ultron]]'s control in order to attack the [[Avengers (comics)|Avengers]] both at [[Stark Tower|Avengers Tower]] and at Hammer Industries' facility each of which are destroyed by the Avengers.
+* The Dreadnoughts appear in the ''[[The Avengers: Earth's Mightiest Heroes]]'' animated series episode, "Iron Man is Born".{{cn|date=March 2017}} These versions are built by [[Hydra (comics)|HYDRA]] using [[Stark Industries]]' technology and used against [[Iron Man]], but he is able to defeat them.
+* The Dreadnoughts appear in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series episode, "Crack in the System".{{cn|date=August 2020}} These incarnations are built by [[Hammer Industries]] and come in three variants, one of which served as experimental battle armor used by company head [[Justin Hammer]]. [[Ultron]] takes command of the Dreadnoughts to attack the [[Avengers (comics)|Avengers]], but the heroes are able to destroy them.
 
 ===Video games===
-* Dreadnoughts were enemies in ''[[Spider-Man: Web of Fire]]'' for the [[Sega 32X]].{{cn|date=March 2017}}
-* Dreadnoughts appear in the ''[[Iron Man (video game)|Iron Man]]'' game.{{cn|date=March 2017}} This version looks like a big tank with missile-launchers and has the ability to create an explosion of energy that affects Iron Man's suit. Iron Man fights a Dreadnought in [[Afghanistan]]. 
-* Dreadnoughts appear in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.{{cn|date=March 2017}} They are summoned during the battle against [[Doctor Doom]].
+* Dreadnoughts appear in ''[[Spider-Man: Web of Fire]]'' for the [[Sega 32X]].{{cn|date=March 2017}}
+* Dreadnoughts appear in the 2008 ''[[Iron Man (video game)|Iron Man]]'' movie tie-in game.{{cn|date=March 2017}}
+* Dreadnoughts appear in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.{{cn|date=March 2017}}
 
 ==References==
 {{Reflist}}

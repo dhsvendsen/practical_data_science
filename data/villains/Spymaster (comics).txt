@@ -2,7 +2,7 @@
 |image= Spymaster.png
 |caption=Spymaster III<br/>Art by [[Frazer Irving]]
 |character_name=Spymaster
-|real_name= Sinclair Abbot
+|real_name= Unknown<br>Nathan Lemon<br>Sinclair Abbot
 |publisher=[[Marvel Comics]]
 |debut='''(Original)'''<br/>''[[Iron Man (comic book)|Iron Man]]'' #33<br/>(January 1971)<br/>'''(Lemon)'''<br/>''[[Iron Man (comic book)|Iron Man]]'' #254<br/>(March 1990)<br/>'''(Abbot)'''<br/>''Iron Man: The Inevitable'' #1 (2007) 
 |creators=Allyn Brodsky<br/>[[Don Heck]]<br/>[[Stan Lee]]
@@ -16,9 +16,9 @@
 
 ==Publication history==
 {{Expand section|date=December 2012}}
-Spymaster is a Marvel Comics supervillain, whose primary antagonist is Iron Man. He is a master of [[industrial espionage]]. His identity has changed several times over the years.
+Spymaster is a Marvel Comics supervillain, who is a recurring foe to Iron Man. He is a master of [[industrial espionage]]. His identity has changed several times over the years.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=148}}</ref>
 
-The first appearance of the character is in ''[[Iron Man (comic book)|Iron Man]]'' #33, and he was created by [[Allyn Brodsky]], [[Don Heck]], and [[Stan Lee]].
+The first appearance of the character is in ''[[Iron Man (comic book)|Iron Man]]'' #33 (Jan 1971), and he was created by [[Allyn Brodsky]], [[Don Heck]], and [[Stan Lee]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=352}}</ref>
 
 ==Fictional character biography==
 
@@ -51,7 +51,7 @@ Each Spymaster has no superhuman abilities. However, each is an exceptional figh
 ==In other media==
 
 ===Television===
-* Spymaster appeared in ''[[The Incredible Hulk (1982 TV series)|The Incredible Hulk]]'' episode "Prisoner of the Monster." He was named as such, but did not wear a costume of any type.
+* Spymaster appeared in ''[[The Incredible Hulk (1982 TV series)|The Incredible Hulk]]'' episode "Prisoner of the Monster". He was named as such, but did not wear a costume of any type but was depicted as an overweight man with black hair and a white suit.
 
 ==References==
 {{reflist}}

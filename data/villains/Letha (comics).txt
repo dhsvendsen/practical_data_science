@@ -1,5 +1,5 @@
 {{other uses|Letha (disambiguation)}}
-{{Notability|date=February 2019}}
+{{refimprove|date=September 2020}}
 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image=
@@ -58,8 +58,9 @@ A zombified version of Letha appeared in the [[Marvel Zombies]] universe as an i
 [[Category:Characters created by Ralph Macchio]]
 [[Category:Comics characters introduced in 1979]]
 [[Category:Female characters in comics]]
-[[Category:Female supervillains]]
 [[Category:Fictional professional wrestlers]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female supervillains]]
+[[Category:Marvel Comics martial artists]]<!--Wrestling is a martial art-->
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]

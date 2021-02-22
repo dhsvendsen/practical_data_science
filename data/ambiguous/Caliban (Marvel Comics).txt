@@ -5,24 +5,30 @@ image=Caliban Comics.jpg
 |real_name=
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
-|debut=''[[The Uncanny X-Men]]'' #148 (August [[1981 in comics|1981]])
+|debut=''[[The Uncanny X-Men]]'' #148 (August 1981)
 |creators=[[Chris Claremont]]<br>[[Dave Cockrum]]
 |alliances=[[X-Force]]<br />[[X-Men]]<br />[[X-Men: The 198|The 198]]<br />[[Horsemen of Apocalypse]]<br />[[X-Factor (comics)|X-Factor]]<br />[[Morlocks (comics)|Morlocks]]
 |aliases=Pestilence; Hellhound; Hound; Death
-|powers=*Sensing and tracking other mutants
-*Superhuman strength
+|powers='''Pre-alteration:'''
+*Sensing and tracking other mutants
+*Terror empowerment
 *Sensing and manipulating fears
+'''Apocalypse enhancements:'''
+*Body augmentation
 '''Formerly:'''
+*Shadow power
+*Claws and fangs
+*Invulnerability
 *Psychoactive virus generation
 |}}
 
-'''Caliban''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[The Uncanny X-Men]]'' #148 (August 1981), by writer [[Chris Claremont]] and artist [[Dave Cockrum]]. He is a [[Mutant (Marvel Comics)|Mutant]] who has the ability to sense other mutants, he was originally a member of the [[Morlocks (comics)|Morlocks]]. He was also a member of the [[X-Factor (comics)|X-Factor]], [[X-Men]], [[X-Force]] and [[X-Men: The 198|The 198]]. He was chosen twice by [[Apocalypse (comics)|Apocalypse]] as one of the [[Horsemen of Apocalypse]], first as Death and the second time as Pestilence, and Apocalypse also enhanced his superpowers through genetic manipulation.
+'''Caliban''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[The Uncanny X-Men]]'' #148 (August 1981), by writer [[Chris Claremont]] and artist [[Dave Cockrum]]. A [[Mutant (Marvel Comics)|Mutant]] with the ability to sense other mutants, he was originally a member of the [[Morlocks (comics)|Morlocks]]. He was also a member of the [[X-Factor (comics)|X-Factor]], [[X-Men]], [[X-Force]] and [[X-Men: The 198|The 198]]. He was chosen twice by [[Apocalypse (comics)|Apocalypse]] as one of the [[Horsemen of Apocalypse]], first as Death and the second time as Pestilence, and Apocalypse also enhanced his superpowers through genetic manipulation.
 
 The character was portrayed in film by [[Tómas Lemarquis]] in ''[[X-Men: Apocalypse]]'' (2016) and his older version by [[Stephen Merchant]] in ''[[Logan (film)|Logan]]'' (2017).
 
 ==Publication history==
 {{Expand section|date=April 2010}}
-Caliban's first appearance was in ''[[The Uncanny X-Men]]'' #148 (August [[1981 in comics|1981]]), written by [[Chris Claremont]] and illustrated by [[Dave Cockrum]].
+Caliban's first appearance was in ''[[The Uncanny X-Men]]'' #148 (August 1981), written by [[Chris Claremont]] and illustrated by [[Dave Cockrum]].
 
 ==Fictional character biography==
 [[Image:Calibankittypryde.PNG|right|thumb|Caliban, in his original form, with [[Kitty Pryde]]. From ''Uncanny X-Men #169'' (May 1983); art by Paul Smith and Bob Wiacek.]]
@@ -68,18 +74,23 @@ Caliban becomes part of a strike-force, who are in search of the first newborn m
 ===Necrosha===
 During the ''[[Necrosha]]'' storyline, Caliban is revived through the [[Technarchy|Technarch]] [[Techno-organic virus|transmode virus]] by [[Eli Bard]] and presented to [[Selene (comics)|Selene]] for the purpose of finding other dead mutants and resurrecting them by the same means, so Bard can sacrifice them and their powers to her.<ref>''X-Force #11''</ref> Caliban is later seen next to the grave of long time deceased New Mutants member [[Cypher (comics)|Cypher]] and began reviving him.<ref>''Necrosha X'' one-shot</ref> Through him Selene resurrected many deceased mutants,{{Issue|date=September 2011}} and as she faced X-Force, she digested their powerful life-force energies that would help extend her life.{{Issue|date=September 2011}}
 
+===Dawn of X===
+Caliban was one amongst many of the fallen mutants revived by The Five on the homeland of Homo Superior called [[Krakoa]], he was shortly gunned down by assailants who invaded Krakoa.<ref>''X-Force'' vol. 6 #1</ref> 
+  
 ==Powers and abilities==
-Caliban is a [[Mutant (Marvel Comics)|mutant]] with the ability to psionically sense other mutants out to several miles away and track their movements. He also has the ability to psionically sense, absorb, and turn the psionic energy of fear radiated by humans against them, inducing more intense fear within their minds. He could also utilize fear from others to boost his strength to a level sufficient to easily overpower the original [[Spider Woman]] (Jessica Drew).<ref name="first" />
+Caliban is a [[Mutant (Marvel Comics)|mutant]] with the ability to psionically sense other mutants out to several miles away and track their movements. He also has the uncontrolled ability to psionically sense, absorb, and turn the psionic energy of fear radiated by humans against them, inducing more intense fear within their minds. He could also utilize fear from others to boost his strength to a level sufficient to easily overpower the original [[Spider Woman]] (Jessica Drew).<ref name="first" />
 
 He is a formidable hand-to-hand combatant, having been trained by [[Iceman (comics)|Iceman]] and later [[Apocalypse (comics)|Apocalypse]].{{Issue|date=January 2011}}
 
-As Death, he attained superhuman strength, speed, agility, reflexes, coordination, balance, and endurance, as well as claws and fangs, through Apocalypse's genetic manipulation. He also has great skill at climbing and possesses superhuman leaping ability. He was also mentally conditioned to attack Apocalypse's former ally [[Mister Sinister]] on sight.{{Issue|date=January 2011}}
+As Death, he attained superhuman strength, speed, agility, reflexes, coordination, balance, endurance, claws and fangs as well as imperviousness to physical injury through Apocalypse's genetic manipulation.<ref>''X-Factor'' vol. 1 #52-53</ref> He also has great skill at climbing and possesses superhuman leaping ability. He was also mentally conditioned to attack Apocalypse's former ally [[Mister Sinister]] on sight.<ref>''X-Force'' #57 (Aug, 1996)</ref> His fear siphoning abilities had also been augmented and he can now control them as well as cast his power over a much wider net; not only gaining in strength from siphoning the anxiety of others but could harness strengthen and redistribute it in much stronger quantities by force of will.<ref>''X-Factor'' vol. 1 #50</ref> This facet of his bolstered power was dubbed the Shadow of Fear by Caliban himself.<ref>''X-Factor'' vol. 1 #51-53</ref>
 
 As Pestilence, Apocalypse gave him the ability to generate a mental plague, a virus that attacks from within on the highest planes of the psyche and breaks down the mental functions of the target.{{Issue|date=January 2011}}
 
-After being reverted to his original form, he still appears to retain some superhuman strength affected by his adrenaline, as he was shown lifting rubble off of [[Skids (comics)|Skids]] that proved difficult for even [[James Proudstar|Warpath]] to hoist.{{Issue|date=January 2011}}
+Being reverted to his original form by Masque, Caliban still appears to retain some superhuman strength affected by his adrenaline, as he was shown lifting rubble off of [[Skids (comics)|Skids]] that proved difficult for even [[James Proudstar|Warpath]] to hoist.{{Issue|date=January 2011}}
 
-After being resurrected through the Technarch transmode virus, his ability changed to psionically sense not living mutants but dead mutants.{{Issue|date=January 2011}}
+After being reanimated through the Technarch transmode virus, his ability changed to psionically sense not living mutants but dead mutants.{{Issue|date=January 2011}}
+
+Once resurrected after the rise of the new mutant homeland, he resumed his muscular physical appearance he had when he was a horsemen of Apocalypse and before Masque warped his excess flesh away.<ref>''X-Force'' vol. 6 #1</ref>
 
 ==Other versions==
 ===Age of Apocalypse===
@@ -100,14 +111,15 @@ Caliban appeared as a henchman and Horseman of Apocalypse.<ref>''X-Factor Foreve
 * Caliban appeared in ''[[X-Men: Evolution]]'', voiced by [[Michael Dobson (actor)|Michael Dobson]]. He is seen as a member of the Morlocks.{{citation needed|date=March 2017}}
 
 ===Film===
-* Caliban appears in ''[[X-Men: Apocalypse]]'', portrayed by [[Tómas Lemarquis]]. He works as an underground broker with [[Psylocke]] as his bodyguard, until [[Apocalypse (comics)|Apocalypse]] recruits her as one of his [[Horsemen of Apocalypse|Horsemen]].<ref>{{cite web|url=http://www.bbc.co.uk/newsbeat/article/32894977/x-men-apocalypse-will-feature-marvel-mutant-caliban|title=X-Men: Apocalypse will feature Marvel mutant Caliban|publisher=[[BBC]]|date=May 27, 2015|accessdate=May 28, 2015}}</ref><ref>{{cite web|last1=Jamie |first1=Lovett|url=http://comicbook.com/2015/05/26/new-x-men-apocalypse-official-set-photo-confirms-caliban/|title=New X-Men: Apocalypse Official Set Photo Confirms Caliban|publisher=Comicbook.com|date=May 26, 2015|accessdate=May 28, 2015}}</ref>
-* Caliban appears in ''[[Logan (film)|Logan]]'' portrayed by [[Stephen Merchant]].<ref>{{cite web|url=http://www.thewrap.com/logan-wolverine-3-plot-details-revealed-exclusive/|title=Inside ‘Logan': Wolverine 3 Plot Details Revealed (Exclusive)|publisher=The Wrap|date=October 5, 2016|accessdate=October 5, 2016}}</ref> Before the events of the film, Caliban helped the Transigen Project track down some of the last remaining mutants but left when he saw the horror caused by his actions, and he went into hiding with the very mutants he helped track down. He is recruited by [[Wolverine (character)|Logan]] and helps care for [[Professor X]], who is suffering from [[Alzheimer's]]. While trying to dump [[Donald Pierce]] outside of their shelter, Caliban is held at gunpoint by Pierce and kidnapped by the [[Reavers (comics)|Reavers]]. After Logan, Xavier, and [[X-23|Laura]] escape, Caliban is tortured by Pierce by exposing him to sunlight and severely burning him, forcing him to track the three mutants with his power. Caliban complies but gives them minimal amount of information about where the trio are. When visited by Dr. [[Zander Rice]] after the Reavers fail to capture the three, Caliban is manipulated into giving Rice their location by a promise that Logan and Xavier would not be harmed. When Caliban leads them to the Munson farm, he is shocked to see a clone of Logan killing Xavier. Deciding to rebel against his captors and give Logan and Laura a chance to escape, Caliban steals two grenades and sets them off, killing himself and destroying the van he was in. While the Reaver in the van with him was also killed, Pierce survived the explosion. Caliban's charred body is later seen in the Transigen facility, where Rice orders his scientists to extract some of his tissue for future experiments due to his tracking ability and high intellect.
+* Caliban appears in ''[[X-Men: Apocalypse]]'', portrayed by [[Tómas Lemarquis]]. He works as an underground broker with [[Psylocke]] as his bodyguard, until [[Apocalypse (comics)|Apocalypse]] recruits her as one of his [[Horsemen of Apocalypse|Horsemen]].<ref>{{cite web|url=http://www.bbc.co.uk/newsbeat/article/32894977/x-men-apocalypse-will-feature-marvel-mutant-caliban|title=X-Men: Apocalypse will feature Marvel mutant Caliban|publisher=[[BBC]]|date=May 27, 2015|access-date=May 28, 2015}}</ref><ref>{{cite web|last1=Jamie |first1=Lovett|url=http://comicbook.com/2015/05/26/new-x-men-apocalypse-official-set-photo-confirms-caliban/|title=New X-Men: Apocalypse Official Set Photo Confirms Caliban|publisher=Comicbook.com|date=May 26, 2015|access-date=May 28, 2015}}</ref>
+* Caliban appears in ''[[Logan (film)|Logan]]'' portrayed by [[Stephen Merchant]].<ref>{{cite web|url=http://www.thewrap.com/logan-wolverine-3-plot-details-revealed-exclusive/|title=Inside ‘Logan': Wolverine 3 Plot Details Revealed (Exclusive)|publisher=The Wrap|date=October 5, 2016|access-date=October 5, 2016}}</ref> Before the events of the film, Caliban helped the Transigen Project track down some of the last remaining mutants but left when he saw the horror caused by his actions, and he went into hiding with the very mutants he helped track down. He is recruited by [[Wolverine (character)|Logan]] and helps care for [[Professor X]], who is suffering from mental decline. While trying to dump [[Donald Pierce]] outside of their shelter, Caliban is held at gunpoint by Pierce and kidnapped by the [[Reavers (comics)|Reavers]]. After Logan, Xavier, and [[X-23|Laura]] escape, Caliban is tortured by Pierce by exposing him to sunlight and severely burning him, forcing him to track the three mutants with his power. Caliban complies but gives them minimal amount of information about where the trio are. When visited by Dr. [[Zander Rice]] after the Reavers fail to capture the three, Caliban is manipulated into giving Rice their location by a promise that Logan and Xavier would not be harmed. When Caliban leads them to the Munson farm, he is shocked to see a clone of Logan killing Xavier. Deciding to rebel against his captors and give Logan and Laura a chance to escape, Caliban steals two grenades and sets them off, killing himself and destroying the van he was in. While the Reaver in the van with him was also killed, Pierce survived the explosion. Caliban's charred body is later seen in the Transigen facility, where Rice orders his scientists to extract some of his tissue for future experiments due to his tracking ability and high intellect.
 
 ===Video games===
 * Caliban appears in the ''[[X-Men: Destiny]]'' video game voiced by [[Bob Glouberman]].{{citation needed|date=March 2017}}
 
 ===Toys===
 * Caliban received one action figure in the [[Toy Biz]] ''X-Force'' toy line. This figure was in his Death persona.
+* A Build-A-Figure of Caliban was made for the [[Hasbro]] Marvel Legends toy line.
 
 ==References==
 {{Reflist}}
@@ -119,13 +131,16 @@ Caliban appeared as a henchman and Horseman of Apocalypse.<ref>''X-Factor Foreve
 {{X-Men}}
 
 {{DEFAULTSORT:Caliban (Comics)}}
-[[Category:Comics characters introduced in 1981]]
 [[Category:Characters created by Chris Claremont]]
 [[Category:Characters created by Dave Cockrum]]
+[[Category:Comics characters introduced in 1981]]
 [[Category:Fictional characters with albinism]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics film characters]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
-[[Category:Superhero film characters]]
+[[Category:Wolverine characters]]
+[[Category:X-Factor (comics)]]
+[[Category:X-Men supporting characters]]

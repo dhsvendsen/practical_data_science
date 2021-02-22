@@ -2,7 +2,7 @@
 
 ==Publication history==
 {{Expand section|date=March 2015}}
-The first Porcupine first appeared in ''[[Tales to Astonish]]'' #48 (October 1963), and was created by [[Stan Lee]] and [[Don Heck]].
+The first Porcupine first appeared in ''[[Tales to Astonish]]'' #48 (October 1963), and was created by [[Stan Lee]] and [[Don Heck]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=273}}</ref>
 
 The second Porcupine first appeared in ''[[Daughters of the Dragon]]'' #3 and was created by [[Justin Gray]], [[Jimmy Palmiotti]], and Khari Evans.
 
@@ -128,9 +128,11 @@ In the ''[[House of M]]'' reality, William Bates was killed by Shashenka Popova 
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/porcupinetbolt.htm|Porcupine II}}
 * [http://en.marveldatabase.com/William_Bates_%28Earth-616%29 Billy Bates' character profile on en.marveldatabase.com]
 
+{{Ant-Man and Wasp}}
 {{Captain America}}
-{{Hank Pym}}
+{{Defenders}}
 {{Stan Lee}}
+
 [[Category:Characters created by Don Heck]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1963]]

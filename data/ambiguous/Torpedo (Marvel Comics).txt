@@ -1,5 +1,3 @@
-{{leadtooshort|date=February 2016}}
-
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image=[[Image:MarvelPremiere-39.jpg|250px]]
 |caption=The Torpedo (Brock Jones) debuts on the cover of ''[[Marvel Premiere]]'' #39 (Dec. 1977).<br>Art by [[Al Milgrom]].
@@ -18,7 +16,7 @@ image=[[Image:MarvelPremiere-39.jpg|250px]]
 '''Torpedo''' is the name of five [[fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-A separate character called the Torpedo was not related to subsequent versions and debuted in a one-shot story in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #59 (Dec. 1969).
+A separate character called the Torpedo was not related to subsequent versions and debuted in a one-shot story in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #59 (Dec 1969).<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=139}}</ref>
 
 The second version debuted wearing the Torpedo suit that was to become a feature for successive characters, but also only appeared in one story in ''Daredevil'' #126 (Oct. 1975). The third version, Brock Jones, appeared in ''Daredevil'' #126, #127 (Nov. 1975) and #134 (June 1976) and then starred in a storyline in ''[[Marvel Premiere]]'' #39 - 40 (Dec. 1977 - Feb. 1978). After a guest appearance in ''[[Defenders (comics)|Defenders]]'' #62 - 64 (Aug. - Oct. 1978) plot threads from the ''Marvel Premiere'' story were resolved in ''[[Rom (comics)|Rom]]'' #21 - 22 (Aug. - Sept. 1981). After appearing sporadically in the title, the character was killed in ''Rom'' #50 (Jan. 1984).
 

@@ -49,7 +49,7 @@ The most distinctive contrast of Hulk 2099 to his Earth-616 counterpart was his 
 
 ==In other media==
 ===Video games===
-* Hulk 2099 appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|accessdate=7 February 2018}}</ref>
+* Hulk 2099 appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=7 February 2018}}</ref>
 
 ==References==
 {{Reflist}}
@@ -62,10 +62,11 @@ The most distinctive contrast of Hulk 2099 to his Earth-616 counterpart was his 
 {{Hulk}}
 {{Marvel Multiverse}}
 
-[[Category:1994 comics debuts]]
 [[Category:Fictional characters with multiple personalities]]
-[[Category:Fictional shapeshifters]]
 [[Category:Hulk (comics)|2099]]
 [[Category:Marvel 2099 characters]]
-[[Category:Marvel 2099 titles]]
+[[Category:Marvel Comics characters who are shapeshifters]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male superheroes]]

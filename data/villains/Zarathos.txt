@@ -1,11 +1,10 @@
 {{Multiple issues|
-{{more citations needed|date=December 2017}}
 {{In-universe|date=August 2018}}
-{{Notability|date=August 2018}}
+{{refimprove|date=September 2020}}
 }}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:52 1 b-1-.jpg|240px|Cover of Marvel Comics' ''Ghost Rider'' #77]]
-|caption        = Cover of Marvel Comics' ''Ghost Rider'' #77
+|caption        = Cover of Marvel Comics' ''[[Ghost Rider (comic book)|Ghost Rider]]'' #77
 |character_name = Zarathos
 |full_name      = Zarathos
 |publisher      = [[Marvel Comics]]
@@ -18,7 +17,7 @@ image=[[Image:52 1 b-1-.jpg|240px|Cover of Marvel Comics' ''Ghost Rider'' #77]]
 |aliases        = [[Ghost Rider]]
 |powers         = Virtual [[immortality]]<br>[[Superhuman strength]]<br>Healing factor<br>[[Elemental]] powers
 }}
-'''Zarathos''' ({{IPAc-en|UK|ˈ|z|ær|ə|θ|ɒ|s}}, {{IPAc-en|US|-|θ|oʊ|s}}) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is depicted usually as a villain in stories featuring the character [[Ghost Rider]]. A [[List of Marvel Comics demons|demonic being]] who tortures and devours souls, he first appeared in  ''[[Marvel Spotlight]]'' #5 (August 1972), and was created by writers [[Roy Thomas]] and [[Gary Friedrich]], and artist [[Mike Ploog]].
+'''Zarathos''' ({{IPAc-en|UK|ˈ|z|ær|ə|θ|ɒ|s}}, {{IPAc-en|US|-|θ|oʊ|s}}) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is depicted usually as a villain in stories featuring the character [[Ghost Rider]]. A [[List of Marvel Comics demons|demonic being]] who tortures and devours souls, he first appeared in  ''[[Marvel Spotlight]]'' #5 (August 1972), and was created by writers [[Roy Thomas]] and [[Gary Friedrich]], and artist [[Mike Ploog]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=436}}</ref>
 
 ==Publication history==
 {{Expand section|date=November 2012}}
@@ -38,16 +37,16 @@ Before he was turned to stone, Zarathos had claimed that he had coupled with [[L
 During the ''[[Damnation (comics)|Damnation]]'' event, Zarathos along with Johnny Blaze went to Hell and took Mephisto's Throne, becoming the new King of Hell.{{issue|date=July 2019}}
 
 ==Powers and abilities==
-Zarathos is an extremely powerful demon almost on the same level as [[Mephisto (comics)|Mephisto]]. Zarathos possesses various inherent supernatural powers, and as such he is able to control the elements on the Earth themselves, and can trap his opponents by taking the ground itself and wrapping it around his foe. Zarathos, if he wishes, can form the rocks into spikes, impaling his foes.
+Zarathos is continuously shown to be able to challenge [[Mephisto (comics)|Mephisto]] in both earthly and magical combat. He possesses immeasurable levels of strength and stamina well beyond that of his hosts and is wholly immortal to anything other than the powers of beings such as the One Above All. When at full strength, Zarathos has exhibited influence over certain earthly elements; able to conjure thunderstorms to incinerate his opponents with bolts of lighting as well as rupture the ground either to trap his victims in hard rock or to impale them with spikes stalagmites.
 
-In addition, he has superhuman strength, durability and stamina and possesses the trait of immortality. He is able to shoot [[Wikt:hellfire|hellfire]] from his hands and is able to transport both himself and others to different locations. Apparently, the more souls he consumes, the more powerful he becomes. Zarathos also has significant knowledge of magical lore, and possesses the ability to manipulate magical energies for a variety of effects.
+He is able to shoot [[Wikt:hellfire|hellfire]] from his hands and is able to transport both himself and others to different locations. Apparently, the more souls he consumes, the more powerful he becomes. Zarathos also has significant knowledge of magical lore, and possesses the ability to manipulate magical energies for a variety of effects.
 
 ==Other versions==
 ===MC2===
-In the [[Marvel Comics 2|MC2]] alternate future, [[Kaine Parker|Kaine]] summons Zarathos in an attempt to save the life of his nephew, [[Darkdevil|Reilly Tyne]] (the son of [[Ben Reilly]] and Elizabeth Tyne) who is dying because he has inherited the genetic defects from his father’s cloned physiology. This backfires when Zarathos attempted to claim Tyne’s body as his own. At the same time, Kaine  also tries to bring [[Daredevil (Marvel Comics character)|Daredevil]] (who had been killed by the Kingpin while saving Kaine's life) back to life. The soul of Daredevil takes up residence in Tyne's body.  The forces of the two spirits residing within him tend to keep each other in check; Tyne gains Zarathos' physical appearance, demonic and regenerative powers, while the influence of Murdock keeps him from becoming corrupted. Under the influence of these two entities residing within him, Tyne decides to become the hero [[Darkdevil]].{{Issue|date=July 2009}}
+In the [[Marvel Comics 2|MC2]] alternate future, [[Kaine Parker|Kaine]] summons Zarathos in an attempt to save the life of his nephew, [[Darkdevil|Reilly Tyne]] (the son of [[Ben Reilly]] and Elizabeth Tyne) who is dying because he has inherited the genetic defects from his father's cloned physiology. This backfires when Zarathos attempted to claim Tyne's body as his own. At the same time, Kaine  also tries to bring [[Daredevil (Marvel Comics character)|Daredevil]] (who had been killed by the Kingpin while saving Kaine's life) back to life. The soul of Daredevil takes up residence in Tyne's body.  The forces of the two spirits residing within him tend to keep each other in check; Tyne gains Zarathos' physical appearance, demonic and regenerative powers, while the influence of Murdock keeps him from becoming corrupted. Under the influence of these two entities residing within him, Tyne decides to become the hero [[Darkdevil]].{{Issue|date=July 2009}}
 
 ==In other media==
-In the 2012 film ''[[Ghost Rider: Spirit of Vengeance]]'', the Ghost Rider is revealed to be an incarnation of Zarathos himself. In this version, Zarathos was an Angel of Justice sent to protect man. He was tricked by the Devil into Hell, where he was corrupted and driven insane. His mission of protecting the innocent turned into punishing the guilty; as a result, he became the Devil's Spirit of Vengeance. Because of this the Ghost Rider is covered in yellow flames as he is a corrupted spirit. After defeating Roarke (The Devil) and saving Danny, Zarathos finally remembers what his original mission was and the angel inside him finally reawakens. At the ending of the movie, the Ghost Rider is shown to be covered in blue flames.
+In the 2012 film ''[[Ghost Rider: Spirit of Vengeance]]'', the Ghost Rider is revealed to be an incarnation of Zarathos himself.{{cn|date=October 2020}} In this version as told by the monk Moreau, Zarathos was an Angel of Justice sent to protect humanity. He was tricked by the Devil to fall into Hell, where he was corrupted and driven insane. His mission of protecting the innocent turned into punishing the guilty; as a result, he became the Devil's Spirit of Vengeance. Because of this the Ghost Rider is covered in yellow flames as he is a corrupted spirit. After defeating The Devil as Roarke and saving Danny, Zarathos finally remembers what his original mission was and the angel inside him finally reawakens. At the ending of the movie, the Ghost Rider is shown to be covered in blue flames.
 
 ==References==
 {{reflist}}
@@ -69,3 +68,4 @@ In the 2012 film ''[[Ghost Rider: Spirit of Vengeance]]'', the Ghost Rider is re
 [[Category:Marvel Comics angels]]
 [[Category:Marvel Comics devils]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Merged fictional characters]]

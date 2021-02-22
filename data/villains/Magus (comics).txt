@@ -1,8 +1,9 @@
-#Redirect [[Adam Warlock#Other versions]]
+#Redirect [[Adam Warlock#The Magus]]
 
 {{Rcat shell|
 {{R from fictional character|Marvel Comics}}
 {{R from merge}}
+{{R comics to section}}
 }}
 
 [[Category:Comics characters introduced in 1976]]

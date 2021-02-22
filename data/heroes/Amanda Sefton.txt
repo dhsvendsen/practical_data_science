@@ -1,11 +1,10 @@
 {{redirect|Daytripper (comics)|the Vertigo limited series|Daytripper (DC Comics)}}
 {{In-universe|date=August 2018}}
-{{Refimprove|date=July 2007}}
 {{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
 |character_name=Daytripper
 |image=magikII.png
 |converted=y
-|caption=Amanda Sefton<br>by Darick Robertson
+|caption= Art by Darick Robertson
 |real_name=Jimaine Szardos
 |publisher=[[Marvel Comics]]
 |debut=''[[Uncanny X-Men]]'' #98 (Apr 1976)
@@ -22,17 +21,17 @@
 
 ==Publication history==
 {{Expand section|date=November 2008}}
-Amanda Sefton first appeared in ''[[Uncanny X-Men]]'' #98 (April 1976), created by [[Chris Claremont]] and [[Dave Cockrum]]. She has appeared occasionally in X-Men titles, probably most often in ''Uncanny X-Men'' and ''[[Excalibur (comics)|Excalibur]]''.
+Amanda Sefton first appeared in ''[[Uncanny X-Men]]'' #98 (April 1976), created by [[Chris Claremont]] and [[Dave Cockrum]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=225}}</ref> She has appeared occasionally in X-Men titles, most often in ''Uncanny X-Men'' and ''[[Excalibur (comics)|Excalibur]]''.
 
 As Magik, Amanda had her own [[eponym]]ous, four-issue [[Limited series (comics)|mini-series]] in 2000–2001 from writers [[Dan Abnett]] and [[Andy Lanning]], with artist [[Liam Sharp]].  The series focused on her taking over [[Otherplace|Limbo (also known as Otherplace)]].  The series also featured her foster brother/lover, [[Nightcrawler (comics)|Nightcrawler]].
 
 ==Fictional character biography==
-Jimaine and her mother [[Margali Szardos|Margali]] are [[witch]]es.  When Nightcrawler joined the X-Men, Jimaine eventually followed him to the US, assumed the identity of '''Amanda Sefton''', took a job as a [[flight attendant]], and became Nightcrawler's girlfriend.{{issue|date=December 2012}}  When Margali attacked the X-Men, believing Nightcrawler to have been responsible for the death of Stefan Szardos (her son; Jimaine's brother), "Amanda" revealed herself as Jimaine, convinced her mother to let Kurt live, and resumed her on-and-off relationship with him.<ref>''Uncanny X-Men Annual'' #4 (1980)</ref> Their relationship broke apart when Kurt suffered a severe case of self-doubt following an encounter with the [[Beyonder]] upon [[Secret Wars II|the latter's arrival on Earth]].<ref>''Uncanny X-Men'' #204</ref>
+Jimaine and her mother [[Margali Szardos|Margali]] are [[witch]]es.  When Nightcrawler joined the X-Men, Jimaine eventually followed him to the US, assumed the identity of '''Amanda Sefton''', took a job as a [[flight attendant]], and became Nightcrawler's girlfriend.<ref>Uncanny X-Men #169 (May 1983).</ref> When Margali attacked the X-Men, believing Nightcrawler to have been responsible for the death of Stefan Szardos (her son; Jimaine's brother), "Amanda" revealed herself as Jimaine, convinced her mother to let Kurt live, and resumed her on-and-off relationship with him.<ref>''Uncanny X-Men Annual'' #4 (1980)</ref> Their relationship broke apart when Kurt suffered a severe case of self-doubt following an encounter with the [[Beyonder]] upon [[Secret Wars II|the latter's arrival on Earth]].<ref>''Uncanny X-Men'' #204</ref>
 
 ===Daytripper===
 Much later, in need of her magical abilities, Nightcrawler called his former girlfriend Amanda Sefton to aid [[Excalibur (comics)|Excalibur]]. For dramatic reasons she chose to adopt the codename '''Daytripper''', playing on Kurt's codename, and presented herself in a new costume. Once familiarized with the problem at hand, Amanda did the best she could to help [[Meggan (comics)|Meggan]] and [[Rachel Summers]] locate the lost [[Captain Britain]] in the timestream, but as they made contact they only achieved to exchange Captain Britain for Rachel, who in his place entered the timestream to emerge in some farfetched future.<ref>''Excalibur'' (vol. 1) #75 (1994)</ref>
 
-Following this incident Kurt and Amanda traveled to Germany, where their mother Margali had been taken captive by [[D'Spayre]].<ref>''Excalibur'' #76 (April 1994)</ref> As Kurt wondered how such a powerful sorceress could be held captive against her will, Daytripper explained that the Winding Way is not only a mystic discipline, but also it functions like a journey with ups and downs. Currently Margali was at a low point and powerless or else D’Spayre could never have defeated her. The pair rescued their mother and Amanda returned with Kurt to Excalibur.<ref>''Excalibur'' #77 (May 1994)</ref>
+Following this incident Kurt and Amanda traveled to Germany, where her mother Margali had been taken captive by [[D'Spayre]].<ref>''Excalibur'' #76 (April 1994)</ref> As Kurt wondered how such a powerful sorceress could be held captive against her will, Daytripper explained that the Winding Way is not only a mystic discipline, but also it functions like a journey with ups and downs. Currently Margali was at a low point and powerless or else D’Spayre could never have defeated her. The pair rescued their mother and Amanda returned with Kurt to Excalibur.<ref>''Excalibur'' #77 (May 1994)</ref>
 
 Back on Muir Island, Amanda was the only one who recognized that the team's scientist Rory Campbell was the man destined to become the future mutant hunter Ahab, but she promised him to keep her knowledge secret and offered to be there for him whenever the need would arise.<ref>''Excalibur'' #80</ref>
 
@@ -62,15 +61,15 @@ While [[Pixie (X-Men)|Pixie]] has stated that she has been approached by both Am
 After Nightcrawler's resurrection<ref>''[[Amazing X-Men]]'' (vol. 2) #1–5</ref> and some period of readjustment, he sought out Amanda for a romantic reunion, but then Amanda was almost kidnapped by a villain called Trimega.<ref>''Nightcrawler'' #1 (2014)</ref> After Nightcrawler and his [[Bamf]]s subdued Trimega, he chose to grant Amanda and [[Margali Szardos|Margali]] sanctuary in the [[X-Mansion|Jean Grey School for Higher Learning]]; but then an army of Trimegas descended upon the school. During the battle, it turned out that Margali was actually Trimega's creator and had orchestrated the attack in order to gain knowledge of how to cross into the Afterlife. Armed with that knowledge, Margali opened a portal, whose existence would endanger reality. In order to stop her scheme, Nightcrawler and Amanda attempted to pass the gate, but Nightcrawler's voluntary exile from Heaven barred him from entry, stranding Amanda alone in the Void.<ref>''Nightcrawler'' (2014) #4</ref> They met again when Nightcrawler, fatally stabbed in combat by the [[Crimson Pirates]], was intercepted by Amanda at an "interim station" between life and death, who successfully encouraged him—with some assistance from [[Wolverine (character)|Wolverine]] and [[Jean Grey|Phoenix]]—to return to the land of the living.<ref>''Nightcrawler'' (2014) #10</ref>
 
 ==Powers and abilities==
-Amanda is a sorceress following the path of the Winding Way. Her power does change in its levels, it waxes and wanes over time, allowing her to summon such powers as teleportation, illusions casting, shape changing, mystical force bolts, hypnotism, and the manipulation of other complex mystical forces.
+Amanda is a sorceress following the path of the Winding Way. Her power changes in its levels, waxing and waning over time, allowing her to summon such powers as teleportation, illusions casting, shape changing, mystical force bolts, hypnotism, and the manipulation of other complex mystical forces.
 
-When she became the Sorceress Supreme of Limbo, Amanda began wielding the powerful Soulsword and while she couldn't access the full power of the sword, she could still create and control teleportation energies in the form of "stepping discs", to absorb souls of others either permanently or to simply store and transfer, to place and store the sword in absolute nothingness and to retrieve it from whence it came with ease, and like Illyana Rasputin, the more Amanda used the Soulsword, the more mystical Eldritch armor appeared on her body in addition to demonic features such as horns and hooves. The armor deflects or limits attacks, both physical and magical. However, on Earth, Amanda's abilities are limited to a different capacity. She has since lost these abilities when Limbo was sealed to her and resumed her normal display of powers.
+When she became the Sorceress Supreme of Limbo, Amanda began wielding the powerful Soulsword. While she couldn't access the full power of the sword, she could still create and control teleportation energies in the form of "stepping discs". This allows her to absorb souls of others either permanently or to simply store and transfer, to place and store the sword in absolute nothingness and to retrieve it from whence it came with ease. Like Illyana Rasputin, the more Amanda used the Soulsword, the more mystical Eldritch armor appeared on her body in addition to demonic features such as horns and hooves. The armor deflects or limits attacks, both physical and magical. However, on Earth, Amanda's abilities are limited to a different capacity. She has since lost these abilities when Limbo was sealed to her and resumed her normal display of powers.
 
 ==Other versions==
 In the "[[Days of Future Past]]" timeline, Amanda and Nightcrawler have a daughter [[Blue (comics)|Blue]] who inherited her father's appearance and similar teleporting powers.  Amanda and Nightcrawler, along with that timeline's version of Illyana Rasputin, were gunned down by a government strikeforce deployed to destroy the Xavier Institute after [[Senator Robert Kelly]] was assassinated.<ref>''Uncanny X-Men'' #188</ref>
 
-==Television==
-In ''[[X-Men: Evolution]]'', Amanda Sefton appears as Nightcrawler's love interest, but she does not have most of the background of her comic counterpart. Her mother's name remains Margali, but the Seftons appear to be a normal family.  She is portrayed as an American teenager of [[Demographics_of_Africa#Ethnicity|African]]/[[Romany people|Romany]] descent who accepts Kurt completely despite his mutation. She was voiced by [[Moneca Stori]]. 
+== In other media ==
+In ''[[X-Men: Evolution]]'', Amanda Sefton appears as Nightcrawler's love interest, but she does not have most of the background of her comic counterpart. Her mother's name remains Margali, but the Seftons appear to be a normal family. She is portrayed as an American teenager of [[Demographics_of_Africa#Ethnicity|African]]/[[Romany people|Romany]] descent who accepts Kurt completely despite his mutation. She was voiced by [[Moneca Stori]]. 
 
 In her first appearance, the episode "Shadow Dance", Amanda asks Kurt to be her date for a [[school dance]] and tells him that she did have a crush on him for months but was too shy to tell him, and that her feelings remained even after she once accidentally saw him turning off his image inducer. They start dating seriously, and after a time ("The Toad, the Witch and the Wardrobe") Amanda attempts to introduce Kurt — as his true self — to her parents. The intention is ruined by [[Toad (comics)|Toad]], who steals Kurt's image inducer, demolishing the Sefton home and revealing Kurt's true appearance before Amanda can properly prepare her parents. Even though Amanda's parents are understandably upset, Amanda shrugs off any discomforts which they might bring into her relationship with Kurt, and she continues to date him.
 
@@ -82,6 +81,7 @@ In her first appearance, the episode "Shadow Dance", Amanda asks Kurt to be her 
 *[http://www.marvel.com/universe/Magik_(Amanda_Sefton) Amanda Sefton] at the Marvel Universe
 
 {{Marvel Mystic}}
+{{Excalibur}}
 
 {{DEFAULTSORT:Sefton, Amanda}}
 [[Category:Comics characters introduced in 1976]]
@@ -98,3 +98,4 @@ In her first appearance, the episode "Shadow Dance", Amanda asks Kurt to be her 
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Fictional illusionists]]
+[[Category:Excalibur (comics)]]

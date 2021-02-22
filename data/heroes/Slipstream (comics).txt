@@ -32,7 +32,7 @@ In ''[[X-Men: The End]]'', a title presenting one possible future of the X-Men, 
 
 ==Reception==
 {{expand section|date=September 2017}}
-[[Comic Book Resources]] placed him as one of the superheroes Marvel wants you to forget.<ref>{{cite web|last1=Smith|first1=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|accessdate=2 September 2017|date=20 August 2017}}</ref>
+[[Comic Book Resources]] placed him as one of the superheroes Marvel wants you to forget.<ref>{{cite web|last1=Smith|first1=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|access-date=2 September 2017|date=20 August 2017}}</ref>
 
 ==References==
 {{Reflist}}
@@ -53,5 +53,6 @@ In ''[[X-Men: The End]]'', a title presenting one possible future of the X-Men, 
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:Characters created by Salvador Larroca]]
+[[Category:Fictional characters who can manipulate time]]
 
 [[it:Slipstream (personaggio)]]

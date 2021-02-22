@@ -1,4 +1,3 @@
-{{refimprove|date=February 2019}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image =[[Image:Slyde1stapp.jpg|250px]]
 | caption = Slyde in his first appearance cover by [[Ron Frenz]] and [[Josef Rubinstein]]
@@ -14,8 +13,8 @@
 '''Slyde''' ('''Jalome Beacher'''), is a [[fictional character]] who is a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-{{expand section|date=August 2016}}
-Slyde first appeared in ''[[The Amazing Spider-Man]]'' #272 and was created by [[Tom DeFalco]] and [[Sal Buscema]].
+{{expand-section|date=May 2020}}
+Slyde first appeared in ''[[The Amazing Spider-Man]]'' #272 and was created by [[Tom DeFalco]] and [[Sal Buscema]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=152}}</ref>
 
 ==Fictional character biography==
 Jalome Beacher was a [[chemical engineer]] who created a [[non-stick]] coating that could be applied to anything, only to be fired by his employers. He created a [[costume]] coated in the substance and decided to use it to [[bank robbery|rob banks]]. His all-white bodysuit allows him to slide across floors with relative ease, and renders him impervious to [[Spider-Man]]'s webbing. The suit has pads on the gloves so that Slyde can grip objects without them slipping from his grasp.<ref>''Amazing Spider-Man'' #272. Marvel Comics.</ref>
@@ -42,8 +41,7 @@ After M-Day, the second [[Donyell Taylor|Night Thrasher]] (formerly Bandit) gave
 The chemicals on Slyde’s suit allow him to move at nearly {{convert|30|mi/h|km/h}}. He is almost impossible to grasp and he is incredibly maneuverable. He's also a skilled chemist.
 
 ==In other media==
-===Television===
-* Slyde appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' episode "The Road to Goblin War," voiced by [[Phil LaMarr]].<ref name="The Road to Goblin War">{{cite episode|title=The Road to Goblin War|series=Spider-Man|network=Disney XD|season=2|number=47|airdate=November 3, 2019}}</ref> In this show, Jalome Beecher is a former worker at Beemont Chemical Corporation who was fired by the company's CEO Alan Beemont (voiced by [[Chris Edgerly]]<ref name="The Road to Goblin War"/>) for wanting credit for what he developed for the company. When Spider-Man first encounters Slyde in his revenge on the city, his webs can't affect him. Slyde gets away by causing a fire escape to collapse causing Spider-Man to save the people from getting crushed. His next attack is at the park where he manages to jam Spider-Man's web-shooters. With help from [[Doctor Octopus|Otto Octavius]], Spider-Man traced the chemicals that Slyde uses to Beemont Chemical Corporation where he is unable to get any information about Slyde from Alan Beemont. The coporation's CTO Dr. Joseph Rockwell (voiced by [[Eric Lopez (voice actor)|Eric Lopez]]<ref name="The Road to Goblin War"/>) speaks to Spider-Man where he revealed Slyde's origin. When Slyde attacks again, Spider-Man rescues people from the explosives that were set off. Thanks to Otto, Spider-Man finds Slyde's secret hideout at Beemont Chemical Corporation as the Octobots use special chemicals to counter Slyde's chemicals enabling Spider-Man to web him up. It is then discovered that Slyde was in cahoots with Dr. Rockwell so that Beemont would be fired and the Goblin Nation would take over. Slyde and Dr. Rockwell are arrested by the police.
+Slyde appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' animated television series episode "The Road to Goblin War", voiced by [[Phil LaMarr]].<ref name="The Road to Goblin War">{{cite episode|title=The Road to Goblin War|series=Spider-Man|network=Disney XD|season=2|number=47|airdate=November 3, 2019}}</ref> This version of Jalome Beecher is a former worker at the Beemont Chemical Corporation who was fired by the company's CEO Alan Beemont (voiced by [[Chris Edgerly]]<ref name="The Road to Goblin War"/>) and became Slyde to get revenge. Spider-Man attempts to stop Slyde, but is unable to get his webs to affect him. the latter escapes by causing a fire escape to collapse and forcing Spider-Man to save civilians from getting crushed. With [[Doctor Octopus|Otto Octavius]]' help, Spider-Man is able to trace Slyde's chemicals to Beemont, but fails to learn more about Slyde himself. However, the corporation's [[Chief technology officer|CTO]] Dr. Joseph Rockwell (voiced by [[Eric Lopez (voice actor)|Eric Lopez]]<ref name="The Road to Goblin War"/>) proves to be more cooperative and tells the web-slinger about the villain's origins. Spider-Man eventually tracks Slyde to his hideout and uses Otto's octobots to counter the villain's chemicals and allow the hero to defeat him. Slyde also reveals he was working with Dr. Rockwell to get Beemont fired, leading to the two of them being arrested.
 
 ==References==
 {{reflist|3}}
@@ -62,6 +60,6 @@ The chemicals on Slyde’s suit allow him to move at nearly {{convert|30|mi/h|km
 [[Category:Fictional African-American people]]
 [[Category:Fictional engineers]]
 [[Category:Fictional New York City Police Department officers]]
-[[Category:Fictional police officers]]
+[[Category:Fictional police officers in comics]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]

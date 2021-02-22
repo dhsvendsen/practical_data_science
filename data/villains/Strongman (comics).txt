@@ -2,7 +2,7 @@
 The '''Strongman''' is the name of three different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-The Bruce Olafson version of Strongman first appeared in ''[[The Incredible Hulk (comic book)|Incredible Hulk]]'' #3 (September 1962), and was created by [[Stan Lee]] and [[Steve Ditko]]. The character subsequently appears in ''The Amazing Spider-Man'' #16 (September 1964), ''The Avengers'' #22 (November 1965), ''Thor'' #145 (October 1967), ''Ghost Rider'' #72-73 (September–October 1982), ''The Sensational She-Hulk'' #1 (May 1989), and ''X-Men and Power Pack'' #3 (February 2006). The Strongman appeared as part of the "Circus of Crime" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #2.
+The Bruce Olafson version of Strongman first appeared in ''[[The Incredible Hulk (comic book)|Incredible Hulk]]'' #3 (September 1962) as a member of the [[Circus of Crime]], and was created by [[Stan Lee]] and [[Steve Ditko]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=388-389}}</ref> The character subsequently appears in ''The Amazing Spider-Man'' #16 (September 1964), ''The Avengers'' #22 (November 1965), ''Thor'' #145 (October 1967), ''Ghost Rider'' #72-73 (September–October 1982), ''The Sensational She-Hulk'' #1 (May 1989), and ''X-Men and Power Pack'' #3 (February 2006). The Strongman appeared as part of the "Circus of Crime" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #2.
 
 ==Fictional character biography==
 ===Bruce Olafsen===
@@ -38,8 +38,8 @@ Strongman was with the Circus of Crime when they were seen in [[Bagalia]].<ref>'
 
 During the "Opening Salvo" part of the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Strongman was with the Circus of Crime at the time when they are recruited by [[Helmut Zemo|Baron Helmut Zemo]] to join the Army of Evil.<ref>''Captain America: Steve Rogers'' #16</ref>
 
-===Percy van Norton===
-Percy van Norton took a serum which made him into a "perfect human" with a range of superhuman abilities. But although he started out fighting crime, something went wrong and he turned bad, ending up fighting as a Nazi as a member of the Battle-Axis. Percy van Norton joined the Battle-AXis in their fight against the [[Invaders (comics)|Invaders]]. At the end of the battle, van Norton and the other Battle-Axis members was defeated and captured.<ref>''Invaders'' Vol. 2 #1</ref>
+===Percy Van Norton===
+Percy Van Norton took a serum which made him into a "perfect human" with a range of superhuman abilities. But although he started out fighting crime, something went wrong and he turned bad, ending up fighting as a Nazi as a member of the Battle-Axis. Percy Van Norton joined the Battle-AXis in their fight against the [[Invaders (comics)|Invaders]]. At the end of the battle, Van Norton and the other Battle-Axis members was defeated and captured.<ref>''Invaders'' Vol. 2 #1</ref>
 
 '''NOTE''': This character is based on the [[public domain]] character Strongman that first appeared in ''Crash Comics'' #2 (May 1940) as a wartime hero.{{citation needed|date=August 2015}} As a Marvel character however, he is a retcon addition where he did not appear in a Timely book. The character had fallen into the public domain and was used by Marvel as a villainous member of the Battle-Axis for their second volume of ''The Invaders''.{{citation needed|date=August 2015}}
 
@@ -64,6 +64,7 @@ The drug that Percy van Norton took gave him superhuman strength, dexterity, sta
 * [http://marvel.com/universe/Strong_Man_%28Bruce_Olafsen%29 Strongman] at Marvel.com
 * [http://marvel.wikia.com/Bruce_Olafsen_%28Earth-616%29 Strongman] at Marvel Wiki
 {{Stan Lee}}
+{{Steve Ditko}}
 
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Steve Ditko]]

@@ -13,7 +13,7 @@
 | creators = [[Gene Colan]] (Artist)<br/>[[Marv Wolfman]] (Writer)
 | alliances = [[Nightstalkers (comics)|Nightstalkers]]<br/>[[Midnight Sons]]
 | aliases = Henry Kagle
-| powers = Regenerative healing factor<br/>Superhuman strength and speed<br/>Halted aging<br/>Ability to turn into mist<br/>Ability to transform into a werewolf<br/>Flight<br/>Skilled detective and marksman
+| powers = Regeneration<br/>Superhuman strength and speed<br/>Halted aging<br/>Ability to turn into mist<br/>Ability to transform into a werewolf<br/>Flight<br/>Skilled detective and marksman
 | cat = super
 | subcat = Marvel Comics
 | hero = y
@@ -22,7 +22,7 @@
 | addcharcat# =
 }}
 
-'''Hannibal King''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared as a supporting character in the 1970s [[comic book]] ''[[The Tomb of Dracula]]''.  The character is usually depicted as a supernatural detective.
+'''Hannibal King''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared as a supporting character in the 1970s [[comic book]] ''[[The Tomb of Dracula]]'', issue #25 (Oct 1974).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=205}}</ref>  The character is usually depicted as a supernatural detective.
 
 The character was portrayed by [[Ryan Reynolds]] in the 2004 film ''[[Blade: Trinity]]''.
 
@@ -59,8 +59,8 @@ In the first appearance of Hannibal King (''The Tomb of Dracula'' #25) and durin
 In ''The Tomb of Dracula'' #25, the reader is not told immediately that King was a vampire. This is not revealed until the final panel. In a writing fashion similar to [[O Henry]], there are visual and dialogue cues that are cleverly placed throughout the story. Many of these instances were pointed out by observant fans in the letter column of a later issue. [[Marv Wolfman]], in his responses to reader letters, confirmed most of them as well as added several that they missed:
 *King mentions in narration that on a previous case he was in a building investigating industrial espionage. A vampire killed everyone that was in said building. (As he doesn't say when the vampire arrived, read a certain way, this could be intended to include himself).
 *In a crowded bar scene, King does not have a reflection in the mirror behind the bar.
-*While on the current case, King seems to have covered a distance in ten minutes that [[London]] natives know takes about an hour on foot. He was not seen to drive a car at any time during the story. Also, it is very late at night so there is no public transport.
-*King enters a building that he seems to know is a trap. He reads a sign on the door that says "Open, please come in". According to vampire lore, a vampire can only enter a private residence when he is explicitly invited.
+*While on the current case, King seems to have covered a distance in three minutes that [[London]] natives know takes about an hour on foot. He was not seen to drive a car at any time during the story. Also, it is very late at night so there is no public transport; in fact, King refuses to hire a cab when he is offered.
+*King enters a building that he seems to know is a trap. He reads a sign on the door that says "Welcome - come in". According to vampire lore, a vampire can only enter a private residence when he is explicitly invited.
 *King appears in a frame having entered said building, but already upstairs. However, no staircase is seen going down to the previous floor. The frame suggests that he could have flown up and entered via the window.
 *King mentions in narration that a room that he is searching is pitch black, although he seems to have no problem seeing.
 *Dracula says to King that "...soon you will acknowledge me as your master." In the comic, Dracula is Lord of the Vampires and does not and cannot extend his lordship beyond vampires.
@@ -89,10 +89,12 @@ Hannibal King was ranked #25 on a listing of Marvel Comics' monster characters i
 [[Category:Comic book sidekicks]]
 [[Category:Comics characters introduced in 1974]]
 [[Category:Fictional characters from Milwaukee]]
+[[Category:Fictional occult and psychic detectives]]
 [[Category:Fictional private investigators]]
 [[Category:Fictional vampire hunters]]
 [[Category:Male horror film characters]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics film characters]]
 [[Category:Marvel Comics vampires]]

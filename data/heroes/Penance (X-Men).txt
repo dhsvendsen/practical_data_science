@@ -15,7 +15,7 @@ image=[[File:XMEN Hollow.jpg|200px]]
 '''Hollow''' (formerly called '''Penance''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. It is an apparently mindless body which three members of the St Croix family, all members of the [[superhero]] team [[Generation X (comics)|Generation X]], had been trapped in at some time. The body possesses red diamond-like skin and rarely speaks.
 
 ==Publication history==
-Penance first appeared in ''[[Generation X (comics)|Generation X]]'' #1 (November, 1994), and was created by [[Scott Lobdell]] and [[Chris Bachalo]].
+Penance first appeared in ''[[Generation X (comics)|Generation X]]'' #1 (November, 1994), and was created by [[Scott Lobdell]] and [[Chris Bachalo]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=268}}</ref>
 
 Hollow appeared as a supporting character in ''[[Avengers Academy]]'' beginning with issue #21 (Jan 2012), making occasional appearances throughout the series.
 
@@ -54,6 +54,9 @@ Monet St. Croix is mentioned when her brother Emplate attacks [[Utopia (comics)|
 ===Avengers Academy===
 Penance/Hollow (along with most of the members from the Loners) was seen among the new students attending the [[Avengers Academy]].<ref>''Avengers Academy'' #21</ref>
 
+===Dawn of X===
+Claudette and Nicole St. Croix have re-appeared as members of the new mutant nation of Krakoa, they were shown at the Akademos Habitat both turned into Penance, they were being reprehended by their sister Monet.<ref>''New Mutants'' (Vol. 4) #1</ref>
+
 ==Publication history==
 The original creative team behind ''Generation X'', [[Scott Lobdell]] and [[Chris Bachalo]], intended Penance to be a girl called Yvette from [[Yugoslavia]].<ref>''Generation X'', Ashcan edition (1994)</ref>  This was never directly revealed in the comic and links to [[M (Marvel Comics)|Monet St. Croix]] were made by the subsequent creative team.
 
@@ -70,8 +73,8 @@ The powers of the different hosts/prisoners of the Penance form vary, but the ho
 
 ==External links==
 * [https://web.archive.org/web/20070225092424/http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=663 Uncannyxmen.net character bio on Penance I/M II]
-* [http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=664 Uncannyxmen.net character bio on Penance II/M twins]
-* [http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=788 Uncannyxmen.net character bio on Penance III]
+* [https://web.archive.org/web/20050218021804/http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=664 Uncannyxmen.net character bio on Penance II/M twins]
+* [https://web.archive.org/web/20050217231805/http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=788 Uncannyxmen.net character bio on Penance III]
 
 [[Category:Characters created by Chris Bachalo]]
 [[Category:Characters created by Scott Lobdell]]

@@ -1,5 +1,6 @@
 {{for|the member of [[Salem's Seven]]|Salem's Seven#Members}}
 {{refimprove|date=April 2019}}
+{{notability|date=September 2020}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | character_name=Vertigo
 | image=vertigo236.jpg
@@ -22,6 +23,7 @@
 '''Vertigo''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a native of the [[Savage Land]] who obtained superhuman powers at a young age by [[genetic engineering]]. Her powers enable her to render a person severely [[dizziness|dizzy]] and even [[unconsciousness|unconscious]].
 
 ==Publication history==
+{{expand-section|date=December 2020}}
 Vertigo first appeared in ''[[Marvel Fanfare]]'' #1 (March [[1982 in comics|1982]]), created by writer [[Chris Claremont]] and artist [[Michael Golden (comics)|Michael Golden]].
 
 ==Fictional character biography==
@@ -49,7 +51,7 @@ A Vertigo clone appears in ''[[X-Force]]'' #9.<ref>''X-Force'' vol. 2, #9 (Jan. 
 ==Powers and abilities==
 Vertigo is an artificially enhanced [[Savage Land Mutates|mutate]] who possesses the ability to project waves of psionic energy into her environment which affect the nervous systems of other living beings, distorting their physical perceptions and sense of balance. This power induces effects ranging from mild disorientation and vertigo to unconsciousness. Vertigo can focus her power on one or more individuals, or project it outward from herself in all directions, affecting everyone within her range of influence.
 
-Vertigo is not immune to her own powers, as she was thrown off balance when [[Thor (Marvel Comics)|Thor]] reflected her psychic waves back at her with [[Mjolnir (Marvel Comics)|Mjolnir]].
+Vertigo is not immune to her own powers, as she was thrown off balance when [[Thor (Marvel Comics)|Thor]] reflected her psychic waves back at her with [[Mjolnir (comics)|Mjolnir]].
 
 ==Other versions==
 
@@ -57,13 +59,12 @@ Vertigo is not immune to her own powers, as she was thrown off balance when [[Th
 In the ''[[Age of X]]'' reality Vertigo appeared as an X-Man.<ref>''X-Men Legacy'' #245</ref>
 
 ==In other media==
-
 ===Television===
-* Vertigo also appeared in ''[[X-Men (TV series)|X-Men]]'' voiced by Megan Smith. She was one of the followers of Mister Sinister in the Savage Land. In the series, her powers were amplified after Mister Sinister genetically modified her with Magneto's DNA. Later in the ''X-Men'' animated series she joins the [[Nasty Boys]] who were working for [[Mister Sinister]] too.{{Citation needed|date=November 2008}}
-* Vertigo first appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' episode "eXcessive Force", voiced by [[Vanessa Marshall]]. She appears as a member of [[Mister Sinister]]'s [[Marauders (comics)|Marauders]]. Vertigo and Blockbuster were pursuing Berzerker in the sewers only to run into Cyclops. She escaped to warn Arclight as Cyclops catches up to them. As Cyclops attacks Arclight, Vertigo escapes. Vertigo later appears in the episode "Shades of Grey" where she along with the other Marauders fight the X-Men. She is defeated by [[Emma Frost]].{{Citation needed|date=May 2008}}
+* Vertigo appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, voiced by Megan Smith. This version is a follower of [[Mister Sinister]], who genetically modified her with [[Magneto (Marvel Comics)|Magneto]]'s DNA to strengthen her powers in the two-part episode "Reunion". In the four-part episode "Beyond Good and Evil", she joins Sinister's [[Nasty Boys]].{{Citation needed|date=November 2008}}
+* Vertigo first appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' animated series, voiced by [[Vanessa Marshall]]. This version is a member of Mister Sinister's [[Marauders (comics)|Marauders]]. In the episode "eXcessive Force", Vertigo and [[Blockbuster (Marauder)|Blockbuster]] pursue [[Berzerker (comics)|Berzerker]], only to encounter [[Cyclops (Marvel Comics)|Cyclops]]. While Blockbuster fights him, Vertigo escapes to warn [[Arclight (comics)|Arclight]]. After Cyclops catches up to them, she escapes once more. In the episode "Shades of Grey", Vertigo joins the Marauders in fighting the [[X-Men]], only to be defeated by [[Emma Frost]].{{Citation needed|date=May 2008}}
 
 ===Video games===
-* Vertigo appears in ''[[Deadpool (video game)|Deadpool]]''.<ref>http://www.comingsoon.net/news/gamenews.php?id=103948</ref> She is one of Mister Sinister's Marauders. Vertigo attacks Deadpool in the sewers, but he shoots and kills her at the end of the level. Another clone of her appears near the end and attacks Deadpool with the other Marauders.
+Vertigo appears as a boss in ''[[Deadpool (video game)|Deadpool]]''.<ref>http://www.comingsoon.net/news/gamenews.php?id=103948</ref> This version is a member of Mister Sinister's Marauders, who encounter the [[Deadpool|eponymous character]] after they unknowingly cost him a bounty. Deadpool fights and kills Vertigo, and later does the same with several clones of her while hunting Sinister.
 
 ==References==
 {{reflist|2}}

@@ -8,20 +8,21 @@ image=[[Image:SHAW.jpg]]
 |debut=''[[The Uncanny X-Men]]'' #129 (January [[1980 in comics|1980]])
 |creators=[[Chris Claremont]]<br>[[John Byrne (comics)|John Byrne]]
 |alliances=[[Hellfire Club (comics)|Hellfire Club]]<br>Shaw Industries<br>[[Generation Hope (comics)|The Lights]]<ref>''Generation Hope'' #15</ref>
-|aliases=Black King, Lord Imperial, Black Bishop
-|powers=Absorb various types of pure [[energy]] to further enhance his physical attributes and healing prowess<br>Possesses access to sophisticated weaponry and telepathic blocking technology 
+|aliases=Black King, Lord Imperial, Black Bishop, The Creator, Klaus Schmidt
+|powers=*Ability to absorb various types of pure [[energy]] to further enhance his physical attributes and decelerate his aging (limited to some energy factor that could overwhelm his ability to absorb it and possibly kill him)
+*Possesses access to sophisticated weaponry and telepathic blocking technology
+*Well skilled [[hand-to-hand combat]]ant
+*Longevity (only when he absorbs energy)
 }}
 
-'''Sebastian Hiram Shaw''' is a [[fictional character|fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He has been frequently depicted as an adversary of the [[X-Men]].
+'''Sebastian Hiram Shaw''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He has been frequently depicted as an adversary of the [[X-Men]].
 
-A [[Mutant (Marvel Comics)|mutant]], Shaw possesses the ability to absorb [[energy]] and transform it into raw strength. He is the leader of the New York branch of the [[Hellfire Club (comics)|Hellfire Club]], an exclusive [[secret society]] bent on world domination, although to the public, he is a legitimate businessman and ordinary human. He once funded the mutant-hunting [[Sentinel (comics)|Sentinel program]] to keep it under his thumb. In 2009, Shaw was ranked as [[IGN]]'s 55th Greatest Comic Book Villain of All Time.<ref>[http://www.ign.com/top/comic-book-villains/55.html Sebastian Shaw is number 55] [[IGN]]. Retrieved 10-05-09.</ref>
+A [[Mutant (Marvel Comics)|mutant]], Shaw possesses the ability to absorb [[energy]] and transform it into his own raw strength. He is the leader of the New York branch of the [[Hellfire Club (comics)|Hellfire Club]], an exclusive [[secret society]] composed of mutants bent on world domination, although to the public, he is a legitimate businessman and ordinary human. He once funded the mutant-hunting [[Sentinel (comics)|Sentinel program]] to keep it under his thumb. In 2009, Shaw was ranked as [[IGN]]'s 55th Greatest Comic Book Villain of All Time.<ref>[http://www.ign.com/top/comic-book-villains/55.html Sebastian Shaw is number 55] [[IGN]]. Retrieved 10-05-09.</ref>
 
 [[Kevin Bacon]] played the character in the film ''[[X-Men: First Class (2011)|X-Men: First Class]]''.
 
 ==Publication history==
-Created by writer [[Chris Claremont]] and artist/co-writer [[John Byrne (comics)|John Byrne]], Sebastian Shaw first appeared in ''[[Uncanny X-Men]]'' #129 (January 1980).
-
-Comic artist [[John Byrne (comics)|John Byrne]] based the appearance of Sebastian Shaw on British actor [[Robert Shaw (actor)|Robert Shaw]].<ref>{{cite web|author= |url=http://goodcomics.comicbookresources.com/2006/03/30/comic-book-urban-legends-revealed-44/ |title=Comic Book Urban Legends Revealed #44! &#124; Comics Should Be Good! @ Comic Book Resources |publisher=Goodcomics.comicbookresources.com |date=2006-03-30 |accessdate=2012-05-08}}</ref>
+Created by writer [[Chris Claremont]] and artist/co-writer [[John Byrne (comics)|John Byrne]], Sebastian Shaw first appeared in ''[[Uncanny X-Men]]'' #129 (January 1980).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=322}}</ref> John Byrne based the appearance of Sebastian Shaw on British actor [[Robert Shaw (actor)|Robert Shaw]], who had died in 1978.<ref>{{cite web|author=Brian Cronin |url= https://www.cbr.com/comic-book-urban-legends-revealed-44/ |title=Comic Book Urban Legends Revealed #44!|website=CBR|date=2006-03-30 |access-date=2020-06-09}}</ref>
 
 ==Fictional character biography==
 Sebastian Shaw was born in [[Pittsburgh, Pennsylvania|Pittsburgh]], [[Pennsylvania]]. His power first manifested shortly after he was accepted to engineering school and his father [[Jacob Shaw (comics)|Jacob Shaw]] died after he contracted an incurable disease. Sebastian Shaw devoted himself to his studies and created Shaw Industries, becoming a millionaire by age 30 and a billionaire by age 40. Shaw is weak against Chaos magic, a power that is possessed by Scarlet Witch.
@@ -110,7 +111,7 @@ Shaw also has a successful business acumen and access to sophisticated weaponry.
 ==Other versions==
 
 ===Age of Apocalypse===
-In the [[Age of Apocalypse]], Sebastian Shaw is one of the many mutant aristocrats and a prized servant of [[Apocalypse (comics)|Apocalypse]]. He reveals Angel's connections with the X-Men and other rebels to his master, having seen Angel talking to the former X-Man [[Gambit (comics)|Gambit]].<ref>''X-Men: Alpha'' #1</ref>
+In the [[Age of Apocalypse]], Sebastian Shaw is one of the many mutant aristocrats and a prized servant of [[Apocalypse (comics)|Apocalypse]]. He reveals Angel's connections with the X-Men and other rebels to his master, having seen Angel talking to the former X-Man [[Gambit (Marvel Comics)|Gambit]].<ref>''X-Men: Alpha'' #1</ref>
 After the death of Apocalypse and the rise of his successor Weapon Omega, Shaw managed to acquire Warren Worthington III's nightclub "Haven" and remade it into his image and renamed it as Hellfire Club. The nightclub eventually became an international social club for wealthy elites, all the while trying to influence world events, in accordance with their own agenda. When Weapon Omega started resurrecting the formerly deceased Alphas, Shaw and the Hellfire Club's position was once again threatened.<ref>''Age of Apocalypse'' #3</ref> Shaw was later sent to prison and is killed by Donald Pierce, who slipped poison into Shaw’s drink.<ref>''Age of Apocalypse'' #13</ref>
 
 ===X-Men Noir===
@@ -137,9 +138,9 @@ In Alan Moore's ''Captain Britain – Waiting for the End of the World'', Sebast
 * Sebastian Shaw first appears at the end of the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' episode "Shades of Grey" voiced by [[Graham McTavish]]. He is shown as a member of the Hellfire Club. In "Foresight" Pt. 1, he and the Hellfire Club prepare a ritual to extract the Phoenix Force from Jean Grey.
 
 ===Film===
-* A man named Dr. Shaw appears in ''[[X2 (film)|X2]]'' alluding to the character, voiced by Charles Siegel. He appears briefly on a television screen debating with Hank McCoy.
+* A man named Dr. Shaw appears in ''[[X2 (film)|X2]]'' alluding to the character, voiced by Charles Siegel. He appears briefly on a television screen debating with [[Hank McCoy]].
 [[Image:BaconShaw.jpg|right|thumb|225px|[[Kevin Bacon]] as Sebastian Shaw in ''X-Men: First Class'']]
-* Sebastian Shaw appears as the main antagonist in ''[[X-Men: First Class]]'', portrayed by [[Kevin Bacon]]. In addition to absorbing any form of energy to avoid injury and augmenting his physical and healing parameters, he can utilize it as sustenance, keeping him rested and nourished. This metabolized energy also restores and sustains his youth and life, having looked the same since at least before [[World War II]]. He can also unleash the energy as charged and focused blasts of various levels, similar to [[Bishop (comics)|Bishop]]. He is fluent in English, German, French, and Russian. In this version, he is first shown as a [[Nazi]] scientist using the alias Dr. Klaus Schmidt, where he put young [[Magneto in other media#X-Men: First Class|Erik Lensherr]] through numerous experiments and murders his mother in an effort to get him to consciously use his ability. He later becomes the leader of the [[Hellfire Club (comics)|Hellfire Club]], a secret society bent on taking over the world and starting the next [[World War III|world war]]. His plot is stopped by Division X during the [[Cuban Missile Crisis]] in 1962. Lensherr kills Shaw in revenge for the death of his mother, slowly forcing a Nazi coin through his head after Charles Xavier telepathically immobilizes Shaw. Despite Lensherr's animosity toward Shaw, the former ultimately admits that he agrees with Shaw's beliefs in mutant superiority. The helmet that Shaw uses to block Xavier's mental abilities is revealed to have been given to him by the government of the [[Soviet Union]], which they developed after learning that the US government had recruited a telepath. Lensherr eventually takes the helmet for his own use, adopts the name Magneto, and brings the remaining members of the Hellfire Club into his newly founded [[Brotherhood of Mutants]].
+* Sebastian Shaw appears as the main antagonist in ''[[X-Men: First Class]]'', portrayed by [[Kevin Bacon]]. In addition to absorbing any form of energy to avoid injury and augmenting his physical and healing parameters, he can utilize it as sustenance, keeping him rested and nourished. This metabolized energy also restores and sustains his youth and life, having looked the same since at least before [[World War II]]. He can also unleash the energy as charged and focused blasts of various levels, similar to [[Bishop (comics)|Bishop]]. He is fluent in English, German, French, and Russian. In this version, he is first shown as a [[Nazi]] scientist using the alias '''Dr. Klaus Schmidt''', where he put young [[Magneto in other media#X-Men: First Class|Erik Lensherr]] through numerous experiments and murders his mother in an effort to get him to consciously use his ability. He later becomes the leader of the [[Hellfire Club (comics)|Hellfire Club]], a secret society bent on taking over the world and starting the next [[World War III|world war]] in a [[Charles Darwin|Darwinian]] plot to accelerate the emergence of Mutants. He and members Emma Frost, [[Azazel]], and [[Riptide (comics)|Riptide]] tracked Charles and his team to a secret CIA facility where they proceeded to kill everyone, leaving only the young mutants alive. He offered them a chance to join him in the upcoming war with humankind, an offer that only [[Angel Salvadore]] accepted. When the others attempted to stop her, Shaw absorbed [[Havok (comics)|Alex Summers]]'s energy blast and killed [[Darwin (comics)|Armando Muñoz]] before leaving. His plot is stopped by [[Moira McTaggert]]'s Division X during the [[Cuban Missile Crisis]] in 1962. Lensherr kills Shaw in revenge for the death of his mother, slowly forcing a Nazi coin through his head after Xavier telepathically immobilizes Shaw. Despite Lensherr's animosity toward Shaw, the former ultimately admits that he agrees with Shaw's beliefs in mutant superiority. The helmet that Shaw uses to block Xavier's mental abilities is revealed to have been given to him by the government of the [[Soviet Union]], which they developed after learning that the US government had recruited a telepath. Lensherr eventually takes the helmet for his own use, adopts the name Magneto, and brings the remaining members of the Hellfire Club into his newly founded [[Brotherhood of Mutants]].
 
 ===Video games===
 * Sebastian Shaw appears as the final boss in ''[[X-Men (Game Gear video game)|X-Men]]'' for the Sega [[Game Gear]] on the level called 'The Hellfire Mansion'.
@@ -166,10 +167,11 @@ In Alan Moore's ''Captain Britain – Waiting for the End of the World'', Sebast
 [[Category:Fictional businesspeople]]
 [[Category:Fictional characters from Pittsburgh]]
 [[Category:Fictional characters with nuclear or radiation abilities]]
-[[Category:Fictional Nazis]]
+[[Category:Marvel Comics Nazis]]
 [[Category:Fictional linguists]]
 [[Category:Fictional physicists]]
 [[Category:Male characters in comics]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]
+[[Category:X-Men supporting characters]]

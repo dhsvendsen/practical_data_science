@@ -15,7 +15,7 @@
 |powers=Expert biologist and geneticist<br>Superhuman strength<br>Four arms<br>Razor sharp claws and teeth<br>Indefinitely long, bio-electric razor sharp tongue<br>Enhanced sense of smell<br>Ability to alter body mass and size
 }}
 
-'''Sugar Man''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] villain appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by writer [[Scott Lobdell]] and artist [[Chris Bachalo]], and first appeared in ''[[Generation Next (comics)|Generation Next]]'' #2 (April 1995).
+'''Sugar Man''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] villain appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by writer [[Scott Lobdell]] and artist [[Chris Bachalo]], and first appeared in ''[[Generation Next (comics)|Generation Next]]'' #2 (April 1995).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=360}}</ref>
 
 Sugar Man first appeared during "[[Age of Apocalypse]]", an event that caused Marvel Universe's history to diverge. Although many of the storyline's characters were alternate versions of existing heroes and villains, Sugar Man does not appear to have an [[Earth-616]] counterpart.
 
@@ -79,7 +79,7 @@ He has an enhanced sense of smell and can use it to detect fear.
 
 He can control his own body size and mass. 
 
-Sugar Man also possesses advanced regenerative abilities.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref>
+Sugar Man also possesses advanced regenerative abilities.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded}}</ref>
 
 Sugar Man is an expert, at least by modern standards, in sciences including biology and genetics.
 
@@ -112,3 +112,4 @@ In the dimension ruled by [[Mojo (comics)|Mojo]], [[Dazzler (Marvel Comics)|Dazz
 [[Category:Marvel Comics supervillains]]
 [[Category:Fictional rapists]]
 [[Category:Marvel Comics mutants]]
+[[Category:X-Men supporting characters]]

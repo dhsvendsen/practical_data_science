@@ -22,7 +22,7 @@ Leyu Yoshida and her brother Shiro were born to a mother who suffered [[radiatio
 
 Leyu first appeared, during the [[X-Men: Eve of Destruction|Eve of Destruction]] storyline, when she joined the [[X-Men]] for a single mission, to help fight [[Magneto (Marvel Comics)|Magneto]]. [[Jean Grey]] had summoned her brother, but instead got Sunpyre, who she says Shiro had never even mentioned before, as Shiro had refused because he was unavailable at the time. Despite Jean not knowing Sunpyre at all, she easily accepts her offered assistance as the situation was so extreme.<ref>''Uncanny X-Men'' #392</ref>
 
-Jean's makeshift team of X-Men consists of long-term allies [[Northstar (Marvel Comics)|Northstar]] and [[Dazzler (Marvel Comics)|Dazzler]]. There were also civilians [[Paulie Provenzano (comics)|Omerta]] and [[Wraith (Marvel Comics)#Wraith (Hector Rendoza)|Wraith]].<ref>''Uncanny X-Men'' #393</ref>
+Jean's makeshift team of X-Men consists of long-term allies [[Northstar (Marvel Comics)|Northstar]] and [[Dazzler (Marvel Comics)|Dazzler]]. There were also civilians [[Paulie Provenzano (comics)|Omerta]] and [[Wraith (Hector Rendoza)|Wraith]].<ref>''Uncanny X-Men'' #393</ref>
 
 Dazzler had problems of her own and with a Jean-assisted telepathic conference, Sunpyre learns of the childlike [[Age of Apocalypse]] villains. Thus, Sunprye is one of the few in current continuity to have any idea the Age of Apocalypse actually had happened.
 
@@ -38,12 +38,12 @@ Sunpyre had powers similar to those of her brother, Sunfire. She could convert s
 ==Other versions==
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=Sunpyre2.jpg
-|caption=Image of the second Sunpyre from ''[[Alpha Flight]]'' #9 (January, 2005). Art by [[Clayton Henry]]. 
+|caption=Image of the second Sunpyre from ''[[Alpha Flight (comic book)|Alpha Flight]]'' #9 (January, 2005). Art by [[Clayton Henry]]. 
 |character_name=Sunpyre
 |real_name=Lumina of Coronar
 |species=Coronarian
 |publisher=[[Marvel Comics]]
-|debut=''[[Alpha Flight]]'' #9 (January, 2005)
+|debut=''[[Alpha Flight (comic book)|Alpha Flight]]'' #9 (January, 2005)
 |creators=[[Scott Lobdell]]<br>[[Clayton Henry]]
 |alliances=[[Big Hero 6 (comics)|Big Hero 6]]
 |aliases=
@@ -52,7 +52,7 @@ image=Sunpyre2.jpg
 *Radiation immunity
 }}
 
-An extra-dimensional Sunpyre, who was a princess on her own homeworld in the [[Microverse]], later appeared as part of [[Big Hero 6 (comics)|Big Hero 6]] in ''[[Alpha Flight]]'' vol. 3 #9. Teammate [[Honey Lemon]] pulled Sunpyre out of Lemon's Power Purse, resulting in Sunpyre worshipping Honey Lemon as a goddess and Sunpyre joining the team. Sunpyre and [[Ebon Samurai]] were both created to fill in the void left by [[Sunfire (comics)|Sunfire]] and [[Silver Samurai]], who were being used elsewhere at the time. This version of Sunpyre is not on the current Big Hero 6 roster, as she has returned to reclaim her throne with the help of her teammate and current-retainer, the undead Ebon Samurai.
+An extra-dimensional Sunpyre, who was a princess on her own homeworld in the [[Microverse]], later appeared as part of [[Big Hero 6 (comics)|Big Hero 6]] in ''[[Alpha Flight (comic book)|Alpha Flight]]'' vol. 3 #9. Teammate [[Honey Lemon]] pulled Sunpyre out of Lemon's Power Purse, resulting in Sunpyre worshipping Honey Lemon as a goddess and Sunpyre joining the team. Sunpyre and [[Ebon Samurai]] were both created to fill in the void left by [[Sunfire (comics)|Sunfire]] and [[Silver Samurai]], who were being used elsewhere at the time. This version of Sunpyre is not on the current Big Hero 6 roster, as she has returned to reclaim her throne with the help of her teammate and current-retainer, the undead Ebon Samurai.
 
 Scott Lobdell clarified the relationship of Honey Lemon and Sunpyre in the Marvel Teams Handbook 2005. This Sunpyre retained her powers during [[Decimation (comics)|M-Day]].  However, this Sunpyre's powers were not mutant in nature, but rather powers inherent to her extra-dimensional Coronarian race.
 
@@ -64,6 +64,7 @@ Scott Lobdell clarified the relationship of Honey Lemon and Sunpyre in the Marve
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/sunpyrebhs.htm|Sunpyre II}}
 *[http://marvel.com/universe/Sunpyre Sunpyre on the Marvel Universe Character Bio Wiki]
 *[http://uncannyxmen.net/characters/sunpyre UncannyXmen.net Character Profile on Sunpyre]
+
 {{Big Hero 6}}
 
 [[Category:Characters created by Clayton Henry]]
@@ -77,8 +78,9 @@ Scott Lobdell clarified the relationship of Honey Lemon and Sunpyre in the Marve
 [[Category:Fictional princesses]]
 [[Category:Fictional Japanese people]]
 [[Category:Fictional characters with fire or heat abilities]]
-[[Category:Fictional women scientists]]
+[[Category:Fictional female scientists]]
 [[Category:LGBT superheroes]]
+[[Category:Marvel Comics LGBT superheroes]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics female superheroes]]

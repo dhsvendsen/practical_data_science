@@ -52,7 +52,7 @@
 
 ===Wendell Vaughn===
 {{main|Quasar (Wendell Vaughn)}}
-Vaughn is the longest-running Quasar character, and the first to use the name.
+Vaughn is the longest-running Quasar character, and the first to use the name.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=242}}</ref>
 
 ===Phyla-Vell===
 {{main|Phyla-Vell}}
@@ -117,6 +117,8 @@ Phyla-Vell discovers that the bands contain a finite amount of energy which will
 {{Marvel Cosmic}}
 
 {{DEFAULTSORT:Quasar (Comics)}}
+[[Category:1994 comics endings]]
+[[Category:Comics characters introduced in 1979]]
 [[Category:Fictional characters with density control abilities]]
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:S.H.I.E.L.D. agents]]

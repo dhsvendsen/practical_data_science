@@ -8,9 +8,9 @@
 | species = [[Mutant (Marvel Comics)|Human mutant]]
 | publisher = [[Marvel Comics]]
 | debut = ''New Mutants'' (vol. 2) #8 (January [[2004 in comics|2004]])
-| creators = [[Nunzio DeFilippis]]<br>[[Christina Weir]]<br>[[Keron Grant]]
-| alter_ego = Noriko "Nori" Ashida
-| alliances =[[New Mutants#The New Mutants, vol. 2|New Mutants training squad]]<br/>[[New X-Men]]<br/>[[X-Mansion|Xavier Institute]]<br/>[[List of X-Men members#X-Men-In-Training (2006–present)|X-Men-In-Training]]<br/>[[List of Xavier Institute students and staff#Students|Jean Grey School Students]]
+| creators = [[Nunzio DeFilippis]]<br />[[Christina Weir]]<br />[[Keron Grant]]
+| alter_ego = Noriko Ashida
+| alliances =[[New Mutants#The New Mutants, vol. 2|New Mutants training squad]]<br />[[New X-Men]]<br />[[X-Mansion|Xavier Institute]]<br />[[List of X-Men members#X-Men-In-Training (2006–present)|X-Men-In-Training]]<br />[[List of Xavier Institute students and staff#Students|Jean Grey School Students]]
 | aliases =
 | powers = Electrical generation and manipulation, superhuman speed
 | cat = super
@@ -18,11 +18,11 @@
 | hero = y
 | sortkey = Surge (comics)
 }}
-'''Surge''' ('''Noriko''' "'''Nori'''" '''Ashida''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a [[Mutant (Marvel Comics)|mutant]], one of the student body in the [[X-Mansion|Xavier Institute]], and a member of the former [[New Mutants]] squad therein. She maintained her powers post [[Decimation (comics)|M-Day]] and was the leader of the [[New X-Men]].
+'''Surge''' ('''Noriko Ashida''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a [[Mutant (Marvel Comics)|mutant]], one of the student body in the [[X-Mansion|Xavier Institute]], and a member of the former [[New Mutants]] squad therein. She maintained her powers post [[Decimation (comics)|M-Day]] and was the leader of the [[New X-Men]].
 
 ==Publication history==
 {{Expand section|date=December 2012}}
-Surge was created by [[Nunzio DeFilippis]], [[Christina Weir]], [[Keron Grant]] and first appeared in ''[[New Mutants#The New Mutants, vol. 2|New Mutants]]'', vol. 2 #8 (January 2004).
+Surge was created by [[Nunzio DeFilippis]], [[Christina Weir]], [[Keron Grant]] and first appeared in ''[[New Mutants#The New Mutants, vol. 2|New Mutants]]'', vol. 2 #8 (January 2004).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=366}}</ref>
 
 ==Fictional character biography==
 Noriko Ashida was born in [[Japan]]. She was close to her brother, Keitaro, but she ran away from home after her powers manifested when she was thirteen years old; she claimed that her father "doesn't believe in mutants." How she came to the [[United States]] is unknown, but she ended up [[homeless]] on the streets of [[North Salem, New York|Salem Center]], reduced to buying [[illegal drug use|illegal drugs]] using stolen money.
@@ -39,7 +39,7 @@ Caught in an argument over the rescue of [[Mercury (Marvel Comics)|Cessily]], Su
 
 After their return from Limbo, Surge finds out from [[X-23]] the torture David went through in Limbo. In hopes of driving him away from the school and out of harm's way, Surge kisses Hellion in front of David and the other students.<ref>''New X-Men'' (vol. 2) #42</ref> After confronting her of the incident, she insists that she doesn't love him anymore and pleads that he should leave the Institute. This backfires, as David regains his memories of the knowledge he once had and copied up until he lost his power with the help of the [[Stepford Cuckoos]]. David decides to both stay at the Institute and end their relationship.<ref>''New X-Men'' (vol. 2) #43</ref>
 
-Following the dissolution of the X-Men, Surge runs to Colorado, seeking help from Dani Moonstar. Nori is overwhelmed by the pain she has endured as a New X-Man and doesn’t know how to cope. Nori realizes that her fear of being hurt has affected her judgment and driven her actions over the past months.<ref>''X-Men: Divided We Stand'' #2</ref> She later officially joins the X-Men based out of San Francisco: she is seen working on one the street crime patrols.<ref>''Uncanny X-Men'' Vol. 2 #1 (2012)</ref>
+Following the dissolution of the X-Men, Surge runs to Colorado, seeking help from Dani Moonstar. Nori is overwhelmed by the pain she has endured as a New X-Man and doesn't know how to cope. Nori realizes that her fear of being hurt has affected her judgment and driven her actions over the past months.<ref>''X-Men: Divided We Stand'' #2</ref> She later officially joins the X-Men based out of San Francisco: she is seen working on one the street crime patrols.<ref>''Uncanny X-Men'' Vol. 2 #1 (2012)</ref>
 
 Surge is later kidnapped along with [[Tabitha Smith|Boom Boom]] and Hellion by the [[Leper Queen]] and her Sapien League. The Leper Queen injects her with a modified version of the [[Legacy Virus]].<ref>''X-Force'' (vol. 3) #13</ref> [[X-Force]] rescues their friends after completing their mission. Elixir is able to cure Surge before she could destroy the UN.<ref>''X-Force'' (vol. 3) #16-18</ref>
 
@@ -53,7 +53,7 @@ Her blue hair is not related to her mutation. According to Nori, it came in a bo
 ==Personality==
 Very forthright and strong-minded, Nori has often clashed with her peers and superiors, from nearly getting into a brawl with Hellion after he insulted Prodigy's baseline status post-M-Day,<ref>''New X-Men'' #21</ref> and challenging Cyclops' assertion that the students are safe at the Institute (this taking place immediately after a series of devastating attacks by the [[Purifiers (Marvel Comics)|Purifiers]]).<ref>''New X-Men'' #29</ref>  Nori also considers herself a feminist, attacking Dust's choice of garb as a betrayal of women's rights when the two are roomed together.
 
-Regardless, Nori is a loyal figure, dedicated to her friends, and increasingly feeling the responsibilities placed upon her as leader of the New X-Men. Surge was particularly incensed with Hellion's decision to rescue Mercury from the Faculty without backup, and has taken it upon herself to mold the team into an effective unit capable of defending the rest of the students. She's seen as having trouble welcoming X-23 back to the team after the latter's involvement in X-Force, possibly due to how the latter seemingly doesn't have to take responsibility for what she did as part of that team, in comparison to her own mounting responsibilities.<ref>''X-23'' #1</ref> Chris Yost has stated that, "Surge is the right candidate, because she wants it the least. And you’ll see, it’s taking a big toll on her. Being a leader when you’re doing team sports and field day exercises is one thing, but leading when the stakes are life and death is another thing."<ref>{{cite web|url= http://forum.newsarama.com/showthread.php?t=104799&highlight=Chris+Yost+Magik+X-Men |title= Chris Yost on ''New X-Men'' and Magik's Return|others= Webarchive|archiveurl= https://web.archive.org/web/20070929111623/http://forum.newsarama.com/showthread.php?t=104799&highlight=Chris+Yost+Magik+X-Men |archivedate= September 29, 2007|publisher= [[Newsarama]]|date= March 12, 2007|author= Benjamin Ong Pang Kean |accessdate= September 30, 2010}}</ref>
+Regardless, Nori is a loyal figure, dedicated to her friends, and increasingly feeling the responsibilities placed upon her as leader of the New X-Men. Surge was particularly incensed with Hellion's decision to rescue Mercury from the Faculty without backup, and has taken it upon herself to mold the team into an effective unit capable of defending the rest of the students. She's seen as having trouble welcoming X-23 back to the team after the latter's involvement in X-Force, possibly due to how the latter seemingly doesn't have to take responsibility for what she did as part of that team, in comparison to her own mounting responsibilities.<ref>''X-23'' #1</ref> Chris Yost has stated that, "Surge is the right candidate, because she wants it the least. And you’ll see, it’s taking a big toll on her. Being a leader when you’re doing team sports and field day exercises is one thing, but leading when the stakes are life and death is another thing."<ref>{{cite web|url= http://forum.newsarama.com/showthread.php?t=104799&highlight=Chris+Yost+Magik+X-Men |title= Chris Yost on ''New X-Men'' and Magik's Return|archive-url= https://web.archive.org/web/20070929111623/http://forum.newsarama.com/showthread.php?t=104799&highlight=Chris+Yost+Magik+X-Men |archive-date= September 29, 2007|publisher= [[Newsarama]]|date= March 12, 2007|author= Benjamin Ong Pang Kean |access-date= September 30, 2010}}</ref>
 
 ==Other versions==
 ===House of M===
@@ -85,3 +85,4 @@ Nori is a member of Hellions in the House of M reality which is a group of junio
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics mutants]]
+[[Category:New Mutants]]

@@ -1,3 +1,4 @@
+{{short description|Fictional character appearing in American comic books published by Marvel Comics}}
 {{other uses|Master of the World (disambiguation)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Avengersv3-045pic2.png|300px]]
@@ -11,14 +12,14 @@ image=[[Image:Avengersv3-045pic2.png|300px]]
 |aliases= Joshua Lord, Forever Man, Master of Time, Master of Life, Phillipe Beaulieu
 |powers= Genius-level intellect<br>Repressed aging<br>Battlesuit contains advanced technology and weapons<br>Superhuman speed, reflexes, stamina, strength, agility and durability
 }}
-'''Master of the World''' (real name '''Eshu''') is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is one of the most recurring villains of Alpha Flight.
+'''Master of the World''' (real name '''Eshu''') is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a recurring villain of the [[superhero]] team [[Alpha Flight]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=209}}</ref>
 
 ==Publication history==
 {{expand-section|date=July 2016}}
-Master of the World first appeared in ''[[Alpha Flight (comic book)|Alpha Flight]]'' #2 and was created by [[John Byrne (comics)|John Byrne]].
+Master of the World first appeared in ''[[Alpha Flight (comic book)|Alpha Flight]]'' #2 and was created by [[John Byrne (comics)|John Byrne]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=234}}</ref>
 
 ==Fictional character biography==
-Forty thousand years ago, a [[caveman]] warrior named Eshu was cast out of his tribe in what is now northern Asia after he killed another caveman against his tribe's laws. He wanders the Earth and is soon [[psionics|psionically]] called to the beacon of an [[extraterrestrial life in popular culture|alien]] [[space ship|ship]].
+Forty thousand years ago, a [[caveman]] warrior named Eshu was cast out of his tribe in what is now northern Asia after he killed another caveman against his tribe's laws. He wanders the Earth and is soon [[psionics|psionically]] called to the beacon of an [[extraterrestrial life in popular culture|alien]] [[Spacecraft|ship]].
 
 The ship was owned by the [[List of alien races in Marvel Comics#P|Plodex]] race. After it crashed on the [[North Pole]], it sent out a message, to seek out the dominant life form on [[Earth]]. After an exhausting journey, the hunter Eshu finds the ship and is captured upon entering it. For thousands of years Eshu was [[experiment]]ed on by the Plodex ship. The experiments were excruciating. He was dissected and reassembled, just to be dissected again. His intelligence increased over the years until his mind and body were developed to the peak of perfection. After some time he learned to tap into the ship's systems with his mind, which eventually enables him to take them all over. He finds he is actually unable to leave the ship. He sends out a signal to a member of the Plodex race called [[Marrina Smallwood|Marrina]]. She responds and brings the superhero team Alpha Flight with her to his starship base in the Arctic. By this time, Eshu is calling himself The Master of the World. He took Marrina captive, and revealed his origin. He was confronted by [[Namor|Namor the Sub-Mariner]] and the [[Invisible Woman]], and his starship exploded during the confrontation with Alpha Flight. His plans succeed and the Master is able to escape the ship by submarine.<ref>''Alpha Flight'' #2–4</ref>
 
@@ -41,7 +42,7 @@ His suit also has many benefits, allowing him [[teleportation]] and flight. His 
 
 ==References==
 {{reflist}}
-* ''[[The Official Handbook of the Marvel Universe]] - Master Edition'' #13
+* ''[[The Official Handbook of the Marvel Universe]] – Master Edition'' #13
 
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix6/masteroftheworldaf.htm|Master of the World}}

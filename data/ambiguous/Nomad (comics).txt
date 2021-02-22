@@ -13,12 +13,12 @@
 |powers=Artificially enhanced physiology at a slightly higher level than Captain America<br>Expert marksman<br>Skilled in many martial arts and acrobatics<br>Primary weapons are throwing discs called "stun discs", and later in his career used firearms 
 }}
 
-'''Nomad''' is the name of several fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The Nomad name and costume were created by writer [[Steve Englehart]] and artist [[Sal Buscema]] as an alternate identity for the original Captain America, '''[[Steve Rogers (comics)|Steve Rogers]]''', in ''[[Captain America (comic book)|Captain America]]'' #180 (December 1974).
+'''Nomad''' is the name of several fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The Nomad name and costume were created by writer [[Steve Englehart]] and artist [[Sal Buscema]] as an alternate identity for the original Captain America, '''[[Steve Rogers (comics)|Steve Rogers]]''', in ''[[Captain America (comic book)|Captain America]]'' #180 (December 1974).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=259}}</ref>
 
 The identity was revived by writer [[J. M. DeMatteis]] for a minor character named '''Edward Ferbel''' in ''Captain America'' #261-263 (September - November 1981). The same writer later gave the title to its best known claimant '''[[Jack Monroe (comics)|Jack Monroe]]''' in ''Captain America'' #281 (May 1983). Other claimants of the code name are '''[[Rikki Barnes]]''' and Steve Rogers's adopted son '''[[Ian Rogers (comics)|Ian Rogers]]'''.
 
 ==Steve Rogers==
-[[Image:CaptainAmericaV1-180.jpg|thumb|left|200px|Cover to ''[[Captain America]]'' #180, the first appearance of the original Nomad. Art by [[Gil Kane]].]]
+[[Image:CaptainAmericaV1-180.jpg|thumb|left|200px|Cover to ''[[Captain America (comic book)|Captain America]]'' #180, the first appearance of the original Nomad. Art by [[Gil Kane]].]]
 {{Main|Captain America}}
 The original Nomad is an alternate identity that Steve Rogers adopts after he abandons the Captain America costume and title.
 
@@ -31,15 +31,15 @@ This identity is short-lived, with Rogers maintaining it for a mere four issues 
 ==Edward Ferbel==
 Introduced in ''Captain America'' #261 (September 1981), the second Nomad was Edward Ferbel, a short-lived character who is given the Nomad costume and equipment by the [[Red Skull]] in an effort to discredit Captain America.
 
-He is killed by an agent of the Skull, the [[Ameridroid]], in ''Captain America'' #263 (November 1981).<ref>{{cite web|url=http://www.marvunapp.com/master/njnor.htm |title=njnor |publisher=Marvunapp.com |date=1941-12-07 |accessdate=2011-01-11}}</ref>
+He is killed by an agent of the Skull, the [[Ameridroid]], in ''Captain America'' #263 (November 1981).<ref>{{cite web|url=http://www.marvunapp.com/master/njnor.htm |title=njnor |publisher=Marvunapp.com |date=1941-12-07 |access-date=2011-01-11}}</ref>
 
 ==Jack Monroe==
 {{main|Jack Monroe (comics)}}
-The third and best known Nomad is Jack Monroe, who was formerly known as the third [[Bucky (Marvel Comics)|Bucky]]. He was created by writer Steve Englehart and artist Sal Buscema in ''[[Captain America (comic book)|Captain America]]'' #153 (September 1972).
+The third and best known Nomad is Jack Monroe, who was formerly known as the third [[Bucky (Marvel Comics)|Bucky]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=212}}</ref> He was created by writer Steve Englehart and artist Sal Buscema in ''[[Captain America (comic book)|Captain America]]'' #153 (September 1972).
 
 ==Rikki Barnes==
 {{main|Rikki Barnes}}
-After the events of the ''[[Onslaught Reborn]]'' mini-series, a version of [[Rikki Barnes]], the [[Bucky (Marvel Comics)|female Bucky]] established in the ''[[Heroes Reborn (comics)|Heroes Reborn]]'' ''Captain America'' series, now resides in the mainstream Marvel Universe, and has befriended the [[Young Avengers|Young Avenger]] known as [[Patriot (comics)#Patriot (Eli Bradley)|Patriot]] in the hopes of contacting the new Captain America (the original Bucky, now free of his Winter Soldier programming).<ref>''Captain America #600'', June 2009</ref> In September 2009, Rikki Barnes took on the identity of Nomad in the mini-series, ''Nomad: Girl Without A World'', by [[Sean McKeever]] and [[David Baldeon]].<ref name=newsarama090621>{{cite web |first=Vaneta  |last=Rogers |url=http://www.newsarama.com/comics/090621-heroes-nomad.html |title=Heroes Con '09: New Girl in Town - McKeever Talks Nomad |publisher=[[Newsarama]] |date=June 21, 2009 |accessdate=June 22, 2009 }}</ref>
+After the events of the ''[[Onslaught Reborn]]'' mini-series, a version of [[Rikki Barnes]], the [[Bucky (Marvel Comics)|female Bucky]] established in the ''[[Heroes Reborn (comics)|Heroes Reborn]]'' ''Captain America'' series, now resides in the mainstream Marvel Universe, and has befriended the [[Young Avengers|Young Avenger]] known as [[Patriot (comics)#Patriot (Eli Bradley)|Patriot]] in the hopes of contacting the new Captain America (the original Bucky, now free of his Winter Soldier programming).<ref>''Captain America #600'', June 2009</ref> In September 2009, Rikki Barnes took on the identity of Nomad in the mini-series, ''Nomad: Girl Without A World'', by [[Sean McKeever]] and [[David Baldeon]].<ref name=newsarama090621>{{cite web |first=Vaneta  |last=Rogers |url=http://www.newsarama.com/comics/090621-heroes-nomad.html |title=Heroes Con '09: New Girl in Town - McKeever Talks Nomad |publisher=[[Newsarama]] |date=June 21, 2009 |access-date=June 22, 2009 }}</ref>
 
 ==Ian Rogers==
 {{main|Ian Rogers (comics)}}

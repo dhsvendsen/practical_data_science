@@ -1,7 +1,5 @@
-{{multiple issues|
 {{In-universe|date=November 2009}}
-{{Refimprove|date=November 2009}}
-}}
+{{notability|date=February 2021}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=
 |caption=
@@ -14,7 +12,7 @@
 |aliases=[[Citizen V]], [[Atlas (Marvel Comics)|Atlas]], Vantage 
 |powers=None
 }}
-'''Dallas Riordan'''  is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Dallas Riordan'''  is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. She first appeared in ''[[Thunderbolts (comics)|Thunderbolts]]'' #1 (April 1997).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=298}}</ref>
 
 ==Fictional character biography==
 Dallas Riordan's family had a long storied history of being police officers.<ref>''Thunderbolts'' #5</ref> Dallas was once an [[New York Police Department|NYPD]] officer and a soldier<ref>''Thunderbolts'' #41</ref> before she went into politics and became the aide to the New York mayor.<ref>''Thunderbolts'' #1</ref> When the [[Thunderbolts (comics)|Thunderbolts]] appeared on the scene after the disappearances of [[Avengers (comics)|the Avengers]] and the [[Fantastic Four]], the mayor wanted to take advantage of the Thunderbolts publicity and chose to appoint Dallas as the liaison between his office and the new team of "heroes". Dallas was completely unaware that her new associates were really super villains in disguise, plotting to use their newfound publicity to get security clearances with which they could take over the world.<ref>''Thunderbolts'' #1-10</ref>

@@ -14,7 +14,6 @@
 | supports=<!--optional-->
 | powers = project illusions
 }}
-
 '''Moonglow''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She was a member of a team of superheroes, [[Squadron Supreme]].
 
 The Supreme Squadron members exist in numerous alternate universes, but their main and original timeline is [[Earth-712]].
@@ -22,12 +21,13 @@ The Supreme Squadron members exist in numerous alternate universes, but their ma
 ==Publication history==
 Like most of the newer Redeemer characters she is based on existing [[DC Comics]] team, The Detroit-based [[Justice League of America]], in this case the character of [[Gypsy (comics)|Gypsy]].{{Citation needed|date=February 2011}}
 
-==Melissa Hanover==
+==Fictional character biography==
+===Melissa Hanover===
 '''Melissa Hanover''' was recruited by Nighthawk to serve in his team of subversive super powered "[[America Redeemers|Redeemers]]" to fight the influence of the Squadron Supreme's "Utopia Program".  She had the ability to project illusions. Melissa Hanover was rather insecure, and used her powers to make herself look beautiful and glamorous, to hide her unattractive appearance. She joined the Squadron to help overthrow it from within. She stole the plans for the behavior modification device, then openly joined the Redeemers' battle against the Squadron Supreme.<ref>''Squadron Supreme'' #10-12</ref>
 
 When the team left to confront the Nth Man, Melissa Hanover turned over the Moonglow identity to [[Arcanna]] and agreed to let Arcanna go in her place.<ref>''Squadron Supreme: Death of a Universe''</ref>
 
-==Arcanna==
+===Arcanna===
 {{main|Arcanna}}
 '''Arcanna Jones''', working initially as a medium, started an activity as a professional crimefighter and adventurer, and the Squadron Supreme asked her to join the group as '''[[Arcanna]]'''. With the Squadron, she was brainwashed by the [[Overmind (comics)|Overmind]], and battled the [[Defenders (comics)|Defenders]]. She was cured, and battled the Overmind and [[Null, the Living Darkness]] alongside the Defenders.<ref>''Defenders'' #112-115</ref>
 
@@ -49,8 +49,11 @@ She is a fair hand-to-hand combatant, having received coaching from Nighthawk an
 *http://www.marvel.com/universe/Moonglow_%28Melissa_Hanover%29_%28Earth-712%29
 *http://www.marvel.com/universe/Moonglow_%28Arcanna_Jones%29_%28Earth-712%29
 
+{{Squadron Supreme}}
+
 {{DEFAULTSORT:Moonglow (Comics)}}
 [[Category:Characters created by Mark Gruenwald]]
 [[Category:Comics characters introduced in 1986]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Squadron Supreme]]

@@ -1,5 +1,3 @@
-{{in-universe|date=June 2018}}
-{{notability|date=June 2018}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Madcap
@@ -31,10 +29,10 @@
 | sortkey        =
 | addcharcat#    =
 }}
-'''Madcap''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Madcap''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=198}}</ref>
 
 ==Publication history==
-Madcap first appeared in ''[[Captain America (comic book)|Captain America]]'' #307 (July 1985), and was created by [[Mark Gruenwald]] and [[Paul Neary]].
+Madcap first appeared in ''[[Captain America (comic book)|Captain America]]'' #307 (July 1985), and was created by [[Mark Gruenwald]] and [[Paul Neary]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=223}}</ref>
 
 Most of the villains Gruenwald introduced ''Captain America'' in were created to symbolize aspects of contemporary American culture and the world political situation. Gruenwald stated, "Madcap represents purposelessness, the disaffected youth of today who thinks 'What's the reason for doing anything?' The ultimate dropout generation."<ref>{{cite news | first = Dwight Jon | last = Zimmerman | date = January 1988 | title = Mark Gruenwald | work = [[Comics Interview]] | issue = 54 | page = 15 | publisher = [[Fictioneer Books]]}}</ref>
 
@@ -69,7 +67,7 @@ After Madcap nearly ruins his Valentine's Day,<ref>{{Cite comic|writer = Gerry D
 
 ==Powers and abilities==
 Madcap possesses two superpowers, as a result of the mutagenic effects of his exposure to Compound X07.
-* He heals from any physical injury instantly, and even if he sustains enough damage to kill him (such as being flattened or having his neck snapped) or destroy him (such as being incinerated), he will immediately [[resurrection|resurrect]]. Somehow linked to this is a total inability to perceive [[pain]]. The only time he ever felt pain was when he was trapped in Deadpool’s head.<ref>{{Cite book|title=Deadpool (2015) #4|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref> He can mentally control his severed limbs. His rapid healing ability also gives him phenomenal endurance, as his body both eliminates fatigue poisons and heals muscle damage caused by overexertion almost instantaneously.
+* He heals from any physical injury instantly, and even if he sustains enough damage to kill him (such as being flattened or having his neck snapped) or destroy him (such as being incinerated), he will immediately [[resurrection|resurrect]]. Somehow linked to this is a total inability to perceive [[pain]]. The only time he ever felt pain was when he was trapped in Deadpool’s head.<ref>{{Cite book|title=Deadpool (2015) #4}}</ref> He can mentally control his severed limbs. His rapid healing ability also gives him phenomenal endurance, as his body both eliminates fatigue poisons and heals muscle damage caused by overexertion almost instantaneously.
 * Madcap has a specialized form of insanity-inducement that immediately affects those he makes eye contact with. He wears a garish purple-and-yellow costume and uses a distracting toy soap bubble-gun, called a "fun-gun", to draw the attention of others towards him, so they can meet his gaze. He has the ability to stimulate the inhibition centers in other people's brains. People affected by his power act in a [[drunkenness|euphoric, outlandish, uninhibited manner]] that verges on or becomes insanity and can end up killing themselves. Madcap cannot control how the person acts. The duration of the state seems to be approximately 15–30 minutes, though Madcap risks making a person "pleasantly loony" permanently if he makes additional eye contact with them. This power can interact unpredictably with individuals already affected with mental instability; for example, exposure initially seemed to have no effect on Deadpool, but then resulted in his experiencing a brief period of clarity and sanity.<ref name=DPA1 /> Later, his power's effect on normal humans seems to show that he can influence their behavior to some extent.{{issue|date=January 2017}}
 
 == In other media ==
@@ -85,6 +83,7 @@ Madcap possesses two superpowers, as a result of the mutagenic effects of his ex
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/madcapcap.htm|Madcap}}
 
 {{Deadpool}}
+{{Mercs for Money}}
 
 [[Category:Characters created by Mark Gruenwald]]
 [[Category:Characters created by Paul Neary]]

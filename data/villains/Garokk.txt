@@ -1,5 +1,5 @@
 {{in-universe|date=July 2018}}
-{{notability|date=July 2018}}
+{{refimprove|date=September 2020}}
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |image = Garokk.PNG
 |imagesize=150
@@ -18,7 +18,7 @@
 
 ==Publication history==
 {{expand-section|date=February 2016}}
-Garokk first appeared in ''[[Astonishing Tales]]'' vol. 1 #2 (November 1970) and was created by [[Roy Thomas]] and [[Jack Kirby]].
+Garokk first appeared in ''[[Astonishing Tales]]'' vol. 1 #2 (November 1970) and was created by [[Roy Thomas]] and [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=145}}</ref>
 
 ==Fictional character biography==
 Garokk was originally a sailor from [[Great Britain]], whose ship the ''H.M.S. Drake'' crashed on the shores of [[Antarctica]] during the 15th century. The sailor was swept overboard and taken by a warm stream to the [[Savage Land]]. Wandering the Savage Land, the sailor entered the lands of the [[Savage Land#Savage Land races|Sun People]], who worshipped the Sun god Garokk. The sailor found a statue of Garokk with a cup beneath it. Thirsty, the sailor drank from the cup, but was chased off by the Sun People. The sailor escaped and managed to return to the [[Kingdom of England]], but found that he had become immortal after drinking the potion. Over time, the sailor's body became a living, organic, stone-like substance until he looked identical to the statue of Garokk. Nearly five centuries after he had left, the sailor returned to the Savage Land and discovered that the Sun People believed that their god would return and their high priestess [[Zaladane]] waged war as a form of worship to him. The sailor, now known as the Petrified Man encountered [[Ka-Zar (comics)|Ka-Zar]] and related his story to Ka-Zar. The Petrified Man allied himself with Ka-Zar and journeyed with him to the Savage Land to prevent his worshippers from waging war there. The Petrified Man gained energy powers, and transformed into pure energy. The Petrified Man managed to stop Zaladane and her people by dissolving their weapons, and then returned to his physical form. However, the Petrified Man then went mad and believed himself to be Garokk himself. Garokk sought to destroy all life on Earth to bring about peace, and he and Ka-Zar fought each other. On Zaladane's instructions, Ka-Zar lured him inside an underground pool which turned Garokk human and mortal again. His age caught up with him rapidly and he died shortly afterwards. As he died of extreme old age, he recovered his sanity and then his corpse turned to ash.<ref>''Astonishing Tales'' vol. 1 #2-5</ref>
@@ -44,10 +44,10 @@ Garokk appears beneath the Savage Land during the ''2099: World of Tomorrow'' se
 ==In other media==
 ===Television===
 [[Image:X-Men ep-37.jpg|150px|thumb|Garokk in ''[[X-Men: The Animated Series]]''.]]
-* Garokk appeared in the two-part ''[[X-Men (TV series)|X-Men]]'' episode "Savage Land, Strange Heart". He was once a threat to the Savage Land until he was defeated by the [[High Evolutionary]] and imprisoned in the Earth. He worked with [[Zaladane]] in an effort to be free again, manipulating [[Sauron (comics)|Sauron]] into hypnotizing [[Storm (Marvel Comics)|Storm]] so that her powers were unleashed at full force, re-empowering Garokk. Garokk absorbed volcanic energy turning him into an unstoppable force. However Sauron tried to absorb Garokk's energy causing an explosion that transforms Sauron back into Karl Lykos and put Garokk in his stone prison once more.
+* Garokk appeared in the two-part ''[[X-Men (TV series)|X-Men]]'' episode "Savage Land, Strange Heart".{{cn|date=May 2020}} He was once a threat to the Savage Land until he was defeated by the [[High Evolutionary]] and imprisoned in the Earth. He worked with [[Zaladane]] in an effort to be free again, manipulating [[Sauron (comics)|Sauron]] into hypnotizing [[Storm (Marvel Comics)|Storm]] so that her powers were unleashed at full force, re-empowering Garokk. Garokk absorbed volcanic energy turning him into an unstoppable force. However Sauron tried to absorb Garokk's energy causing an explosion that transforms Sauron back into Karl Lykos and put Garokk in his stone prison once more.
 
 ===Video games===
-* Garokk appears in ''[[X-Men Legends II: Rise of Apocalypse]]'' voiced by [[Dwight Schultz]]. The X-Men find him looking for [[Destiny (Irene Adler)|Destiny]] in the Savage Land. With the help of [[Mystique (comics)|Mystique]], the X-Men defeated him. He is later seen in a stasis cell in Avalon where he states that [[Mikhail Rasputin]] hired him to hunt Destiny in exchange for becoming ruler of the Savage Land.
+* Garokk appears in ''[[X-Men Legends II: Rise of Apocalypse]]'', voiced by [[Dwight Schultz]].{{cn|date=May 2020}} The X-Men find him looking for [[Destiny (Irene Adler)|Destiny]] in the Savage Land. With the help of [[Mystique (comics)|Mystique]], the X-Men defeated him. He is later seen in a stasis cell in Avalon where he states that [[Mikhail Rasputin]] hired him to hunt Destiny in exchange for becoming ruler of the Savage Land.
 
 ==References==
 {{Reflist}}
@@ -65,3 +65,4 @@ Garokk appears beneath the Savage Land during the ''2099: World of Tomorrow'' se
 [[Category:Marvel Comics deities]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]
+[[Category:X-Men supporting characters]]

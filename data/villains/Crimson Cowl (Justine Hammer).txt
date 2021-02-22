@@ -22,7 +22,7 @@
 The '''Crimson Cowl (Justine Hammer)''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has appeared in books in particular those featuring the [[Thunderbolts (comics)|Thunderbolts]] and served as a recurring adversary for [[Iron Man]].
 
 ==Publication history==
-The character debut in ''[[Thunderbolts (comics)|Thunderbolts]]'' #3 (June 1997) and was created by [[Kurt Busiek]] and [[Mark Bagley]].
+The character debut in ''[[Thunderbolts (comics)|Thunderbolts]]'' #3 (June 1997) and was created by [[Kurt Busiek]] and [[Mark Bagley]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=95}}</ref>
 
 Her character was the third version behind the [[Crimson Cowl]] alias; [[Ultron]] having been the original depiction, [[Edwin Jarvis]] was framed as the first depiction by Ultron, and [[Dallas Riordan]] was framed as the third version by Justine.
 
@@ -78,7 +78,8 @@ Crimson Cowl is featured as a boss in the [[Playdom]]'s [[Facebook]] game ''[[Ma
 
 [[Category:Comics characters introduced in 1997]]
 [[Category:Characters created by Kurt Busiek]]
-[[Category:Female supervillains]]
-[[Category:Fictional businesspeople]]
+[[Category:Fictional female businesspeople]]
 [[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics female supervillains]]
+[[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Mark Bagley]]

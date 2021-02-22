@@ -1,8 +1,7 @@
 {{Multiple issues|
-{{Notability|date=August 2018}}
+{{refimprove|date=September 2020}}
 {{In-universe|date=August 2018}}
 }}
-{{More citations needed|date=August 2018}}
 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Fitzroy's picture.jpg|250px]]
@@ -11,7 +10,7 @@ image=[[Image:Fitzroy's picture.jpg|250px]]
 |real_name=
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
-|debut=''[[Uncanny X-Men]]'' #281 (October, 1991)
+|debut=''[[Uncanny X-Men]]'' #281 (October 1991)
 |creators=[[John Byrne (comics)|John Byrne]]<br>[[Jim Lee]]<br>[[Whilce Portacio]]
 |alliances=[[Xavier's Security Enforcers]]<br/>[[Upstarts (comics)|Upstarts]]<br/>[[Hellfire Club (comics)|Hellfire Club]]<br/>Summers Rebellion
 |aliases=Chronomancer, White Rook
@@ -24,9 +23,9 @@ Fitzroy hails from the same [[dystopia]]n future as Bishop. A mutant criminal, h
 
 ==Fictional character biography==
 ===The future===
-Trevor Fitzroy was the illegitimate son of Sebastian Shaw, Black King of the [[Hellfire Club (comics)|Hellfire Club]], in a dystopian future. Fitzroy joined the '''Academy for [[Xavier's Security Enforcers]]''' (XSE) and had a relationship with [[Shard (comics)|Shard]]. He turned out to be a criminal, though, and was removed from the Academy. His wealthy father tried to protect his son for a while, but when Fitzroy was caught for murder, even he could no longer protect him. Fitzroy was captured and arrested by [[Bishop (comics)|Bishop]], Shard's brother and an XSE officer.
+Trevor Fitzroy was the illegitimate son of Anthony Shaw,  future Black King of the [[Hellfire Club (comics)|Hellfire Club]], in a dystopian future. Fitzroy joined the Academy for [[Xavier's Security Enforcers]] (XSE) and had a relationship with [[Shard (comics)|Shard]]. He turned out to be a criminal, though, and was removed from the Academy. His wealthy father tried to protect his son for a while, but when Fitzroy was caught for murder, even he could no longer protect him. Fitzroy was captured and arrested by [[Bishop (comics)|Bishop]], Shard's brother and an XSE officer.
 
-Fitzroy himself thought that he was merely a teleporter, but a secret group of XSE agents, known as the '''Xavier's Underground Enforcers''' (XUE) discovered that Fitzroy had the ability to travel through time. The XUE recruited Shard and freed Fitzroy, hoping to use his powers to change the past to create a better present.  However, Shard, reminded how dangerous Fitzroy was, stopped them and Fitzroy was returned to prison.
+Fitzroy himself thought that he was merely a teleporter, but a secret group of XSE agents, known as the Xavier's Underground Enforcers (XUE) discovered that Fitzroy had the ability to travel through time. The XUE recruited Shard and freed Fitzroy, hoping to use his powers to change the past to create a better present.  However, Shard, reminded how dangerous Fitzroy was, stopped them and Fitzroy was returned to prison.
 
 ===The Upstarts===
 From prison, Fitzroy escaped to the present time with his mutant minion [[Bantam (comics)|Bantam]]. There, he became involved with a group known as the [[Upstarts (comics)|Upstarts]], a competition set up by [[Selene (comics)|Selene]] to eliminate her rivals within the [[Hellfire Club (comics)|Hellfire Club]]. Led by the Gamesmaster, the Upstarts had to kill other mutants to receive points. The Upstart with the most points would win the prize: control over the Hellfire Club and the other competitors. To enter the competition, one had to kill a member of the Hellfire Club's Inner Circle (though later members didn't have to.) 
@@ -55,7 +54,7 @@ Fitzroy also had several [[Sentinel (comics)|Sentinels]] that obeyed his command
 ==Other versions==
 
 ===X-Men '92===
-Fitzroy appears in the second volume of ''[[X-Men '92]]''. As in his original incarnation, he is a member of the Upstarts and hails from Bishop's future timeline. Curiously, his manservant Bantam does not appear, nor is any mention made of him. After the threat of '''Alpha Red''' (a progenitor of [[Omega Red]] released by fellow Upstarts Andrea and Andreas Strucker) is defeated, he and [[Shinobi Shaw]] go on an extended pleasure cruise, only to enlisted into a confederation of villains led by [[Apocalypse (comics)|Apocalypse]] to stand against the title's main villain '''X-odus the Forgotten [[Celestial (comics)|Celestial]]'''. Fitzroy last appears alongside his fellow Upstarts, being humorously threatened by X-Force member [[Deadpool (comics)|Deadpool]] for their role in earlier events.<ref>''X-Men '92 Vol 2 Issues 1-10</ref>
+Fitzroy appears in the second volume of ''[[X-Men '92]]''. As in his original incarnation, he is a member of the Upstarts and hails from Bishop's future timeline. Curiously, his manservant Bantam does not appear, nor is any mention made of him. After the threat of Alpha Red (a progenitor of [[Omega Red]] released by fellow Upstarts Andrea and Andreas Strucker) is defeated, he and [[Shinobi Shaw]] go on an extended pleasure cruise, only to enlisted into a confederation of villains led by [[Apocalypse (comics)|Apocalypse]] to stand against the title's main villain X-odus the Forgotten [[Celestial (comics)|Celestial]]. Fitzroy last appears alongside his fellow Upstarts, being humorously threatened by X-Force member [[Deadpool (comics)|Deadpool]] for their role in earlier events.<ref>''X-Men '92 Vol 2 Issues 1-10</ref>
 
 ==In other media==
 ===Television===
@@ -66,9 +65,8 @@ Fitzroy was a guest-star in the two-part episode "One Man's Worth" of the episod
 * Fitzroy was one of the bosses in ''[[X-Men: Gamesmaster's Legacy]]'' and ''[[X-Men: Mojo World]]''.
 * He also appears as the final boss of ''[[Wolverine: Adamantium Rage]]'' for the [[Sega Genesis]].
 
-===Other Appearances===
+===Action figures===
 * An [[action figure]] of Trevor Fitzroy was produced by [[Toy Biz]] in 1994 as part of the fourth X-Men wave. He was packaged with 4 pieces of snap-on crystal battle armor.
-* Trevor Fitzroy is a playing piece in the Heroclix game system. He has the ''Future'' and '''Hellfire Club''' keywords, and is played at 65pts.<ref>HCRealms</ref><ref>Wizkids / NECA</ref>
 
 ==References==
 {{reflist}}

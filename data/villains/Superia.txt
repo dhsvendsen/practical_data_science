@@ -1,20 +1,23 @@
+{{short description|American comic book character}}
 {{About|the Marvel comics character}}
+{{Multiple issues|
 {{in-universe|date=August 2016}}
-{{refimprove|date=August 2016}}
-{{Notability|date=August 2018}}
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=[[image:Superia of AIM High Council.jpg|225px]]
-|caption=Superia as she appears in ''Secret Avengers #2''. Art by Luke Ross.
-|character_name=Superia
-|real_name=Deidre Wentworth<ref>{{cite web|url=http://www.comicvine.com/superia/29-25690|title=Superia|work=comicvine.com}}</ref>
-|publisher=[[Marvel Comics]]
-|debut=''[[Captain America (comic book)|Captain America]]'' Vol.1 #387 (July 1991)
-|creators=[[Mark Gruenwald]] and [[Rik Levins]]
-|alliances=[[Advanced Idea Mechanics|A.I.M.]]<br>[[Dark Avengers]]<br>[[Femizons]]<br>[[H.A.M.M.E.R.]]
-|previous_alliances=
-|aliases=[[Ms. Marvel]]<ref>''New Avengers'' Vol.2 #18</ref>
-|powers=Genius scientist<br>Highly trained martial artist<br>Superhuman strength<br>Flight<br>Enhanced resistance to injury<br>Concussive energy blasts
+{{refimprove|date=September 2020}}
 }}
+{{Infobox comics character
+|<!--Wikipedia:WikiProject Comics-->
+|image              = [[File:Superia of AIM High Council.jpg|250px]]
+|caption            = 
+|character_name     = Superia
+|real_name          = Deidre Wentworth<ref>{{cite web|url=http://www.comicvine.com/superia/29-25690|title=Superia|work=comicvine.com}}</ref>
+|publisher          = [[Marvel Comics]]
+|debut              = ''[[Captain America (comic book)|Captain America]]'' Vol.1 #387 (July 1991)
+|creators           = [[Mark Gruenwald]] and [[Rik Levins]]
+|alliances          = [[Advanced Idea Mechanics|A.I.M.]]<br>[[Dark Avengers]]<br>[[Femizons]]<br>[[H.A.M.M.E.R.]]
+|previous_alliances = 
+|aliases            = [[Ms. Marvel]]<ref>''New Avengers'' Vol.2 #18</ref>
+|powers             = Genius scientist<br>Highly trained martial artist<br>Superhuman strength<br>Flight<br>Enhanced resistance to injury<br>Concussive energy blasts
+|imagesize          = }}
 
 '''Superia''' (Dr. '''Deidre Wentworth''') is a [[fictional character]], a [[supervillain]] and criminal scientist appearing in [[American comic book]]s published by [[Marvel Comics]].
 
@@ -51,10 +54,11 @@ In addition to her natural scientific genius and her status as a polymath, Super
 [[Category:Comics characters introduced in 1991]]
 [[Category:Female supervillains]]
 [[Category:Fictional professors]]
-[[Category:Fictional women scientists]]
+[[Category:Fictional female scientists]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Mark Gruenwald]]
 [[Category:Sterilization in fiction]]
+[[Category:Marvel Comics female supervillains]]

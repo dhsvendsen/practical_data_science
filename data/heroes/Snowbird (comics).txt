@@ -1,4 +1,3 @@
-{{Refimprove|date=February 2010}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name=Snowbird
 |image=Snowbirdb.png
@@ -6,7 +5,7 @@
 |converted=y
 |caption=Snowbird with fellow members [[Guardian (Marvel Comics)|Guardian]] (top) and [[Wolverine (character)|Wolverine]] (bottom). Art by [[Sean Chen (artist)|Sean Chen]].
 |alter_ego=Narya
-|species = [[Human]]
+|species = [[Human]]–[[Goddess]] [[Demigoddess|hybrid]]
 |homeworld = [[Earth]]
 |publisher=[[Marvel Comics]]
 |debut=''[[Uncanny X-Men]]'' #120 (April [[1979 in comics|1979]])
@@ -18,7 +17,7 @@
 |subcat=Marvel Comics
 |sortkey=Snowbird (Comics)
 }}
-'''Snowbird''' ('''Narya''') is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[John Byrne (comics)|John Byrne]], the character made her first appearance in ''[[Uncanny X-Men]]'' #120 (1979).
+'''Snowbird''' ('''Narya''') is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[John Byrne (comics)|John Byrne]], the character made her first appearance in ''[[Uncanny X-Men]]'' #120 (1979).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=338}}</ref>
 
 ==Publication history==
 {{Expand section|date=December 2012}}
@@ -39,7 +38,7 @@ Much later, a time-displaced alternate Snowbird from relatively early in her Alp
 
 During the ''[[Secret Invasion]]'' storyline, Snowbird is sent by her uncle Hodiak to be part of a team of gods dubbed the "[[God Squad (comics)|God Squad]]", assembled by [[Hercules (Marvel Comics)|Hercules]] to battle the [[Skrull]] gods; for if the Skrulls win, then the gods of humanity will be devoured or enslaved. When approached by the new Guardian [[Michael Pointer (comics)|Michael Pointer]], she informs him that, due to Alpha Flight's demise, the end of her marriage, and the loss of the Great Beasts, she will not join the new Omega Flight team.<ref name="Incredible Hercules #117">''Incredible Hercules'' #117 (July 2008)</ref> When captured by [[Nightmare (Marvel Comics)|Nightmare]], it is revealed that her greatest fear is survivor's guilt for not being present at the battle between Pointer and Alpha Flight. During a battle with a group of gods who had been absorbed into the Skrull pantheon, Snowbird changes into '''Neooqtoq the Ravager''', deadliest of the Great Beasts of the north. In doing so, she loses her rational mind, attempting to kill anything in her way. She pulls in all the fallen gods and seemingly collapses into herself.<ref>''Incredible Hercules'' #119 (September 2008)</ref> However, at the last moment she transformed herself into a swarm of mosquitoes, choosing to honor her fallen teammates by fighting on and rejoins the battle against the Skrull gods and rescues Cho, who has been knocked out of the palace. She returns at a crucial moment and impales the Skrull god Kly'bn on the spine of the slain god-eater [[Atum (comics)|Demogorge]], eldest child of [[Gaea (Marvel Comics)|Gaea]], when the Skrull god is knocked back by Hercules. She later carries a weeping Hercules and Amadeus back to Earth in the form of a great white bird.<ref name="Incredible Hercules #120">''Incredible Hercules'' #120 (October 2008)</ref> Some time later, she attends Hercules' funeral.<ref>''Hercules: Fall of an Avenger'' #1 (May 2010)</ref>
 
-During the ''[[Chaos War (comics)|Chaos War]]'' storyline, Snowbird and Alpha Flight battle Amatusu-Mikaboshi's troops. She only just escapes from the Inuit god's realm before her mother is killed. When she discovers that Sasquatch has brought the Great Beasts to Earth so they can kill Amatsu-Mikaboshi, she is furious and ends up freezing them, after which Mikaboshi impales them.<ref>''Chaos War: Alpha Flight'' #1 (January 2011)</ref>
+During the ''[[Chaos War (comics)|Chaos War]]'' storyline, Snowbird and Alpha Flight battle [[Amatsu-Mikaboshi (character)|Amatusu-Mikaboshi]]'s troops. She only just escapes from the Inuit god's realm before her mother is killed. When she discovers that Sasquatch has brought the Great Beasts to Earth so they can kill Amatsu-Mikaboshi, she is furious and ends up freezing them, after which Mikaboshi impales them.<ref>''Chaos War: Alpha Flight'' #1 (January 2011)</ref>
 
 ==Powers and abilities==
 Snowbird possesses a number of powers as a member of the race of superhumans known as the gods of the Native Americans of Arctic Canada. Snowbird is a metamorph who is able to change into a pale white version of any creature native to the Canadian Arctic. She can also transform into a female human being; her true face is not human. In this form, she has blonde hair and blue eyes, but they are usually depicted as being solid black with white pupils. When she transforms, she gains all the strength and special abilities of what she transforms into. For example, if she becomes an owl, she would be able to fly. She can draw additional mass from an unidentified and presumably mystical source when she takes the form of an animal whose mass and volume are greater than her base form; she sheds this mass upon return to human form. When she takes the form of an animal whose mass and volume are less than those of a human being, she becomes a human-sized version of that animal. Some things she has transformed into are a swarm of [[mosquito]]es,<ref name="Incredible Hercules #120"/> a [[sperm whale]],{{Issue|date=April 2009}} Tanaraq (the true form of [[Sasquatch (comics)|Sasquatch]]),<ref>''Alpha Flight'' #23 (June 1985)</ref> the monster [[Wendigo]],<ref>''Wolverine'' Vol. 2 #172 (March 2002)</ref> etc. She even transformed into a [[wolverine]] and beat Wendigo by ripping him to shreds.<ref>''Uncanny X-Men'' #140 (December 1980)</ref>
@@ -62,11 +61,11 @@ Shaman's binding process initially restricted her from leaving Canada; upon doin
 In ''[[Marvel Zombies: Dead Days]]'', Snowbird is seen as a zombie attacking [[Cyclops (Marvel Comics)|Cyclops]], but then has a pole stabbed through her brain by [[Magneto (Marvel Comics)|Magneto]].<ref>''Marvel Zombies: Dead Days'' one-shot (July 2007)</ref>
 
 ===Ultimate Marvel===
-In ''[[Ultimate X-Men]]'' #94 (July 2008), a Native American woman in a white costume named Snowbird attacked the X-Men with the help of the Ultimate version of Alpha Flight. She displayed the ability to fly and to create and control blizzard-like weather patterns. Her abilities allowed her to surprise attack Ultimate [[Storm (Marvel Comics)|Storm]] and quickly knock the young mutant out of the sky with a localized blizzard.{{issue|date=December 2012}}
+In ''[[Ultimate X-Men]]'' #94 (July 2008), a Canadian First Nations woman in a white costume named Snowbird attacked the X-Men with the help of the Ultimate version of Alpha Flight. She displayed the ability to fly and to create and control blizzard-like weather patterns. Her abilities allowed her to surprise attack Ultimate [[Storm (Marvel Comics)|Storm]] and quickly knock the young mutant out of the sky with a localized blizzard.{{issue|date=December 2012}}
 
 ==In other media==
 ===Television===
-Snowbird appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, voiced by [[Melissa Sue Anderson]]. In the episode "Repo Man", she displayed her shapeshifting abilities as she assumed the form of a [[Snowy Owl|snow owl]] and a [[Arctic Wolf|white wolf]] when trying to capture [[Wolverine (character)|Wolverine]]. Snowbird also made a brief appearance in the episode "The Phoenix Saga: Child of Light".
+Snowbird appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, voiced by [[Melissa Sue Anderson]]. In the episode "Repo Man", she displayed her shapeshifting abilities as she assumed the form of a [[Snowy Owl|snow owl]] and a [[Arctic Wolf|white wolf]] when trying to capture [[Wolverine (character)|Wolverine]]. Snowbird also made a brief appearance in the episode "The Phoenix Saga: Child of Light", where she and the rest of her teammates appear as part of a montage showing heroes rescuing civilians from natural disasters around the globe.
 
 ==References==
 {{Reflist|30em}}
@@ -85,11 +84,15 @@ Snowbird appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, voiced
 [[Category:Comics characters introduced in 1979]]
 [[Category:Female characters in comics]]
 [[Category:Fictional aboriginal people in the Polar regions]]
+[[Category:Fictional adoptees]]
 [[Category:Fictional characters from the Northwest Territories]]
 [[Category:Fictional characters who can morph animal or plant forms]]
+[[Category:Fictional demigods]]
 [[Category:Fictional goddesses]]
 [[Category:Fictional indigenous people of the Americas]]
 [[Category:Fictional Royal Canadian Mounted Police officers]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics deities]]
-[[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Superheroes who are adopted]]

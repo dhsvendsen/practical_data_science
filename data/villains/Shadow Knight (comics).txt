@@ -1,6 +1,6 @@
 {{Infobox comics character| <!--Part of Wikipedia:WikiProject Comics-->
-image=[[Image:Shadowknight.jpg|150px]]
-|caption=Shadow Knight .<br>Art by [[Bong Dazo]].
+image=Shadowknightcomic.jpg
+|caption=
 |character_name=Shadow Knight
 |real_name=Randall Spector
 |publisher=[[Marvel Comics]]
@@ -10,7 +10,7 @@ image=[[Image:Shadowknight.jpg|150px]]
 |aliases=Hatchet Man
 |powers=Enhanced strength similar to Moon Knight, can emit energy blasts from eyes
 }}
-'''Shadow Knight''' (Randall Spector) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a nemesis of the superhero [[Moon Knight]].
+'''Shadow Knight''' ('''Randall Spector''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a nemesis of the superhero [[Moon Knight]].
 
 ==Publication history==
 Randall Spector was introduced in the backup feature of ''Hulk! Magazine'' #17 in October, 1979 as a mysterious serial killer known as the Hatchet Man who is murdering nurses around [[New York City]]. Moon Knight attempts to stop the murders, and eventually deduces that the killer is his estranged brother Randall. In #18, Moon Knight confronts his murderous brother in [[Central Park]] and a fight ensues, in which Randall is killed. This was later [[Retroactive continuity|retconned]] by writer [[Howard Mackie]] to be an impostor and in ''Marc Spector: Moon Knight'' #33-37 Randall returns. During the ''[[Shadowland (comics)|Shadowland]]'' crossover, writer [[Gregg Hurwitz]] and artist [[Ron Garney]] wrote a three issue limited series where Moon Knight deals with his brother in final confrontation.
@@ -29,6 +29,10 @@ During the ''[[Shadowland (comics)|Shadowland]]'' storyline, Randall mysteriousl
 * [http://marvel.wikia.com/wiki/Randall_Spector_(Earth-616) Randall Spector] at Marvel Wiki
 
 {{Moon Knight}}
-
+[[Category:Characters created by Doug Moench]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Comics characters introduced in 1979]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional serial killers]]
+[[Category:Characters created by Bill Sienkiewicz]]

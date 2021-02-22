@@ -32,7 +32,7 @@ The Goliath identity has been used by various [[superhero]]es:
 '''Erik Josten''' was originally known as the supervillain Power Man. After being soundly defeated by [[Luke Cage]] &ndash; who was also calling himself Power Man at the time &ndash; he changed his codename to the Smuggler and later to Goliath.<ref>''Iron Man Annual'' #7 (Oct. 1984). Marvel Comics.</ref> He adopted the superheroic identity [[Atlas (Marvel Comics)|Atlas]] upon joining the [[Thunderbolts (comics)|Thunderbolts]].
 
 ===Tom Foster===
-'''Tom Foster''' is Bill Foster's nephew. Created by [[Reginald Hudlin]], [[Greg Pak]] and [[Koi Turnbull]], he first appears in ''Black Panther'' Vol. 4 #23 (February 2007), and in ''World War Hulk: Aftersmash'' #1 (March 2008) as the new Goliath. According to Pak, Tom's character was created when Pak and Hudlin had wanted to use Bill's character but were unable to due to the man's demise in the ''[[Civil War (comics)|Civil War]]'' story arc.<ref>{{cite web|url=http://www.comicbookresources.com/news/newsitem.cgi?id=12542 |title=CBR News: THE COMMENTARY TRACK: "Aftersmash" #1 with Greg Pak |publisher=Comic Book Resources |date=2007-12-07 |accessdate=2011-01-06}}</ref>
+'''Tom Foster''' is Bill Foster's nephew. Created by [[Reginald Hudlin]], [[Greg Pak]] and [[Koi Turnbull]], he first appears in ''Black Panther'' Vol. 4 #23 (February 2007),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=149}}</ref> and in ''World War Hulk: Aftersmash'' #1 (March 2008) as the new Goliath. According to Pak, Tom's character was created when Pak and Hudlin had wanted to use Bill's character but were unable to due to the man's demise in the ''[[Civil War (comics)|Civil War]]'' story arc.<ref>{{cite web|url=http://www.comicbookresources.com/news/newsitem.cgi?id=12542 |title=CBR News: THE COMMENTARY TRACK: "Aftersmash" #1 with Greg Pak |publisher=Comic Book Resources |date=2007-12-07 |access-date=2011-01-06}}</ref>
 
 After learning of Bill's death from [[Black Panther (comics)|Black Panther]], Tom swore to continue his uncle's legacy by replicating the [[Pym Particles]] that gave him his powers. To this end, T'Challa swore to assist him in any way possible, once Tom finished his [[M.I.T.]] studies.<ref>''Black Panther'' #23. DC Comics.</ref>
 
@@ -47,7 +47,7 @@ During the "[[Civil War II]]" storyline, Goliath is shown to be an inmate at the
 ==References==
 {{reflist}}
 
-{{Hank Pym}}
+{{Ant-Man and Wasp}}
 {{Hawkeye}}
 {{Avengers}}
 {{Stan Lee}}
@@ -57,5 +57,5 @@ During the "[[Civil War II]]" storyline, Goliath is shown to be an inmate at the
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Fictional characters who can change size]]
-[[Category:Fictional giants]]
+[[Category:Marvel Comics giants]]
 [[Category:Male characters in comics]]

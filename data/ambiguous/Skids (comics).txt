@@ -21,12 +21,12 @@
 | aliases =
 | powers = Force field generation
 }}
-
+{{Lead too short|date=December 2020}}
 '''Skids''' ('''Sally Blevins''') is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 
-Created by writer [[Louise Simonson]] and artist [[Jackson Guice]], Skids first appeared in ''[[X-Factor (comics)|X-Factor]]'' #7 vol. 1 (August 1986), first as one of the sewer-dwelling [[Morlocks (comics)|Morlocks]] and then as a young ward of X-Factor. She remained as a supporting character through ''X-Factor'' vol. 1 #33, but during the events of [[Inferno (comics)|Inferno]], she formed the [[X-Terminators]] along with peers [[Tabitha Smith|Boom-Boom]], [[Rusty Collins]] and [[Rictor (comics)|Rictor]], as well as younger mutant children [[Artie Maddicks]], [[Leech (comics)|Leech]] and [[Wiz Kid]], in ''X-Terminators'' #1-4 (1988). After ''Inferno'', Skids (along with the older three X-Terminators) joined the remaining members of the [[New Mutants]] in ''New Mutants'' vol. 1 #76, but leaves the title as a regular after joining the [[Mutant Liberation Front]] with Rusty in ''New Mutants'' vol. 1 #87 (1990). Skids would then leave regular publication but appear semi-regularly as an antagonist to the [[X-Men]] and [[X-Force]], originally with the MLF in ''X-Men'' volume 2 #13-15 (1992) and ''X-Force'' vol. 1 #24 (1993), but later with the Acolytes: ''X-Men'' volume 2 #25 (1993), ''Cable'' vol. 1 #10-11 (1994); ''Uncanny X-Men'' #315 (1994), and ''X-Men'' volume 2 #42-44 (1995). Subsequently, Skids left the Acolytes and appeared infrequently in publication, only in isolated stories: as a college student trying to rebuild her life in ''X-Force'' volume 1 #78-80, 85 (1998-99), as a member of the [[X-Corporation]] in ''[[X-Treme X-Men]]'' #42-46 (2004), as one of [[The 198]] in ''X-Men'' vol. 2 #183-184 (2006), as a [[S.H.I.E.L.D.]] agent infiltrating the Morlocks in ''Uncanny X-Men'' #487-491 (2007), and most recently, still with S.H.I.E.L.D. in [[Tales of Suspense]] #101-104 (2018).
+Created by writer [[Louise Simonson]] and artist [[Jackson Guice]], Skids first appeared in ''[[X-Factor (comics)|X-Factor]]'' #7 vol. 1 (August 1986),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=337}}</ref> first as one of the sewer-dwelling [[Morlocks (comics)|Morlocks]] and then as a young ward of X-Factor. She remained as a supporting character through ''X-Factor'' vol. 1 #33, but during the events of [[Inferno (comics)|Inferno]], she formed the [[X-Terminators]] along with peers [[Tabitha Smith|Boom-Boom]], [[Rusty Collins]] and [[Rictor (comics)|Rictor]], as well as younger mutant children [[Artie Maddicks]], [[Leech (comics)|Leech]] and [[Wiz Kid]], in ''X-Terminators'' #1-4 (1988). After ''Inferno'', Skids (along with the older three X-Terminators) joined the remaining members of the [[New Mutants]] in ''New Mutants'' vol. 1 #76, but leaves the title as a regular after joining the [[Mutant Liberation Front]] with Rusty in ''New Mutants'' vol. 1 #87 (1990). Skids would then leave regular publication but appear semi-regularly as an antagonist to the [[X-Men]] and [[X-Force]], originally with the MLF in ''X-Men'' volume 2 #13-15 (1992) and ''X-Force'' vol. 1 #24 (1993), but later with the Acolytes: ''X-Men'' volume 2 #25 (1993), ''Cable'' vol. 1 #10-11 (1994); ''Uncanny X-Men'' #315 (1994), and ''X-Men'' volume 2 #42-44 (1995). Subsequently, Skids left the Acolytes and appeared infrequently in publication, only in isolated stories: as a college student trying to rebuild her life in ''X-Force'' volume 1 #78-80, 85 (1998-99), as a member of the [[X-Corporation]] in ''[[X-Treme X-Men]]'' #42-46 (2004), as one of [[The 198]] in ''X-Men'' vol. 2 #183-184 (2006), as a [[S.H.I.E.L.D.]] agent infiltrating the Morlocks in ''Uncanny X-Men'' #487-491 (2007), and most recently, still with S.H.I.E.L.D. in [[Tales of Suspense]] #101-104 (2018).
 
 ==Fictional character biography==
 {{Refimprove section|date=November 2009}}
@@ -106,8 +106,10 @@ Skids made an appearance in the ''[[X-Men (TV series)|X-Men]]'' episode "No Muta
 [[Category:Female characters in comics]]
 [[Category:Fictional secret agents and spies]]
 [[Category:Fictional special forces personnel]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
+[[Category:New Mutants]]
 [[Category:S.H.I.E.L.D. agents]]
-[[Category:Marvel Comics female superheroes]]
+[[Category:X-Factor (comics)]]

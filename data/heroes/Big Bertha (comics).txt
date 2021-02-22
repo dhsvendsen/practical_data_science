@@ -1,5 +1,4 @@
 {{For|other uses of the term|Big Bertha (disambiguation)}}
-{{refimprove|date=July 2016}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=Big_Bertha_from_GLA_1_June_2005.jpg
 |imagesize=230
@@ -19,7 +18,7 @@
 
 ==Publication history==
 {{expand section|date=December 2016}}
-Created by [[John Byrne (comics)|John Byrne]], she first appeared in ''[[West Coast Avengers]]'' vol. 2 #46 (July 1989).
+Created by [[John Byrne (comics)|John Byrne]], she first appeared in ''[[West Coast Avengers]]'' vol. 2 #46 (July 1989).<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=241}}</ref>
 
 ==Fictional character biography==
 Not a lot is known of Bertha's life before she responded to [[Mr. Immortal]]'s advertisement for a hero team, the team who would become the Great Lakes Avengers. It was revealed in the ''G.L.A.'' mini-series that Ashley is in fact a [[Mutant (Marvel Comics)|mutant]].<ref>''GLA: Misassembled'' #4 (Sept. 2005)</ref>

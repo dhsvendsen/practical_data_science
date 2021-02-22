@@ -1,8 +1,3 @@
-{{Multiple issues|
-{{refimprove|date=July 2016}}
-{{in-universe|date=June 2009}}
-}}
-
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |image= Blindfold (comics).jpg
 |caption = Blindfold.<br>Art by [[John Cassaday]].
@@ -19,7 +14,7 @@
 '''Powers Lost/Regained'''<br>[[Telekinesis]]<br>Chaos Manipulation<br>Accelerated Probability  
 |}}
 
-'''Blindfold''' ('''Ruth Aldine''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of the student body of the [[X-Men|Xavier Institute]] in [[X-Men]]-related comic books. She first appeared in ''[[Astonishing X-Men]]'', vol. 3 #7 and was created by [[Joss Whedon]] and [[John Cassaday]].
+'''Blindfold''' ('''Ruth Aldine''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of the student body of the [[X-Men|Xavier Institute]] in [[X-Men]]-related comic books. She first appeared in ''[[Astonishing X-Men]]'', vol. 3 #7 and was created by [[Joss Whedon]] and [[John Cassaday]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=57}}</ref>
 
 ==Fictional character biography==
 Blindfold is a student at the [[X-Mansion|Xavier Institute]] and ever since she was a child, Ruth had worn a blindfold to cover up her obvious mutation and it was this that inspired her new codename "Blindfold." She was first mentioned by [[Armor (comics)|Hisako Ichiki]] and Wing before their confrontation with [[Ord (comics)|Ord]]. Hisako and Wing both said she had a big mouth because she had read Wing's mind and informed Hisako of his dreams of one day becoming an [[X-Men|X-Man]]. Wing was upset, but Hisako told him not to worry, as she wanted to be an X-Man too, and that Blindfold was just lonely. Whether it was her fractured psyche or the fact that her powers were not suited for battle, Ruth tended to stay out of limelight.

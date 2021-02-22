@@ -21,9 +21,7 @@
 |hero=y
 |sortkey=
 }}
-'''Hope Summers''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The superheroine first appeared in ''[[X-Men]]'' #205 in 2007 (Chapter five of the "[[X-Men: Messiah Complex]]" storyline). She is the first mutant born after the events of the "[[House of M]]" and "[[Decimation (comics)|Decimation]]" storyline.
-
-The character made an appearance in ''[[Deadpool 2]]'' played by Islie Hirvonen.
+'''Hope Summers''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The superheroine first appeared in ''[[X-Men]]'' #205 (Jan 2008, during the "[[X-Men: Messiah Complex]]" storyline).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=362}}</ref> She is the first mutant born after the events of the "[[House of M]]" and "[[Decimation (comics)|Decimation]]" storyline.
 
 ==Publication history==
 
@@ -33,7 +31,7 @@ Hope is the first [[Mutant (Marvel Comics)|mutant]] to be born after the Decimat
 
 Hope's town is attacked by the [[Purifiers (Marvel Comics)|Purifiers]], who use information given to them by the time-traveling [[Nimrod (comics)|Nimrod]] who warns them of her arrival.<ref>''New X-Men'' #36</ref> Although all the children in town are murdered by the Purifiers, the X-Men [[Cable (comics)|Cable]] manages to save Hope.<ref>''X-Men'' #205</ref> According to Cable, the baby is a Messianic figure destined to save both mutant and humankind.<ref name="X-Men #207">''X-Men'' #207</ref> The Purifiers and [[Bishop (comics)|Bishop]], however, recall a timeline in which Hope will become the mutant equivalent of the [[Antichrist]], and kill a million humans in an instant. This event, known as the "Six Second War", will turn humanity against mutants once again and lead into a new era of mutant persecution, creating the dark timeline into which Bishop is born.<ref name="Uncanny X-Men #494">''Uncanny X-Men'' #494</ref>
 
-Later, the baby is kidnapped by the [[Marauders (comics)|Marauders]]<ref name="Uncanny X-Men #494"/> and delivered to the mutant [[Mystique (comics)|Mystique]] who is disguised as [[Mister Sinister]]. Mystique takes the baby and makes her touch the comatose [[Rogue (comics)|Rogue]] with the intention of waking her from her coma.<ref>''X-Factor'' #27</ref> The mutant [[Gambit (comics)|Gambit]] intervenes and takes Hope from Mystique. Believing the baby has died during her rescue, Gambit is amazed to find not only is the baby unharmed, but also Rogue has been awakened from her coma.<ref name="New X-Men #46">''New X-Men'' #46</ref> After an intense battle between the Marauders, the [[X-Men]] and [[Predator X (Marvel Comics)|Predator X]], X-Men leader [[Cyclops (Marvel Comics)|Cyclops]] decides the baby would be better off with his son Cable, and allows him to take her to the future. However, an adamant [[Bishop (comics)|Bishop]] decides to track Cable and the baby through time in order to kill her and prevent the bleak future of his own timeline from happening.<ref name="X-Men #207"/>
+Later, the baby is kidnapped by the [[Marauders (comics)|Marauders]]<ref name="Uncanny X-Men #494"/> and delivered to the mutant [[Mystique (comics)|Mystique]] who is disguised as [[Mister Sinister]]. Mystique takes the baby and makes her touch the comatose [[Rogue (comics)|Rogue]] with the intention of waking her from her coma.<ref>''X-Factor'' #27</ref> The mutant [[Gambit (Marvel Comics)|Gambit]] intervenes and takes Hope from Mystique. Believing the baby has died during her rescue, Gambit is amazed to find not only is the baby unharmed, but also Rogue has been awakened from her coma.<ref name="New X-Men #46">''New X-Men'' #46</ref> After an intense battle between the Marauders, the [[X-Men]] and [[Predator X (Marvel Comics)|Predator X]], X-Men leader [[Cyclops (Marvel Comics)|Cyclops]] decides the baby would be better off with his son Cable, and allows him to take her to the future. However, an adamant [[Bishop (comics)|Bishop]] decides to track Cable and the baby through time in order to kill her and prevent the bleak future of his own timeline from happening.<ref name="X-Men #207"/>
 
 [[Image:Hope Summers in Messiah War one-shot.jpg|thumb|right|Panel from ''X-Force/Cable: Messiah War #1'' (March 2009).<br>Art by [[Michael Choi (comics)|Mike Choi]]]]
 
@@ -150,7 +148,7 @@ With the majority of the X-Men believed to be dead following their battle agains
 Hope participated in Scott's survivor retrieval mission while the major and minor heroes of midgard did battle with the invading forces of Malekith. Making hit and run passes against enemy forces headed by Sabretooth working in league with the Dark Council while running the beachhead of fallen New York.<ref>''War of the Realms: Uncanny X-Men'' #3 (2019)</ref>
 
 ===House of X===
-Hope would begin to realize her full potential while working with the newly reborn X in making a better society away from most human civilization; working with a couple other mutants in order to revitalize those whom were lost battling against the Orchis group. She would help them resurrect their fallen mutant brethren by enhancing their powers to a degree needed for stable physiological new genesis.<ref>''House of X'' #5 (Sep, 2019)</ref>
+Hope would begin to realize her full potential while working with the newly reborn X in making a better society away from most human civilization: she now works in tandem with a core group of mutants known as [[The Five (comics)|The Five]] ([[Elixir (comics)|Elixir]], [[Proteus (Marvel Comics)|Proteus]], [[Fabio Medina|Egg]], and [[Tempus (comics)|Tempus]]) in order to revitalize those whom were lost battling against the Orchis group. She would help them resurrect their fallen mutant brethren by enhancing their powers to a degree needed for stable physiological new genesis.<ref>''House of X'' #5 (Sep, 2019)</ref>
 
 ==Powers and abilities==
 Hope Summers is an Omega level Mutant with an ability of unspecified limits to psychically manipulate and mimic the powers of other mutants.<ref>''House of X'' #1 (Jul, 2019)</ref><ref>''House of X'' #5 (Sep, 2019)</ref>
@@ -230,3 +228,4 @@ Her character makes her film debut in ''[[Deadpool 2]]'', portrayed by Islie Hir
 [[Category:X-Men]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics child superheroes]]
+[[Category:X-Men supporting characters]]

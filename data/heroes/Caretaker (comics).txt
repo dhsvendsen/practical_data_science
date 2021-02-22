@@ -1,6 +1,8 @@
 {{short description|Comics character}}
 '''Caretaker''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. There have been two incarnations of the character.
 
+The Caretaker appeared in the 2007 film ''[[Ghost Rider (2007 film)|Ghost Rider]]'' and the [[Hulu]] television series ''[[Helstrom (TV series)|Helstrom]]'', portrayed by [[Sam Elliott]] and [[Robert Wisdom]] respectively.
+
 ==Publication history==
 The first Caretaker debuted in ''[[Ghost Rider (Daniel Ketch)|Ghost Rider]]'' vol. 3 #28 and was created by [[Howard Mackie]] and [[Andy Kubert]].
 
@@ -50,24 +52,24 @@ They traveled all over the country to find a way to get to Zadkiel, but it wasn'
 ==Powers and abilities==
 Caretaker is part of the ancient race called 'the Blood'. He is seemingly immune or resistant to aging and conventional disease. He possesses a degree of superhuman strength and is a skillful fighter, mainly using his shovel. When needed, he has shown he can overpower Ghost Rider and Vengeance (a similarly powered being) at once. He can break the connection users have with the Medallion of Power: he can turn Ghost Rider back to Daniel Ketch at will.
 
-Caretaker also rides an "ancient motorcycle," which possibly refers to its being an older 1960s-era model.
+Caretaker also rides an "ancient motorcycle", which possibly refers to its being an older 1960s-era model.
 
 ==In other media==
-===Film===
-* [[Sam Elliott]] portrayed the Caretaker in [[Ghost Rider (2007 film)|the 2007 film based on Ghost Rider]].{{cn|date=December 2016}} This version of the character, however, was not a member of the Blood, of which there is no mention in the movie, but in fact was [[Ghost Rider (Johnny Blaze)|Johnny Blaze]]'s predecessor to the Ghost Rider title, having been subjected to the same curse 150 years before. In the film, the Caretaker turns out to be [[Phantom Rider|Carter Slade]] (another character owned by [[Marvel Comics]] that was originally named Ghost Rider, but later changed to [[Phantom Rider]] to make way for the new version). Sam Elliott's depiction of this character is more along the lines of the Caretaker, in terms of emotion, or lack thereof. At one point, he even transforms into a Ghost Rider-style version of Carter Slade, complete with a flaming skull, nearly-charred clothes and a mystical horse on fire, as the Phantom Rider.
+=== Television ===
+The Caretaker appears in the live-action [[Hulu]] series ''[[Helstrom (TV series)|Helstrom]]'', portrayed by [[Robert Wisdom]].<ref>{{cite web|url=https://www.bleedingcool.com/2019/10/08/marvels-helstrom-the-royals-tom-austen-ftwd-sydney-lemon-5-more-join-hulu-series/|title=“Marvel’s Helstrom”: “The Royals” Tom Austen, “FTWD” Sydney Lemon, 5 More Join Hulu Series|website=Bleeding Cool|last=Flook|first=Ray|date=October 8, 2019|accessdate=October 8, 2019}}</ref> This version is an African-American named '''Henry''', who displays a more pleasant personality and is especially friendly towards [[Darkhold#Darkhold Redeemers|Louise Hastings]], the head of Saint Teresa Center for Mental Health.
 
-===Television===
-* [[Robert Wisdom]] will portray the Caretaker in ''[[Helstrom (TV series)|Helstrom]]'' on [[Hulu]], making the character African American.<ref>{{cite web|url=https://www.bleedingcool.com/2019/10/08/marvels-helstrom-the-royals-tom-austen-ftwd-sydney-lemon-5-more-join-hulu-series/|title=“Marvel’s Helstrom”: “The Royals” Tom Austen, “FTWD” Sydney Lemon, 5 More Join Hulu Series|website=Bleeding Cool|last=Flook|first=Ray|date=October 8, 2019|accessdate=October 8, 2019}}</ref>
+=== Film ===
+A variation of the Caretaker amalgamated with '''[[Phantom Rider|Carter Slade]]''' appears in the live-action film ''[[Ghost Rider (2007 film)|Ghost Rider]]'', portrayed by [[Sam Elliott]]. Slade was a former Texas Ranger from the 1800s who sold his soul to [[Mephisto (comics)|Mephistopheles]] as a consequence of his greed and became his personal [[Ghost Rider]]. After trapping 1000 evil souls within the Contract of San Venganza, Slade knew they would bring hell on Earth and outran his master to keep it from him, going into hiding and becoming the caretaker for a cemetery. 150 years later, [[Ghost Rider (Johnny Blaze)|Johnny Blaze]] became the new Ghost Rider, so Slade took him under his wing to help him understand his powers and prepare him to face Mephistopheles' son, [[Blackheart]]. Once his successor was ready, Slade gave Blaze the contract and his shotgun before vanishing.
 
-===Video games===
-* Caretaker appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game voiced by [[Fred Tatasciore]].{{cn|date=October 2019}}
+=== Video games ===
+Caretaker appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game, voiced by [[Fred Tatasciore]].
 
 ==References==
 {{reflist}}
 
 ==External links==
-* [http://marvel.wikia.com/wiki/Caretaker_%28Blood%29_%28Earth-616%29 Caretaker I] at Marvel Wiki
-* [http://marvel.wikia.com/wiki/Caretaker_%28Sara%29_%28Earth-616%29 Caretaker II] at Marvel Wiki
+* [https://marvel.fandom.com/wiki/Caretaker_%28Blood%29_%28Earth-616%29 Caretaker I] at Marvel Wiki
+* [https://marvel.fandom.com/wiki/Caretaker_%28Sara%29_%28Earth-616%29 Caretaker II] at Marvel Wiki
 
 {{Ghost Rider}}
 
@@ -81,4 +83,4 @@ Caretaker also rides an "ancient motorcycle," which possibly refers to its being
 [[Category:Ghost Rider]]
 [[Category:Mythology in Marvel Comics]]
 [[Category:Marvel Comics superheroes]]
-[[Category:Fictional characters with slowed aging]]
+[[Category:Fictional characters with slowed ageing]]

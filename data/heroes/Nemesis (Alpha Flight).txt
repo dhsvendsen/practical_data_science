@@ -4,7 +4,7 @@
 | image          = [[File:Nemesis (Alpha Flight).jpg|250px]]
 | caption        = Amelia Weatherly as Nemesis from the pages of ''Alpha Flight''.
 | publisher      = [[Marvel Comics]]
-| debut          = '''(St. Ives)'''<br>''[[Alpha Flight]]'', vol. 1 #8 (March, 1984)<br>'''(Thorne)'''<br>''Alpha Flight'', vol. 1 #76 (November, 1989)<br>'''(Weatherly)'''<br>''Alpha Flight'', vol. 3 #1 (May, 2004)
+| debut          = '''(St. Ives)'''<br>''[[Alpha Flight (comic book)|Alpha Flight]]'', vol. 1 #8 (March, 1984)<br>'''(Thorne)'''<br>''Alpha Flight'', vol. 1 #76 (November, 1989)<br>'''(Weatherly)'''<br>''Alpha Flight'', vol. 3 #1 (May, 2004)
 | creators       = '''(St. Ives)'''<br>[[John Byrne (comics)|John Byrne]]<br>'''(Thorne)'''<br>[[James Hudnall]]<br>'''(Weatherly)'''<br>[[Scott Lobdell]]
 | real_name      = -Isabel St. Ives<br>-Jane Thorne<br>-Amelia Weatherly
 | alliances      = '''(Thorne)'''<br>[[Alpha Flight]]<br>Children of the Night<br>[[Gamma Flight]]<br>'''(Weatherly)'''<br>[[Alpha Flight]]
@@ -14,7 +14,7 @@
 '''Nemesis''' is the name of three [[fictional character|fictional]] [[superhero]]ines appearing in [[American comic book]]s published by [[Marvel Comics]]. All three women have encountered the superhero team [[Alpha Flight]] team, and wore the same black and red costume, carried a mystical sword, and were capable of flight.
 
 ==Isabel St. Ives==
-Nemesis (Isabel St. Ives) first appeared in ''[[Alpha Flight (comic book)|Alpha Flight]]'', vol. 1 #8, and was created by [[John Byrne (comics)|John Byrne]].
+Nemesis (Isabel St. Ives) first appeared in ''[[Alpha Flight (comic book)|Alpha Flight]]'', vol. 1 #8, and was created by [[John Byrne (comics)|John Byrne]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=246}}</ref>
 
 ===Fictional character biography===
 Isabel St. Ives was the daughter of [[Deadly Ernest#Deadly Ernest (Ernest St. Ives)|"Deadly" Ernest St. Ives]], and used a magical sword "scarcely an atom's width thick," allegedly the only weapon capable of killing her father, to assist the [[Canada|Canadian]] superheroes [[Northstar (Marvel Comics)|Northstar]] and [[Aurora (comics)|Aurora]] in combat with him.<ref name="vol1issue8">''Alpha Flight'', vol. 1 #8</ref>  Although she apparently killed Deadly Ernest,<ref name="vol1issue8" /> he did return.<ref>''Alpha Flight'', vol. 1 #31</ref>  There, the Flight member [[Puck (comics)|Puck]] used Nemesis's sword to fatally wound her father, who was then knocked in front of an oncoming [[Rapid transit|subway]] train and apparently killed.{{issue|date=January 2013}}  Nemesis then explained to the heroes her relation to the villain and disintegrated.{{issue|date=January 2013}}
@@ -49,7 +49,7 @@ When stunned, she starts talking about "fuzzy bunnies".
 {{Reflist}}
 
 ==External links==
-*[http://alphaflight.net/alphanex/index.php?title=Nemesis '''AlphaFlight.Net''' Alphanex Entry On – Nemesis]
+*[https://web.archive.org/web/20110723013110/http://alphaflight.net/alphanex/index.php?title=Nemesis '''AlphaFlight.Net''' Alphanex Entry On – Nemesis]
 
 {{Flight Program}}
 

@@ -18,7 +18,7 @@
 | species        = [[Human]]
 | homeworld      = [[Earth-616]]
 | alliances      = [[The Hand (comics)|The Hand]]
-| partners       = Silhouette<br>Illumination
+| partners       = [[Silhouette (comics)|Silhouette]]<br>Illumination
 | supports       = 
 | aliases        = Maria Castle
 | powers         = Telepathy<br>Incapability of being observed through artificial means
@@ -61,7 +61,6 @@ Gorgon is a [[Telepathy|telepath]] capable of controlling minds, reading thought
 
 [[Category:Fictional female assassins]]
 [[Category:Punisher characters]]
-[[Category:Female supervillains]]
 [[Category:Fictional female ninja]]
 [[Category:Marvel Comics telepaths]]
 [[Category:Marvel Comics martial artists]]
@@ -70,3 +69,4 @@ Gorgon is a [[Telepathy|telepath]] capable of controlling minds, reading thought
 [[Category:Characters created by Howard Chaykin]]
 [[Category:Comics characters introduced in 2008]]
 [[Category:Female characters in comics]]
+[[Category:Marvel Comics female supervillains]]

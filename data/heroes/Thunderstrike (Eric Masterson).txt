@@ -1,8 +1,8 @@
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |image=Thunderstrike.jpg
 |caption=''Thunderstrike'' #1. Art by [[Ron Frenz]].
-|character_name=Thunderstrike
-|alter_ego=Eric Kevin Masterson
+|character_name= Eric Masterson
+|alter_ego=
 |publisher=[[Marvel Comics]]
 |debut= ''Thor'' vol. 1 #391 (May 1988)
 |creators=[[Tom DeFalco]] (writer)<br>[[Ron Frenz]] (artist)
@@ -11,12 +11,12 @@
 |powers=Formidable hand to hand combatant<br>Highly skilled architect<br>Superhuman strength, speed, agility, durability, reflexes and endurance<br>'''Via Thunderstrike''':<br>Flight<br>Dimensional travel<br>Energy blasts
 |}}
 
-'''Eric Masterson''' is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has appeared as '''[[Thor (Marvel Comics)|Thor]]''' and later '''[[Thunderstrike (comics)|Thunderstrike]]'''. The character was introduced as a supporting character in the ''Thor'' title, but continued in several other comic books, including the self-titled series ''Thunderstrike'' in 1993. Later interpretations of Thunderstrike would appear in both the [[Marvel Comics 2|MC2]] and [[Heroic Age (comics)|Heroic Age]] Marvel Comics storylines, featuring the character's [[Thunderstrike (Kevin Masterson)|son]] as the hero.<ref>[http://insidepulse.com/2010/11/24/spoiler-warnings-new-thunderstrike-revealed-in-thunderstrike-1-by-tom-defalco/]</ref>
+'''Eric Masterson''' is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has appeared as '''[[Thor (Marvel Comics)|Thor]]''' and later '''[[Thunderstrike (comics)|Thunderstrike]]'''. The character was introduced as a supporting character in the ''Thor'' title, but continued in several other comic books, including the self-titled series ''Thunderstrike'' in 1993. Later interpretations of Thunderstrike would appear in both the [[Marvel Comics 2]] and [[Heroic Age (comics)|Heroic Age]] Marvel Comics storylines, featuring the character's [[Thunderstrike (Kevin Masterson)|son]] as the hero.<ref>[http://insidepulse.com/2010/11/24/spoiler-warnings-new-thunderstrike-revealed-in-thunderstrike-1-by-tom-defalco/]</ref>
 
 ==Publication history==
-Eric Masterson first appeared in ''Thor'' #391, as a supporting character. ''Thor'' #408 featured the merging of the character Eric Masterson with Thor, Masterson being utilized as the God of Thunder's alter ego until issue #432.<ref>http://www.immortalthor.net/thor421-430.html</ref> ''Thor'' #432 featured the character assuming the role of Thor, and appearing as the title character until ''Thor'' #459.<ref>http://www.immortalthor.net/thor431-440.html</ref>
+Eric Masterson first appeared in ''Thor'' #391, as a supporting character.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=381}}</ref> ''Thor'' #408 featured the merging of the character Eric Masterson with Thor, Masterson being utilized as the God of Thunder's alter ego until issue #432.<ref>http://www.immortalthor.net/thor421-430.html</ref> ''Thor'' #432 featured the character assuming the role of Thor, and appearing as the title character until ''Thor'' #459.<ref>http://www.immortalthor.net/thor431-440.html</ref>
 
-Following ''Thor'' #459, Masterson was introduced as "Thunderstrike" in the eponymous series starting in June [[1993 in comics|1993]]. The series lasted approximately two years. ''Thunderstrike'' ran for 24 issues, the series canceled in [[1995 in comics|September 1995]]. Creator [[Tom DeFalco]] has often claimed that the book outsold ''Thor'' and ''The Avengers'' combined at the time of its cancellation;<ref>{{cite web |url=http://www.newcomicreviews.com/GHM/specials/LifeOfReilly/11.html |title=Archived copy |accessdate=2008-03-16 |url-status=dead |archiveurl=https://archive.is/20060327231333/http://www.newcomicreviews.com/GHM/specials/LifeOfReilly/11.html |archivedate=2006-03-27 }}</ref> although this has been shown to be extremely unlikely.<ref>[http://goodcomics.blogspot.com/2005/08/comic-book-urban-legends-revealed-10.html Comics Should Be Good: Comic Book Urban Legends Revealed #10!<!-- Bot generated title -->]</ref> Masterson also appeared in the mini-series ''Thor Corps'' as Thunderstrike, and appeared as a guest star in the ''Thor'' series.
+Following ''Thor'' #459, Masterson was introduced as "Thunderstrike" in the eponymous series starting in June [[1993 in comics|1993]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=237}}</ref> The series lasted approximately two years. ''Thunderstrike'' ran for 24 issues, the series canceled in [[1995 in comics|September 1995]]. Creator [[Tom DeFalco]] has often claimed that the book outsold ''Thor'' and ''The Avengers'' combined at the time of its cancellation;<ref>{{cite web |url=http://www.newcomicreviews.com/GHM/specials/LifeOfReilly/11.html |title=Archived copy |access-date=2008-03-16 |url-status=dead |archive-url=https://archive.is/20060327231333/http://www.newcomicreviews.com/GHM/specials/LifeOfReilly/11.html |archive-date=2006-03-27 }}</ref> although this has been shown to be extremely unlikely.<ref>[http://goodcomics.blogspot.com/2005/08/comic-book-urban-legends-revealed-10.html Comics Should Be Good: Comic Book Urban Legends Revealed #10!<!-- Bot generated title -->]</ref> Masterson also appeared in the mini-series ''Thor Corps'' as Thunderstrike, and appeared as a guest star in the ''Thor'' series.
 
 The character was featured in the ''Avengers'' from issue #343 until issue #374,<ref>Marc Steven Sumerak (w), Eric Eng Wong (p), John G. Roshell (i). "An A-Z Compedium of Earth's Mighiest Heroes" Avengers Casebook 1999 1 (1) (Feb 2000), Marvel Comics</ref> and crossover series [[Operation: Galactic Storm]]. Masterson also appeared in the mini-series ''[[The Infinity Gauntlet|Infinity Gauntlet]]'' and ''[[The Infinity War|Infinity War]].'' Outside the many appearances in ''Thor'' and ''Avengers'', ''Thunderstrike'' was used to launch an [[ongoing series]] ''[[Blackwulf]]'', and a [[Limited series (comics)|limited series]] ''[[Code: Blue|Code: B.L.U.E.]]''
 
@@ -79,12 +79,12 @@ In his comic series, Thunderstrike has fought an array of enemies:
 
 ==In other media==
 ===Television===
-* Thunderstrike (Eric Masterson) has a non-voiced cameo appearance in ''[[Avengers Assemble (TV series)|Avengers: Ultron Revolution]]''.<ref name="Into the Future">{{cite episode|title=Into the Future|series=Avengers Assemble|network=Disney XD|season=3|number=13|airdate=August 22, 2016}}</ref> In the episode "Into the Future", he is part of a future rebel group against [[Kang the Conqueror]].
+* Eric Masterson / Thunderstrike makes a non-speaking cameo appearance in the ''[[Avengers Assemble (TV series)|Avengers: Ultron Revolution]]'' episode "Into the Future", wherein he opposes [[Kang the Conqueror]] alongside [[Monica Chang|Black Widow]], [[Hawkeye (Kate Bishop)|Kate Bishop]], [[Toni Ho]], and [[Falcon (comics)#Joaquin Torres|Joaquin Torres]].<ref name="Into the Future">{{cite episode|title=Into the Future|series=Avengers Assemble|network=Disney XD|season=3|number=13|airdate=August 22, 2016}}</ref>
 
-===Video game===
-* Thunderstrike made a cameo appearance as a non playable character at the end of ''[[Spider-Man and Venom: Maximum Carnage]]'' with the rest of the [[Avengers (comics)|Avengers]].{{cn|date=January 2019}}
-* Thunderstrike appeared as a playable character in the [[arcade game|arcade]] [[fighting game]] ''[[Avengers in Galactic Storm]]''.{{cn|date=January 2019}}
-* Thunderstrike appears as a playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=February 2016}}
+===Video games===
+* Eric Masterson / Thunderstrike made a cameo appearance as a non-playable character at the end of ''[[Spider-Man and Venom: Maximum Carnage]]'' alongside the rest of the [[Avengers (comics)|Avengers]].{{cn|date=January 2019}}
+* Eric Masterson / Thunderstrike appears as a playable character in the [[arcade game|arcade]] [[fighting game]] ''[[Avengers in Galactic Storm]]''.{{cn|date=January 2019}}
+* Eric Masterson / Thunderstrike appears as a playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=February 2016}}
 
 ==Notes==
 {{Reflist}}
@@ -98,11 +98,13 @@ In his comic series, Thunderstrike has fought an array of enemies:
 * {{Marvelwiki|Thunderstrike|Thunderstrike}}
 
 {{Thor}}
+{{Defenders}}
 
 [[Category:1993 comics debuts]]
 [[Category:Characters created by Ron Frenz]]
 [[Category:Characters created by Tom DeFalco]]
 [[Category:Comics characters introduced in 1993]]
+[[Category:Fictional hammer fighters]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics superheroes]]

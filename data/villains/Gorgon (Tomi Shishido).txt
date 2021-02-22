@@ -1,6 +1,7 @@
 {{For|the Inhumans|Gorgon (Inhuman)}}
 {{short description|Fictional comic book character}}
 {{More citations needed|date=August 2016}}
+{{Lead too short|date=November 2020}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=wolverine30.jpg
 |caption=Cover of ''Wolverine'' #30<br>Art by [[John Romita Jr.]]
@@ -14,7 +15,7 @@
 |aliases=[[Wolverine (character)|Wolverine]]<ref>''New Avengers'' (vol. 2) #18</ref>
 |powers=Ability to turn humans to stone by making eye contact with them<br>Superhuman strength, speed, agility, dexterity, reflexes/reactions, coordination, balance, and endurance<br>Regenerative healing factor<br>[[Telepathy]]<br>Empathy<br>Hand Mysticism<br>Teleportation device<br>Genius level intellect in multiple areas<br>Extraordinary hand to hand combatant<br>Expert swordsman
 }}
-'''The Gorgon''' ('''Tomi Shishido''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''The Gorgon''' ('''Tomi Shishido''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 {{Expand section|date=December 2012}}
@@ -54,11 +55,11 @@ He was also born with, or soon achieved, an extraordinary level of intelligence,
 
 After his resurrection, the Gorgon's strength, speed, reflexes/reactions, agility, dexterity, coordination, balance, and endurance are all heightened to superhuman levels, the exact limits of which are unrevealed. Tomi also possesses an accelerated healing factor that enables him to repair damaged or destroyed tissue with extraordinary speed and efficiency. He is capable of healing from massive trauma inflicted by Wolverine's [[adamantium]] claws, bludgeoning, and falling from great heights while continuing to fight.
 
-Aside from his physical advantages, the Mr. Shishido possesses some level of telepathy/empathy allowing him to hear the thoughts and feel the emotions of others. Much like his physical capabilities, the exact limits of the Gorgon's psionic powers remain unknown.
+Aside from his physical advantages, Mr. Shishido possesses some level of telepathy/empathy allowing him to hear the thoughts and feel the emotions of others. His telepathy also enables him to perceive his surroundings if necessary, such as when he's blindfolded. Much like his physical capabilities, the exact limits of the Gorgon's psionic powers remain unknown.
 
 The Gorgon is an extraordinary hand-to-hand combatant, even before his resurrection, trained in multiple forms of martial arts. He is an expert swordsman and typically prefers to use a [[katana]] during combat. Also, he typically uses his psionic abilities to read the minds of his opponents during combat situations (even highly trained minds like Wolverine's and Elektra's), enabling him to predict and counter their every move. He has used swords and a personal teleportation device. He currently wields Godkiller, a sword that has killed many kings, emperors, and had also made a god bleed.
 
-On top of various mutant powers and his acquired skill set. The Gorgon also has high-end ties to various criminal sects and their resources; many such innovations in his possession come from underworld affiliates such as A.I.M, The Hand and Hydra. He's also adept at ninjutsu and skilled in the dark arts; able to resurrect the formerly dead who serve his bedding as well as enact rituals which enable him to raise ancient creatures from eternal slumber.
+On top of various mutant powers and his acquired skill set, the Gorgon also has high-end ties to various criminal sects and their resources; many such innovations in his possession come from underworld affiliates such as A.I.M, The Hand and Hydra. He's also adept at ninjutsu and skilled in the dark arts; able to resurrect the formerly dead who serve his bidding as well as enact rituals which enable him to raise ancient creatures from eternal slumber.
 
 ==In other media==
 ===Television===
@@ -78,7 +79,7 @@ Gorgon is referenced in ''[[The Avengers: Earth's Mightiest Heroes]]''. In the e
 {{John Romita Jr.}}
 {{Mark Millar}}
 
-[[Category:Fictional swordsmen]]
+[[Category:Fictional swordfighters]]
 [[Category:Fictional Japanese people]]
 [[Category:Hydra agents]]
 [[Category:Marvel Comics martial artists]]

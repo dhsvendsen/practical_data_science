@@ -1,3 +1,4 @@
+{{redirect|Kismet (comics)|the Elliot Publishing Company character|Kismet, Man of Fate}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name = Kismet
 |image          = [[File:Alpha Flight Vol1 97.jpg|250px]]
@@ -15,7 +16,7 @@
 }}
 '''Kismet''' ({{IPAc-en|ˈ|k|ɪ|z|m|ɪ|t|,_|-|m|ɛ|t|,_|ˈ|k|ɪ|s|-}}), also known as '''Paragon''', '''Her''', and '''Ayesha''' ({{IPAc-en|aɪ|ˈ|iː|ʃ|ə}}), is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. She exists in Marvel's main [[shared universe]], known as the [[Marvel Universe]].
 
-Ayesha appears in the film ''[[Guardians of the Galaxy Vol. 2]]'', portrayed by [[Elizabeth Debicki]].
+Ayesha appeared in the [[Marvel Cinematic Universe]] film ''[[Guardians of the Galaxy Vol. 2]]'', portrayed by [[Elizabeth Debicki]].
 
 ==Publication history==
 {{expand section|date=December 2016}}
@@ -26,7 +27,7 @@ Originally known as '''Paragon''', Kismet was the second attempt by the [[Enclav
 
 She later emerged from the cocoon in her blond-haired, golden-skinned form wearing red swimsuit-like attire. As a female replicant of Warlock, she took the name of '''Her''' (a reference to Warlock's original name, Him) and sought Warlock to mate with him. However, Warlock had died some years earlier, traveling a short time into the future to steal his own soul with his [[Soul Gem]] in a twisted suicide. Confident she would be able to revive him, Her managed to restore and reanimate his body, but with his mind and soul missing, she was forced to sadly return him to his grave. She set out to explore the cosmos to find a possible mate.<ref>''[[Marvel Two-in-One]]'' #61–62. Marvel Comics.</ref>
 
-She helped the ecologically ravaged planet U'sr'pr recover, invoking the wrath of the Consortium. She was called by the natives J'ridia Starduster.<ref>''[[Marvel Comics Presents]]'' #35</ref> Later, she was aided by [[Alpha Flight]] and the [[Avengers (comics)|Avengers]] against the Consortium.<ref>''[[Alpha Flight]]'' #97–100. Marvel Comics.</ref>
+She helped the ecologically ravaged planet U'sr'pr recover, invoking the wrath of the Consortium. She was called by the natives J'ridia Starduster.<ref>''[[Marvel Comics Presents]]'' #35</ref> Later, she was aided by [[Alpha Flight]] and the [[Avengers (comics)|Avengers]] against the Consortium.<ref>''[[Alpha Flight (comic book)|Alpha Flight]]'' #97–100. Marvel Comics.</ref>
 
 Some time after beginning her quest to find Warlock, she discovered that Warlock had been resurrected body and soul. However, he rejects her, leaving her sobbing on the ground. After this, she held a competition among some of the most powerful men on Earth, attaching reproductive pods to their necks to see how they would react. She selected [[Quasar (Wendell Vaughn)|Quasar]], [[Hercules (Marvel Comics)|Hercules]], [[Wonder Man]], [[Hyperion (comics)|Hyperion]], [[Doc Samson]], and [[Forgotten One (comics)|Forgotten One]] for this task. She battled Quasar and was attacked by [[Jack of Hearts (Marvel Comics)|Jack of Hearts]], but was saved by Quasar from [[Moondragon]]. As Quasar was the only one who did not destroy his pod, she turns her attentions to him for a time, until his girlfriend Kayla Ballantine (in possession of the [[Star Brand (comics)|Star Brand]]) severely beat her and forced her to return to cocoon form to heal. However, she decided to become Quasar's companion for a time.<ref>''[[Quasar (comics)|Quasar]]'' #27–29. Marvel Comics.</ref>
 
@@ -56,10 +57,10 @@ Stakar Vaughn, [[Starhawk (comics)|Starhawk]], was born to the superheroes Quasa
 
 ===Film===
 [[File:Elizabeth Debicki as Ayesha.jpg|thumb|[[Elizabeth Debicki]] as Ayesha in the 2017 film ''[[Guardians of the Galaxy Vol. 2]]'']]
-Ayesha appears in the film ''[[Guardians of the Galaxy Vol. 2]]'', portrayed by [[Elizabeth Debicki]].<ref name="GotGVol2">{{cite web|url=http://www.newsarama.com/30349-star-lord-s-father-confirmed.html|title=Star-Lord's Father Revealed ... James Gunn Explains in Detail|last=Marston|first=George|publisher=[[Newsarama]]|date=July 23, 2016|accessdate=July 24, 2016|archiveurl=https://web.archive.org/web/20160724053349/http://www.newsarama.com/30349-star-lord-s-father-confirmed.html|archivedate=July 24, 2016|url-status=live}}</ref> In this version, she is the high priestess of the golden-skinned Sovereign race. In a [[Post-credit scene|mid-credit scene]], she is observing the gestation of a new member of the Sovereign race, and names it Adam.
+Ayesha appears in the film ''[[Guardians of the Galaxy Vol. 2]]'', portrayed by [[Elizabeth Debicki]].<ref name="GotGVol2">{{cite web|url=http://www.newsarama.com/30349-star-lord-s-father-confirmed.html|title=Star-Lord's Father Revealed ... James Gunn Explains in Detail|last=Marston|first=George|publisher=[[Newsarama]]|date=July 23, 2016|access-date=July 24, 2016|archive-url=https://web.archive.org/web/20160724053349/http://www.newsarama.com/30349-star-lord-s-father-confirmed.html|archive-date=July 24, 2016|url-status=live}}</ref> In this version, she is the high priestess of the golden-skinned Sovereign race. In a [[Post-credit scene|mid-credit scene]], she is observing the gestation of a new member of the Sovereign race, and names it Adam.
 
 ===Video games===
-Ayesha appears as a playable character in ''[[Lego Marvel Super Heroes 2|Lego Marvel Superheroes 2]]''.<ref>{{Cite web|url=http://www.brickstolife.com/all-guide-list/xandar-completion-guide-lego-marvel-super-heroes-2/|title=Xandar Completion Guide - LEGO Marvel Super Heroes 2|website=Bricks To Life|access-date=2019-07-28}}</ref> She has the appearance and attitude of her MCU incarnation, while having the abilities and origin of her comic book version.
+Ayesha appears as a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{Cite web|url=http://www.brickstolife.com/all-guide-list/xandar-completion-guide-lego-marvel-super-heroes-2/|title=Xandar Completion Guide - LEGO Marvel Super Heroes 2|website=Bricks To Life|access-date=2019-07-28}}</ref> She has the appearance and attitude of her MCU incarnation, while having the abilities and origin of her comic book version.
 
 ==References==
 {{Reflist}}

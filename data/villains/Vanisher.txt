@@ -1,8 +1,4 @@
 {{about|the Marvel Comics character|the Slavic fairy referred to as the vanisher|Scheznyk}}
-{{Multiple issues|
-{{Primary sources|date=March 2008}}
-{{fiction trivia|date=June 2018}}
-}}
 {{Use American English|date=January 2019}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=[[File:xforce69.jpg|250 px]]
@@ -17,16 +13,16 @@
 |aliases=El Hombre que Desaparece
 |powers={{bulleted list|[[Teleportation]]|Use of guns that fire gas or energy beams}}
 }}
-The '''Vanisher''' ('''Telford Porter''') is a [[fictional character]] and [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The Vanisher's primary ability is teleportation. He is usually depicted as an opponent of the [[X-Men]]. The character was created by [[Stan Lee]] and [[Jack Kirby]], and first appeared in ''[[Uncanny X-Men|The X-Men]]'' #2 (November 1963).
+The '''Vanisher''' ('''Telford Porter''') is a [[fictional character]] and [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The Vanisher's primary ability is teleportation. He is usually depicted as an opponent of the [[X-Men]]. The character was created by [[Stan Lee]] and [[Jack Kirby]], and first appeared in ''[[Uncanny X-Men|The X-Men]]'' #2 (November 1963).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=392}}</ref>
 
-The character was portrayed by [[Brad Pitt]] in ''[[Deadpool 2]]''.<ref>{{Cite news|url=https://www.hollywoodreporter.com/heat-vision/deadpool-2-brad-pitt-cameo-as-vanisher-explained-1112660|title=How 'Deadpool 2' Landed a Cameo From the "Hardest Get in Hollywood"|work=The Hollywood Reporter|access-date=2018-10-20|language=en}}</ref><ref>{{Cite news|url=https://www.imdb.com/title/tt5463162/fullcredits?ref_=tt_cl_sm#cast|title=IMDB Cast List for Deadpool 2|work=IMDB|access-date=2018-12-05|language=en}}</ref>
+The character made his animated television debut in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', his live-action cinematic debut in ''[[Deadpool 2]]'', in which he was portrayed by [[Brad Pitt]],<ref>{{Cite news|url=https://www.hollywoodreporter.com/heat-vision/deadpool-2-brad-pitt-cameo-as-vanisher-explained-1112660|title=How 'Deadpool 2' Landed a Cameo From the "Hardest Get in Hollywood"|work=The Hollywood Reporter|access-date=2018-10-20|language=en}}</ref><ref>{{Cite news|url=https://www.imdb.com/title/tt5463162/fullcredits?ref_=tt_cl_sm#cast|title=IMDB Cast List for Deadpool 2|work=IMDB|access-date=2018-12-05|language=en}}</ref> and his video game debut in ''[[The Amazing Spider-Man: Web of Fire]]''.
 
 ==Publication history==
 {{expand section|date=April 2017}}
 The Vanisher first appeared in ''[[Uncanny X-Men|The X-Men]]'' #2 (November [[1963 in comics|1963]]), created by writer [[Stan Lee]] and artist [[Jack Kirby]].
 
 ==Fictional character biography==
-Born in [[Milton, Massachusetts]], the Vanisher is a [[Mutant (Marvel Comics)|mutant]] and a professional criminal with the ability to teleport to any place imaginable. He commits a series of spectacular crimes including: building a large criminal organization, stealing confidential defense plans and attempting to extort millions of dollars from the U.S. government. With support from a large group of non-mutant followers, he goes to the front lawn of the [[White House]] to await his payment. [[Professor X]]avier and the [[X-Men]] are able to intervene when Xavier induces [[amnesia]] upon the Vanisher. Forgetting his powers, the Vanisher is taken into police custody and the X-Men defeat the Vanisher's mob.<ref>''X-Men'' vol. 1 #2</ref>
+Born in [[Milton, Massachusetts]], the Vanisher is a [[Mutant (Marvel Comics)|mutant]] and a professional criminal with the ability to teleport to any place imaginable. He commits a series of spectacular crimes including: building a large criminal organization, stealing confidential defense plans and attempting to extort millions of dollars from the U.S. government.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=361}}</ref> With support from a large group of non-mutant followers, he goes to the front lawn of the [[White House]] to await his payment. [[Professor X]]avier and the [[X-Men]] are able to intervene when Xavier induces [[amnesia]] upon the Vanisher. Forgetting his powers, the Vanisher is taken into police custody and the X-Men defeat the Vanisher's mob.<ref>''X-Men'' vol. 1 #2</ref>
 
 The Vanisher regains his memory and joins [[Factor Three]], a subversive organization of mutants who seek world domination. Factor Three attempts to start [[World War&nbsp;III]] between the United States and the [[Soviet Union]]. The [[Mutant Master]], leader of Factor Three, is revealed to be an alien of the [[List of Marvel Comics alien races#S|Siris]] race with a plan to conquer Earth. The rest of Factor Three, including the Vanisher, team up with the X-Men to defeat him.<ref>''X-Men'' vol. 1 #37-39</ref> The Vanisher is later held prisoner by the [[Sentinel (comics)|Sentinels]], but is saved by the X-Men.<ref>''X-Men'' vol. 1 #60</ref>
 
@@ -62,6 +58,8 @@ The Vanisher is later found by Juggernaut and is coerced into taking him to wher
 
 As part of the 2016 "[[Marvel NOW!]]" branding, the Vanisher later begins smuggling stolen [[vibranium]] out of [[Wakanda]] in order to sell it to criminals. He is defeated by [[White Tiger (Kasper Cole)|Kasper Cole]] and taken into custody.<ref>''Black Panther: World of Wakanda'' #6</ref>
 
+Vanisher later joins the Hellfire club with Emma Frost as its Black King, but is killed by Robert Callahan.{{issue|date=March 2020}}
+
 ==Powers and abilities==
 The Vanisher is a [[Mutant (Marvel Comics)|mutant]] that possesses the ability to [[Teleportation|teleport]] himself, his clothes, and an undetermined amount of additional mass. Apparently, the Vanisher traverses the [[Darkforce]] Dimension when teleporting from one place on Earth to another. His power appears to be [[psionic]] in nature. The limits on the Vanisher's teleportation range and the maximum amount of mass he can teleport with himself are unknown, but he was able to teleport himself and several others from southern California to New York without any visible strain. The Vanisher has a subconscious [[extra-sensory perception|extrasensory]] ability that prevents him from materializing part or all of his body within a solid object, even if he has never before been to the area he is teleporting to. This allows the Vanisher to teleport with greater ease than Nightcrawler. His powers once interacted with those of Nightcrawler, sending them both into alternate dimensions.<ref>''[[Marvel Preview#Bizarre Adventures|Bizarre Adventures]]'' Vol 1 #27</ref>
 
@@ -83,13 +81,13 @@ In the [[Ultimate Marvel]] universe, the Vanisher is a member of the Brotherhood
 
 ==In other media==
 ===Television===
-* The Vanisher appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', voiced by [[Steve Blum]].{{cn|date=March 2019}} He is a member of Professor Xavier's future X-Men team. In his first appearance, he assists {{proper name|Berzerker}} in springing the Professor and other mutants from a Mutant Response Division camp. Later, he aids in the retrieval of [[Master Mold]]'s data core from a Sentinel holding facility. In the present, the Vanisher is shown to be an inmate in a Genoshan holding cell. The Vanisher speaks to [[Gambit (comics)|Gambit]] about how long he was going to be in the holding cells on Genosha.
+The Vanisher appears in the animated series ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', voiced by [[Steve Blum]].{{cn|date=March 2019}} This version is a member of [[Professor X]]'s future [[X-Men]]. First appearing in the episode "Future X", he assists [[Morlocks (comics)#Mutant Massacre|Berzerker]] in rescuing Professor X and other mutant prisoners from a [[Mutant Response Division]] camp before helping them in various missions to stop [[Master Mold]]. The present version of the Vanisher makes a cameo appearance in the episode "Aces and Eights" as a [[Genosha]]n prisoner.
 
 ===Film===
-* The Vanisher appears in ''[[Deadpool 2]]'', portrayed by [[Brad Pitt]] in a cameo role.<ref name="rt">{{cite web|url=http://www.radiotimes.com/news/film/2018-05-17/how-deadpool-2-pulled-off-that-massive-hollywood-cameo/|title=How Deadpool 2 pulled off THAT massive Hollywood cameo|last=Fullerton|first=Huw|date=17 May 2018|website=[[Radio Times]]|accessdate=17 May 2018}}</ref> An X-Force member, he has the power of invisibility, rather than teleportation, and is invisible for nearly the entirety of his role in the film, save for at the moment of his death by electrocution when he parachutes into electrical wires.<ref>{{cite web|title=Yes, [SPOILER] Was Actually in Deadpool 2|url=http://in.ign.com/deadpool-2/122953/feature/yes-spoiler-was-actually-in-deadpool-2|website=[[IGN]]|accessdate=29 May 2018|date=18 May 2018}}</ref>
+The Vanisher makes a cameo appearance in the live-action film ''[[Deadpool 2]]'', portrayed by [[Brad Pitt]].<ref name="rt">{{cite web|url=http://www.radiotimes.com/news/film/2018-05-17/how-deadpool-2-pulled-off-that-massive-hollywood-cameo/|title=How Deadpool 2 pulled off THAT massive Hollywood cameo|last=Fullerton|first=Huw|date=17 May 2018|website=[[Radio Times]]|access-date=17 May 2018}}</ref> The adaptation of the character has the mutant ability of invisibility, instead of teleportation and is recruited into [[X-Force]] by [[Deadpool]] and [[Weasel (Marvel Comics)|Weasel]]. However, he is killed on the first mission after colliding with a power line.<ref>{{cite web|title=Yes, [SPOILER] Was Actually in Deadpool 2|url=http://in.ign.com/deadpool-2/122953/feature/yes-spoiler-was-actually-in-deadpool-2|website=[[IGN]]|access-date=29 May 2018|date=18 May 2018}}</ref>
 
 ===Video games===
-* The Vanisher appears in ''[[The Amazing Spider-Man: Web of Fire]]''.{{citation needed|date=May 2016}} He can be seen along with the New Enforcers.
+The Vanisher appears in ''[[The Amazing Spider-Man: Web of Fire]]''.{{citation needed|date=May 2016}} This version is a member of the [[New Enforcers]].
 
 ==References==
 {{reflist}}
@@ -105,9 +103,13 @@ In the [[Ultimate Marvel]] universe, the Vanisher is a member of the Brotherhood
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1963]]
+[[Category:Deadpool characters]]
 [[Category:Fictional characters from Massachusetts]]
 [[Category:Fictional characters who can manipulate darkness or shadows]]
+[[Category:Fictional characters who can turn invisible]]
 [[Category:Male characters in comics]]
 [[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics film characters]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]
+[[Category:X-Men supporting characters]]

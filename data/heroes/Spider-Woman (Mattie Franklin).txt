@@ -1,4 +1,3 @@
-{{Lead too short|date=November 2013}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Spiderwomanmattie.PNG|250px]]
 |caption=Spider-Woman from ''Spider-Woman'' vol. 3 #18.<br>Art by [[Bart Sears]].
@@ -14,7 +13,7 @@ image=[[Image:Spiderwomanmattie.PNG|250px]]
 '''Spider-Woman''' ('''Martha''' "'''Mattie'''" '''Franklin''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is the third character to be called [[Spider-Woman]].
 
 ==Publication history==
-The character first appeared in ''[[Spectacular Spider-Man]]'' #262 (in the shadows), in November 1998. Her first full appearance was in ''[[The Amazing Spider-Man]]'' #441 (1998), and her first appearance as Spider-Woman was in ''The Amazing Spider-Man'' vol. 2 #5 (1999), the beginning of a three-part [[crossover (comics)|crossover]] which lead directly into the launch of her own ''Spider-Woman'' series. Like ''Spider-Woman'' volume 1, ''Spider-Woman'' volume 3 pitted the protagonist against macabre and grotesque villains, and featured a closing story arc in which she looks into a mirror and sees her own face shriveled down to skin and bones. As a running joke, Spider-Woman constantly changes costumes throughout the series, including a four-issue run (#2–5) in which she adopts a new costume every issue. However, sales were mediocre and the series was cancelled with issue #18 (December 2000).
+The character first appeared in ''[[Spectacular Spider-Man]]'' #262 (in the shadows), in November 1998. Her first full appearance was in ''[[The Amazing Spider-Man]]'' #441 (1998), and her first appearance as Spider-Woman was in ''The Amazing Spider-Man'' vol. 2 #5 (1999), the beginning of a three-part [[crossover (comics)|crossover]] which led directly into the launch of her own ''Spider-Woman'' series.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |pages=292–293}}</ref> Like ''Spider-Woman'' volume 1, ''Spider-Woman'' volume 3 pitted the protagonist against macabre and grotesque villains, and featured a closing story arc in which she looks into a mirror and sees her own face shriveled down to skin and bones. As a running joke, Spider-Woman constantly changes costumes throughout the series, including a four-issue run (#2–5) in which she adopts a new costume every issue. However, sales were mediocre and the series was cancelled with issue #18 (December 2000).
 
 After an almost two-year absence, Mattie Franklin returned for a six-issue story arc in ''[[Alias (comics)|Alias]]'' #16–21, but the character spends the entire story (save a three-page epilogue) in a semi-conscious state. The 2007–2008 limited series ''[[Loners (comics)|Loners]]'' thus represented Mattie Franklin's first active adventure in more than six years.
 
@@ -61,13 +60,12 @@ A version of Mattie from an alternate universe makes a brief cameo in the ''[[Sp
 When a plague turned the world's population into cannibals, Mattie was among the many superheroes who succumbed to it. She was seen battling Black Widow, alongside her infected mentor Jessica Drew.<ref>''Marvel Universe Vs. The Avengers'' #4</ref>
 
 ==In other media==
-===Video games===
-* Mattie was intended to be one of Jessica Drew's alternate Spider-Woman skins in ''[[Marvel: Ultimate Alliance]]'', as was Julia Carpenter; this is shown in an unlockable concept art screen. However, in the game, she was replaced by [[Spider-Girl (Mayday Parker)|Spider-Girl]].{{Citation needed|date=May 2009}}
-* Mattie is a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.<ref>{{cite web|url=http://www.gameloft.com/central/spider-man-unlimited/11-new-heroes-appear-in-spider-man-unlimited-issue-24/|title=11 new heroes appear in Spider-Man Unlimited issue 24|last=Beech|first=Alex|publisher=[[Gameloft]]|date=August 8, 2017|accessdate=June 16, 2019|archiveurl=https://web.archive.org/web/20190616022931/http://www.gameloft.com/central/spider-man-unlimited/11-new-heroes-appear-in-spider-man-unlimited-issue-24/|archivedate=June 16, 2019}}</ref>
+* Mattie was intended to be one of [[Spider-Woman (Jessica Drew)|Jessica Drew / Spider-Woman]]'s alternate skins in ''[[Marvel: Ultimate Alliance]]''. However, she was replaced by [[Spider-Girl (Mayday Parker)|Spider-Girl]], though concept art for Mattie is featured as unlockable content.{{Citation needed|date=May 2009}}
+* Mattie appears as a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.<ref>{{cite web|url=http://www.gameloft.com/central/spider-man-unlimited/11-new-heroes-appear-in-spider-man-unlimited-issue-24/|title=11 new heroes appear in Spider-Man Unlimited issue 24|last=Beech|first=Alex|publisher=[[Gameloft]]|date=August 8, 2017|access-date=June 16, 2019|archive-url=https://web.archive.org/web/20190616022931/http://www.gameloft.com/central/spider-man-unlimited/11-new-heroes-appear-in-spider-man-unlimited-issue-24/|archive-date=June 16, 2019}}</ref>
 
 ==Reception==
 {{expand section|date=September 2017}}
-[[Comic Book Resources]] placed her as one of the superheroes Marvel wants you to forget.<ref>{{cite web|last1=Smith|first1=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|accessdate=2 September 2017|date=20 August 2017}}</ref>
+[[Comic Book Resources]] placed her as one of the superheroes Marvel wants you to forget.<ref>{{cite web|last1=Smith|first1=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|access-date=2 September 2017|date=20 August 2017}}</ref>
 
 ==References==
 {{Reflist}}

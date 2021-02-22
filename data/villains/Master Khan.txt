@@ -1,4 +1,3 @@
-{{Notability|date=January 2019}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image= 
 |caption=
@@ -13,12 +12,12 @@ image=
 |powers=Magical powers, levitate and shrink objects and beings
 }} 
 
-'''Master Khan''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Strange Tales]]'' #77 (October 1960), and was created by [[Stan Lee]] and [[Steve Ditko]].
+'''Master Khan''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]], a recurring foe of [[Iron Fist (comics)|Iron Fist]] and [[Luke Cage]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=210}}</ref> He first appeared in ''[[Strange Tales]]'' #77 (October 1960), and was created by [[Stan Lee]] and [[Steve Ditko]].
 
 Within the shared universe of that company's publications, Master Khan is a sinister sorcerer "god" of [[K'un-L'un]] who demands human blood sacrifices from his worshippers.
 
 ==Publication history==
-Master Khan first appeared in ''[[Strange Tales]]'' #77 (October 1960), and was created by [[Stan Lee]] and [[Steve Ditko]].
+Master Khan first appeared in ''[[Strange Tales]]'' #77 (October 1960), and was created by [[Stan Lee]] and [[Steve Ditko]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=234}}</ref>
 
 ''Namor, the Sub-Mariner'' writer/artist [[John Byrne (comics)|John Byrne]] credits [[Roger Stern]] with coming up with the idea that the mysterious Tyrone King was really Master Khan.<ref>{{cite journal|last=Lantz|first=James Heath|title=Prince Namor the Sub-Mariner: Scion of the Deep or Royal Pain?|journal=[[Back Issue!]]|issue=91|page=58|publisher=[[TwoMorrows Publishing]]|date=September 2016|location=Raleigh, North Carolina}}</ref>
 
@@ -43,6 +42,7 @@ Master Khan has magical powers that enable him to distort reality, levitate, and
 
 {{Iron Fist}}
 {{Stan Lee}}
+{{Steve Ditko}}
 
 {{DEFAULTSORT:Khan, Master}}
 [[Category:Characters created by Stan Lee]]

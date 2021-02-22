@@ -1,10 +1,9 @@
-{{Refimprove|date=April 2011}}
 {{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
-| character_name = Marvel Boy
+| character_name = Robert Grayson
 | image = AOATLAS003.jpg
 | converted = y
 | caption = ''[[Agents of Atlas]]'' #3.<br>Cover art by [[Tomm Coker]]
-| real_name = Robert Grayson
+| real_name = 
 | species =
 | publisher = [[Marvel Comics]]
 | debut = ''Marvel Boy'' #1 (Dec. 1950)
@@ -18,10 +17,10 @@
 | sortkey = Marvel Boy (Robert Grayson)
 }}
 
-'''Marvel Boy''' ('''Robert Grayson'''), also known as '''The Uranian''', is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is one of several to use the name "[[Marvel Boy]]". He was created by writer-editor [[Stan Lee]] and artist [[Russ Heath]], and [[first appeared]] in ''Marvel Boy'' #1 (December 1950).
+'''Marvel Boy''' ('''Robert Grayson'''), also known as '''The Uranian''', is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is one of several to use the name "[[Marvel Boy]]". He was created by writer-editor [[Stan Lee]] and artist [[Russ Heath]], and [[first appeared]] in ''Marvel Boy'' #1 (December 1950).<ref>{{cite web |last1=Markstein |first1=Don |title=Marvel Boy |url=http://www.toonopedia.com/marvlboy.htm |website=Don Markstein's Toonopedia |access-date=2 April 2020}}</ref>
 
 ==Publication history==
-'''Robert Grayson''' is the 1950s Marvel Boy, created by Stan Lee and Russ Heath in ''Marvel Boy'' #1 (December 1950), from Marvel 1950s forerunner, [[Atlas Comics (1950s)|Atlas Comics]]. Writer-artist [[Bill Everett]] took over with issue #2. Marvel Boy continued to star when the series title changed to ''Astonishing'' with issue #3. The character's final Atlas story was in ''Astonishing'' #7 (Dec. 1951).
+'''Robert Grayson''' is the 1950s Marvel Boy, created by Stan Lee and Russ Heath in ''Marvel Boy'' #1 (December 1950), from Marvel 1950s forerunner, [[Atlas Comics (1950s)|Atlas Comics]]. Writer-artist [[Bill Everett]] took over with issue #2. Marvel Boy continued to star when the series title changed to ''Astonishing'' with issue #3, but was gradually de-emphasized.<ref>{{cite book |last1=Schelly |first1=William |title=American Comic Book Chronicles: The 1950s |date=2013 |publisher=TwoMorrows Publishing |isbn=9781605490540 |page=18}}</ref> The character's final Atlas story was in ''Astonishing'' #7 (Dec. 1951).
 
 Grayson would not appear again until ''[[What If (comics)|What If]]'' #9 (June 1978). This version of Marvel Boy was revived within mainstream Marvel continuity, in a 1950s setting, in the 12-issue [[miniseries]] ''[[Marvel: The Lost Generation]]'' (2001–2002) and the six-issue ''[[Agents of Atlas]]'' (2006).
 
@@ -56,7 +55,6 @@ The [[Parallel universe (fiction)|parallel universe]] [[anthology]] ''[[What If 
 {{notelist}}
 
 ==References==
-{{inline|date=April 2011}}
 {{Reflist}}
 
 ==External links==

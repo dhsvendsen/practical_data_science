@@ -1,5 +1,3 @@
-{{leadtooshort|date=January 2016}}
-
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[File:Professor power - nomad girl without a world 03.png]]
 |caption=Professor Power from ''Nomad: Girl Without a World'' #3
@@ -13,7 +11,11 @@ image=[[File:Professor power - nomad girl without a world 03.png]]
 |powers=
 }}
 
-'''Professor Power''' ('''Anthony Power''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''Marvel Team-Up'' vol. 1 #117, although individuals working for him appear before then.
+'''Professor Power''' ('''Anthony Power''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=June 2020}}
+His first appearance was in ''Marvel Team-Up'' vol. 1 #117, although individuals working for him appear before then.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=276}}</ref>
 
 ==Fictional character biography==
 Anthony Power was born in the town of [[Norfolk, Virginia]].  He was originally a historian and teacher, and an advisor to the President of the United States of America. He has a son Matthew, who fought in the Vietnam War only to be discharged after Matthew had a nervous breakdown due to the violence he witnessed in combat.
@@ -24,7 +26,7 @@ Adopting the name "Professor Power", the head of a subversive organization and t
 
 Professor Power used robots to test the capabilities of [[Spider-Man]] and [[Wolverine (character)|Wolverine]].<ref>''Marvel Team-Up'' #117</ref> Aided by the [[Fixer (comics)|Fixer]], Power captured [[Professor X]] and attempted to add his mental powers to [[Mentallo]]'s. He then revealed to Xavier that his son had slipped into a catatonic state (due to his father's refusal to get his son psychological help) and that he had paid Mentallo to use his boosted power to forcibly restore his son to consciousness. <ref>''Marvel Team-Up'' #118</ref> In the ensuing psychic battle though, Matthew was hit with a stray psychic blast, which permanently destroyed his shattered mind.
 
-Driven insane with rage, Powers ordered his mind transferred into his son's body (permanently erasing any remaining traces of his son's consciousness) and sought revenge against Xavier by plotting the murder of his students. Encased in a battle-suit, and he battled Spider-Man and the [[Beast (comics)|Beast]].<ref>''Marvel Team-Up'' #124</ref>
+Driven insane with rage, Powers ordered his mind transferred into his son's body (permanently erasing any remaining traces of his son's consciousness) and sought revenge against Xavier by plotting the murder of his students. Encased in a battle-suit, he battled Spider-Man and the [[Beast (comics)|Beast]].<ref>''Marvel Team-Up'' #124</ref>
 
 As '''Number One''', Professor Power was also the founder of the third [[Secret Empire (organization)|Secret Empire]]. He sent Harridan, Seraph, and Cloud to abduct the [[Vision (Marvel Comics)|Vision]], but was foiled by the Defenders.<ref>''Defenders'' #123</ref> He sent [[Mad Dog (comics)|Mad Dog]] and [[Resistants|Mutant Force]] to disrupt the wedding of [[Daimon Hellstrom]] and [[Patsy Walker]], and they battled the Defenders.<ref>''Defenders'' #125</ref> Professor Power had double agents in the New York [[S.H.I.E.L.D.]] headquarters free [[Gargantua (comics)|Leviathan]], Mad Dog, and Mutant Force from S.H.I.E.L.D. custody, and sent Leviathan against the Defenders.<ref>''Defenders'' #126</ref> Power was then revealed as a member of the Secret Empire, and sent [[Mandroid]]s to recapture the escaped Cloud.<ref>''Defenders'' #127</ref> Power captured the Defenders,<ref>''Defenders'' #128</ref> and unsuccessfully attempted to brainwash them into killing the [[New Mutants]] in revenge against Professor X. Power launched a subliminal mind-control satellite in an attempt to start World War III.<ref>''Defenders'' #129</ref> The satellite was destroyed, and his consciousness was telepathically merged with his son's by [[Moondragon]], resulting in catatonic madness.<ref>''Defenders'' #130</ref>
 

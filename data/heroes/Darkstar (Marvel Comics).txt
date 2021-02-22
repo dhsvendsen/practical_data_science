@@ -23,9 +23,8 @@
 '''Darkstar''' ('''Laynia Petrovna''') is a [[fiction]]al character, a [[Mutant (Marvel Comics)|mutant]] [[Superhero#Female superheroes|superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She has been a member of various super-teams in her career, including [[X-Corporation]] and [[Champions (1975 team)|Champions of Los Angeles]].
 
 ==Publication history==
-{{expand section|date=July 2014}}
 
-Darkstar first appeared in ''[[Champions (1975 team)|Champions]]'' #7 (August 1976), and was created by [[Tony Isabella]] and [[George Tuska]].{{citation needed|date=July 2017}} She became a regular character in ''Champions'' for the remainder of the series's brief run, though she never actually joins the titular supergroup. A memo from series writer [[Bill Mantlo]] reveals that he intended her to be a "floating" member who would come and go from the book as the occasion called for.<ref name="back65"/>
+Darkstar first appeared in ''[[Champions (1975 team)|Champions]]'' #7 (August 1976), and was created by [[Tony Isabella]] and [[George Tuska]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=99}}</ref> She became a regular character in ''Champions'' for the remainder of the series's brief run, though she never actually joins the titular supergroup. A memo from series writer [[Bill Mantlo]] reveals that he intended her to be a "floating" member who would come and go from the book as the occasion called for.<ref name="back65"/>
 
 ==Fictional character biography==
 Laynia Petrovna and her twin brother [[Vanguard (Marvel Comics)|Nikolai Krylenko]] were born in [[Minsk]]. When she grew up, she became a special operative of the [[Soviet]] government.
@@ -89,7 +88,8 @@ Different versions of Darkstar have been encountered by the Exiles:
 
 ==In other media==
 * Darkstar appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series. In the episode "Red Dawn", she's initially the mutant enforcer for a group of Russian generals seeking to reestablish the Soviet Union with the aid of Omega Red. After witnessing the crimes committed by Omega Red, Darkstar rebels against the generals and sides with the X-Men and [[Colossus (comics)|Colossus]].
-* Darkstar appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Secret Avengers," voiced by [[Laura Bailey (voice actress)|Laura Bailey]] in a Russian accent.<ref>{{cite episode|title=Secret Avengers|series=Avengers Assemble|network=Disney XD|season=2|number=17|airdate=May 10, 2015}}</ref> She appears as a member of the Winter Guard.
+* Darkstar appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Secret Avengers", voiced by [[Laura Bailey (voice actress)|Laura Bailey]] in a Russian accent.<ref>{{cite episode|title=Secret Avengers|series=Avengers Assemble|network=Disney XD|season=2|number=17|airdate=May 10, 2015}}</ref> She appears as a member of the Winter Guard.
+* Darkstar appears in the ''[[Marvel Future Avengers]]'' anime series as a member of the Winter Guard, voiced by [[Eri Saito]] in Japanese and [[Kari Wahlgren]] in English.{{cn|date=March 2020}}
 
 ==Notes and references==
 {{Reflist}}
@@ -111,5 +111,4 @@ Different versions of Darkstar have been encountered by the Exiles:
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
-[[Category:Russian superheroes]]
 [[Category:Marvel Comics female superheroes]]

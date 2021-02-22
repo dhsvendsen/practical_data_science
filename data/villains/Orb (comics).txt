@@ -1,11 +1,11 @@
-{{Notability|date=August 2018}}
 The '''Orb''' is the name of two fictional supervillains appearing in [[American comic book]]s published by [[Marvel Comics]], primarily adversaries of [[Ghost Rider]].
 
 ==Publication history==
-{{expand section|date=June 2016}}
 The Drake Shannon version of Orb debuted in ''[[Marvel Team-Up]]'' #15 (November 1973) and was created by writer [[Len Wein]] and artist [[Ross Andru]].
 
 The second Orb first appeared in [[Ghost Rider]] #26 (Oct. 2008) and was created by [[Jason Aaron]] and [[Tan Eng Huat]].<ref>https://www.newsarama.com/4640-jason-aaron-putting-ghost-rider-heaven-s-on-fire-out-p-2.html</ref>
+
+The Orb appeared as one of the villains in the 2014 crossover story ''[[Original Sin (comics)|Original Sin]]'', which involved the theft of the eyes of [[Uatu|the Watcher]]. Writer [[Jason Aaron]] said, "It was [[Tom Breevort|Tom [Breevort]'s]] ideally initially to use the Orb; no one will believe me on that, though. Using him is an obvious idea, but something I didn't think of until Tom mentioned it. Tom's thinking, rationally so, was that since we were doing a story which revolves around eyeballs being stolen then using a villain who got an eyeball for a head was perfect."<ref>{{cite news |last1=Arrant |first1=Chris |title=Original Sin Insider: Jason Aaron Loses His Head Over #3's Death & Promises Worse to Come |url=https://www.newsarama.com/21320-original-sin-insider-jason-aaron-loses-his-head-over-3s-death-promises-worse-to-come-spoilers.html |access-date=17 May 2020 |work=Newsarama |date=June 11, 2014}}</ref>
 
 ==Fictional character biography==
 ===Drake Shannon===
@@ -18,8 +18,9 @@ image               = [[Image:Orb ghost.jpg|250px]]
 |debut              = ''[[Marvel Team-Up]]'' #15 (November 1973)
 |creators           = [[Len Wein]]<br>[[Ross Andru]]
 |partners           = [[Justin Hammer]]
-|powers             = Helmet is capable of powerful laser blasts. Can also project illusions and hypnotize people.
+|powers             = Expert stunt motorcyclist<br>Rides a specially modified motorcycle<br>Via helmet:<br>Laser blast projection<br>Hypnosis 
 }}
+
 '''Drake Shannon''' was born in [[Wheeling, West Virginia]]. An accomplished [[motorcycle]] [[stunt|stunt rider]], he owned one-half of the traveling motorcycle stunt show which would later feature Johnny Blaze (who would later become Ghost Rider). The other half of the show was owned by Blaze's mentor, Crash Simpson.
 
 While the partnership was initially amiable, the two men grew apart and eventually an intense rivalry developed. Neither wanted to work with the other, but neither wanted to sell their half of the show.  To settle the dispute, the two men agreed to a lengthy [[racing|race]], with the winner receiving full ownership of the traveling show.
@@ -28,7 +29,7 @@ After many miles of neck-and-neck competition, Shannon deliberately swerved towa
 
 After his recovery, for reasons never adequately explained, Shannon was given a powerful [[motorcycle helmet]] by [[They Who Wield Power]]. The helmet, which was modeled to look like a giant eyeball, could hypnotize people.  A later version could also shoot powerful laser beams from its "[[pupil]]".
 
-Calling himself "The Orb", Shannon attempted to take over the traveling motorcycle stunt show which he had once half-owned. He put the lives of dozens of innocent people at risk, but informed Johnny Blaze (now the sole owner of the stunt show) that he would let them go unharmed in exchange for the sole ownership of the stunt show. Although Blaze capitulated, Shannon instructed his [[henchman|minions]] to kill the [[hostage]]s anyway, so that no one would know how the ownership changed hands. At this point, [[Ghost Rider (Johnny Blaze)|Ghost Rider]] and [[Spider-Man]] teamed up to defeat him.<ref>''Marvel Team-Up'' #15 (November 1973). [[Marvel Comics]]</ref>
+Calling himself "The Orb", Shannon attempted to take over the traveling motorcycle stunt show which he had once half-owned. He put the lives of dozens of innocent people at risk, but informed Johnny Blaze (now the sole owner of the stunt show) that he would let them go unharmed in exchange for the sole ownership of the stunt show. Although Blaze capitulated, Shannon instructed his [[henchman|minions]] to kill the [[hostage]]s anyway, so that no one would know how the ownership changed hands. At this point, [[Ghost Rider (Johnny Blaze)|Ghost Rider]] and [[Spider-Man]] teamed up to defeat him.<ref>''Marvel Team-Up'' #15 (November 1973). [[Marvel Comics]]</ref><ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=71}}</ref>
 
 Becoming a professional criminal, he returned several times, always plotting to get revenge on the Ghost Rider. The Orb attacked Delazny Studios, and battled the Ghost Rider again.<ref>''Ghost Rider'' #14-15 (October and December. 1975). Marvel Comics</ref> He inflicted Roxanne Simpson with amnesia, and battled Ghost Rider once more.<ref>''Ghost Rider'' #28 (February 1978). Marvel Comics</ref> He was later revealed to have been a pawn of "They Who Wield Power."<ref>''Incredible Hulk'' #241 (November 1979). Marvel Comics</ref> Alongside [[Sunset Bain|Madame Menace]], he battled Ghost Rider once again.<ref>''Ghost Rider'' #63 (December 1981). Marvel Comics</ref> At one point he also crossed paths with [[Hawkeye (Clint Barton)|Hawkeye]]. The Orb battled Hawkeye, and alongside Hawkeye he discovered [[Plantman]]'s mobile plant-growing factory, and was shot by Plantman's stimuloids.<ref>''Solo Avengers'' #19-20 (June–July 1989); ''Avengers Spotlight'' #21 (Aug. 1989). Marvel Comics</ref>
 

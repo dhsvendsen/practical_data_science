@@ -2,9 +2,9 @@
 {{short description|Character from Marvel Comics}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
-| image = Serpent Squad.jpg
+| image = Sin (Sinthea Schmidt circa 2006).png
 | converted = y
-| caption = Cover art for ''Captain America'' vol. 5 #28; Sin is in the foreground.<br />Art by [[Steve Epting]].
+| caption = Cover art for ''Captain America'' vol. 5 #17 (April 2006)<br />Art by [[Steve Epting]].
 | character_name = Sin
 | real_name = Sinthea Schmidt
 | publisher = [[Marvel Comics]]
@@ -23,7 +23,7 @@
 '''Sin''' ('''Sinthea Schmidt''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is the daughter of the [[Red Skull]] and an enemy of [[Captain America]].
 
 ==Publication history==
-Sin first appeared in ''[[Captain America (comic book)|Captain America]]'' #290 (Feb 1984), and was created by [[J.M. DeMatteis]] and [[Paul Neary]].
+Sin first appeared in ''[[Captain America (comic book)|Captain America]]'' #290 (Feb 1984), and was created by [[J.M. DeMatteis]] and [[Paul Neary]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=331}}</ref>
 
 ==Fictional character biography==
 [[Image:SinAging.png|thumb|left|Sin (left and middle) being aged into adulthood as Mother Superior (right). Art by [[Paul Neary]].]]
@@ -87,4 +87,3 @@ As wielder of the Hammer of Skadi, Sin as "Skadi" could fly or propel herself th
 [[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics telepaths]]
-[[Category:Nazis in comic book fiction]]

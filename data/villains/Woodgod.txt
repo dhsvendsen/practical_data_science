@@ -1,8 +1,4 @@
-{{Multiple issues|
-{{Notability|date=August 2018}}
-{{In-universe|date=August 2018}}
-}}
-
+{{notability|date=January 2021}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image=[[File:Woodgod.jpg|249px|]]
 |caption=Woodgod makes his first appearance. From ''Marvel Premiere'' #31
@@ -21,12 +17,12 @@ Immunity to nerve gas.
 
 ==Publication history==
 {{Expand section|date=January 2012}}
-Woodgod first appeared in ''[[Marvel Premiere]]'' #31 (Aug 1976), and was created by [[Bill Mantlo]] and [[Keith Giffen]]. Despite debuting as the starring feature in ''Marvel Premiere'' #31, he would make only a handful of appearances over the ensuing decades.<ref name="back71"/>
+Woodgod first appeared in ''[[Marvel Premiere]]'' #31 (Aug 1976), and was created by [[Bill Mantlo]] and [[Keith Giffen]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=417}}</ref> Despite debuting as the starring feature in ''Marvel Premiere'' #31, he would make only a handful of appearances over the ensuing decades.<ref name="back71"/>
 
 ==Fictional character biography==
 Woodgod was created by two scientists, David and Ellen Pace, on their farm in [[New Mexico]]. They also had been working with nerve gas for the federal government. When people from the nearby town of Liberty, New Mexico, discovered Woodgod they stormed the farm and shot him. One of the townspeople smashed a canister of the lethal nerve gas within the barn, killing the Paces and everyone in Liberty. When Col. Del Tremens and the U.S. Army came to investigate what happened in Liberty, they found and battled Woodgod (who was immune to the gas) and quarantined the empty town.<ref>''Marvel Premiere'' #31</ref>
 
-Later, the [[Hulk]] and [[Spider-Man]] turned up in Liberty, and Col. Tremens and the army tried to kill both them and Woodgod.<ref>''Marvel Team-Up'' #53-54</ref> Woodgod escaped and returned to the Pace farm, using David Pace's notes to teach himself how to read. Using Pace's notebooks and equipment, Woodgod began genetic experiments using the methods he had discovered and created the sentient half-humanoid half-animals of human intelligence that he called the Changelings. He resisted a coup by the murderous Changeling Leoninus. He soon left the Pace farm and found a valley in the [[Colorado]] [[Rocky Mountains]] where he established a community for the Changelings, and became the Lawgiver of the Changelings.<ref>''Hulk'' #251-252</ref>
+Later, the [[Hulk]] and [[Spider-Man]] turned up in Liberty, and Col. Tremens and the army tried to kill both them and Woodgod.<ref>''Marvel Team-Up'' #53-54</ref><ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=92}}</ref> Woodgod escaped and returned to the Pace farm, using David Pace's notes to teach himself how to read. Using Pace's notebooks and equipment, Woodgod began genetic experiments using the methods he had discovered and created the sentient half-humanoid half-animals of human intelligence that he called the Changelings. He resisted a coup by the murderous Changeling Leoninus. He soon left the Pace farm and found a valley in the [[Colorado]] [[Rocky Mountains]] where he established a community for the Changelings, and became the Lawgiver of the Changelings.<ref>''Hulk'' #251-252</ref>
 
 Some time later, Woodgod was revealed to have become an experimental subject of the [[Stranger (comics)|Stranger]] on his laboratory world.<ref>''Quasar'' #14</ref> Woodgod then returned to Earth in [[Jack of Hearts (Marvel Comics)|Jack of Hearts]]'s caravan.<ref>''Quasar'' #20</ref> Woodgod later thwarted attempts by Leoninus and [[Roxxon Energy Corporation|Roxxon]] to take control of the Changelings' breeding patterns.<ref>''Marvel Comics Presents'' #76</ref>
 
@@ -39,7 +35,7 @@ Woodgod resembles the Greek mythological half-man half-goat, forest god Pan.
 
 ==Reception==
 {{expand section|date=September 2017}}
-Gary Smith of [[Comic Book Resources]] commented that "if there was any justice in this crazy world then Woodgod would have been THE breakout Marvel character of 1976."<ref>{{cite web|last=Smith|first=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|accessdate=2 September 2017|date=20 August 2017}}</ref>
+Gary Smith of [[Comic Book Resources]] commented that "if there was any justice in this crazy world then Woodgod would have been THE breakout Marvel character of 1976."<ref>{{cite web|last=Smith|first=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|access-date=2 September 2017|date=20 August 2017}}</ref>
 
 ==References==
 {{reflist}}

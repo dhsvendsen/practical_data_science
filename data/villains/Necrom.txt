@@ -1,20 +1,20 @@
 {{distinguish|Necron (disambiguation){{!}}Necron}}
 {{Refimprove|date=December 2009}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=
-|caption=
-|character_name=Necrom
-|real_name=Necrom
-|publisher=[[Marvel Comics]] 
-|debut=''[[Excalibur (comic book)|Excalibur]]'' #46 (January, 1992)
-|creators=[[Alan Davis]]
-|alliances=none
-|aliases=The Anti-Phoenix (host)
-|relatives=
-|powers=vast ability to manipulate magic (energy projection, astral projection, [[necromancy]], teleportation, etc.), [[energy vampire]], immortal, shape-shifting.
+|image          =
+|caption        =
+|character_name = Necrom
+|real_name      = Necrom
+|publisher      = [[Marvel Comics]] 
+|debut          =''[[Excalibur (comic book)|Excalibur]]'' #46 (January, 1992)
+|creators       = [[Alan Davis]]
+|alliances      = none
+|aliases        = The Anti-Phoenix (host)
+|relatives      =
+|powers         = vast ability to manipulate magic (energy projection, astral projection, [[necromancy]], teleportation, etc.), [[energy vampire]], immortal, shape-shifting.
 }}
 
-'''Necrom''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Alan Davis]]. Necrom was a powerful sorcerer and an enemy of [[Excalibur (comics)|Excalibur]].
+'''Necrom''' is a [[fictional character|fictional]] comic book [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]], as an enemy of the British superhero group [[Excalibur (comics)|Excalibur]]. Created by writer/artist [[Alan Davis]], the character first appeared in ''[[Excalibur (comic book)|Excalibur]]'' #46 (January, 1992), which depicted him as a powerful sorcerer who sought the power of the cosmic entity known as the [[Phoenix Force (comics)|Phoenix Force]], with which he threatened the entire [[Marvel multiverse|multiverse]].
 
 ==Fictional character biography==
 Centuries ago, Necrom was the [[Doctor Strange|Sorcerer Supreme]] of his race, based on an [[Parallel universe (fiction)|alternate reality]] Earth. His students were [[Merlyn (Marvel Comics)|Merlyn]] and [[Feron]]. Necrom desired power and decided to use his students to create an alignment between parallel universes, which would generate incredible amounts of magical energy. Necrom and his students travelled to [[Earth-616]] and Necrom asked Feron to summon the [[Phoenix Force (comics)|Phoenix Force]]. The Phoenix Force projected an ancient tower on Earth 616 across the [[multiverse (Marvel Comics)|multiverse]] creating an alignment and an energy matrix. Necrom then revealed his true plan: he attacked Feron, trying to drain the Phoenix Force from his body, but Feron was empowered by the Phoenix Force and fought back. Meanwhile, Merlyn saw his opportunity and claimed the power of the energy matrix for himself. Necrom was wounded by Feron, but managed to grab a small piece of the Phoenix Force from him. The Phoenix Force, wounded, left Feron and fled Earth 616. Necrom retreated to recover. He left the piece of Phoenix Force that he had stolen to animate a corpse, buried underground and over time this being would become known as the '''Anti-Phoenix'''. Necrom left Earth 616 and travelled to Earth-148 to hide from Merlyn, who feared his master's return. Over the next few centuries Merlyn started to create defenses against Necrom, including the [[Captain Britain Corps]], who guarded every single Earth. He also faked his death so that he could plot against Necrom's return from the shadows, while his daughter, [[Roma (comics)|Roma]], continued his plans, including the formation of [[Excalibur (comics)|Excalibur]].{{Issue|date=April 2010}}

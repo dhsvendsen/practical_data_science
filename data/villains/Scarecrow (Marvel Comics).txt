@@ -19,7 +19,7 @@ The '''Scarecrow''' ('''Ebenezer Laughton''') is a [[fictional character|fiction
 
 ==Publication history==
 {{Expand section|date=March 2015}}
-Scarecrow's first appearance was in ''[[Tales of Suspense]]'' #51, in a story created by [[Stan Lee]] and [[Don Heck]].
+Scarecrow's first appearance was in ''[[Tales of Suspense]]'' #51 (March 1964), in a story created by [[Stan Lee]] and [[Don Heck]].
 
 ==Fictional character biography==
 '''Ebenezer Laughton''' was born in [[Rhinebeck, New York]], as the son of a farmer, along with his brother Ralph.<ref name="Cap279">''Captain America'' #279-280</ref> Raised by an abusive mother, Laughton became a circus escape artist and [[contortionist]], and while working as a carnival performer once helped [[Iron Man]] apprehend a fleeing culprit. However, he decided to make his profit in crime and became an accomplished burglar and professional thief while dressed as a [[scarecrow]]. He mostly worked alone—except for a flock of trained [[Corvus (genus)|crows]] which served as carriers and killers. In his first appearance as the Scarecrow, he was defeated by Iron Man.<ref>''Tales of Suspense'' #51</ref> 
@@ -44,11 +44,11 @@ Someone that looks like Scarecrow was among the members of [[Hood (comics)|Hood]
 
 He is among the villains considered by [[Blackout (Lilin)|Blackout]] and the [[Deacon (comics)|Deacon]] to help them assassinate the Ghost Rider.<ref>''Ghost Rider'' vol. 6 #33</ref> He worked alongside Blackout and other villains on a mission to kill Ghost Rider,<ref>''Ghost Riders: Heaven's On Fire'' #2</ref> but was eventually defeated when [[Jaine Cutter]] bent his body around a carnival fence.<ref>''Ghost Rider: Heaven's On Fire'' #5</ref>
 
-Scarecrow has also teamed up with [[Bushman (comics)|Raoul Bushman]] as his right-hand man, in the latest [[Moon Knight]] series.<ref>''Vengeance Of The Moon Knight'' #3-5</ref> He was later seen during the [[Siege (comics)|Siege]] of [[Asgard (comics)|Asgard]] as part of the Hood's crime syndicate.<ref>''Siege'' #3</ref>
+Scarecrow has also teamed up with [[Bushman (comics)|Raoul Bushman]] as his right-hand man, in the 2009-2010 [[Moon Knight]] series.<ref>''Vengeance Of The Moon Knight'' #3-5</ref> He was later seen during the [[Siege (comics)|Siege]] of [[Asgard (comics)|Asgard]] as part of the Hood's crime syndicate.<ref>''Siege'' #3</ref>
 
 During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Scarecrow takes advantage of the chaos in town by attacking with his army of crows only to end up fighting [[Wolverine (character)|Wolverine]].<ref>''Fear Itself: Wolverine'' #1</ref>
 
-==Powers and abilities==
+== Weapons, abilities and equipment ==
 
 The Scarecrow is a highly adept contortionist—extremely flexible and agile due to heavy training. He is double-jointed and can fit his body through any aperture at least one foot wide. He is therefore able to escape from conventional locks and chains, and to perform various acrobatic stunts. He is also a master at training birds. He often carries a pitchfork as a weapon.
 
@@ -64,7 +64,7 @@ In ''[[Marvel vs. DC]]'', Scarecrow briefly teamed up with DC's [[Scarecrow (DC 
 
 ==In other media==
 ===Video games===
-* Scarecrow appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game based on the [[Ghost Rider (2007 film)|feature film]], voiced by [[Dave Wittenberg]].{{cn|date=May 2019}} In the game, Ghost Rider enters a church and fights Scarecrow and his crows. Scarecrow attacks Ghost Rider but retreats to a pillar. After Ghost Rider knocks the pillar over, Scarecrow falls from a great height, and the battle continues. This cycle repeats until the Scarecrow is defeated. Scarecrow also appears as a boss in the Game Boy Advance version.
+* Scarecrow appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game based on the [[Ghost Rider (2007 film)|feature film]], voiced by [[Dave Wittenberg]].<ref>{{Cite web|title=Scarecrow|url=https://www.behindthevoiceactors.com/video-games/Ghost-Rider-The-Video-Game/Scarecrow/|access-date=2020-08-26|website=Behind The Voice Actors|language=en-US}}</ref> In the game, Ghost Rider enters a church and fights Scarecrow and his crows. Scarecrow attacks Ghost Rider but retreats to a pillar. After Ghost Rider knocks the pillar over, Scarecrow falls from a great height, and the battle continues. This cycle repeats until the Scarecrow is defeated. Scarecrow also appears as a boss in the Game Boy Advance version.
 
 ===Toys===
 * Scarecrow appears as an action figure for the ''Ghost Rider'' film line by Hasbro.{{cn|date=May 2019}} A "comic-styled," five-inch (127&nbsp;mm) figure including crows and a pitchfork was included as part of a Toys"R"Us exclusive figure-set, "The Spider & The Scarecrow".
@@ -79,12 +79,10 @@ In ''[[Marvel vs. DC]]'', Scarecrow briefly teamed up with DC's [[Scarecrow (DC 
 {{Captain America}}
 {{Doctor Strange}}
 {{Ghost Rider}}
-{{Iron Man}}
 {{Moon Knight}}
 {{Spider-Man characters}}
 {{Stan Lee}}
 
-[[Category:Animated series villains]]
 [[Category:Characters created by Don Heck]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1964]]

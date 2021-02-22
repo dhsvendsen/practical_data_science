@@ -1,3 +1,4 @@
+{{Short description|Marvel comic book character that first appeared in  Marvel Mystery Comics #13}}
 {{for|the modern-day comic-book character|Vision (Marvel Comics)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image           = Vision (Aarkus).jpg
@@ -17,16 +18,16 @@
 }}
 |}}
 
-'''Vision''' ('''Aarkus''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by the writer [[Joe Simon]] and artist [[Jack Kirby]], the character first appeared during the [[Golden Age of comic books]] in ''[[Marvel Mystery Comics]]'' #13 (Nov. 1940), published by Marvel predecessor [[Timely Comics]].
+'''Vision''' ('''Aarkus''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by the writer [[Joe Simon]] and artist [[Jack Kirby]], the character first appeared during the [[Golden Age of comic books]] in ''[[Marvel Mystery Comics]]'' #13 (Nov. 1940), published by Marvel predecessor [[Timely Comics]].<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/vision1.htm |title=The Vision}}</ref>
 
 == Publication history ==
 [[File:Marvel Mystery 13 (November 1940) -page 1.jpg|upright|thumb|left|The Vision (Aarkus) debuts in ''Marvel Mystery Comics'' #13 (Nov. 1940). Art by [[Jack Kirby]].]]
-The Vision debuted in a short comic story in ''Marvel Mystery Comics'' #13 (Nov. 1940), and continued as a regular feature in that superhero [[anthology]] through issue #48 (Oct. 1943). He also starred in an eight-page story in ''Kid Comics'' #3 (no month given; previous issue dated Summer 1943).
+The Vision debuted in a short comic story in ''Marvel Mystery Comics'' #13 (Nov. 1940), and continued as a regular feature in that superhero [[anthology]] through issue #48 (Oct. 1943).<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=1 April 2020 |page=[https://archive.org/details/superherocomicso0000bent/page/171 171]}}</ref> He also starred in an eight-page story in ''Kid Comics'' #3 (no month given; previous issue dated Summer 1943).
 
 Five decades later, he appeared in a [[Flashback (narrative)|flashback]] story in the superhero-team series ''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993), set during [[World War II]]. He returns with the other Invaders in the miniseries ''Invaders Now!'', beginning with issue #1 (Nov. 2010). He appeared in several issues of the [[Marvel NOW!]] relaunch of ''[[X-Men: Legacy]]'', before appearing in the ''All-New Invaders'' series in 2014.
 
 ==Fictional character biography==
-The Golden Age Vision, also known as Aarkus, is an alien [[law enforcement officer]] from a dimension called Smokeworld. While Aarkus is looking for a suitable place to exile a prisoner, he is accidentally contacted by an Earth scientist named Markham Erickson. Leaving the prisoner on the planet Jupiter, Aarkus accepts Erickson's invitation to fight crime on Earth.<ref>''[[Marvel Mystery Comics]]'' #13 (Nov. 1940)</ref> Aarkus does so for several years, although during World War II he is briefly manipulated by the [[Axis powers of World War II|Axis]] powers into fighting the [[Allies of World War II|Allies]]. The superhero team the [[Invaders (comics)|Invaders]] help Aarkus realize his mistake.<ref>''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993)</ref>
+The Golden Age Vision, also known as Aarkus, is an alien [[law enforcement officer]] from a dimension called Smokeworld.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=285}}</ref> While Aarkus is looking for a suitable place to exile a prisoner, he is accidentally contacted by an Earth scientist named Markham Erickson. Leaving the prisoner on the planet Jupiter, Aarkus accepts Erickson's invitation to fight crime on Earth.<ref>''[[Marvel Mystery Comics]]'' #13 (Nov. 1940)</ref> Aarkus does so for several years, although during World War II he is briefly manipulated by the [[Axis powers of World War II|Axis]] powers into fighting the [[Allies of World War II|Allies]]. The superhero team the [[Invaders (comics)|Invaders]] help Aarkus realize his mistake.<ref>''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993)</ref>
 
 A [[simulacrum]] of the Vision was temporarily created by [[Rick Jones (comics)|Rick Jones]], along with those of the [[Blazing Skull]], the [[Fin (comics)|Fin]], and the Golden Age [[Angel (Thomas Halloway)|Angel]] and [[Jeffrey Mace|Patriot]], to aid the superhero team the [[Avengers (comics)|Avengers]] during the [[Kree-Skrull War]].<ref>''[[Avengers (comics)|The Avengers]]'' #97 (March 1972)</ref>
 
@@ -40,13 +41,16 @@ The Vision can generate illusory images of himself, fly, generate ice and extrem
 ==''Vision'' reprints==
 Some of the original stories of the original Vision have been reprinted in other publications.
 
-* ''Golden Golden Age Marvel Comics: Vol. 4'', Roy Thomas editor, (2009, hardcover, {{ISBN|978-0785124740}}) reprints Marvel Mystery Comics' #13-16, 1940-41
-* ''Golden Golden Age Marvel Comics: Vol. 5'', Roy Thomas editor, (2010, hardcover, {{ISBN|978-0785133674}}) reprints Marvel Mystery Comics' #17-20, 1941
-* ''Golden Golden Age Marvel Comics: Vol. 6'', Roy Thomas editor, (2011, hardcover, {{ISBN|978-0785142041}}) reprints Marvel Mystery Comics' #21-24, 1941
-* ''Golden Golden Age Marvel Comics: Vol. 6'', Roy Thomas editor, (2012, hardcover, {{ISBN|978-0785150268}}) reprints Marvel Mystery Comics' #25-28, 1941-42				
-*''Marvel Visionaries: Jack Kirby, Vol. 1'' (2004, hardcover, {{ISBN|0-7851-1574-9}}) reprints"The Vision" from Marvel Mystery Comics 13, Nov 1940 
-*''Marvel Visionaries: Jack Kirby, Vol. 2'' (2006, hardcover, {{ISBN|0-7851-2094-7}}) reprints "The Vision" from Marvel Mystery Comics 23, Sept 1941
+* ''Golden Age Marvel Comics Vol. 4'', Roy Thomas editor, (2009, hardcover, {{ISBN|978-0785124740}}) reprints Marvel Mystery Comics' #13-16, 1940-41
+* ''Golden Age Marvel Comics Vol. 5'', Roy Thomas editor, (2010, hardcover, {{ISBN|978-0785133674}}) reprints Marvel Mystery Comics' #17-20, 1941
+* ''Golden Age Marvel Comics Vol. 6'', Roy Thomas editor, (2011, hardcover, {{ISBN|978-0785142041}}) reprints Marvel Mystery Comics' #21-24, 1941
+* ''Golden Age Marvel Comics Vol. 7'', Roy Thomas editor, (2012, hardcover, {{ISBN|978-0785150268}}) reprints Marvel Mystery Comics' #25-28, 1941-42				
+*''Marvel Visionaries: Jack Kirby Vol. 1'' (2004, hardcover, {{ISBN|0-7851-1574-9}}) reprints "The Vision" from Marvel Mystery Comics 13, Nov 1940 
+*''Marvel Visionaries: Jack Kirby Vol. 2'' (2006, hardcover, {{ISBN|0-7851-2094-7}}) reprints "The Vision" from Marvel Mystery Comics 23, Sept 1941
 * The comic ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'', March 1968, reprints the Vision story from Marvel Mystery Comics 25
+
+==In other media==
+Vision (Aarkus) was made a playable character in ''[[Marvel Contest of Champions]]''.
 
 ==References==
 {{Reflist}}
@@ -63,9 +67,9 @@ Some of the original stories of the original Vision have been reprinted in other
 [[Category:Comics characters introduced in 1940]]
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Joe Simon]]
-[[Category:Extraterrestrial superheroes]]
 [[Category:Golden Age superheroes]]
 [[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics extraterrestrial superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Timely Comics characters]]
 

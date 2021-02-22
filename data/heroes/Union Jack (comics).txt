@@ -1,4 +1,5 @@
 {{For|the third incarnation of Union Jack|Union Jack (Joseph Chapman)}}
+
 {{Infobox comics character
 |image=UNION JACK 1.jpg
 |caption=The third ''Union Jack'' (Joey Chapman) appears on the cover of ''Union Jack'' #1 (Nov. 2006).<br>Art by [[Mike Perkins]].
@@ -16,9 +17,11 @@
 |hero=y
 |sortkey=Union Jack (comics)
 |}}
-'''Union Jack''' is the name of three [[fictional characters|fictional]] [[superhero]]es appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Roy Thomas]] and [[Frank Robbins]], the first Union Jack first appeared in ''[[Invaders (comics)|Invaders]]'' #7 (July 1976), a second incarnation from the same creators appeared in ''The Invaders'' #21, and a third incarnation was created by [[Roger Stern]] and [[John Byrne (comics)|John Byrne]] for ''[[Captain America (comic book)|Captain America]]'' Vol. 1 #254 (February 1981).
+'''Union Jack''' is the name of three [[fictional characters|fictional]] [[superhero]]es appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Roy Thomas]] and [[Frank Robbins]], the first Union Jack first appeared in ''[[Invaders (comics)|Invaders]]'' #7 (July 1976).<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/ujack.htm |title=Union Jack}}</ref> A second incarnation from the same creators appeared in ''The Invaders'' #21, and a third incarnation was created by [[Roger Stern]] and [[John Byrne (comics)|John Byrne]] for ''[[Captain America (comic book)|Captain America]]'' Vol. 1 #254 (February 1981).
 
 Following ''The Invaders'', Union Jack has been featured as a regular character in ongoing series ''Knights of Pendragon'', ''New Invaders'' and ''Invaders Now'', as well two self-titled mini-series.
+
+[[JJ Feild]] portrayed James Montgomery Falsworth in the [[Marvel Cinematic Universe]] film ''[[Captain America: The First Avenger]]'' as a member of the Howling Commandoes.
 
 ==Publication history==
 ===1970s publications===
@@ -31,7 +34,7 @@ Thomas and Robbins also first featured Lord Falsworth's son and successor Brian 
 Thomas and Robbins continued to feature both Falsworths in the series, with the younger becoming a semi-permanent member of the team with issues #23 (December 1977) & #25 (February 1978); in which he joins them on his first mission, while the older appeared in a supporting role in issue #23 (December 1977), in which he helps Dyna-Mite's search for a cure to his size reduction, and #26 (March 1978); in which he introduces Brian to the restored Aubrey in his role as the new Destroyer.
 
 ===1980s publications===
-[[Roger Stern]] and [[John Byrne (comics)|John Byrne]] gave Lord Falsworth a contemporary appearance as an elderly wheelchair-bound country gentleman for ''[[Captain America]]'' Vol. 1 #253-254 (January–February 1981); in the story, which features the first appearances of his second successor Joey Chapman, he tries to put on his old costume to join [[Captain America (Steve Rogers)|Captain America]]'s final battle against his vampiric brother, [[Baron Blood]], and dies of natural causes in the epilogue; the story also reveals that Brian Falsworth had died in a car crash in 1953.
+[[Roger Stern]] and [[John Byrne (comics)|John Byrne]] gave Lord Falsworth a contemporary appearance as an elderly wheelchair-bound country gentleman for ''[[Captain America (comic book)|Captain America]]'' Vol. 1 #253-254 (January–February 1981); in the story, which features the first appearances of his second successor Joey Chapman, he tries to put on his old costume to join [[Captain America (Steve Rogers)|Captain America]]'s final battle against his vampiric brother, [[Baron Blood]], and dies of natural causes in the epilogue; the story also reveals that Brian Falsworth had died in a car crash in 1953.
 
 ===1990s publications===
 [[Dan Slott]] and James W. Fry III featured Brian Falsworth in a World War II-era story for ''[[Midnight Sons Unlimited]]'' #9 (May 1995); in the story he teams up with the [[Blazing Skull]] to defend a fundraiser he is hosting from a Nazi attack.
@@ -41,6 +44,9 @@ Lord Falsworth appears as a supporting character in [[Fabian Nicieza]] and Lewis
 
 ===2010s publications===
 [[Kyle Higgins]], Alec Siegel and Pepe Larraz featured the Brian Falsworth incarnation in the World War II flashback story ''Crossfire'' for the 70th Anniversary Issue ''Captain America'' #616 (May 2011); in the story Captain America and Union Jack defend a French town under Nazi siege.
+
+===2020s publications===
+Union Jack is a member of the British super team [[The Union (comics)|The Union]] created by [[Paul Grist]] and [[Andrea Di Vito]].<ref>{{Cite web|url=https://www.wired.co.uk/article/marvel-captain-britain-the-union|title=Marvel's The Union is a grim metaphor for post-Brexit Britain|first=Matt|last=Kamen|date=February 21, 2020|via=www.wired.co.uk}}</ref>
 
 ==Fictional character biography==
 ===James Montgomery Falsworth===
@@ -61,7 +67,7 @@ Brian gains superpowers through the help of a dying German scientist who tried t
 
 In the wake of the foiled attack, Lord Falsworth and Spitfire deduce Dyna-Mite's identity and sneak into Germany to look for Brian. Ultimately, they find out the truth behind Dyna-Mite, and Roger's memory is restored. Brian, reuniting with his family and reconciling with his father, learns of his father's former costumed identity as Union Jack, dons the costume and battles Nazi soldiers and [[Master Man (Marvel Comics)|Master Man]] alongside [[Captain America]].<ref>''Invaders'' #15, #18-21</ref> Brian subsequently adopts the Union Jack identity as an adventurer and British government operative in place of his disabled father, joining the [[Invaders (comics)|Invaders]].<ref>''Invaders'' #21</ref> Roger, in turn, takes on the mantle of the [[Destroyer (Golden Age)|Destroyer]] after his normal size is restored.<ref>''Invaders'' #26</ref>
 
-Later, Brian is hit by magical lightning when fighting [[Thor (Marvel Comics)|Thor]] disguised as [[Joseph Stalin]], whom Thor was tricked by Hilter into assassinating, and gains the ability to shoot electricity from his fingertips.<ref>''Invaders'' #32-33</ref> Following the war, Brian remains active as Union Jack,<ref name="ReferenceA"/> and is instrumental in founding the [[V-Battalion]] alongside Roger Aubrey and other heroes of the era.{{Issue|date=June 2009}} A car crash on a British road in 1953 abruptly ended Brian Falsworth's career and his life.<ref name="ReferenceA"/><ref name="ReferenceB">''Citizen V and the V Battalion'' (vol. 2) #1 (March 2002)</ref> 
+Later, Brian is hit by magical lightning when fighting [[Thor (Marvel Comics)|Thor]] disguised as [[Joseph Stalin]], whom Thor was tricked by Hilter into assassinating, and gains the ability to shoot electricity from his fingertips.<ref>''Invaders'' #32-33</ref> Following the war, Brian remains active as Union Jack,<ref name="ReferenceA"/> and is instrumental in founding the [[V-Battalion]] alongside Roger Aubrey, who was revealed to be his lover,<ref name="ReferenceB"/> and other heroes of the era.{{Issue|date=June 2009}} A car crash on a British road in 1953 abruptly ended Brian Falsworth's career and his life.<ref name="ReferenceA"/><ref name="ReferenceB">''Citizen V and the V Battalion'' (vol. 2) #1 (March 2002)</ref> 
 
 In the [[2008 in comics|2008]] [[Limited series (comics)|limited series]] ''[[Avengers/Invaders]]'', he is part of the World War II-era Invaders. His teammates are lost in time and battle the [[Avengers (comics)|Avengers]].{{Issue|date=March 2012}} In varying timestreams, Union Jack perishes again and again.<ref>{{comicbookdb|type=title|id=18419|title=''Avengers/Invaders''}}</ref>
 
@@ -89,15 +95,14 @@ Named Byron Falsworth, the Brian Falsworth version of Union Jack that appeared o
 
 ==In other media==
 ===Film===
-* James Montgomery Falsworth appears in ''[[Captain America: The First Avenger]]'' (2011), played by [[JJ Feild]]. He is one of several POW's been held at a [[Hydra (Marvel Comics)|HYDRA]] factory who are liberated by [[Captain America]], and subsequently joins [[Sgt. Fury and his Howling Commandos|his unit]]. This incarnation does not utilize the Union Jack identity.
-* In a deleted scene filmed for ''[[The Avengers (2012 film)|The Avengers]]'', Falsworth's file is one of several that Captain America looks through after being revived in the present day, and he is listed as being deceased.{{citation needed|date=July 2015}}
+James Montgomery Falsworth appears in the live-action film ''[[Captain America: The First Avenger]]'' (2011), portrayed by [[JJ Feild]]. He is one of several POW's who were held at a [[Hydra (comics)|HYDRA]] factory before they are liberated by [[Steve Rogers (Marvel Cinematic Universe)|Captain America]] and subsequently join his [[Sgt. Fury and his Howling Commandos|Howling Commandos]].
 
 ===Video games===
-* James Montgomery Falsworth appears in the ''[[Captain America: Super Soldier]]'' videogame, voiced by JJ Feild.{{citation needed|date=February 2017}}
-* The James Falsworth version of Union Jack appears as a playable character in ''[[Marvel: Avengers Alliance]]''.{{citation needed|date=February 2017}}
-* The James Falsworth version of Union Jack appears as a playable character in ''[[Lego Marvel Super Heroes]]''.{{citation needed|date=February 2017}}
-* The James Falsworth version of Union Jack appears as a playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=February 2017}}
-* The Brian Falsworth version of Union Jack is a playable character in ''[[Marvel Avengers Academy]]'', making him the game's first gay character.{{citation needed|date=February 2017}}
+* James Montgomery Falsworth appears in ''[[Captain America: Super Soldier]]'', voiced by JJ Feild.{{citation needed|date=February 2017}}
+* The James Falsworth incarnation of Union Jack appears as a playable character in ''[[Marvel: Avengers Alliance]]''.{{citation needed|date=February 2017}}
+* The James Falsworth incarnation of Union Jack appears as a playable character in ''[[Lego Marvel Super Heroes]]''.{{citation needed|date=February 2017}}
+* The James Falsworth incarnation of Union Jack appears as a playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=February 2017}}
+* The Brian Falsworth incarnation of Union Jack appears as a playable character in ''[[Marvel Avengers Academy]]''.{{citation needed|date=February 2017}}
 
 ==Collected editions==
 Union Jack's major appearances have been collected in a number of [[trade paperback (comics)|trade paperbacks]]:
@@ -126,11 +131,15 @@ Union Jack's major appearances have been collected in a number of [[trade paperb
 
 {{DEFAULTSORT:Union Jack}}
 [[Category:British superheroes]]
+[[Category:Characters created by Frank Robbins]]
 [[Category:Characters created by Roy Thomas]]
 [[Category:Comics characters introduced in 1976]]
 [[Category:Fictional British Army personnel]]
+[[Category:Fictional gay males]]
 [[Category:Fictional lords and ladies]]
 [[Category:Fictional World War I veterans]]
 [[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics LGBT superheroes]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:United Kingdom-themed superheroes]]

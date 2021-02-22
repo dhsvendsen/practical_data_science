@@ -24,7 +24,7 @@
 '''Sabra''' is the alias of '''Ruth Bat-Seraph''', a [[fiction]]al [[Character (arts)|character]], an [[People of Israel|Israeli]] [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Sabra made a cameo appearance in ''[[Hulk|Incredible Hulk]]'' #250 (August 1980), but first fully appeared in ''Incredible Hulk'' #256 (February 1981). She was created by [[Bill Mantlo]] and [[Sal Buscema]]. Belinda Glass came up with the name and concept of the character.<ref name="Incredible Hulk 256">{{cite comic| writer= [[Bill Mantlo|Mantlo, Bill]]|penciller= [[Sal Buscema|Buscema, Sal]]|inker= Buscema, Sal|story= Power In the Promised Land|title= The Incredible Hulk|volume= 2|issue= 256|date= February 1981}}</ref> "[[Sabra (person)|Sabra]]" means both a native of [[Israel]] and a [[Opuntia|kind of prickly pear]].
+Sabra made a cameo appearance in ''[[Hulk|Incredible Hulk]]'' #250 (August 1980), but first fully appeared in ''Incredible Hulk'' #256 (February 1981).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=304}}</ref> She was created by [[Bill Mantlo]] and [[Sal Buscema]]. Belinda Glass came up with the name and concept of the character.<ref name="Incredible Hulk 256">{{cite comic| writer= [[Bill Mantlo|Mantlo, Bill]]|penciller= [[Sal Buscema|Buscema, Sal]]|inker= Buscema, Sal|story= Power In the Promised Land|title= The Incredible Hulk|volume= 2|issue= 256|date= February 1981}}</ref> "[[Sabra (person)|Sabra]]" means both a native of [[Israel]] and a [[Opuntia|kind of prickly pear]].
 
 ==Fictional character biography==
 Ruth Bat-Seraph was born near [[Jerusalem]], Israel. She was raised on a special [[kibbutz]] run by the Israeli government after her power manifested. Ruth was the first superhuman agent to serve with the [[Mossad]] (the Israeli [[secret service]]). She became a police officer in addition to serving as a government agent. Her first public act as Sabra was a battle with the [[Hulk]], whom she mistakenly believed was working with [[Arab]] [[terrorist]]s operating in Israel.<ref name="Incredible Hulk 256"/> Not long after that, Sabra was chosen as a pawn of [[Death (Marvel Comics)|Death]] in the latter's game against the [[Grandmaster (Marvel Comics)|Grandmaster]]. There, she met [[Iron Man]] and the [[Arabian Knight (comics)|Arabian Knight]], and battled [[She-Hulk]] and [[Captain Britain]].<ref>''Marvel Super Hero Contest of Champions'' #1-4 (June–August 1982). Marvel Comics.</ref> She later appeared at the Hulk's amnesty ceremony in Washington, D.C.<ref>''Incredible Hulk'' #279 (January 1983). Marvel Comics.</ref> Some years later, Sabra's young son was killed in a terrorist attack. She disobeyed orders in order to bring her son's killers to justice.{{Issue|date=April 2009}}
@@ -72,11 +72,15 @@ Sabra appears in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]''
 ==External links==
 * {{Marvelwiki|Sabra|Sabra}}
 
+{{Hulk}}
+{{New Warriors}}
+
 [[Category:Characters created by Bill Mantlo]]
 [[Category:Characters created by Sal Buscema]]
 [[Category:Comics characters introduced in 1981]]
 [[Category:Female characters in comics]]
 [[Category:Fictional Israeli Jews]]
+[[Category:Fictional Jews in comics]]
 [[Category:Fictional Mossad agents]]
 [[Category:Fictional police officers in comics]]
 [[Category:Israeli superheroes]]

@@ -26,7 +26,7 @@ Though the [[Shi'ar]] have denied it for centuries, one of their race once wield
 
 The descendants were killed by the Vice-Chancellor K'tor, a loyalist of [[D'Ken]], who kept only one survivor as a slave. The survivor was Korvus, and he was tortured as he worked on mechanical constructs, and when he reached adulthood, Korvus was imprisoned in the high security prison on the moon of Phygim and a device was placed on his brain that could be triggered if he tried to escape.{{issue|date=March 2013}}
 
-During "[[The Rise and Fall of the Shi'ar Empire]]", K'tor approached Korvus in prison and offered to commute the rest of Korvus' sentence if he acted against [[Rachel Summers|Marvel Girl]], who was, along with [[Havok (comics)|Havok]], [[Polaris (comics)|Polaris]], [[Professor X]], [[Nightcrawler (comics)|Nightcrawler]], [[Darwin (comics)|Darwin]] and [[Warpath (comics)|Warpath]], coming to the Shi'ar Empire to stop [[Vulcan (Marvel Comics)|Vulcan]] on his quest for vengeance.{{issue|date=March 2013}}
+During "[[The Rise and Fall of the Shi'ar Empire]]", K'tor approached Korvus in prison and offered to commute the rest of Korvus' sentence if he acted against [[Rachel Summers|Marvel Girl]], who was, along with [[Havok (comics)|Havok]], [[Polaris (Marvel Comics)|Polaris]], [[Professor X]], [[Nightcrawler (comics)|Nightcrawler]], [[Darwin (comics)|Darwin]] and [[Warpath (comics)|Warpath]], coming to the Shi'ar Empire to stop [[Vulcan (Marvel Comics)|Vulcan]] on his quest for vengeance.{{issue|date=March 2013}}
 
 K'tor allowed Korvus to take the Blade of the Phoenix and gave him a  ship so he could slay Rachel. Korvus eventually found the band of [[X-Men]] by tracking Marvel Girl's Phoenix's brand, to which he was drawn. Korvus landed on their ship and easily thwarted the combined X-Men with the Blade. However, when he tried to slay Rachel, she grasped the Blade and their minds were involuntarily linked, reliving each other's lives in essence and forming a close bond between them. He then chose to ally with the X-Men and the device on his brain was deactivated with the help of Rachel.{{issue|date=March 2013}}
 
@@ -69,9 +69,6 @@ During X-Men: Kingbreaker, the Phoenix leaves the sword making it powerless.
 
 Korvus is well versed in Shi'ar technology, especially in Shi'ar Hyper Drives.
 
-==Etymology==
-The names ''Korvus'' and ''Rook'shir'' appear to be taken from the [[bird|avian]] [[genus]] ''[[Corvus (genus)|Corvus]]'', to which the birds known as [[Rook (bird)|rook]]s belong. This would be in line with the bird-like features of all members of the Shi'ar race.
-
 ==References==
 {{Reflist}}
 
@@ -82,11 +79,11 @@ The names ''Korvus'' and ''Rook'shir'' appear to be taken from the [[bird|avian]
 
 {{Marvel Cosmic}}
 
+[[Category:Characters created by Ed Brubaker]]
 [[Category:Comics characters introduced in 2006]]
-[[Category:Extraterrestrial superheroes]]
 [[Category:Fictional slaves]]
 [[Category:Marvel Comics aliens]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]
-[[Category:Characters created by Ed Brubaker]]
+[[Category:Marvel Comics extraterrestrial superheroes]]
 [[Category:Shi'ar]]

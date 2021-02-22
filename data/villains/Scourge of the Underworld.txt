@@ -1,5 +1,5 @@
 {{short description|Fictional comic book characters}}
-{{refimprove|date=June 2016}}
+{{more citations needed|date=June 2016}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | image= [[Image:Scourge of the Underworld.jpg|200px]]
 | caption=
@@ -10,16 +10,16 @@
 | creators= [[Mark Gruenwald]] (writer) <br /> [[John Byrne (comics)|John Byrne]] (artist)
 | alliances=
 | aliases=
-| powers= Master of [[deception#Disguise appearance|disguise]] <br />Exploding armor-piercing bullets
+| powers= Master of disguise <br />Exploding armor-piercing bullets
 }}
 '''The Scourge of the Underworld''' is the name of a series of [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
 
-Writer/editor [[Mark Gruenwald]] originally created the Scourge in 1985 as a plot device intended to thin the criminal population of the Marvel Universe, in particular eliminating those [[supervillain]] characters he deemed to be too minor, redundant, or ill-conceived. Numerous other characters have used the name, often with differing motives and loyalties.
+Writer/editor [[Mark Gruenwald]] originally created the Scourge in 1985 as a plot device intended to thin the criminal population of the Marvel Universe, in particular eliminating those [[supervillain]] characters he deemed to be too minor, redundant, or ill-conceived.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=220}}</ref> Numerous other characters have used the name, often with differing motives and loyalties.
 
 ==Organization==
-The Scourge is originally depicted as an individual [[vigilante]] dedicated to the assassination of criminals. This person, whose true name has never been revealed, is seen over the course of several months murdering known supervillains. The Scourge approaches a supervillain in disguise, shoots him or her with an explosive-tipped bullet, shouts his [[catchphrase]] "Justice is served!" and disappears. This first iteration's killing spree reaches its apex in ''Captain America'' #319, where he guns down eighteen such criminals at an underworld meeting which is, ironically, held to devise a way of countering the menace of the Scourge. The Scourge disguises himself as the bartender, whom nobody thinks to search. When Captain America captures the Scourge in the following issue, the character claimed to be the brother of the [[Enforcer (comics)|Enforcer]], whom Scourge has killed because his sibling's criminal activities has shamed their father. He claims that this crime led to him creating the Scourge persona with help from a private investigator only identified as "Domino", who provides him detailed information on the supervillain community. Immediately after making this confession, the Scourge is himself shot and killed by an unseen assailant, who is heard to cry "Justice is served!" in the fashion of the Scourge's other killings.
+The Scourge is originally depicted as an individual vigilante dedicated to the assassination of criminals. This person, whose true name has never been revealed, is seen over the course of several months murdering known supervillains. The Scourge approaches a supervillain in disguise, shoots him or her with an explosive-tipped bullet, shouts his [[catchphrase]] "Justice is served!" and disappears. This first iteration's killing spree reaches its apex in ''Captain America'' #319, where he guns down eighteen such criminals at an underworld meeting which is, ironically, held to devise a way of countering the menace of the Scourge. The Scourge disguises himself as the bartender, whom nobody thinks to search. When Captain America captures the Scourge in the following issue, the character claimed to be the brother of the [[Enforcer (comics)|Enforcer]], whom Scourge has killed because his sibling's criminal activities has shamed their father. He claims that this crime led to him creating the Scourge persona with help from a private investigator only identified as "Domino", who provides him detailed information on the supervillain community. Immediately after making this confession, the Scourge is himself shot and killed by an unseen assailant, who is heard to cry "Justice is served!" in the fashion of the Scourge's other killings.
 
-In ''Captain America'' #326, Captain America is confronted by a hologram of the Scourge, operated by [[Doctor Faustus (comics)|Doctor Faustus]], to try and kill Captain America via having him confront "ghosts" of several villains who had recently died in battle against him. Later on, in ''Captain America'' #347, Albert Malik, the communist villain who assumed the Red Skull identity during the 1950s, is killed by a mercenary that breaks the man out of prison only to kill the communist. After killing Malik, the mercenary shouts the Scourge's catchphrase. In ''Captain America'' #350, Scourge is shown to be part of an assembly of villains working for the [[Red Skull]], many of which Captain America had fought following the Red Skull's "death" in ''Captain America'' #300. The Red Skull gloated of having created the Scourge organization, as part of a massive network of criminal organizations that carried out the Nazi's will. The Scourge presented is promptly killed by John Walker who had recently assumed the Captain America identity.
+In ''Captain America'' #326, Captain America is confronted by a hologram of the Scourge, operated by [[Doctor Faustus (comics)|Doctor Faustus]], to try and kill Captain America via having him confront "ghosts" of several villains who had recently died in battle against him. Later on, in ''Captain America'' #347, Albert Malik, the communist villain who assumed the Red Skull identity during the 1950s, is killed by a mercenary who breaks Malik out of prison only to murder him. After killing Malik, the mercenary shouts the Scourge's catchphrase. In ''Captain America'' #350, Scourge is shown to be part of an assembly of villains working for the [[Red Skull]], many of which Captain America had fought following the Red Skull's "death" in ''Captain America'' #300. The Red Skull gloated of having created the Scourge organization, as part of a massive network of criminal organizations that carried out the Nazi's will. The Scourge presented is promptly killed by John Walker who had recently assumed the Captain America identity.
 
 In ''Captain America'' #351, the Commission on Super-Hero Affairs had an agent impersonate the Scourge of the Underworld to "kill" Captain America due to Walker's identity having been made public and whose parents had been killed as a result of retaliation by the Watchdog organization. This story featured the first in-story appearance of the Scourge's official costume (see Appearances below).
 
@@ -31,7 +31,7 @@ In 1993, Mark Gruenwald, who had created the Scourge of the Underworld and writt
 
 The mini-series revealed that the Scourge of the Underworld was created by Thomas Holloway, the former Golden Age superhero known as [[Angel (Thomas Halloway)|Angel]], who ran the organization with help from Domino and two henchmen known as [[Caprice (comics)|Caprice]] and [[Bloodstain (comics)|Bloodstain]]. Holloway had initially gone into retirement after a battle with a villain resulted in the death of a civilian. When the second Age of Heroes came about decades later, Halloway vowed to eliminate the newer generation of supervillains through any means necessary to protect the people, and therefore established the Scourge organization. The mini-series also confirmed the existence of female Scourge of the Underworld agents, as one of the villain's previous kills (Titania by a Scourge impersonating fellow villain Gold Digger in a women's locker room) had left unanswered questions to whether or not the murder of Titania was done by a female Scourge, since the villain would not be able to pass as a woman in such an intimate setting as a women's locker room.
 
-The series has Vagabond trying to join the group and is sent on her first mission. Unfortunately she finds her first victim to be a single father, who begs Vagabond to spare him for his son's sake. Marked for death for failing to do her assignment, Vagabond recruits USAgent to help bring down the organization. During the ensuing fight, the Scourge sent to kill Vagabond and USAgent is captured but killed as USAgent is taken before Bloodstain, who attempts to brainwash USAgent into joining the Scourges. Bloodstain reveals himself to be USAgent's deceased brother Mike Walker, though it's never revealed if this is true or just a disguise designed to manipulate USAgent. Walker is informed of Halloway's role in running the organization and in the ensuing final battle, Domino and Bloodstain are killed while a large angel-shaped gravestone falls on the invalid Halloway. Though the ''USAgent'' mini-series implies the statue killed him, ''Captain America'' #440 reveals that Halloway survived and managed to avoid arrest due to his army of lawyers and had gone back into seclusion.
+The series has Vagabond trying to join the group and is sent on her first mission. Unfortunately she finds her first victim, a former Daredevil villain known as the Matador, to now be a single father who has served his time and abandoned his criminal lifestyle, who begs Vagabond to spare him for his son's sake. Marked for death for failing to do her assignment, Vagabond recruits USAgent to help bring down the organization. During the ensuing fight, the Scourge sent to kill Vagabond and USAgent is captured but killed as USAgent is taken before Bloodstain, who attempts to brainwash USAgent into joining the Scourges. Bloodstain reveals himself to be USAgent's deceased brother Mike Walker, though it's never revealed if this is true or just a disguise designed to manipulate USAgent, with Walker himself denying the idea that his brother would be part of such an organisation. Walker is informed of Halloway's role in running the organization and in the ensuing final battle, Domino and Bloodstain are killed while a large angel-shaped gravestone falls on the invalid Halloway. Though the ''USAgent'' mini-series implies the statue killed him, ''Captain America'' #440 reveals that Halloway survived and managed to avoid arrest due to his army of lawyers and had gone back into seclusion.
 
 Later entries for the Scourge in various ''Official Marvel Handbook'' specials, would clarify the Red Skull connection, which the ''USAgent'' mini-series never outright addressed. These entries ultimately state that the Red Skull learned of the existence of the Scourge of the Underworld organization and managed to convince several of Halloway's agents to switch sides and work for him.
 
@@ -50,13 +50,13 @@ Five characters bearing the names of the Scourge's previous victims – [[Hellra
 
 The Punisher impersonates the Scourge again in an attempt to take down the Kingpin.<ref>''Civil War: Kingpin'' #3. Marvel Comics.</ref>
 
-During the "[[Dark Reign (comics)|Dark Reign]]" storyline, [[Norman Osborn]] asks the [[Hood (comics)|Hood]] to hunt the [[Punisher]] in retaliation for an failed assassination attempt.<ref>''Punisher'' Vol. 7 #1. Marvel Comics.</ref> The Hood is granted the Dark Dimension's powers by his master [[Dormammu]] to revive eighteen murdered criminals ([[Basilisk (comics)|Basilisk]], [[Bird-Man]], [[Black Abbott (comics)|Black Abbott]], [[Blue Streak (comics)|Blue Streak]], [[Cheetah (Marvel Comics)|Cheetah]], [[Cyclone (Marvel Comics)|Cyclone]], [[Death Adder (comics)|Death Adder]], [[Firebrand (Marvel Comics)|Firebrand]], [[Hijacker (comics)|Hijacker]], [[Human Fly (comics)|Human Fly]], [[Letha (comics)|Letha]], [[Megatak]], [[Mind-Wave]], [[Miracle Man]], [[Mirage (Marvel Comics)|Mirage]], [[Lascivious (comics)|Titania]], [[Turner D. Century]] and [[Wraith (Marvel Comics)|Wraith]]) to help take down the Punisher. Scourge tells the villains that if they fail, they will be returned to their previous states of death and rot.<ref>''Punisher'' Vol. 7 #5. Marvel Comics.</ref> The Hood tells these criminals that the Scourge of the Underworld is actually Frank Castle and by killing him they would be avenging their previous deaths and prolonging their new lives. When Microchip asks if he thinks any of them believed the story, the Hood replies "Sure they did".<ref>''Punisher'' Vol. 7 #6. Marvel Comics.</ref> Several of these villains (including Firebrand, Wraith. Cheetah, Cyclone, and Mirage) are killed again while confronting the Punisher, but ultimately Basilisk and Death Adder subdue the vigilante, and the terms of the Hood's agreement are apparently fulfilled.<ref>''Punisher'' Vol. 7 #7-10. Marvel Comics.</ref>
+During the "[[Dark Reign (comics)|Dark Reign]]" storyline, [[Norman Osborn]] asks the [[Hood (comics)|Hood]] to hunt the [[Punisher]] in retaliation for an failed assassination attempt.<ref>''Punisher'' Vol. 7 #1. Marvel Comics.</ref> The Hood is granted the Dark Dimension's powers by his master [[Dormammu]] to revive eighteen murdered criminals ([[Basilisk (comics)|Basilisk]], [[Bird-Man]], [[Black Abbott (comics)|Black Abbott]], [[Blue Streak (comics)|Blue Streak]], [[Cheetah (Marvel Comics)|Cheetah]], [[Cyclone (Marvel Comics)|Cyclone]], [[Death Adder (comics)|Death Adder]], [[Firebrand (Marvel Comics)|Firebrand]], [[Hijacker (comics)|Hijacker]], [[Human Fly (comics)|Human Fly]], [[Letha (comics)|Letha]], [[Megatak]], [[Mind-Wave]], [[Miracle Man]], [[Mirage (Marvel Comics)|Mirage]], [[Lascivious (comics)|Titania]], [[Turner D. Century]] and [[Wraith (Brian DeWolff)|Wraith]]) to help take down the Punisher. Scourge tells the villains that if they fail, they will be returned to their previous states of death and rot.<ref>''Punisher'' Vol. 7 #5. Marvel Comics.</ref> The Hood tells these criminals that the Scourge of the Underworld is actually Frank Castle and by killing him they would be avenging their previous deaths and prolonging their new lives. When Microchip asks if he thinks any of them believed the story, the Hood replies "Sure they did".<ref>''Punisher'' Vol. 7 #6. Marvel Comics.</ref> Several of these villains (including Firebrand, Wraith. Cheetah, Cyclone, and Mirage) are killed again while confronting the Punisher, but ultimately Basilisk and Death Adder subdue the vigilante, and the terms of the Hood's agreement are apparently fulfilled.<ref>''Punisher'' Vol. 7 #7-10. Marvel Comics.</ref>
 
 The original version of Scourge of the Underworld is among the various people in Erebus when [[Hercules (Marvel Comics)|Hercules]] travels to the Underworld. He is later seen in [[Pluto (Marvel Comics)|Pluto]]'s jury (alongside [[Abomination (comics)|Abomination]], [[Armless Tiger Man]], Artume, [[Heinrich Zemo]], [[Commander Kraken]], [[Iron Monger]], [[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]], Kyknos, Nessus, [[Orka (comics)|Orka]] and [[Veranke]]) at [[Zeus (Marvel Comics)|Zeus]]'s trial.<ref>''Incredible Hercules'' #129. Marvel Comics.</ref>
 
 Another person christened with identity is assigned to the [[Thunderbolts (comics)|Thunderbolts]] by Osborn. His first mission is to eliminate [[Songbird (comics)|Songbird]].<ref>''Thunderbolts'' #133. Marvel Comics.</ref> This character is later revealed to be [[Nuke (Marvel Comics)|Frank Simpson]] with a new identity.<ref>''Thunderbolts'' #136. Marvel Comics.</ref>
 
-Another iteration joins up with Villains for Hire, the villain counterpart of [[Heroes for Hire]].<ref>''Villains for Hire'' #1. Marvel Comics.</ref> This character was in fact [[Paladin (comics)|Paladin]] in disguise, as part of a massive con to take down the [[Purple Man]].<ref>''Villains for Hire'' #4. Marvel Comics.</ref>
+Another iteration joins up with Villains for Hire, the villain counterpart of [[Heroes for Hire]].<ref>''Villains for Hire'' #1. Marvel Comics.</ref> This character was in fact [[Paladin (comics)|Paladin]] in disguise as part of a massive con to take down the [[Purple Man]].<ref>''Villains for Hire'' #4. Marvel Comics.</ref>
 
 Another new version is shown to be using a list of the locations of supervillains who have been relocated via the witness protection program and killing them, most recently [[Viper (Marvel Comics)|Viper]], member of the Serpent Squad. In the battle, he severely injures the hero (and former villain) [[Diamondback (Rachel Leighton)|Diamondback]] who recognizes his voice.<ref>''Captain America'' (vol. 6) #11. Marvel Comics.</ref> He is then shown to be working for Henry Gyrich, revealed to be under the influence of Hydra. Encountering the villain the [[Rattler (comics)|Rattler]], whom Scourge subdues and kills after a short but brutal fight, he pulls off his damaged mask, shattered from the fight, and reveals he is [[Demolition Man (comics)|Dennis Dunphy]].<ref>''Captain America'' (vol. 6) #12. Marvel Comics.</ref>
 
@@ -73,21 +73,21 @@ Another new version is shown to be using a list of the locations of supervillain
 |-
 | [[Megatak]] || ''[[Thor (Marvel Comics)|Thor]]'' #328 || ''[[Thor (Marvel Comics)|Thor]]'' #358 || The Scourge is disguised as a homeless man.
 |-
-| [[Melter]] || ''[[Tales of Suspense]]'' #47 || ''[[Avengers  (comic book)|Avengers]]'' #263 || The Scourge disguised as Melter's assistant Keegan (who was also killed by Scourge).
+| [[Melter]] || ''[[Tales of Suspense]]'' #47 || ''[[Avengers (comic book)|Avengers]]'' #263 || The Scourge disguised as Melter's assistant Keegan (who was also killed by Scourge).
 |-
 | [[Lascivious (comics)|Titania]] || ''[[Marvel Two-in-One]]'' #54 || ''[[Thing (comics)|Thing]]'' #33 || The Scourge is disguised as a female wrestler named "Golddigger".
 |-
 | [[Basilisk (comics)#Basilisk (Basil Elks)|Basilisk]] (Basil Elks) || ''[[Marvel Team-Up#Marvel Team-Up|Marvel Team-Up]]'' #16 || ''[[Fantastic Four]]'' #289 || The Scourge is disguised as a [[construction worker]].
 |-
-| [[Human Fly (comics)#Richard Deacon|The Human Fly]] (Richard Deacon) || ''[[The Amazing Spider-Man]] [[annual publication|Annual]]'' #10 || ''[[The Amazing Spider-Man]]'' #276 || The Scourge is disguised as a [[Waste collector|sanitation worker]].
+| [[Human Fly (comics)#Richard Deacon|The Human Fly]] (Richard Deacon) || ''[[The Amazing Spider-Man]] [[annual publication|Annual]]'' #10 || ''[[The Amazing Spider-Man]]'' #276 || The Scourge is disguised as a [[Waste collector|garbage man]].
 |-
 | [[Death Adder (comics)|Death Adder]] || ''[[Marvel Two-in-One]]'' #64 || ''[[Captain America (comic book)|Captain America]]'' #318 || The Scourge is disguised as a [[taxicab]] driver.
 |-
 | [[Blue Streak (comics)#Don Thomas|Blue Streak]] (Don Thompson) || ''[[Captain America (comic book)|Captain America]]'' #217 || ''[[Captain America (comic book)|Captain America]]'' #318 || The Scourge disguised as a [[truck driver]].
 |-
-| [[Wraith (Marvel Comics)#Brian DeWolff|The Wraith]] (Brian DeWolff) || ''[[Marvel Team-Up#Marvel Team-Up|Marvel Team-Up]]'' #48 || ''[[The Amazing Spider-Man]]'' #278 || The Scourge is disguised as a [[police officer]].
+| [[Wraith (Brian DeWolff)|Wraith]] (Brian DeWolff) || ''[[Marvel Team-Up#Marvel Team-Up|Marvel Team-Up]]'' #48 || ''[[The Amazing Spider-Man]]'' #278 || The Scourge is disguised as a [[police officer]].
 |-
-| [[Red Skull#Albert Malik|Red Skull]] (Albert Malik) || ''Captain America Comics'' #61 || ''[[Captain America (comic book)|Captain America]]'' #347 || The Scourge is disguised as a [[Pilot (aeronautics)|pilot]].
+| [[Red Skull#Albert Malik|Red Skull]] (Albert Malik) || ''Captain America Comics'' #61 || ''[[Captain America (comic book)|Captain America]]'' #347 || The Scourge is disguised as a [[Aircraft pilot|pilot]].
 |-
 | An unnamed member of the [[Watchdogs (Marvel Comics)|Watchdogs]] || ''[[Captain America (comic book)|Captain America]]'' #351 || ''[[Captain America (comic book)|Captain America]]'' #351 || The Scourge is disguised as a government agent.
 |-
@@ -139,29 +139,28 @@ Another new version is shown to be using a list of the locations of supervillain
 |}
 
 ==Villains who escaped The Scourge==
-
 {| class="wikitable" border="1"
 ! Name !! Notes
 |-
 | [[Constrictor (comics)|Constrictor]] || The Scourge fails to kill him due to Captain America's intervention.<ref>''Captain America'' #311. Marvel Comics.</ref>
 |-
-| [[Kraven the Hunter]] || The Scourge fails to kill him; Kraven was battling [[Tigra]], and Scourge could not get close enough to kill him without harming Tigra.<ref>''[[West Coast Avengers]]'' #3. Marvel Comics.</ref>
+| [[Kraven the Hunter]] || The Scourge fails to kill him because Kraven was battling [[Tigra]] and Scourge could not get close enough to kill him without harming Tigra.<ref>''[[West Coast Avengers]]'' #3. Marvel Comics.</ref>
 |-
 | [[Solarr]] || He dies in a government project before the Scourge can get to him.<ref>''Power Man & Iron Fist'' #113. Marvel Comics.</ref>
 |-
-| [[Aqueduct (comics)|Water Wizard]] || Delayed by a flat tire, he does not arrive at the "Bar With No Name" meeting until afterwards. A badly shaken Water Wizard then turns himself in to Captain America for his own protection while also telling him what happened.<ref>''Captain America'' #320. Marvel Comics.</ref>
+| [[Aqueduct (comics)|Water Wizard]] || Delayed by a flat tire, he does not arrive at the "Bar With No Name" meeting until afterwards. A badly shaken Water Wizard then turns himself in to Captain America for his own protection while also telling him what happened.<ref name="ReferenceA">''Captain America'' #320. Marvel Comics.</ref>
 |-
-| [[Diamondback (Rachel Leighton)|Diamondback]] and [[Cobra (Marvel Comics)|Cobra]] || The Scourge shoots at their vehicle, but misses the fuel tank.<ref>''Captain America'' #320. Marvel Comics.</ref>
+| [[Diamondback (Rachel Leighton)|Diamondback]] and [[Cobra (Marvel Comics)|Cobra]] || The Scourge shoots at their vehicle, but misses the fuel tank.<ref name="ReferenceA"/>
 |-
 | [[Roderick Kingsley|Hobgoblin]] (Roderick Kingsley) || When [[Flash Thompson]] is framed as the Hobgoblin and arrested, the Scourge attempts to assassinate him in jail, but Spider-Man stops him. The real Hobgoblin remains on the Scourge's list when the Scourge is himself assassinated.<ref>''Amazing Spider-Man'' #278. Marvel Comics.</ref>
 |-
-| [[Puppet Master (Marvel Comics)|Puppet Master]] || He is on the Scourge's list when the Scourge is himself assassinated.<ref>''Captain America'' #320. Marvel Comics.</ref>
+| [[Puppet Master (Marvel Comics)|Puppet Master]] || He is on the Scourge's list when the Scourge is himself assassinated.<ref name="ReferenceA"/>
 |-
 | The Phone Ranger || He is attacked in ''[[Marvel Age|Marvel Age Annual]]'' #1 by the Scourge disguised as a workman, but he turns up alive in the "[[Civil War (comics)|Civil War]]" storyline.
 |-
 | [[Matador (Marvel Comics)|The Matador]] || He is allowed to live by [[Vagabond (comics)|a rookie Scourge]] who takes pity on him.<ref>''[[U.S. Agent (comics)|U.S. Agent]]'' #1. Marvel Comics.</ref>
 |-
-| [[Shocker (comics)|Shocker]] || He is attacked in ''Deadly Foes of Spider-Man'' #3, but the bullet bounces off the vibration field around his body. His attacker is later revealed to be an agent of the [[Kingpin (comics)|Kingpin]] sent to scare him away from the scene.<ref>''Deadly Foes of Spider Man'' #4. Marvel Comics.</ref>
+| [[Shocker (comics)|Shocker]] || He is attacked in ''Deadly Foes of Spider-Man'' #3, but the bullet bounces off the vibration field around his body. His attacker is later revealed to be an agent of the [[Kingpin (character)|Kingpin]] sent to scare him away from the scene.<ref>''Deadly Foes of Spider-Man'' #4. Marvel Comics.</ref>
 |-
 | [[Steel Wind]] || The Scourge fails to kill her.<ref name="Captain America #394">''Captain America'' #394. Marvel Comics.</ref>
 |-
@@ -171,7 +170,7 @@ Another new version is shown to be using a list of the locations of supervillain
 |}
 
 ==References==
-{{reflist|2}}
+{{reflist}}
 
 ==External links==
 * [http://www.marvel.com/universe/Scourge_of_the_Underworld Scourge of the Underworld] at Marvel.com
@@ -182,7 +181,6 @@ Another new version is shown to be using a list of the locations of supervillain
 {{Fantastic Four}}
 {{Spider-Man characters}}
 
-{{DEFAULTSORT:Scourge Of The Underworld}}
 [[Category:Comics characters introduced in 1985]]
 [[Category:Characters created by John Byrne]]
 [[Category:Characters created by Mark Gruenwald]]

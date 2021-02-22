@@ -10,7 +10,7 @@
 |publisher=[[Marvel Comics]]
 |debut=''X-Factor,'' vol. 1 #88 (Mar. 1993)
 |creators=[[Peter David]] & [[Joe Quesada]]
-|alliances=[[Acolytes (comics)|Acolytes]]<br/>[[Brotherhood of Mutants]]<br/>Dark Descendants<br/>Strikeforce<br/>[[X-Factor (comics)|X-Factor]]<br>Utopians
+|alliances=[[Acolytes (comics)|Acolytes]]<br/>[[Brotherhood of Mutants]]<br/>Dark Descendants<br/>Strikeforce<br/>[[X-Factor (comics)|X-Factor]]<br>Utopians<br/>[[S.W.O.R.D.]]
 |aliases=Alex
 |powers=Body composed of a form of protoplasm which he can reconstruct at will to change his size and shape, alter to counteract any mutant force that is directed at him (within a certain perimeter), and shoot as bio-matter projectiles.
 }}
@@ -23,7 +23,7 @@ Random's complete origin is unclear. It appears that he was created from a mass 
 
 In his first encounter with the government-sponsored [[X-Factor (comics)|X-Factor]] team, Random is called in (presumably by the government) to bring back a group of [[Genosha]]n renegades called the X-Patriots, who refuse to leave a hospital where one of their comrades is being treated. Random and X-Factor clash and, wanting to end the fight quickly, team leader [[Havok (comics)|Havok]] buys out Random's contract.<ref>''X-Factor,'' vol. 1 #88 (Mar. 1993)</ref>
 
-Because of his success as a [[bounty hunter]], Random is contracted to go after X-Factor member [[Polaris (comics)|Polaris]]. During their battle, Random tells her that the same government that employs her hired him to kill her. Polaris doesn't believe him, but he assures her that there are mutant haters in the government. After a brief scuffle, Polaris leaves, later confessing to Havok that she felt Random was holding back during the fight, as if he wanted her to win.{{Citation needed|date=November 2010}}
+Because of his success as a [[bounty hunter]], Random is contracted to go after X-Factor member [[Polaris (Marvel Comics)|Polaris]]. During their battle, Random tells her that the same government that employs her hired him to kill her. Polaris doesn't believe him, but he assures her that there are mutant haters in the government. After a brief scuffle, Polaris leaves, later confessing to Havok that she felt Random was holding back during the fight, as if he wanted her to win.{{Citation needed|date=November 2010}}
 
 ===Joining X-Factor===
 After X-Factor encounters the religious fanatic [[Haven (comics)|Haven]], Random visits X-Factor members [[Wolfsbane (comics)|Wolfsbane]] and [[Strong Guy]], confessing to them that the government agents who had previously hired him are now after his life as well. In exchange for protection, he agrees to tell X-Factor who hired him to kill Polaris. The team sets out to find Haven, and [[Forge (comics)|Forge]] hires Random's services against Haven for $15,000 and a new car, so he tags along. When they locate Haven, she transports Random and the rest of X-Factor to a [[pocket universe|pocket dimension]] where she shows them how much they really need her. In this world, Random begins to revert to his protoplasmic state, causing Haven to point out that she knows the truth behind his bloodthirsty façade. When she returns the team to the real world, Random is completely [[gelatin]]ous but quickly pulls himself together and refuses to talk to the team about it.{{Citation needed|date=November 2010}}
@@ -31,7 +31,7 @@ After X-Factor encounters the religious fanatic [[Haven (comics)|Haven]], Random
 Following Haven's defeat, Forge pays Random and offers him a permanent job on the team, which he declines. Shortly thereafter, Random, Forge, and Polaris track down Colonel Malone, the man who hired Random to kill Polaris. The trio find him, but he commits [[suicide]] before they can question him. However, Malone's assistant informs them that the government never planned on killing Polaris—they only wanted to test her limits as part of their plan to use her as a [[fail-safe]] against [[Magneto (Marvel Comics)|Magneto]]. If Random had defeated her, she would have been brought in and [[brainwashing|brainwash]]ed to become the government's weapon.{{Citation needed|date=November 2010}}
 
 ===The Brotherhood===
-Random returns after Havok re-forms the [[Brotherhood of Mutants]] with Dark Beast, [[Fatale (comics)|Fatale]], and [[Aurora (comics)|Aurora]], among others. He and Havok clash until Havok reveals to him the true nature of his mission: He is attempting to undermine the Brotherhood from within. The duo then help liberate the subjects of some of McCoy's inhumane experiments.{{Citation needed|date=November 2010}}
+Random returns after Havok re-forms the [[Brotherhood of Mutants]] with Dark Beast, [[Fatale (Marvel Comics)|Fatale]], and [[Aurora (comics)|Aurora]], among others. He and Havok clash until Havok reveals to him the true nature of his mission: He is attempting to undermine the Brotherhood from within. The duo then help liberate the subjects of some of McCoy's inhumane experiments.{{Citation needed|date=November 2010}}
 
 Random is next hired by [[Exodus (comics)|Exodus]] (along with [[Feral (comics)|Feral]], [[Pyro (Marvel Comics)|Pyro]], [[Avalanche (comics)|Avalanche]], the [[Fenris (comics)|Fenris twins]], and [[Omega Red]]) to assist the [[Acolytes (comics)|Acolytes]]. Exodus promises to help his new operatives find a cure for the [[Legacy Virus]] if they capture the [[New Men (Marvel Comics)|Knights of Wundagore]], but when they fail, Exodus leaves them stranded in the [[Savage Land]].<ref>''Quicksilver'' #8–9 (June–July 1998)</ref>
 
@@ -64,7 +64,7 @@ Random's body is made of morphing [[protoplasm]] which can change into almost an
 
 ==In other media==
 ===Television===
-* Random made non-speaking cameo appearances in ''[[X-Men (TV series)|X-Men: The Animated Series]].'' In "Sanctuary," Random is shown amongst the mutants that reside on [[Asteroid M]] in "Sanctuary." In "Secrets Not Long Buried," Random is one of the many mutant residents of the mutant-dominated community of Skull Mesa.
+* Random made non-speaking cameo appearances in ''[[X-Men (TV series)|X-Men: The Animated Series]].'' In "Sanctuary," Random is shown amongst the mutants that reside on [[Asteroid M]]. In "Secrets Not Long Buried," Random is one of the many mutant residents of the mutant-dominated community of Skull Mesa.
 
 ==References==
 {{Reflist}}
@@ -74,13 +74,13 @@ Random's body is made of morphing [[protoplasm]] which can change into almost an
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/randomxfact.htm|Random}}
 
 {{DEFAULTSORT:Random (Comics)}}
+[[Category:Characters created by Joe Quesada]]
 [[Category:Characters created by Peter David]]
 [[Category:Comics characters introduced in 1993]]
 [[Category:Fictional amorphous creatures]]
 [[Category:Fictional mercenaries]]
-[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
-[[Category:Characters created by Joe Quesada]]

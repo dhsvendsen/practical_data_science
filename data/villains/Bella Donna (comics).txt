@@ -1,4 +1,3 @@
-{{More citations needed|date= November 2011}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=[[Image:BellaBoudreaux1.jpg|250px|Bella Donna Boudreaux with Gambit]]
 |caption=Bella Donna Boudreaux with Gambit.
@@ -6,14 +5,14 @@
 |real_name=Bella Donna Boudreaux
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
-|debut=[[X-Men: Legacy|X-Men]] vol. 2 #8 (May, 1992)
+|debut=''[[X-Men: Legacy|X-Men]]'' vol. 2 #8 (May, 1992)
 |creators=[[Jim Lee]]<br/>[[Scott Lobdell]]
 |alliances=United Guilds<br/>Assassins' Guild
 |aliases=
-|powers=Astral projection,<br/>Plasma blasts
+|powers=Astral projection<br/>Plasma blasts
 }}
 
-'''Bella Donna Boudreaux''' is the name of a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is commonly associated with the [[X-Men|X-Man]] [[Gambit (comics)|Gambit]]. She first appeared in ''[[X-Men: Legacy|X-Men]]'' vol. 2 #8, and was created by [[Jim Lee]] and [[Scott Lobdell]].
+'''Bella Donna Boudreaux''' is the name of a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is commonly associated with the [[X-Men|X-Man]] [[Gambit (Marvel Comics)|Gambit]]. She first appeared in ''[[X-Men: Legacy|X-Men]]'' vol. 2 #8, and was created by [[Jim Lee]] and [[Scott Lobdell]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=47}}</ref>
 
 ==Publication history==
 Belladonna plays a major role in the first ''Rogue'' mini-series.
@@ -37,13 +36,13 @@ Bella Donna reappeared, still leading the Assassin's Guild. She dispatches a gro
 
 Much later, she clashes with [[Kaine Parker|Kaine]] who takes on the Scarlet Spider identity.
 
-After hearing of Remy and Anna-Marie's wedding, Bella payed her ex-fiance a quick visit at the newlywed's humble abode right when the Thieves Guild comes crashing into it. Gambit's old flame came to warn him that none in the guilds are all too happy with whom he married and now his subordinates are gunning for both his crown and his head.<ref>''Mr. & Mrs. X'' Vol 1 #6</ref> She would opt to keep the sharks in her den off of his back as long as she could, but could make no guarantees due to their rival sects history before bidding farewell.
+After hearing of Remy and Anna-Marie's wedding, Bella paid her ex-fiance a quick visit at the newlywed's humble abode right when the Thieves Guild comes crashing into it. Gambit's old flame came to warn him that none in the guilds are all too happy with whom he married and now his subordinates are gunning for both his crown and his head.<ref>''Mr. & Mrs. X'' Vol 1 #6</ref> She would opt to keep the sharks in her den off of his back as long as she could, but could make no guarantees due to their rival sects history before bidding farewell.
 
 Ms. Bordeaux would next turn up in the service of Candra once more as she proposed to unite the Thieves & Assassins Guilds in wake of [[Nate Grey]]'s devastation of the X-Men and the mutant population. But found herself on the receiving end of her reborn patron's treachery once again when the External offered a choice between her and Rogue as a sacrifice in exchange for power or exile. Gambit would choose neither however and instead opted to free his new wife while working out a new deal between his clan and their mortal enemies while putting his adopted father; Jean-Luc LeBeau in as a regent whom oversees and reports back to him while returning leadership of the assassins back to Bella Donna. Who escorts the scheming patron of her clansmen away while joking of sending the now infantile manipulator to school if she does not behave.<ref>''Mr. & Mrs. X'' Vol 1 #11</ref>
 
 ==In other media==
-*Bella Donna appears in the [[X-Men (TV series)|X-Men]] animated series, first as an image from Gambit's past in season 1, episode 13, and fully in the episode "X-Ternally Yours", where she blackmails Gambit to come to her.
-*Bella Donna will appear in the upcoming film ''[[Gambit (unproduced film)|Gambit]]'',<ref>{{cite web|url=http://deadline.com/2015/08/rebecca-ferguson-lea-seydoux-abbey-lee-gambit-x-men-120149275/|title=Rebecca Ferguson, Lea Seydoux, Abbey Lee On 'Gambit' Short List|publisher=Deadline|last=Fleming Jr.|first=Mike|date=August 6, 2015}}</ref> portrayed by [[Lizzy Caplan]].<ref>{{cite web|url=http://www.sneakpeek.ca/2018/04/gambit-movie-updates.html|title="Gambit" Movie Updates|website=Sneak Peek|date=April 28, 2018|accessdate=November 12, 2018}}</ref>
+*Bella Donna appears in the ''[[X-Men (TV series)|X-Men]]'' animated series, first as an image from Gambit's past in season 1, and fully in the episode "X-Ternally Yours", where she blackmails Gambit to come to her.
+*Bella Donna was slated to appear in the film ''[[Gambit (unproduced film)|Gambit]]'',<ref>{{cite web|url=https://deadline.com/2015/08/rebecca-ferguson-lea-seydoux-abbey-lee-gambit-x-men-120149275/|title=Rebecca Ferguson, Lea Seydoux, Abbey Lee On 'Gambit' Short List|publisher=Deadline|last=Fleming Jr.|first=Mike|date=August 6, 2015}}</ref> portrayed by [[Lizzy Caplan]], but was cancelled following Disney's buyout of 20th Century Fox.<ref>{{cite web|url=http://www.sneakpeek.ca/2018/04/gambit-movie-updates.html|title="Gambit" Movie Updates|website=Sneak Peek|date=April 28, 2018|accessdate=November 12, 2018}}</ref>
 
 ==References==
 {{Reflist}}
@@ -54,12 +53,12 @@ Ms. Bordeaux would next turn up in the service of Candra once more as she propos
 
 [[Category:Fictional female assassins]]
 [[Category:Female characters in comics]]
-[[Category:Female supervillains]]
 [[Category:Fictional Cajuns]]
 [[Category:Fictional characters from Boston]]
 [[Category:Fictional characters from New Orleans]]
 [[Category:Fictional murderers]]
 [[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Scott Lobdell]]
 [[Category:Characters created by Jim Lee]]

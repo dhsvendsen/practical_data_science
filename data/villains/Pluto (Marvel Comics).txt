@@ -1,8 +1,3 @@
-{{multiple issues|
- {{lead too short|date=January 2016}}
- {{primary sources|date=May 2018}}
-{{notability|date=June 2018}}
-}}
 {{Infobox comics character| <!--Part of Wikipedia:WikiProject Comics-->
 image=[[Image:Hades2.png|250px]]
 |caption=''Pluto'' by [[Erik Larsen]]
@@ -11,6 +6,7 @@ image=[[Image:Hades2.png|250px]]
 |publisher=[[Marvel Comics]]
 |debut=''[[Thor (Marvel Comics)|Thor]]'' volume 1 #127 (Apr 1966)
 |creators=Adapted from the mythological [[Hades]] by<br>[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
+|species=Olympian
 |alliances=[[Olympians (Marvel Comics)|Gods of Olympus]]<br>Death Gods
 |aliases=Hayden P. Hellman, Aidoneus, Mr. Pluto, Dis
 |powers=Superhuman strength, stamina and durability<br>High-level magical energies<br>Regenerative healing factor<br>Energy-draining touch<br>Invisibility via helmet<br>Immortality<br>Ability to command the spirits of the dead under his dominion
@@ -18,15 +14,15 @@ image=[[Image:Hades2.png|250px]]
 '''Pluto''' is a [[fiction]]al [[deity]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is based on the [[Pluto (mythology)|Greco-Roman god of the same name]].
 
 ==Publication history==
-{{expand section|date=July 2015}}
-Pluto first appeared in the pages of ''[[Thor (Marvel Comics)|Thor]]'' #127 in 1966 where he was adapted by [[Stan Lee]] and drawn by [[Jack Kirby]].
+
+Pluto first appeared in the pages of ''[[Thor (Marvel Comics)|Thor]]'' #127 in 1966 where he was adapted by [[Stan Lee]] and drawn by [[Jack Kirby]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=116}}</ref>
 
 ==Fictional character biography==
 Pluto is the Olympian god of the Underworld, death, and the dead, and is the Monarch of Hades. Much of the character's story parallels that of traditional [[Hades#Hades, the lord of the Underworld|Greek Myth]]. To wit, after defeating their father [[Cronus]], Pluto and his brothers Zeus and [[Neptune (Marvel Comics)|Neptune]] as well as his sisters [[Hera (Marvel Comics)|Hera]], [[Vesta (Marvel Comics)|Hestia]] and Demeter drew lots to divide Cronus' empire among them. Pluto gained control of the [[Hades#Hades the abode of the dead|Underworld]] as the judge of the dead. However, in the [[Marvel Universe]], Pluto is a scheming god that plans to overthrow Zeus, which no Greek Myth supports.
 
 His most infamous act is when he takes Zeus' and [[Demeter]]'s daughter, his niece [[Persephone]] (also known as Kore) as his wife against her will. This event goes on to cause him some dismal failures in the future; for instance the [[Avengers (comics)|Avengers]] once defeat him when Persephone issues an edict against him. He also became a major enemy of [[Hercules (Marvel Comics)|Hercules]], when the young Hercules captures Pluto's dog [[Cerberus (Marvel Comics)|Cerberus]] as one of his [[The Twelve Labours|Twelve Labours]].
 
-When worship of the Greek Gods dies out, Zeus forbids Pluto to take anymore souls into his underworld. He became bitter and begins a long history of plotting against his more powerful brother. After numerous failures, Zeus decrees that Pluto can only leave the Underworld if he finds someone willing to rule in his place. Pluto travels to Earth and disguises himself as Mr. Hellman, a movie producer, and invites Hercules to make a movie about himself. Hercules signs the contract into ruling the underworld unaware of that the contract actually binds him to serve as ruler of the Olympian Underworld in Pluto's place, as he believes the movie is about him conquering the Netherworld by defeating Pluto. [[Thor (Marvel Comics)|Thor]] learns of Pluto's deception and challenges him on Hercules' behalf. Pluto sends Thor into the Olympian Underworld where his goal is to defeat Pluto's minions. After witnessing Thor's remarkable progress which destroys much of the Underworld which Pluto has spent centuries building, Pluto becomes disgusted and destroys the contract, releasing Hercules.<ref>''Thor'' #127-130</ref> Pluto next invaded Earth with mutates from an alternate future. He clashed with Thor, and was thwarted by Zeus.<ref>''Thor'' #163-164</ref>
+When worship of the Greek Gods dies out, Zeus forbids Pluto to take anymore souls into his underworld. He became bitter and begins a long history of plotting against his more powerful brother. After numerous failures, Zeus decrees that Pluto can only leave the Underworld if he finds someone willing to rule in his place. Pluto travels to Earth and disguises himself as Mr. Hellman, a [[film producer]], and invites Hercules to make a film about himself.<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=90}}</ref> Hercules signs the contract into ruling the underworld unaware of that the contract actually binds him to serve as ruler of the Olympian Underworld in Pluto's place, as he believes the film is about him conquering the Netherworld by defeating Pluto. [[Thor (Marvel Comics)|Thor]] learns of Pluto's deception and challenges him on Hercules' behalf. Pluto sends Thor into the Olympian Underworld where his goal is to defeat Pluto's minions. After witnessing Thor's remarkable progress which destroys much of the Underworld which Pluto has spent centuries building, Pluto becomes disgusted and destroys the contract, releasing Hercules.<ref>''Thor'' #127-130</ref> Pluto next invaded Earth with mutates from an alternate future. He clashed with Thor, and was thwarted by Zeus.<ref>''Thor'' #163-164</ref>
 
 Pluto attempts to invade both [[Mount Olympus|Olympus]], home of the Greek Gods and [[Asgard (comics)|Asgard]], home of Thor and his fellow [[Asgardians (comics)|Asgardians]] on numerous occasions, each without success. Pluto forms an alliance with [[Ares (Marvel Comics)|Ares]], his nephew and Olympian God of War, and attempts to foment war between Olympus and Asgard, but is defeated in combat by Thor.<ref>''Thor'' #221-222</ref> Pluto eventually makes an alliance with other death gods and demons. He allies himself with Queen [[Hippolyta (Marvel Comics)|Hippolyte]], Queen of the Amazons, and Ares, who also believes that Zeus refusal to force the humans to worship them is a mistake. However Hippolyte only wants Hercules to be hers and has no interest in Pluto's desire to be worshipped by humanity again. Pluto attempts to sponsor the divorce of Hercules and [[Hebe (Marvel Comics)|Hebe]] to marry Hercules to Hippolyte as well as Ares to marry [[Venus (Marvel Comics)|Venus]].  According to Olympian law, Hercules and Venus are not allowed to fight their partners when Hippolyte and Ares assist Pluto in conquering Olympus. However, this plan was exposed by [[Ghost Rider (Johnny Blaze)|Ghost Rider]], and ultimately fails as Zeus, after some hesitation at first, finally forbids the unions.<ref>''Champions'' #1-4</ref>
 
@@ -60,7 +56,7 @@ Pluto possesses a helmet that renders him invisible and undetectable, even to fe
 
 ===Television===
 * Pluto appears in ''The Mighty Thor'' portion of ''[[The Marvel Super Heroes]]'' animated television series from the 1960s.{{Citation needed|date=November 2008}}
-* Pluto appear in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "The Tale of Hercules," voiced by [[Robert Englund]].<ref name="The Tale of Hercules">{{cite episode|title=The Tales of Hercules|series=Hulk and the Agents of S.M.A.S.H.|network=Disney XD|season=2|number=16|airdate=March 15, 2015}}</ref> He steals the Shield of Minerva in order to turn people to stone and is served by an army of Harpies and Minotaurs.
+* Pluto appear in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "The Tale of Hercules", voiced by [[Robert Englund]].<ref name="The Tale of Hercules">{{cite episode|title=The Tales of Hercules|series=Hulk and the Agents of S.M.A.S.H.|network=Disney XD|season=2|number=16|airdate=March 15, 2015}}</ref>He steals the Shield of Minerva from Hercules' vault in order to turn people to stone and is served by an army of Harpies and Minotaurs. In the battle against Hercules, he turns him to stone, but with the cunning of the [[Hulk]], he destroys the shield and is defeated, but retreats telling the Hulk that he will soon drag his soul into the underworld.
 
 ==References==
 {{reflist}}
@@ -80,7 +76,7 @@ Pluto possesses a helmet that renders him invisible and undetectable, even to fe
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1966]]
-[[Category:Fictional male deities]]
+[[Category:Fictional gods]]
 [[Category:Greco-Roman mythology in Marvel Comics]]
 [[Category:Greek and Roman deities in fiction]]
 [[Category:Marvel Comics supervillains]]
