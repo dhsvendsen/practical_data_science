@@ -1,4 +1,4 @@
-{{Infobox comics character
+{{Short description|Fictional character}}{{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Abigail Brand
 | image          = AbigailBrand.png
@@ -36,7 +36,7 @@ After her involvement in this plan became known to the [[X-Men]] and to then-S.H
 
 Despite the antagonistic relationship she and Fury demonstrated toward each other, she was considered a Fury loyalist by Fury's then-successor as S.H.I.E.L.D. director, [[Maria Hill]]. Brand made no effort to hide her dislike for Hill, and no further contact between the two has been shown.
 
-In a final attempt to draw Breakworld's forces away from the Earth, Brand had the X-Men (including Colossus), Ord, and Ord's ally [[Danger Room#Sentience revealed|Danger]] teleported aboard a S.W.O.R.D. starship and travel to the Breakworld itself. Ord, with the assistance of Danger, was able to contact his homeworld to alert them of Colossus' location, not knowing that this was all part of Brand's plan. Despite their past differences and Brand's continuing high-handed attitude, she attempted to work with the X-Men to find a solution to the crisis. However, Breakworld forces caught up with the S.W.O.R.D. vessel before Brand had predicted they would, forcing the X-Men and the S.W.O.R.D. strike team to use the ship's escape pods to finish their journey to the Breakworld. Once on the surface, Brand and [[Henry McCoy]] (Beast) teamed up and became separated from the other X-Men, at which point they were forced to take shelter in a small cave to avoid a device that was altering the weather to subfreezing temperatures. To McCoy's astonishment, Brand used some type of superhuman power to generate enough heat to keep them alive.
+In a final attempt to draw Breakworld's forces away from the Earth, Brand had the X-Men (including Colossus), Ord, and Ord's ally [[Danger Room#Sentience|Danger]] teleported aboard a S.W.O.R.D. starship and travel to the Breakworld itself. Ord, with the assistance of Danger, was able to contact his homeworld to alert them of Colossus' location, not knowing that this was all part of Brand's plan. Despite their past differences and Brand's continuing high-handed attitude, she attempted to work with the X-Men to find a solution to the crisis. However, Breakworld forces caught up with the S.W.O.R.D. vessel before Brand had predicted they would, forcing the X-Men and the S.W.O.R.D. strike team to use the ship's escape pods to finish their journey to the Breakworld. Once on the surface, Brand and [[Henry McCoy]] (Beast) teamed up and became separated from the other X-Men, at which point they were forced to take shelter in a small cave to avoid a device that was altering the weather to subfreezing temperatures. To McCoy's astonishment, Brand used some type of superhuman power to generate enough heat to keep them alive.
 
 After meeting back up with the rest of the X-Men, Brand, Beast, [[Wolverine (character)|Wolverine]], [[Armor (comics)|Armor]], [[Shadowcat]], and their new ally Danger were part of an assault on the Breakworld's [[doomsday device]] before it could be fired at the Earth. During the ensuing battle against Breakworld soldiers, Brand dove into the path of a laser blast meant for Beast. Severely wounded, she explained to Beast she did it since as a genius he had the greatest chance for disarming the weapon. Her last words to Beast before passing out were to "save the damn world already."
 
@@ -89,7 +89,7 @@ An alternate version of Abigail Brand appears in the [[Ultimate Marvel]] univers
 
 ===Motion comics===
 * Abigail Brand appears in the motion comic ''[[Spider-Woman (2009 series)|Spider-Woman, Agent of S.W.O.R.D.]]'', voiced by Stephanie K. Thomas.<ref name="btva"/> It is based on the comic book limited series written by Brian Michael Bendis and drawn by Alex Maleev. Brand recruits Spider-Woman to join S.W.O.R.D. for a mission in [[Madripoor]] where she takes on a [[Skrull]] posing as [[Spider-Man]].
-* Abigail Brand appears in the ''[[Astonishing X-Men#Motion comics|Astonishing X-Men]]'' motion comic, voiced by [[Shannon Conley]] and later [[Rebecca Shoichet]].<ref>{{cite web|url=http://shannonconley.com/actor|title=Actor <nowiki>|</nowiki> Shannon Conley |website=shannonconley.com|access-date=October 9, 2017}}</ref><ref name="btva"/>
+* Abigail Brand appears in the ''[[Astonishing X-Men#Motion comics|Astonishing X-Men]]'' motion comic, voiced by [[Shannon Conley]] and later [[Rebecca Shoichet]].<ref>{{cite web|url=http://shannonconley.com/actor|title=Actor <nowiki>|</nowiki> Shannon Conley|website=shannonconley.com|access-date=October 9, 2017}}{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name="btva"/>
 
 ==References==
 {{reflist}}
@@ -103,8 +103,8 @@ An alternate version of Abigail Brand appears in the [[Ultimate Marvel]] univers
 {{DEFAULTSORT:Brand, Abigail}}
 [[Category:Characters created by Joss Whedon]]
 [[Category:Comics characters introduced in 2004]]
-[[Category:Female characters in comics]]
 [[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional extraterrestrial–human hybrids]]
 [[Category:Fictional secret agents and spies]]
 [[Category:Fictional special forces personnel]]
 [[Category:Marvel Comics aliens]]

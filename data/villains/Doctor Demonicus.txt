@@ -1,3 +1,4 @@
+{{Short description|Fictional character appearing in American comic books}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image=[[File:Dr. demonicus.jpg|249px|]]
 |caption=Dr. Demonicus makes his first cover appearance. From ''Shogun Warriors'' #14.|character_name=Doctor Demonicus
@@ -43,7 +44,7 @@ Doctor Demonicus is a genius with a Ph.D. in genetics and has an advanced knowle
 
 {{DEFAULTSORT:Demonicus}}
 [[Category:Comics characters introduced in 1977]]
-[[Category:Fictional characters from Los Angeles County]]
+[[Category:Fictional characters from Los Angeles County, California]]
 [[Category:Fictional physicians]]
 [[Category:Fictional scientists]]
 [[Category:Marvel Comics supervillains]]

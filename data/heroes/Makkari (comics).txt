@@ -25,7 +25,7 @@ Originally, Makkari was a character in [[Jack Kirby]]'s ''[[Eternals (comics)|Th
 
 Hurricane reappears as a member of the [[Monster Hunters]] in ''Marvel Universe'' #4 (September 1998),<ref>''Marvel Universe'' #4 (September 1998)</ref> in a story set in the 1950s. By the end of this three-issue story, it turns out the monsters they are hunting are actually [[Deviant (comics)|Deviants]] and Hurricane is [[retcon|revealed]] to be Makkari.<ref>''Marvel Universe'' #7 (December 1998)</ref>
 
-Marvel Comics continuity was later [[retcon]]ned so that the character presented as the [[mythological]] [[god (male deity)|god]] [[Mercury (mythology)|Mercury]], introduced as a Marvel protagonist in ''[[Red Raven Comics]]'' #1 (August 1940), was, in fact, Makkari.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/178 |access-date=8 April 2020 |page=179}}</ref> Mercury was only seen in that one story, in which he worked to thwart the machinations of [[Pluto (mythology)|Pluto]].<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=179}}</ref>
+Marvel Comics continuity was later [[retcon]]ned so that the character presented as the [[mythological]] [[god (male deity)|god]] [[Mercury (mythology)|Mercury]], introduced in ''[[Red Raven Comics]]'' #1 (August 1940), was, in fact, Makkari.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/178 |access-date=8 April 2020 |page=179}}</ref> Mercury was only seen in that one story, in which he worked to thwart the machinations of [[Pluto (mythology)|Pluto]].<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=179}}</ref>
 
 Makkari is featured as one of the main character in the Marvel [[Limited series (comics)|limited series]] ''Eternals'', written by [[Neil Gaiman]] and penciled by artist [[John Romita Jr.]]
 
@@ -59,7 +59,7 @@ Makkari has great mechanical aptitude, and the ability to pilot most land and ai
 * Makkari appears in ''Marvel Knights: Eternals'', voiced by [[Sebastian Spence]].<ref name="btva">{{cite web|url=https://www.behindthevoiceactors.com/tv-shows/Eternals/Mark-Curry/| title=Voice Of  Mark Curry - Eternals|website=Behind The Voice Actors|access-date=July 22, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref>
 
 ===Film===
-* [[Lauren Ridloff]] will portray Makkari in the live-action ''[[The Eternals (film)|The Eternals]]'', making this version of the character a woman of color, as well as deaf.<ref>{{cite web|url=https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|title=‘The Eternals’ Details Unveiled At Marvel’s Comic-Con Panel, Angelina Jolie Surprises Hall H; Pic To Open November 2020|last1=D'Alessandro|first1=Anthony|last2=Ramos|first2=Dino-Ray|website=[[Deadline Hollywood|Deadline]]|date=July 21, 2019|archive-url=https://web.archive.org/web/20190722033323/https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|archive-date=July 22, 2019|url-status=live}}</ref>
+* [[Lauren Ridloff]] will portray Makkari in the live-action ''[[Eternals (film)|Eternals]]'', making this version of the character a woman of color, as well as deaf.<ref>{{cite web|url=https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|title=‘The Eternals’ Details Unveiled At Marvel’s Comic-Con Panel, Angelina Jolie Surprises Hall H; Pic To Open November 2020|last1=D'Alessandro|first1=Anthony|last2=Ramos|first2=Dino-Ray|website=[[Deadline Hollywood|Deadline]]|date=July 21, 2019|archive-url=https://web.archive.org/web/20190722033323/https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|archive-date=July 22, 2019|url-status=live}}</ref>
 
 ==Citations==
 {{Reflist}}
@@ -77,14 +77,14 @@ Makkari has great mechanical aptitude, and the ability to pilot most land and ai
 {{Jack Kirby}}
 
 {{DEFAULTSORT:Makkari (Comics)}}
+[[Category:Characters created by Jack Kirby]]
 [[Category:Comics characters introduced in 1940]]
 [[Category:Comics characters introduced in 1941]]
 [[Category:Comics characters introduced in 1976]]
-[[Category:Characters created by Jack Kirby]]
+[[Category:Eternals]]
 [[Category:Golden Age superheroes]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:Marvel Comics characters with superhuman strength]]
-[[Category:Eternals]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Timely Comics characters]]

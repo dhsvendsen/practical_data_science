@@ -1,3 +1,4 @@
+{{Short description|Comic book character}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image= Puppet Master comic.jpg
 |caption='''Puppet Master'''
@@ -39,7 +40,7 @@ He was once thought to have been killed when he fell out of the window of a fair
 
 The jealous Puppet Master often uses his clay to manipulate the lives of the Fantastic Four, especially where his stepdaughter was concerned. He is particularly concerned with guarding his precious Alicia from marrying the likes of the Thing.{{Issue|date=April 2009}} But he is later just as outraged when she is engaged to [[Human Torch|Johnny Storm]], also a member of the Fantastic Four.{{Issue|date=April 2009}}
 
-With the Thinker and the [[Wizard (Marvel Comics)|Wizard]], Masters attempts to disrupt the wedding of the Human Torch and Alicia. The plan was to launch an attack on the church after the wedding ceremony, but when he sees how happy Alicia is to marry Johnny, Masters is overcome with remorse and turns on his associates, launching the [[Dragon Man]] against them: his wedding gift to Alicia and Johnny.<ref>''Fantastic Four'' #300</ref>
+With the Thinker and the [[Wizard (Marvel Comics)|Wizard]], Masters attempts to disrupt the wedding of the Human Torch and Alicia. The plan was to launch an attack on the church after the wedding ceremony, but when he sees how happy Alicia is to marry Johnny, Masters is overcome with remorse and turns on his associates, launching the [[Dragon Man (comics)|Dragon Man]] against them: his wedding gift to Alicia and Johnny.<ref>''Fantastic Four'' #300</ref>
 
 Later, Masters is reformed, remarried, and has a stepson; the toys he crafts for his son inadvertently caused a battle between [[Power Pack]] and the alien Ciegramites.<ref>''Power Pack'' #60</ref> He reveals to the Thing that he had discovered that the Alicia Johnny had married was actually a [[Lyja|Skrull]].<ref>''Fantastic Four'' #357</ref>
 
@@ -96,3 +97,4 @@ In August 2009, ''[[Time (magazine)|TIME]]'' listed the Puppet Master as one of 
 [[Category:Fictional scientists]]
 [[Category:Fictional sculptors]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Transians]]

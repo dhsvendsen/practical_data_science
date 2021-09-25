@@ -1,18 +1,17 @@
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
-|image= Toro (Thomas Raymond).jpg
-|caption= {{Descript-inner-art|The Torch|1|1|November, 2009|art=Patrick Berkenkotter|pub=Marvel}}
-|character_name=Toro
-|real_name=Thomas Raymond
-|species=[[Inhumans]]
-|publisher=[[Timely Comics]], [[Atlas Comics]], [[Marvel Comics]]
-|debut=''Human Torch Comics'' #2 (Fall 1940)
-|creators=[[Carl Burgos]] (writer / artist)
-|alliances=[[Invaders (comics)|The Invaders]]<br/>[[Kid Commandos]]<br/>[[Young Allies]]<br/>[[All-Winners Squad]]<br/>[[Legion of the Unliving]]
-|partners=[[Human Torch (android)|Human Torch]]
-|aliases=The Flaming Kid, [[Human Torch (android)|Human Torch]]
-|powers=Fire manipulation and resistance<br>Flight 
+|image          = Toro (Thomas Raymond).jpg
+|caption        = Patrick Berkenkotter's interior artwork from<br>''The Torch'' #1 (November 2009)
+|character_name = Toro
+|real_name      = Thomas Raymond
+|species        = [[Inhumans]]
+|publisher      = [[Timely Comics]], [[Atlas Comics (1950s)|Atlas Comics]], [[Marvel Comics]]
+|debut          = ''Human Torch Comics'' #2 (Fall 1940)
+|creators       = [[Carl Burgos]] (writer / artist)
+|alliances      = [[Invaders (comics)|The Invaders]]<br/>[[Kid Commandos]]<br/>[[Young Allies]]<br/>[[All-Winners Squad]]<br/>[[Legion of the Unliving]]
+|partners       = [[Human Torch (android)|Human Torch]]
+|aliases        = The Flaming Kid, [[Human Torch (android)|Human Torch]]
+|powers         = Fire manipulation and resistance<br>Flight 
 }}
-
 '''Toro''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The first Toro was originally featured in [[Timely Comics]] and later published as a Marvel Comics superhero who appeared as the partner of the original [[Human Torch (android)|Human Torch]].
 
 ==Publication history==
@@ -41,14 +40,14 @@ Thomas "Toro" Raymond is the protagonist of the 2009 miniseries ''The Torch''. S
 
 When the Torch is being forced to destroy a small European village, Toro attempts to escape. While he was still unable to completely activate his powers, he does manage to break the device they had been using to control the Torch. The Torch returns to kill and maim everyone who tried to control him, and Tom's powers are completely activated in the resulting fire.<ref>''The Torch'' #3</ref> Tom loses sight of the Torch in the melee, and flies to New York City in the hopes of finding him. There he contacts the [[Fantastic Four]]. [[Mister Fantastic|Reed Richards]] confirms that the Mad Thinker was telling the truth about his powers.<ref name="The Torch #4">''The Torch'' #4</ref>
 
-Following the ''[[Infinity (comic book)|Infinity]]'' story, when [[Terrigen Mist]]s were [[Inhumanity (comics)|scattered around the world]], Toro was subjected to Terrigenesis and engulfed in a coccoon. Being unknowingly an [[Inhumans|Inhuman]] descendant, it was now theorized that Toro's powers found their origin in his recessive Inhuman genes.<ref>''All-New Invaders" #8 (2014)</ref>
+Following the ''[[Infinity (comic book)|Infinity]]'' story, when [[Terrigen Mist]]s were [[Inhumanity (comics)|scattered around the world]], Toro was subjected to Terrigenesis and engulfed in a cocoon. Being unknowingly an [[Inhumans|Inhuman]] descendant, it was now theorized that Toro's powers found their origin in his recessive Inhuman genes.<ref>''All-New Invaders" #8 (2014). Marvel Comics.</ref>
 
-After America is conquered by Hydra during the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Toro and Jim Hammond seek help and sanctuary in Namor's realm. However, Namor had been promised Atlantis would be left alone if they cooperated and thus imprisons Toro and Hammond in order to turn them over to Hydra.<ref>''Secret Empire: Brave New World'' #1 (2017)</ref>
+After America is conquered by Hydra during the 2017 "[[Secret Empire (comics)|Secret Empire]]" storyline, Toro and Jim Hammond seek help and sanctuary in Namor's realm. However, Namor had been promised Atlantis would be left alone if they cooperated and thus imprisons Toro and Hammond in order to turn them over to Hydra.<ref>''Secret Empire: Brave New World'' #1 (2017). Marvel Comics.</ref>
 
 ===Benito Serrano===
-A new Toro appears as a member of the [[Young Allies (Marvel Comics)|Young Allies]]. This Toro is Benito Serrano (the same identity as the Toro from Counter-Earth), but is from the "normal" Earth-616 Marvel Universe.<ref>''Young Allies'' Vol. 2 #1 (Aug. 2010)</ref>
+A new Toro appears as a member of the [[Young Allies (Marvel Comics)|Young Allies]]. This Toro is Benito Serrano (the same identity as the Toro from Counter-Earth), but is from the "normal" Earth-616 Marvel Universe.<ref>''Young Allies'' Vol. 2 #1 (Aug. 2010). Marvel Comics.</ref>
 
-During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Toro appears as a member of the Underground when Hydra took over the United States.<ref>''Occupy Avengers'' #9</ref>
+During the "Secret Empire" storyline, Toro appears as a member of the Underground when Hydra took over the United States.<ref>''Occupy Avengers'' #9. Marvel Comics.</ref>
 
 ==Powers and abilities==
 Toro has superhuman abilities which are similar to those of the Human Torch (the ability to fly and burst into flames, as well as flame resistance). These were originally thought to be caused by his parents' exposure to radiation prior to his conception, making Toro a genetic [[Mutant (Marvel Comics)|mutant]]. Investigation by the Mad Thinker reveals that the similarity is because his nervous system has incorporated artificial power cells, exactly the same kind of power cells that power the original Human Torch.<ref>''The Torch'' #1–3</ref> Reed Richards confirmed that these cells interfered with the natural expression of his mutant powers, causing him to mimic the Human Torch.<ref name="The Torch #4"/> Toro's metabolism is enhanced when he activates his flame powers, once recovering from heart surgery within a few minutes,<ref>''Invaders'' #26</ref> and once healing extensive damage inflicted by the Mad Thinker's experiments to the point that open wounds healed and scarred over in the time it took him to fly from the North Atlantic Ocean to New York City.<ref name="The Torch #4"/>
@@ -56,12 +55,11 @@ Toro has superhuman abilities which are similar to those of the Human Torch (the
 The second Toro has the power to change himself into a superhuman form with bull-like horns and skin, greater physical mass, superhuman strength and the ability to leap far distances.
 
 ==Other versions==
-===Counter-Earth===
 Before an Earth-616 counterpart appeared in the second ''Young Allies'' series, the Toro of [[Counter-Earth (comics)|Counter-Earth]] is called Benito Serrano. He is a member of the Young Allies of Counter-Earth, who can transform into a super-strong [[Minotaur]]-like humanoid (''toro'' means "bull" in Italian and in Spanish).<ref>''Heroes Reborn: Young Allies'' #1</ref>
 
 ==In other media==
-* The Thomas Raymond incarnation of Toro appears in ''[[The Super Hero Squad Show]]'' animated television series episode "World War Witch", voiced by [[Tara Strong]].{{cn|date=February 2021}} This version a member of the [[Invaders (comics)|Invaders]].
-* Benito Serrano appears in the animated film ''[[Hulk: Where Monsters Dwell]]'', with Serrano voiced by [[Michael Robles]] and his monstrous form's vocal effects provided by [[Edward Bosco]].{{cn|date=November 2016}} He suffered recurring nightmares about being chased through a labyrinth by a [[Minotaur (comics)|Minotaur]], which the extra-dimensional being [[Nightmare (Marvel Comics)|Nightmare]] exploited in order to turn Serrano into an anchor to help him enter the mortal world, which resulted in Serrano being turned into an actual Minotaur. While the [[Hulk]] and [[Doctor Strange]] helped break Serrano out of his nightmare, his astral form was compromised, leaving him trapped in his monstrous form. Hoping to use his newfound strength to protect people, Serrano joined the [[Nick Fury's Howling Commandos|Howling Commandos]] while waiting for Strange to find a way to restore his normal form.
+* The Thomas Raymond incarnation of Toro appears in ''[[The Super Hero Squad Show]]'' animated television series episode "World War Witch", voiced by [[Tara Strong]].{{cn|date=February 2021}} This version is a member of the [[Invaders (comics)|Invaders]].
+* Benito Serrano appears in the animated film ''[[Hulk: Where Monsters Dwell]]'', with Serrano voiced by [[Michael Robles]] and his monstrous form's vocal effects provided by [[Edward Bosco]].{{cn|date=November 2016}} He suffers recurring nightmares about being chased through a labyrinth by a [[Minotaur (comics)|Minotaur]], which the extra-dimensional being [[Nightmare (Marvel Comics)|Nightmare]] exploits in order to turn Serrano into an anchor to help him enter the mortal world, which results in Serrano being turned into an actual Minotaur. While the [[Hulk]] and [[Doctor Strange]] help break Serrano out of his nightmare, his astral form was compromised, leaving him trapped in his monstrous form. Hoping to use his newfound strength to protect people, Serrano joins the [[Nick Fury's Howling Commandos|Howling Commandos]] while waiting for Strange to find a way to restore his normal form.
 
 ==References==
 {{reflist}}

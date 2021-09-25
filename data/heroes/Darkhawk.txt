@@ -8,7 +8,7 @@
 |publisher=[[Marvel Comics]]
 |debut = ''Dark<!--See talk page before changing this-->hawk'' #1 (Mar. 1991)
 |creators=[[Tom DeFalco]] (writer)<br>[[Mike Manley (artist)|Mike Manley]] (artist)
-|alliances=[[Loners (comics)|Loners]]<br>[[New Warriors]]<br>[[Project Pegasus]]<br>[[Secret Defenders]]<br>[[West Coast Avengers]]<br>The Fraternity of Raptors
+|alliances=[[Loners (comics)|Loners]]<br>[[New Warriors]]<br>[[Features of the Marvel Universe#Project_Pegasus|Project Pegasus]]<br>[[Secret Defenders]]<br>[[West Coast Avengers]]<br>The Fraternity of Raptors
 |aliases=The Powell, Falconer, Edge-Man
 |powers= Energy blasts<br>Energy shield<br>Stargate creation<br>Teleportation<br>Mysticism<br>FTL flight<br>Night vision<br>Claw cable<br>Accelerated healing factor<br>Superhuman strength, speed, reflexes, stamina, agility, senses<br>Adaptive metamorphosis<br>Size alteration<br>Weapon formation
 |cat=super
@@ -38,7 +38,7 @@ Darkhawk occasionally worked with the [[New Warriors]] and was a provisional mem
 
 However, the events of ''War of Kings: Ascension'' cast doubt on how much of this—even the existence of Bokk himself—was real.<ref>''War of Kings: Ascension'' #3 (w)Dan Abnett & Andy Lanning (p)Marvel Comics</ref>
 
-Later, Powell and Darkhawk were split into two separate beings, each with Powell's memories.<ref>''Darkhawk'' #38</ref> The Darkhawk body was then transformed into a new shape when it accidentally downloaded data from the ship,<ref>''Darkhawk'' #38–39</ref> later re-merging so that Powell could change back and forth between the two without teleporting to Null Space.<ref>''Darkhawk'' #50. Marvel Comics.</ref>
+Later, Powell and Darkhawk were split into two separate beings, each with Powell's memories.<ref>''Darkhawk'' #38</ref> The Darkhawk body was then transformed into a new shape when it accidentally downloaded data from the ship,<ref>''Darkhawk'' #38–39</ref> later re-emerging so that Powell could change back and forth between the two without teleporting to Null Space.<ref>''Darkhawk'' #50. Marvel Comics.</ref>
 
 ===Excelsior (the Loners)===
 Powell later joined a group of former teenage superheroes who were struggling with their current lot in life called the [[Loners (comics)|Loners]] (formerly known as [[Excelsior (comics)|Excelsior]]). Members of this group included [[Phil Urich]] (a former Green Goblin), [[Turbo (comics)|Turbo]] from the [[New Warriors]], [[Julie Power|Lightspeed]] from [[Power Pack]], and [[Ricochet (comics)|Ricochet]] from the [[Slingers (Marvel Comics)|Slingers]]. The group was hired by a mysterious benefactor – later revealed to be former Avengers sidekick and [[Captain Marvel (Marvel Comics)|Captain Marvel]] and [[Hulk]] partner [[Rick Jones (comics)|Rick Jones]] – to track down the [[Runaways (comics)|Runaways]] in Los Angeles.<ref>''Runaways'' Vol. 2 #1–6. Marvel Comics.</ref>
@@ -48,7 +48,7 @@ Powell displayed trouble controlling his anger in his Darkhawk persona, leading 
 Excelsior eventually change their minds about being superheroes and instead become a 'superhero support group' due to the events of the superhuman [[Civil War (comics)|Civil War]] rendering moot their original purpose to dissuade and/or help young superheroes cope with their powers/superhuman identities, as this role was now being officially fulfilled by the U.S. government<ref>As detailed in the Marvel Comics series ''Avengers: The Initiative''. Marvel Comics.</ref> (though Excelsior's new group mission was also fulfilled by the U.S. government). However, a new addition to the group, [[Spider-Woman (Mattie Franklin)|Mattie Franklin]] convinces Powell to use his powers in order to help her take down the [[Mutant Growth Hormone|MGH]] dealers that moved to Los Angeles. Powell inconsistently displays his rage issues during this time, mostly acting as a peacemaker between Mattie and [[Ricochet (comics)|Ricochet]] after the three team up to battle crime.<ref>''Loners'' #1–2. Marvel Comics.</ref>
 
 ===Secret Invasion===
-Deciding to register with the government, Darkhawk is assigned to the position of Security Chief at [[Project Pegasus|Project P.E.G.A.S.U.S.]]. During the [[Skrull]] [[Secret Invasion|invasion]], he teams up with his old team-mate [[Nova (Richard Rider)|Nova]]<ref>''Nova'' #17–18. Marvel Comics.</ref> for two issues of that character's own title, but is also seen in the background of several issues thereafter.
+Deciding to register with the government, Darkhawk is assigned to the position of Security Chief at [[Features of the Marvel Universe#Project_Pegasus|Project P.E.G.A.S.U.S.]]. During the [[Skrull]] [[Secret Invasion|invasion]], he teams up with his old team-mate [[Nova (Richard Rider)|Nova]]<ref>''Nova'' #17–18. Marvel Comics.</ref> for two issues of that character's own title, but is also seen in the background of several issues thereafter.
 
 ===''War of Kings''===
 Darkhawk is involved with the ''[[War of Kings]]'' event in a four-issue series written by [[Dan Abnett]] and [[Andy Lanning]] called ''War Of Kings: Ascension''.<ref>{{Cite web|url=https://www.newsarama.com/2144-updated-nycc-09-marvel-s-war-of-kings-full-report.html|title=UPDATED: NYCC '09 - Marvel's 'War of Kings' FULL Report|website=Newsarama|language=en|access-date=2019-12-25}}</ref> With the Loners series ending with low sales and unlikely to be followed with a sequel series, series writer CB Cebulski was assigned to write a two-issue ''War of Kings: Darkhawk'' series, with Dan Abnett and Andy Lanning co-scripting the second issue to ensure it tied into their own 'Ascension' series.<ref>[http://www.marvel.com/catalog/?id=11024]</ref><ref>[http://www.marvel.com/catalog/?id=11241]</ref>
@@ -175,8 +175,10 @@ Darkhawk made non-voiced cameo appearances in the ''[[Fantastic Four (1994 TV se
 * {{comicbookdb|type=character|id=2355|title=Darkhawk}}
 
 {{Defenders}}
+{{Avengers characters}}
 {{Marvel Cosmic}}
 
+[[Category:Avengers (comics) characters]]
 [[Category:Characters created by Tom DeFalco]]
 [[Category:Comics characters introduced in 1991]]
 [[Category:Fictional characters from New York City]]

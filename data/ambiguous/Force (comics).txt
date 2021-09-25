@@ -14,7 +14,7 @@
 '''Force''' (born '''Clayton "Clay" Wilson''', legally changed to '''Carl Walker''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''Prince Namor, the Savage Sub-Mariner'' #67 (Nov. 1972) and was created by [[Steve Gerber]] and [[Don Heck]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=133}}</ref>
 
 ==Fictional character biography==
-'''Clayton Wilson''' is a graduate student at [[Empire State University]] working as a research assistant to [[scientist]] Dr. Damon Walters, who develops a prototype device for creating a protective [[force shield|force field]]. Wilson steals the prototype force field generator, creates a battle-suit that incorporates it, and adopts the alias "Force". The character then goes on a [[Running amok|rampage]] through [[New York City]] until he was defeated by hero [[Namor|Namor the Sub-Mariner]].<ref>''Prince Namor, the Sub-Mariner'' #67 - 68 (Nov. - Jan. 1972 - 1973)</ref>
+'''Clayton Wilson''' is a graduate student at Empire State University working as a research assistant to [[scientist]] Dr. Damon Walters, who develops a prototype device for creating a protective [[force shield|force field]]. Wilson steals the prototype force field generator, creates a battle-suit that incorporates it, and adopts the alias "Force". The character then goes on a [[Running amok|rampage]] through [[New York City]] until he was defeated by hero [[Namor|Namor the Sub-Mariner]].<ref>''Prince Namor, the Sub-Mariner'' #67 - 68 (Nov. - Jan. 1972 - 1973)</ref>
 
 Force retreats and appears in the title ''[[Iron Man (comic book)|Iron Man]]'', having become a professional criminal, working for crime boss [[Justin Hammer]] in exchange for modifications to his suit. Force and a group of mercenaries hijack the yacht of industrialist Tony Stark (the [[alter ego]] of Iron Man) and take several [[hostage]]s. Iron Man, however, tracks the yacht, defeats Force and his men and rescues the hostages.<ref>''Iron Man'' #140 - 141 (Nov. - Dec. 1980)</ref>
 
@@ -39,13 +39,11 @@ Clayton Wilson designed and used a powered battle-suit incorporating the force f
 * {{Marvelwiki|Force|Force}}
 
 {{Iron Man}}
-
 {{Steve Gerber}}
 
 [[Category:Characters created by Don Heck]]
 [[Category:Characters created by Steve Gerber]]
 [[Category:Comics characters introduced in 1972]]
-
 [[Category:Fictional scientists]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

@@ -1,0 +1,182 @@
+{{Infobox comics organization|team_name=The Union|image=The Union.jpg|creators=Paul Grist (Writer) 
+Andrea Di Vito (Art) 
+R.B Silva (Character Design)|caption=Promotional Art for The Union #1, art by Andrea Di Vito featuring: The Choir, Kelpie, Britannia, Union Jack & Snakes (Left to Right)|publisher=[[Marvel Comics]]|debut=The Union #1|members=[[Union Jack (Joseph Chapman)|Union Jack]] (Joe Chapman)<br>
+Kelpie <br>
+The Choir (Ruth) <br>
+Snakes<br>|debutyr=2020|organisation=Leaders|organization=Members|owners=Britannia (Tanya)|debuthead=}}
+
+'''The Union''' is a fictional [[United Kingdom|UK]] [[superhero]] team that appear in [[Comic book|comic books]] published by Marvel.<ref>{{cite web|accessdate=2020-06-08|title='The Union' Introduces New Superteam to Marvel's Comic Book Universe This May|url=https://www.hollywoodreporter.com/heat-vision/union-introduces-new-superteam-marvels-comic-book-universe-may-1280051|website=The Hollywood Reporter}}</ref>
+
+The Union has both old and new superheroes within it, including British hero [[Union Jack (Joseph Chapman)|Union Jack]] and a major new character Britannia who leads the new team in its fight against the enemies they encounter.
+
+The Union appears in the crossover event called ''[[King in Black]]'' alongside other well known comic book heroes and teams, as well as facing off against known foes and new foes not yet fought by any Marvel superhero or team.
+
+==Characters==
+The Union was formed after discovering that an intergalactic invasion threatened to destroy the galaxy. The superhero team consists of five members; four of them representing the nations of the UK, and the fifth representing the UK as a whole.<ref name="cbr">{{Cite web|last=Adams|first=Tim|date=February 14, 2020|title=Marvel Introduces The Union, The UK's Brand-New Superhero Team|url=https://www.cbr.com/marvel-comics-the-union-united-kingdom-superhero-team/|url-status=live|archive-url=|archive-date=|access-date=|website=Comic Book Resources}}</ref>
+
+'''Britannia''' 
+
+Britannia is the leader and represents the [[United Kingdom|UK]] superhero team. She is a powerful warrior with long black hair, and she is dressed in a shining rich dark and light contrasting blue outfit, a regal red cloak and she wields a sword and a lion shield.
+
+'''Kelpie''' 
+
+Kelpie represents [[Scotland]] in the superhero team. She is a powerful warrior with pink hair, with a pale light and dark contrasting blue outfit and has the power to control the ocean.
+
+'''The Choir'''
+
+The Choir represents [[Wales]] in the superhero team, She has black hair with a bright green strip across the top, and she is dressed in a glowing green and black contrasting outfit with a blue cloak and she wields a dagger. Her power lies within her voice, using it to attack opponents.
+
+'''Snakes'''
+
+Snakes represent [[Northern Ireland|N.Ireland]] in the superhero team. He is dressed in an ash and light grey contrasting tunic with his face covered, light grey trousers, black gloves and a black belt. He appears to communicate telepathically.
+
+'''[[Union Jack (Joseph Chapman)|Union Jack]]'''
+
+Union Jack represents [[England]] in the superhero team. He wears a shiny black mask that covers his face, and a glimmering Union Jack top and shiny black trousers and he wields a pistol. He is only pre-existing character, being the latest man to bear the name of a character who first appeared in ''[[Invaders (comics)|The Invaders #7]]'' and has since had two solo mini series.<ref>{{Cite web|title=Union Jack|url=http://www.toonopedia.com/ujack.htm|last=Markstein’s|first=Don|date=2 April 2020|website=Toonpedia|url-status=live|archive-url=|archive-date=|access-date=}}</ref>
+
+== Membership ==
+There were five original team members, and further members have since joined and the structure of the team has changed.<ref>{{cite web|title='The Union' Introduces New Superteam to Marvel's Comic Book Universe This May|url=https://www.hollywoodreporter.com/heat-vision/union-introduces-new-superteam-marvels-comic-book-universe-may-1280051|website=The Hollywood Reporter|accessdate=2020-06-08}}</ref>
+{| class="wikitable"
+! colspan="3" |Original Members
+|-
+!Character Name
+!Joined in
+!Notes
+|-
+|Britannia
+| rowspan="5" |The Union #1
+|Previous leader and member that represented the UK
+|-
+|Union Jack
+|Current leader and represents England
+|-
+|Kelpie
+|Represents Scotland
+|-
+|The Choir
+|Represents Wales
+|-
+|Snakes
+|Represents Northern Ireland
+|-
+! colspan="3" |New Members
+|-
+|Bulldog
+|The Union #3
+|The Bulldog is the newest member of The Union, and was introduced in The Union #3 <ref>{{Cite web|last=Corley|first=Shaun|date=May 14, 2021|title=Marvel's British Wolverine Just Endured a Humiliating Fastball Special|url=https://screenrant.com/bulldog-union-british-wolverine-fastball-special-snakes-kick/|url-status=live|website=[[Screen Rant]]}}</ref>
+|}
+
+{| class="wikitable"
+! colspan="6" |The Union membership roster
+|-
+!Member
+!1
+!2
+!3
+!4
+!5
+|-
+|Britannia 
+|Y
+|N
+|N
+|N
+|Y<ref>{{Cite web|last=Isaak|first=Joshua|date=May 16, 2021|title=Marvel Reveals a Horrifying Alternative To Infinity Stones|url=https://screenrant.com/union-infinity-stones-horrifying-alternative-marvel-comics/|url-status=live|website=[[Screen Rant]]|quote=<blockquote>but in The Union #5 he is eventually stopped through the combined efforts of Union Jack and the spirit of Britannia.</blockquote>}}</ref>
+|-
+|The Union
+|Y
+|Y
+|Y
+|Y
+|Y
+|-
+|Kelpie
+|Y
+|Y
+|Y
+|Y
+|Y
+|-
+|The Choir
+|Y
+|Y
+|Y
+|N<ref>(see supporting characters - Enemies)</ref>
+|Y
+|-
+|Snakes
+|Y
+|Y
+|Y
+|Y
+|Y
+|-
+|Bulldog
+|N
+|N
+|Y
+|Y
+|Y
+|}
+
+==Supporting characters==
+
+=== Allies ===
+There are a series of allies that the UK superhero team have fought alongside against Intergalactic threats.
+
+*Selwlyn James (Government Minister with special responsibility for super heroes) (introduced in The Union #3)<ref>{{Cite web|last=King|first=Samantha|date=March 28, 2021|title=Marvel's The Union Introduces New British Supervillains|url=https://www.screenrant.com/union-british-supervillains-marvel-comics|url-status=live|website=[[Screen Rant]]}}</ref>
+*Steve Darwin (introduced in The Union #2)
+
+=== Enemies ===
+* Symbiote God [[Knull (character)|Knull]]
+*King in Black
+*Doc Croc (Croker Dyle) 
+*The Sponge
+*Skreem (The Choir) (supervillain / superhero) (introduced in The Union #1) (first full appearance in The Union #4)
+*Volcanna (introduced in The Union #4)
+*Lady Shimmering Lights (introduced in The Union #4)
+*Craig (introduced in The Union #4)
+Other 
+
+=== Races and species (featured) ===
+
+* [[Human]]s
+* [[Klyntar]]
+* [[Dragon]]s (mentioned)
+* [[Symbiote (comics)|Symbiotes]]
+* [[Demon]]s
+* [[Entertainment robot|Dogs (Robot)]]
+
+==Series==
+{| class="wikitable"
+!Issue No.
+!Release
+|-
+|The Union #1
+|{{dts|2020-12-2}}
+|-
+|The Union #2
+|{{dts|2021-1-13}}
+|-
+|The Union #3
+|February 24, 2021
+|-
+|The Union #4
+|March 31, 2021
+|-
+|The Union #5
+|May 5, 2021
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvel.com Marvel]
+
+{{DEFAULTSORT:Union (Marvel Superhero Team), The}}
+
+[[Category:Marvel Comics superhero teams]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United Kingdom-themed superheroes]]
+[[Category:British superheroes]]

@@ -1,7 +1,10 @@
+<!-- BEGIN CFD TEMPLATE -->
+<!-- Please do not remove or change this [[Template:Cfd]] message until the survey and discussion at [[WP:Cfd]] is closed -->
+{{Cfd full|day=13|month=September|year=2021|startmonth=September|startyear=2021|1=|type=deletion }}<!-- End of Cfd message, feel free to edit beyond this point. -->
+<!-- END CFD TEMPLATE -->
 {{category explanation|'''female [[superhero]]es''', also referred to as superheroines, owned and created by [[Marvel Comics]]}}
 {{CatAutoTOC}}
 
 [[Category:Marvel Comics female characters|Heroes]]
 [[Category:Marvel Comics superheroes|-Female]]
-[[Category:Female characters in comics]]
 [[Category:Female superheroes]]

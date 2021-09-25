@@ -1,7 +1,13 @@
+{{For|the DC Comics character|Gemini (DC Comics)}}
+
 '''Gemini''' is the name of different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
+{{Infobox comics character|character_name=Gemini|publisher=[[Marvel Comics]]|debut=''[[Avengers (comic book)|Avengers]]'' #72 (Jan 1970)|creators=[[Roy Thomas]]<br>[[Sal Buscema]]|alliances=[[Zodiac (comics)|Zodiac]]|alter ego=Joshua Link|powers=*Superhuman strength 
+*Energy blasts/beams
+*Mind/mental manipulation}}
+
 ==Publication history==
-The original Gemini first appeared in ''[[Avengers (comics)|Avengers]]'' #72 (January 1970), and was created by [[Roy Thomas]] and [[Sal Buscema]].
+The original Gemini first appeared in ''[[Avengers (comic book)|Avengers]]'' #72 (January 1970), and was created by [[Roy Thomas]] and [[Sal Buscema]].
 
 The character subsequently appears in ''Avengers'' #80-82 (September–November 1970), ''Daredevil'' #69 (October 1970), ''Iron Man'' #33-36 (January–April 1971), ''Daredevil'' #73 (February 1971), ''Astonishing Tales'' #8 (October 1971), #15-20 (December 1972-October 1973), ''Avengers'' #120-125 (February–July 1974), #130-134 (December 1974-April 1975), ''Giant-Size Avengers'' #3-4 (February, June 1975), ''[[Iron Man]]'' #184-185 (July–August 1984), and ''West Coast Avengers'' #26 (November 1987), in which he is killed.
 
@@ -10,20 +16,6 @@ Gemini appeared as part of the "Zodiac" entry in the ''[[Official Handbook of th
 ==Fictional character biography==
 
 ===Joshua Link===
-{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
-|image=
-|caption=
-|character_name=Gemini
-|real_name=Joshua Link
-|species=
-|publisher=[[Marvel Comics]]
-|debut=''[[Avengers (comics)|Avengers]]'' #72 (Jan 1970)
-|creators=[[Roy Thomas]] and [[Sal Buscema]]
-|alliances=[[Zodiac (comics)|Zodiac]]
-|aliases=
-|powers=
-}}
-
 '''Joshua Link''' fell in with a bad crowd in school, becoming more wild and progressing to criminal activities; he started with penny-ante crimes, such as stealing from the grocery, and continuing on to rolling others for money and other valuables. He started to collect expensive friends with expensive tastes "booze, broads, gambling" and the more he tried these things the more he wanted. Eventually his father threw him out and told him to never come back.
 
 Working with the criminals Monk and Brackett, Joshua was transporting some stolen materials out of Futura Research Laboratory when they were confronted by Officers Jeff Hanley and Damian Link. Distracted by encountering his brother on the job, Damian and his partner were easily ambushed by Joshua's allies. In the ensuing struggle, Joshua and Damian were knocked into a metal chamber where they grasped hands as they were bombarded by "nameless experimental rays", until Brackett managed to deactivate the device. The criminals dragged Joshua, whose hair had turned stark white away with them, leaving Damian for dead and shooting and killing Officer Hanley. However, 48 hours later, when they heard that Damian had survived and that he had identified Joshua, Brackett and the others decided that they would have to kill Joshua to prevent being linked to the crimes via their association with him. Joshua tried to flee, but was shot in the shoulder; in desperation he called out for his brother to help him, and Damian felt the contact, following it to save his brother. With his abilities suddenly doubled by his connection to his brother, Damian chased down and took out the other criminals. He then turned Joshua over to other policemen.
@@ -49,9 +41,9 @@ The android Gemini possessed multiple personalities representing the Zodiac sign
 The Ecliptic Gemini that served as Madison Jeffries' "twin" did not demonstrate any powers.
 
 ==In other media==
-*Gemini was among the Zodiacs that appear in ''[[The Avengers: United They Stand]]'' with the male head voiced by [[Nigel Hamer]] and the female head voiced by [[Julie Lemieux]].{{cn|date=November 2017}} Gemini is depicted as a two-headed alien (one male head, one female head) with four arms.
-*Gemini appears in ''[[Marvel Anime|Marvel Anime: Iron Man]]''.{{cn|date=November 2017}} In this version, Gemini is an armored warrior of Zodiac, who is really Dr. Chika Tanaka, a woman who has been brainwashed by Zodiac into serving them.
-*On ''[[Agents of S.H.I.E.L.D.]]'', [[Eric Koenig]]'s grandfather '''Ernest "Hazard" Koenig''' (portrayed by [[Patton Oswalt]]) uses the Gemini pseudonym. He runs a speakeasy in 1931 New York City that would later become an S.S.R. asset.<ref>{{cite episode|title=The New Deal|series=Marvel's Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); George Kitson (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 27, 2020|season=7|number=1}}</ref>
+* A variation of Gemini appears in ''[[The Avengers: United They Stand]]'' animated television series. This version is a two-headed, four-armed alien with a male head voiced by [[Nigel Hamer]] and a female head voiced by [[Julie Lemieux]],{{cn|date=April 2021}} as well as a member of [[Zodiac (comics)|Zodiac]].
+* A variation of Gemini appears in the ''[[Marvel Anime|Marvel Anime: Iron Man]]'' television series, voiced by [[Takako Honda]] in Japanese and [[Laura Bailey (voice actress)|Laura Bailey]] in English.{{cn|date=November 2017}} This version is Dr. '''Chika Tanaka''', a sleeper agent for Zodiac who was brainwashed into serving them and wears a powered suit of armor as Gemini.
+* The Gemini alias appears in the ''[[Agents of S.H.I.E.L.D.]]'' live-action television series. It is used by '''[[Eric Koenig|Ernest "Hazard" Koenig]]''' (portrayed by [[Patton Oswalt]]), who runs a speakeasy in 1931 New York City that would later become an asset to [[S.H.I.E.L.D.]]'s predecessor, the Strategic Scientific Reserve.<ref>{{cite episode|title=The New Deal|series=Marvel's Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); George Kitson (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 27, 2020|season=7|number=1}}</ref>
 
 ==References==
 {{reflist}}
@@ -59,7 +51,6 @@ The Ecliptic Gemini that served as Madison Jeffries' "twin" did not demonstrate 
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/geminizodiaclink.htm|Gemini}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/geminilmd.htm|Android Gemini}}
-
 [[Category:Characters created by Roy Thomas]]
 [[Category:Characters created by Sal Buscema]]
 [[Category:Comics characters introduced in 1970]]

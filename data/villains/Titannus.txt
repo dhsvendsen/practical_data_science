@@ -2,11 +2,11 @@
 {{notability|date=June 2018}}
 {{Infobox comics character
 |image=MARVTU012cov.jpg
-|caption=Cover art for ''Marvel Team Up (vol. 3)'' #12.<br>Art by [[Scott Kolins]].
+|caption=Cover art for ''Marvel Team Up'' vol. 3 #12.<br>Art by [[Scott Kolins]].
 |character_name=Titannus
 |real_name= Titannus
 |publisher=[[Marvel Comics]]
-|debut=''Marvel Team Up'' Vol. 3 #2 (2005)
+|debut=''Marvel Team Up'' vol. 3 #2 (2005)
 |creators=[[Robert Kirkman]]<br>[[Scott Kolins]]
 |alliances= 
 |species=[[Skrull]]
@@ -19,11 +19,11 @@
 Titannus first appeared in ''[[Marvel Team-Up]]'' Vol. 3 #2 and was created by [[Robert Kirkman]] and [[Scott Kolins]].
 
 ==Fictional character biography==
-Originally, Titannus was a [[Skrull]] who, lacking shape-shifting abilities, became one of the subjects of the [[Super-Skrull]] project, giving him enhanced strength and a healing factor that would allow him to recover from any wound. Leaving his world, he eventually arrived on the planet Trellion, where he was brainwashed by the inhabitants to act as their agent. Believing that he was fleeing an oppressive ruler, he escaped with the woman he loved (against her will) and traveled to planet Earth in an attempt to seek the aid of the heroes so they could revolt against Trellion.<ref>''Marvel Team-Up'' Vol. 3 #12. Marvel Comics.</ref>
+Originally, Titannus was a [[Skrull]] who, lacking shape-shifting abilities, became one of the subjects of the [[Super-Skrull]] project, giving him enhanced strength and a healing factor that would allow him to recover from any wound. Leaving his world, he eventually arrived on the planet Trellion, where he was brainwashed by the inhabitants to act as their agent. Believing that he was fleeing an oppressive ruler, he escaped with the woman he loved (against her will) and traveled to planet Earth in an attempt to seek the aid of the heroes so they could revolt against Trellion.<ref>''Marvel Team-Up'' vol. 3 #12. Marvel Comics.</ref>
 
-His spacecraft crash landing in Japan, Titannus observed the heroes of Earth for several months and attempted to 'gain their attention' by destroying [[Tokyo]], defeating the premier superhero of Japan [[Sunfire (comics)|Sunfire]] and killing countless soldiers of the Japanese army.<ref>''Marvel Team-Up'' Vol. 3 #4-9. Marvel Comics.</ref>
+His spacecraft crash landing in Japan, Titannus observed the heroes of Earth for several months and attempted to 'gain their attention' by destroying [[Tokyo]], defeating the premier superhero of Japan [[Sunfire (comics)|Sunfire]] and killing countless soldiers of the Japanese army.<ref>''Marvel Team-Up'' vol. 3 #4-9. Marvel Comics.</ref>
 
-Sensing the disturbance, [[Doctor Strange]] assembled a new team of [[Defenders (comics)|Defenders]] to oppose the alien, consisting of [[Spider-Man]], [[She-Hulk]], [[Carol Danvers|Ms. Marvel]] and [[Nova (Richard Rider)|Nova]], seeking out the [[Hulk|Incredible Hulk]] out of a need for his strength, the team as a whole meeting [[Wolverine (character)|Wolverine]] in Tokyo where he was already attempting to fight Titannus. Titannus attempted to win them over to his side by recounting the story he had been brainwashed with and claiming that he had merely lost his temper when attacked by Sunfire, but Doctor Strange sensed little truth in Titannus' words, and Spider-Man stated that they did ''not'' help someone who blew up a city just because he had a tragic story to tell them. Despite their best efforts, however, the gathered heroes were unable to stop Titannus, who displayed enough power to defeat even the Hulk with ease by absorbing the gamma radiation that powered the behemoth, as well as breaking She-Hulk's left arm. When Titannus' beloved was woken up by Strange and Nova, the truth was revealed and Titannus, having been so dependent on his love for her, was driven to suicide by her rejection—apparently killing himself by crushing his own head. Spider-Man later speculated that she had been angry at the failure of her peoples' plan to attack Earth's heroes.<ref name="Marvel Team-Up #13">''Marvel Team-Up'' Vol. 3 #13. Marvel Comics.</ref>
+Sensing the disturbance, [[Doctor Strange]] assembled a new team of [[Defenders (comics)|Defenders]] to oppose the alien, consisting of [[Spider-Man]], [[She-Hulk]], [[Carol Danvers|Ms. Marvel]] and [[Nova (Richard Rider)|Nova]], seeking out the [[Hulk|Incredible Hulk]] out of a need for his strength, the team as a whole meeting [[Wolverine (character)|Wolverine]] in Tokyo where he was already attempting to fight Titannus. Titannus attempted to win them over to his side by recounting the story he had been brainwashed with and claiming that he had merely lost his temper when attacked by Sunfire, but Doctor Strange sensed little truth in Titannus' words, and Spider-Man stated that they did ''not'' help someone who blew up a city just because he had a tragic story to tell them. Despite their best efforts, however, the gathered heroes were unable to stop Titannus, who displayed enough power to defeat even the Hulk with ease by absorbing the gamma radiation that powered the behemoth, as well as breaking She-Hulk's left arm. When Titannus' beloved was woken up by Strange and Nova, the truth was revealed and Titannus, having been so dependent on his love for her, was driven to suicide by her rejection—apparently killing himself by crushing his own head. Spider-Man later speculated that she had been angry at the failure of her peoples' plan to attack Earth's heroes.<ref name="Marvel Team-Up #13">''Marvel Team-Up'' vol. 3 #13. Marvel Comics.</ref>
 
 However, his healing factor was so advanced that it allowed him to grow a new head, although he appeared to suffer from total [[amnesia]], possibly because of his development of a completely new brain. Later, some insane scientists from [[Tokyo]] took control over Titannus and ordered him to attack the [[United States]], believing that Titannus had been part of a US attempt to conquer Japan. Again some superheroes (consisting of Doctor Strange, Spider-Man, Ms Marvel, She-Hulk, Wolverine, [[Luke Cage]] and [[Captain America]]) had to assemble to subdue the monster. Titannus was defeated and taken in by [[S.H.I.E.L.D.]], thanks to the new arrival of new hero [[Crusader (Marvel Comics)|Crusader]], who distracted him by creating an illusionary reality where he'd killed all of his opponents while Doctor Strange found the location of the people who controlled him, modifying their technology to keep Titannus dormant.<ref>''Marvel Team-Up'' vol. 3 #25. Marvel Comics.</ref>
 
@@ -48,9 +48,9 @@ Titannus appears as a boss in the video game ''[[Marvel: Ultimate Alliance]]'' v
 {{Skrull}}
 
 [[Category:Characters created by Robert Kirkman]]
-[[Category:Extraterrestrial supervillains]]
 [[Category:Fictional mass murderers]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics extraterrestrial supervillains]]
 [[Category:Comics characters introduced in 2005]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Skrull]]

@@ -1,3 +1,5 @@
+{{short description|Fictional Marvel Comics character}}
+{{For|the comic book event|Iron Man 2020 (event)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image =Iron Man 2020 by Alex Ross.jpg
 | caption =Iron Man 2020 from ''[[Marvels (comics)|Marvels]]'' #0 by [[Alex Ross]] 
@@ -10,8 +12,6 @@
 | aliases = 
 | powers = Armor grants:<br>Flight<br>Superhuman strength and physical resistance<br>Energy blasts
 }} 
-
-{{short description|Comic book character}}
 '''Iron Man''' ('''[[Arno Stark]]''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a [[superhero]] appearing as the counterpart of the [[superhero]] [[Iron Man]] in the (then) future year of 2020 set in the [[Multiverse (Marvel Comics)|multiverse]] world of Earth-8410.
 
 ==Publication history==
@@ -22,7 +22,7 @@ Arno is Tony Stark's future [[cousin|first cousin once removed]], and the unscru
 
 In his original appearance, the Iron Man of 2020 was employed by [[Sunset Bain]] (as an old woman) to destroy [[Machine Man]] who had been accidentally discovered and subsequently reactivated by the Midnight Wreckers, rebellious youths who scavenged discarded technology. Despite ostensibly superior power, Iron Man was defeated by the furious Machine Man who went on to claim "I'm a better man than you."<ref>''Machine Man 2020'' #3. Marvel Comics.</ref>
 
-In another story, Arno's factory is infiltrated by Robert Saunders, a heavily scarred man who starts a countdown on a powerful bomb of Stark's design, threatening Stark's wife and son (trapped in the factory) and the surrounding city. The only way to deactivate the device is with a [[retinal scan]] of Saunders, but Saunders is killed and his body destroyed while trying to escape. To get the scan data, Stark travels back in time to the "present" (i.e. 1986, when the story was published<ref>''Amazing Spider-Man Annual'' #20. Marvel Comics.</ref>) to find Saunders as a child. He is soon mistaken for the "current" [[Iron Man]] (Tony Stark) and attacked by one of Tony's enemies [[Blizzard (comics)|Blizzard]] (Gregor Shapanka). Arno, knowing his time in the 20th century is limited, kills Blizzard and continues his search for the young Saunders. This draws the attention of [[Spider-Man]] who also mistakes Arno for Tony and further mistakes Arno's attempts to get a retinal scan from Saunders as an attack on the boy. While protecting Saunders, Spider-Man evades various attempts by Arno to get hold of the boy, while Arno becomes increasingly desperate as his time in the 20th century nears its end. One of Arno's attacks seriously injures Saunders; the scars Arno inflicted would eventually lead Saunders's vengeance-minded future self to sabotage Arno's factory, thus Arno unwittingly creates the situation he traveled back in time to resolve and Spider-Man is sufficiently angered to directly attack the much more powerful Arno. Surprised by the assault and overwhelmed by Spider-Man's far greater speed, Arno's armor is significantly damaged. When he is pulled back to his own time, he finds himself standing in the center of a huge crater, having returned too late to prevent the bomb's detonation and the destruction of his family, factory and city.
+In another story, Arno's factory is infiltrated by Robert Saunders, a heavily scarred man who starts a countdown on a powerful bomb of Stark's design, threatening Stark's wife and son (trapped in the factory) and the surrounding city. The only way to deactivate the device is with a [[retinal scan]] of Saunders, but Saunders is killed and his body destroyed while trying to escape. To get the scan data, Stark travels back in time to the "present" (i.e. 1986, when the story was published<ref>''Amazing Spider-Man Annual'' #20. Marvel Comics.</ref>) to find Saunders as a child. He is soon mistaken for the "current" [[Iron Man]] (Tony Stark) and attacked by one of Tony's enemies [[Blizzard (comics)|Blizzard]] (Gregor Shapanka). Arno, knowing his time in the 20th century is limited, kills Blizzard and continues his search for the young Saunders. This draws the attention of [[Spider-Man]] who also mistakes Arno for Tony and further mistakes Arno's attempts to get a retinal scan from Saunders as an attack on the boy. While protecting Saunders, Spider-Man evades various attempts by Arno to get hold of the boy, while Arno becomes increasingly desperate as his time in the 20th century nears its end. One of Arno's attacks seriously injures Saunders; [[causal loop|the scars Arno inflicted would eventually lead Saunders's vengeance-minded future self to sabotage Arno's factory, thus Arno unwittingly creates the situation he traveled back in time to resolve]] and Spider-Man is sufficiently angered to directly attack the much more powerful Arno. Surprised by the assault and overwhelmed by Spider-Man's far greater speed, Arno's armor is significantly damaged. When he is pulled back to his own time, he finds himself standing in the center of a huge crater, having returned too late to prevent the bomb's detonation and the destruction of his family, factory and city.
 
 A later appearance has Iron Man 2020 fight the time-traveling cyborg [[Death's Head]].<ref>''Death's Head'' #10. Marvel Comics.</ref>
 
@@ -51,11 +51,11 @@ The Iron Man of 2020 appeared in the ''[[Earth X|Paradise X]]'' mini-series alon
 
 ==In other media==
 ===Television===
-The 2020 era version of Arno Stark makes a non-speaking cameo appearance in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]'' episode "New Year's Resolution".<ref>{{cite episode|title=New Year's Resolution|series=Avengers Assemble|network=Disney XD|season=4|number=14|airdate=December 3, 2017}}</ref> A descendant of [[Iron Man]] and [[Howard Stark]], this version is an enemy of [[Kang the Conqueror]] in the future. When Kang attempts to eliminate his enemy's ancestors, Arno forcibly drags him back to their time.
+The 2020 era version of Arno Stark makes a non-speaking cameo appearance in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]'' animated series episode "New Year's Resolution".<ref>{{cite episode|title=New Year's Resolution|series=Avengers Assemble|network=Disney XD|season=4|number=14|airdate=December 3, 2017}}</ref> A descendant of [[Iron Man]] and [[Howard Stark]], this version is an enemy of [[Kang the Conqueror]] in the future. When Kang attempts to eliminate his enemy's ancestors, Arno forcibly drags him back to their time.
 
 ===Video games===
 * Iron Man 2020 appears as a playable character in ''[[Marvel Super Hero Squad Online]]'', voiced by [[Tom Kenny]].
-* Iron Man 2020 appears as a DLC character in ''[[Lego Marvel Super Heroes 2]]'' as a part of the "Out of Time" pack alongside other characters like Lady Spider and Nosferata.
+* Iron Man 2020 appears as a [[Downloadable content|DLC]] character in ''[[Lego Marvel Super Heroes 2]]'' as part of the "Out of Time" pack.
 
 ==Collected editions==
 * ''Iron Man 2020'' (collects ''[[The Amazing Spider-Man]]'' Annual 20, ''[[Machine Man]]'' vol.2 #1-4, ''[[Death%27s Head]]'' #10, ''Iron Man 2020'' #1, ''[[Astonishing Tales]]: Iron Man 2020'' #1-6, ''[[What If (comics)|What If?]]'' vol.2 #53; 304 pages, Marvel Comics, April 2013, {{ISBNT|978-1302913908}})

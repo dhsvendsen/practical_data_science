@@ -1,3 +1,4 @@
+{{Short description|Marvel comics character}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Teen Abomination
@@ -60,6 +61,7 @@ Teen Abomination has superhuman strength, speed, stamina and durability.
 * [https://marvel.fandom.com/wiki/Jamie_Carlson_(Earth-616) Teen Abomination] at Marvel Wiki
 * [http://comicvine.gamespot.com/teen-abomination/4005-109614/ Teen Abomination] at Comic Vine
 
+[[Category:Howling Commandos]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics mutates]]

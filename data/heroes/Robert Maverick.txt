@@ -24,7 +24,7 @@
 | sortkey        = Robert Maverick
 | addcharcat#    = 
 }}
-'''General Robert L. Maverick''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the second character to use the [[Red Hulk]] identity.<ref>http://io9.gizmodo.com/u-s-avengers-introduces-a-whole-new-red-hulk-1790761500</ref>
+'''General Robert L. Maverick''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the second character to use the [[Red Hulk]] identity.<ref>{{Cite web|url=http://io9.gizmodo.com/u-s-avengers-introduces-a-whole-new-red-hulk-1790761500|title=U.S.Avengers Introduces a Whole New Red Hulk}}</ref>
 
 ==Publication history==
 {{expand section|date=May 2017}}
@@ -61,6 +61,7 @@ Using an improved variation of the Hulk Plug-In, Robert Maverick can transform i
 
 {{Hulk}}
 
+[[Category:Avengers (comics) characters]]
 [[Category:Comics characters introduced in 2016]]
 [[Category:Fictional characters with nuclear or radiation abilities]]
 [[Category:Marvel Comics characters with superhuman strength]]

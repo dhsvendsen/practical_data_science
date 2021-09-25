@@ -1,3 +1,4 @@
+{{Short description|Fictional superhero in Marvel Comics}}
 {{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
 | character_name = Robert Grayson
 | image = AOATLAS003.jpg
@@ -51,7 +52,7 @@ The manipulative mastermind [[Thanos]] created a duplicate of Marvel Boy via the
 
 The [[Parallel universe (fiction)|parallel universe]] [[anthology]] ''[[What If (comics)|What If]]''  #9 (June 1978) showed a world where Marvel Boy was a member of a team of 1950s "[[Avengers (comics)|Avengers]]."<ref>''[[What If (comics)|What If]]''  #9 (June 1978)</ref> This team battled the [[Yellow Claw (comics)|Yellow Claw]] and his superhuman minions, though the team was asked to disband by US President [[Dwight D. Eisenhower]].{{Issue|date=September 2010}} This alternate timeline was destroyed in the 1998–2000 [[Limited series (comics)|limited series]] ''[[Avengers Forever]]''.{{Issue|date=September 2010}}
 
-==Notes==
+== Explanatory notes==
 {{notelist}}
 
 ==References==
@@ -66,6 +67,7 @@ The [[Parallel universe (fiction)|parallel universe]] [[anthology]] ''[[What If 
 
 {{Agents of Atlas}}
 {{Stan Lee}}
+
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1950]]
 [[Category:Fictional characters from New Jersey]]

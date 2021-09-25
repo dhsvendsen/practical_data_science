@@ -15,7 +15,7 @@
 }}
 '''Moondragon''' ('''Heather Douglas''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A powerful [[telepathy|telepath]], master [[martial arts|martial artist]], minor [[psychokinesis|telekinetic]] and highly skilled [[geneticist]], Moondragon's most notable characteristics are her [[shaved head]] and achieving excellence in virtually every area of human accomplishment.
 
-Unlike most Marvel characters, who have gained their paranormal abilities through birth or accident, Moondragon has strictly achieved her extraordinary talents through extreme degrees of personal regimen.
+Unlike most Marvel characters, who have gained their paranormal abilities through birth or accident, Moondragon has achieved her extraordinary talents strictly through extreme degrees of personal regimen.
 
 ==Publication history==
 {{Expand section|date=March 2015}}
@@ -24,7 +24,7 @@ Madame MacEvil first appeared in ''[[Iron Man (comic book)|Iron Man]]'' (vol. 1)
 ==Fictional character biography==
 
 ===Origin===
-{{refimprove section|date=March 2015}}
+{{more citations needed section|date=March 2015}}
 Heather Douglas was born in [[Los Angeles, California]], daughter of Arthur and Yvette Steckley Douglas. When Heather was still a girl, her father was driving her and her mother through the desert when they accidentally happened to see the spaceship of [[Thanos]] land; the space villain did not want any witnesses, so he destroyed their car. Heather was thrown clear and survived, but her parents were killed. (She would later discover that her father's soul was bound into a new body, becoming [[Drax the Destroyer]].) She was found by Thanos' father, [[A'lars|Mentor]], who took her to his home world, [[Titan (Marvel Comics location)|Titan]], to be raised by the monks of Shao-Lom.<ref name=DD_105>''Daredevil'' #105</ref>
 
 From the monks, Heather develops her body to its full potential, becoming a formidable martial artist. They teach Heather various scientific disciplines such as chemistry and genetic engineering; but most significantly, they help Heather tap into her latent psionic powers, present within all humans. Heather is able to develop her mental powers far beyond even those of her teachers, so much so that she eventually mentally contacts a powerful entity called the [[Dragon of the Moon]]. The Dragon immediately tries to corrupt and take her over, but she fights back, driving the Dragon away. This fills her with pride and an overwhelming sense of superiority. To commemorate her victory, she takes the name Moondragon. Unknown to Heather, the Dragon subtly continues to influence her on a subconscious level.<ref name=DEF_138>''Defenders'' #138</ref>
@@ -34,7 +34,7 @@ Heather's choice of the name Moondragon causes an uproar amongst the monks of Sh
 Sometime later, [[Thanos]] attacks Titan, destroying the monastery and the Shao-Lom monks. Moondragon escapes in her spaceship and flees to Earth.<ref name=DD_105 />
 
 ===Alliances against Thanos and Korvac===
-[[Image:Warlock and the Infinity Watch 8.jpg|200px|thumb|Moondragon (lower right) on the cover of ''[[Warlock and the Infinity Watch]]'' #8 (September 1992), with [[Thanos]] and [[Gamora]]. Art by [[Tom Raney]] and [[Terry Austin (comics)|Terry Austin]].]]
+
 She first returns to Earth under the guise of "Madame MacEvil" to develop a means to combat Thanos.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=158}}</ref> This leads to the creation of villains like [[Angar the Screamer]], [[Ramrod (Marvel Comics)|Ramrod]], and the [[Dark Messiah (comics)|Dark Messiah]].<ref>[http://www.marvunapp.com/Appendix/darkmess.htm Dark Messiah] at the Appendix to the Handbook of the Marvel Universe</ref> In her first appearance, she forces [[Iron Man]] to battle [[Namor]] in order to study them.<ref>''Iron Man'' #54</ref> She then reveals her true identity and helps the [[Avengers (comics)|Avengers]] in their first confrontation with Thanos. 
 She battles [[Daredevil (Marvel Comics character)|Daredevil]] but is nearly killed by her ex-ally Kerwin J. Broderick.<ref name=DD_105 /> She restores Daredevil's sight briefly with her alien pressure point skills and then first meets [[Mar-Vell|Captain Mar-Vell]]. She aids them against Angar, the Dark Messiah, and Terrex.<ref>''Daredevil'' #106-107</ref> She falls in love with Daredevil but then returns to outer space. She aids Captain Mar-Vell, [[Drax the Destroyer|Drax]], and the Avengers against Thanos.<ref>''Captain Marvel'' #31-33</ref>
 
@@ -46,7 +46,7 @@ Moondragon is present when the Avengers confront [[Korvac]]; her powers allow he
 Moondragon leaves Earth with Drax and finds a planet immersed in war, so she decides to take mental control of all its inhabitants to force them to live in peace, setting herself up as their "peace goddess". Drax summons the Avengers to intervene and in the resultant confrontation, Moondragon is forced to kill her father with her mental powers. Afterwards, [[Thor (Marvel Comics)|Thor]] takes her before a real god—his father, [[Odin (Marvel Comics)|Odin]], to be judged.<ref>{{Cite comic
  | Writer = Jim Shooter  | Penciller = Bob Hall | Inker = Dan Green | Coinkers = Steve Mitchell, et al. | Story = War Against the Gods! | Title = Avengers, The | Volume = 1 | Issue = 220 | Date = June 1982 | Publisher = [[Marvel Comics]] | Page = | Panel = | ID = }}</ref> Odin perceives within Moondragon a stalwart but tainted spirit. He condemns her to wear a magical headband that reduces her mental powers until she has overcome her arrogance and learned humility. He also assigns [[Valkyrie (Marvel Comics)|Valkyrie]] to be her guardian.<ref name="Def">{{Cite comic | Writer = J M DeMatteis | Penciller = Don Perlin | Copencillers = Kim DeMulder | Inker = | Story = Darkness on the Edge of Time | Title = Defenders, The | Volume = 1 | Issue = 124 | Date = October 1983 | Publisher = [[Marvel Comics]] | Page = | Panel = | ID = }}</ref>
 
-When Valkyrie rejoins the [[Defenders (comics)|Defenders]], Moondragon is forced to come along.<ref name="Def"/> At first, she sends out low level telepathic signals, luring threats to the vicinity of the Defenders' headquarters, hoping that one of these threats would remove her headband or force the Defenders to remove the headband so she may use her powers to aid them unhindered. One of those who respond to her telepathic suggestions turns out to be a man infected with mutated spores, who the Defenders manage to defeat.{{Issue|date=May 2009}}
+When Valkyrie rejoins the [[Defenders (comics)|Defenders]], Moondragon is forced to come along.<ref name="Def"/> At first, she sends out low level telepathic signals, luring threats to the vicinity of the Defenders' headquarters, hoping that one of these threats would remove her headband or force the Defenders to remove the headband so she may use her powers to aid them unhindered.{{issue|date=April 2021}}
 
 Despite the fact that Moondragon resents being with the Defenders, she wants to be accepted by them as a good person. In an encounter with [[Asgard (comics)|Asgardian]] trolls, Moondragon resists the temptation of letting the trolls and the Dragon of the Moon remove her headband, thus proving herself to Odin, who promptly lets the headband fall off.<ref>{{Cite comic | Writer = Peter Gillis | Penciller = Don Perlin | Inker = Kim DeMulder | Story = Hungry Like the Wolf | Title = Defenders, The | Volume = 1 | Issue = 139 | Date = January 1985 | Publisher = [[Marvel Comics]] | Page = | Panel = | ID = }}</ref>
 
@@ -55,7 +55,7 @@ This personal victory is short-lived, for soon afterwards the Defenders have to 
 Heather's soul manages to survive, and, now free from the Dragon again, contacts her cousin Pamela; through her, she is able to obtain a new body for herself, a clone created on Titan.<ref>{{Cite comic | Writer = Peter Gillis | Penciller = Don Perlin | Inker = Jack Abel | Story = Seconds | Title = Solo Avengers | Volume = 1 | Issue = 16 | Date = March 1989 | Publisher = [[Marvel Comics]] | Page = | Panel = | ID = }}</ref> For a while, she and her cousin, who becomes the heroine [[Sundragon]], adventure together in space.<ref>{{Cite comic | Writer = Peter Gillis | Penciller = James Brock | Inker = Roy Richardson | Story = The Sun and the Moon | Title = Solo Avengers | Volume = 1 | Issue = 20 | Date = July 1989 | Publisher = [[Marvel Comics]] | Page = | Panel = | ID = }}</ref>
 
 ===Cosmic cohort===
-{{Refimprove section|date=March 2015}}
+{{More citations needed section|date=March 2015}}
 After [[Quasar (Wendell Vaughn)|Quasar]] is appointed Protector of the Universe, Moondragon insinuates herself into his life. Using the pseudonym H.D. Steckley she becomes an engineer and saleswoman for Vaughn Security Systems. She is convinced that in time Quasar will realize they are eminently qualified to form the universe's most cosmic coupling. Quasar, however, asserts that qualifications have nothing to do with feelings and rebuffs her. She persists for a time, but eventually gets the message and loses interest.<ref>''Quasar'' #11-29</ref>
 
 When [[Adam Warlock]] seeks people to help him safeguard the [[Infinity Gems]], he chooses Moondragon to keep the Mind Gem—but only after erecting safeguards so Moondragon cannot exploit the gem's full power. Still, she agrees to join his team, the [[Infinity Watch]].<ref>''Warlock and the Infinity Watch'' #2</ref> She eventually loses the gem when it is stolen by [[Rune (comics)|Rune]].{{issue|date=February 2013}}
@@ -75,7 +75,7 @@ Sometime later, Phyla and Drax are alerted by a prophet that Moondragon may be a
 ===Guardians of the Galaxy===
 {{Main|Guardians of the Galaxy (2008 team)}}
 
-After her resurrection, Moondragon joins Phyla back at [[Knowhere]] and is accepted as an unofficial member of the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].<ref>''Guardians of the Galaxy'' #13</ref> She assists Cosmo and Mantis as part of the telepathic support team. Her resurrection leaves her mind more open than it had been before her death, so she is able to detect things before either Mantis or Cosmo do. Her increased sensitivity also leaves her more vulnerable to psychic manipulation by Starhawk, who has herself released from confinement.{{Issue|date=December 2009}}
+After her resurrection, Moondragon joins Phyla back at [[Knowhere]] and is accepted as an unofficial member of the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].<ref>''Guardians of the Galaxy'' #13</ref> She assists Cosmo and Mantis as part of the telepathic support team. Her resurrection leaves her mind more open than it had been before her death, so she is able to detect things before either Mantis or Cosmo do. Her increased sensitivity also leaves her more vulnerable to psychic manipulation by Starhawk, who has herself been released from confinement.{{Issue|date=December 2009}}
 
 With Phyla's death at the hands of Adam Magus, Moondragon takes it upon herself to become a field agent for the Guardians of the Galaxy. However, she becomes host to an alien parasite originating in a parallel universe across the Fault, a time-space tear created by [[Black Bolt]]'s Terrigen Bomb. Worse, she is biometrically cuffed by Cynosure, leader of the Luminals (an organization of heroic alien superhumans from the planet Xarth III), who intends to have the creature tried for killing one of her fellow Luminals. To make things worse, members of the Church of Universal Truth kidnap Moondragon and Cynosure, seeing the parasite as a god, whom they intend to birth. Luckily, the Guardians and Luminals mount a joint rescue attempt and extract the two. With the help of Knowhere's medical staff, they are able to remove the organism from Moondragon. During these experiences, Moondragon has visions of a cocoon and Phyla being alive.<ref>''Guardians of the Galaxy'' vol. 2 #19-24</ref>
 
@@ -120,15 +120,15 @@ Moondragon runs a "Hall of Magic Mirrors" in a carnival. She aids the [[Fantasti
 ==In other media==
 
 ===Television===
-* Moondragon appears in the ''[[X-Men (TV series)|X-Men]]'' animated series episode "Beyond Good and Evil (Part 3)" in a non-speaking role.{{cn|date=October 2017}}
+* Moondragon appears in the ''[[X-Men (TV series)|X-Men]]'' animated series episode "Beyond Good and Evil (Part 3)" in a non-speaking role.{{citation needed|date=October 2017}}
 
 ===Video games===
-* Moondragon appears as an NPC in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Mary Elizabeth McGlynn]].<ref name="btva">{{cite web | title=Voice Of Moondragon - Marvel Heroes <nowiki>|</nowiki> Behind The Voice Actors | url=http://www.behindthevoiceactors.com/video-games/Marvel-Heroes/Moondragon/ | work=Behind The Voice Actors | access-date=October 24, 2017| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref>
+* Moondragon appears as an NPC in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Mary Elizabeth McGlynn]].<ref name="btva">{{cite web|title=Voice Of Moondragon - Marvel Heroes <nowiki>|</nowiki> Behind The Voice Actors|url=http://www.behindthevoiceactors.com/video-games/Marvel-Heroes/Moondragon/|url-status=live|archive-url=https://web.archive.org/web/20171024155216/http://www.behindthevoiceactors.com/video-games/Marvel-Heroes/Moondragon/|archive-date=2017-10-24|access-date=October 24, 2017|work=Behind The Voice Actors|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref>
 * Moondragon appears as a playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=May 2016}}
 * Moondragon appears in ''[[Marvel: Avengers Alliance]]'', the computer video game.{{citation needed|date=August 2016}}
 
 ===Parody===
-* Moondragon also appears in the ''[[Mad (TV series)|MAD]]'' episode "Captain America's Got Talent", voiced by [[Rachel Ramras]]. She read from a computer stating she was an Avenger for 22 seconds.{{cn|date=October 2017}}
+* Moondragon also appears in the ''[[Mad (TV series)|MAD]]'' episode "Captain America's Got Talent", voiced by [[Rachel Ramras]]. She read from a computer stating she was an Avenger for 22 seconds.{{citation needed|date=October 2017}}
 
 ==References==
 {{Reflist|2}}
@@ -142,23 +142,22 @@ Moondragon runs a "Hall of Magic Mirrors" in a carnival. She aids the [[Fantasti
 {{Defenders}}
 {{Guardians of the Galaxy}}
 {{Marvel Cosmic}}
+{{Authority control}}
 
+[[Category:Avengers (comics) characters]]
 [[Category:Characters created by Bill Everett]]
 [[Category:Characters created by George Tuska]]
 [[Category:Characters created by Mike Friedrich]]
 [[Category:Comics characters introduced in 1973]]
-[[Category:Female characters in comics]]
 [[Category:Fictional avatars]]
 [[Category:Fictional bisexual females]]
 [[Category:Fictional characters from Los Angeles]]
 [[Category:Fictional engineers]]
-[[Category:Fictional geneticists]] 
+[[Category:Fictional geneticists]]
 [[Category:Fictional telekinetics]]
 [[Category:Guardians of the Galaxy characters]]
-[[Category:LGBT superheroes]]
 [[Category:Marvel Comics characters who have mental powers]]
 [[Category:Marvel Comics LGBT superheroes]]
 [[Category:Marvel Comics martial artists]]
-[[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics telepaths]]
 [[Category:Marvel Comics female superheroes]]

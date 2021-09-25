@@ -1,3 +1,4 @@
+{{Short description|Fictional superhero appearing in American comic books published by Marvel Comics}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image= Alpha flight 89 guardian.jpg
 |caption=Guardian in a cover detail to<br>''[[Alpha Flight (comic book)|Alpha Flight]]'' #89.<br>Art by [[Jim Lee]].
@@ -37,7 +38,7 @@ He was originally called "the Canadian Shield", after [[Canadian Shield|the rock
 ==Fictional character biography==
 James MacDonald Hudson was born in [[London, Ontario]], Canada.<ref>{{cite web |url=http://marvel.com/universe/Guardian_%28James_Hudson%29 |title=marvel.com/universe/Guardian |publisher=Marvel.com |date=2006-10-25 |access-date=2011-04-25}}</ref> He is a leading petrochemical engineer and scientist for the Am-Can Corporation developing a [[powered exoskeleton]] suit. When he learns that his work will be used for American military purposes, Hudson raids his workplace, steals the prototype suit and destroys the plans. He leaves the suit to be recovered (albeit without the vital control helmet, which he built before coming to the company) and fully expects to be sued and arrested for his actions.
 
-However, Hudson's girlfriend, [[Vindicator (comics)|Heather MacNeil]], uses political connections in the [[Canadian government]] to persuade Am-Can to waive the charges against him. As a result, [[Department H]] is formed, a secret branch of the Canadian Department of National Defence, and Hudson is named as head of operations. Inspired by the debut of the [[Fantastic Four]], James Hudson planned to create a superhero team for Canada.<ref name="X-Men #109">''Uncanny X-Men'' #109. Marvel Comics.</ref> He started out with a prototype superhero team called [[the Flight]] which had [[Wolverine (character)|Wolverine]] as one of its members.<ref>''Alpha Flight Special'' vol. 2 #1 (1992). Marvel Comics.</ref>
+However, Hudson's girlfriend, [[Vindicator (comics)|Heather MacNeil]], uses political connections in the [[Canadian government]] to persuade Am-Can to waive the charges against him. As a result, [[Department H]] is formed, a secret branch of the Canadian Department of National Defence, and Hudson is named as head of operations. Inspired by the debut of the [[Fantastic Four]], James Hudson planned to create a superhero team for Canada.<ref name="X-Men #109">''Uncanny X-Men'' #109. Marvel Comics.</ref> He started out with a prototype superhero team called [[Alpha Flight#The Flight|the Flight]] which had [[Wolverine (character)|Wolverine]] as one of its members.<ref>''Alpha Flight Special'' vol. 2 #1 (1992). Marvel Comics.</ref>
 
 Following his prototype team the Flight, Hudson forms [[Alpha Flight]] as a superhero team for the Canadian government and develops his exoskeleton into a battle suit. As Weapon Alpha, Hudson sought to capture Wolverine, who had left Canada and joined the [[X-Men]]. He accidentally injured [[Moira MacTaggert]] in the process.<ref name="X-Men #109"/> He then led Alpha Flight in battle against the X-Men to capture Wolverine.<ref>''X-Men'' #120-121. Marvel Comics.</ref> After that mission failed, he made no further attempts to forcibly return Wolverine to Canada.
 
@@ -91,7 +92,7 @@ Hudson has earned a Ph.D. in engineering. He is a brilliant engineer, inventor, 
 
 ==In other media==
 ===Television===
-Hudson appears in the first ''[[X-Men (TV series)|X-Men]]'' animated series under the code name Vindicator, voiced by [[Barry Flatman]]. He conspired with the head of Alpha Flight to force Wolverine's return to Canada so they can conduct experiments on how he was able to survive the [[adamantium]] bonding process and, if possible, extract the adamantium from his skeleton, regardless of the possibility of killing Wolverine. He felt heavily betrayed by Wolverine leaving Alpha Flight and used that as justification for his actions. He also deceived his team into believing he was bringing Wolverine back to the team. Throughout his battle with Logan, he was able to use his force field to protect himself from Wolverine's claws. However, when it failed, he was at Logan's mercy. Wolverine told him that the only reason he was still breathing after the battle is that he loved Vindicator's wife Heather. He also threatened that, if he or Alpha Flight came after him again, all bets were off.
+* Hudson appears in the first ''[[X-Men (TV series)|X-Men]]'' animated series under the code name Vindicator, voiced by Barry Flatman. He conspired with the head of Alpha Flight to force Wolverine's return to Canada so they can conduct experiments on how he was able to survive the [[adamantium]] bonding process and, if possible, extract the adamantium from his skeleton, regardless of the possibility of killing Wolverine. He felt heavily betrayed by Wolverine leaving Alpha Flight and used that as justification for his actions. He also deceived his team into believing he was bringing Wolverine back to the team. Throughout his battle with Logan, he was able to use his force field to protect himself from Wolverine's claws. However, when it failed, he was at Logan's mercy. Wolverine told him that the only reason he was still breathing after the battle is that he loved Vindicator's wife Heather. He also threatened that, if he or Alpha Flight came after him again, all bets were off.
 
 ===Video games===
 * Guardian also appears as an NPC in ''[[X-Men Legends II: Rise of Apocalypse]]'' voiced by [[Jim Ward (voice actor)|Jim Ward]]. He and Vindicator are encountered in an abandoned Weapon X facility. Guardian has special dialogue with Wolverine.
@@ -123,9 +124,7 @@ Hudson appears in the first ''[[X-Men (TV series)|X-Men]]'' animated series unde
 [[Category:Fictional inventors]]
 [[Category:Fictional scientists]]
 [[Category:Fictional characters with energy-manipulation abilities]]
-[[Category:Male characters in comics]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics martial artists]]
-[[Category:Marvel Comics superheroes]]
-[[Category:Powered exoskeletons in fiction]]
 [[Category:X-Men supporting characters]]

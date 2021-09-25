@@ -1,3 +1,4 @@
+{{Short description|Fictional character appearing in American comic books}}
 {{Refimprove|date=May 2007}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
@@ -78,5 +79,5 @@ In ''[[Ultimate Origins]]'', it is revealed that Cornelius's experiments on Wolv
 [[Category:Comics characters introduced in 1991]]
 [[Category:Superhero film characters]]
 [[Category:Characters created by Barry Windsor-Smith]]
-[[Category:Wolverine characters]]
+[[Category:Wolverine (comics) characters]]
 [[Category:X-Men supporting characters]]

@@ -6,6 +6,7 @@
 |debut=''Runaways'' vol. 1 #1 (July, 2003)<!--Please notate the volume when referring to Runaways issues. It makes thing less confusing, considering that two completely different storylines take place in vol. 1 #1 and vol. 2 #1.-->
 |creators=[[Brian K. Vaughan]] (writer)<br>[[Adrian Alphona]] (artist)
 |real_name=Alex Wilder
+|date_of_birth = 21 august 2002
 |alliances=[[Runaways (comics)|Runaways]]<br/>[[Pride (comics)|The Pride]]<br/>[[Young Masters]]
 |aliases=A-Wild<br>Youngblood
 |powers=Skilled logician and leader<br>High-level intellect 
@@ -65,4 +66,5 @@ Alex's relationship with his father is not strained, but also not the closest of
 [[Category:Marvel Comics superheroes]]
 [[Category:Characters created by Brian K. Vaughan]]
 [[Category:Comics characters introduced in 2003]]
+[[Category:Fictional child prodigies]]
 [[Category:Fictional engineers]]

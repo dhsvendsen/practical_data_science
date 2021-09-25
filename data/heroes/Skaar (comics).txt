@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics character, son of the Hulk}}
 {{Other uses|Skaar (disambiguation){{!}}Skaar}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | image = [[File:Skaar.jpg|250px]]
@@ -44,13 +45,15 @@ During the "[[Fall of the Hulks]]", "[[World War Hulks]]," and "Dark Son" storyl
 
 During the "[[Chaos War (comics)|Chaos War]]" storyline, Skaar helps his father and his friends in their fight against the forces of Amatsu-Mikaboshi.<ref>''Incredible Hulk'' #618-619. Marvel Comics.</ref> When it is discovered that [[Brian Banner]] has been brought back from the dead and has become a [[Guilt Hulk]]/[[Devil Hulk]] hybrid, Skaar helps his father fight his grandfather.<ref>''Incredible Hulk'' #620. Marvel Comics.</ref>
 
-Skaar accompanies the Hulk and the Warbound to the [[Savage Land]] when they are contacted by [[Ka-Zar (comics)|Ka-Zar]] regarding the death of some Sakaarians who were living there.<ref>''Incredible Hulk'' #622. Marvel Comics.</ref> They discover that the insectoid [[Miek]] is involved in a plot to use Sakaarian bodies to store his hatchlings.<ref>''Incredible Hulk'' #623. Marvel Comics.</ref> When Skaar refuses to allow the Hulk to harm the hatchlings, Miek attempts to drug Skaar. Following Miek's apparent death, Skaar remains in the Savage Land to keep an eye on the remaining Sakaarians.<ref>''Incredible Hulk'' #625. Marvel Comics.</ref>
+Skaar accompanies the Hulk and the Warbound to the [[Savage Land]] when they are contacted by [[Ka-Zar (Kevin Plunder)|Ka-Zar]] regarding the death of some Sakaarians who were living there.<ref>''Incredible Hulk'' #622. Marvel Comics.</ref> They discover that the insectoid [[Miek]] is involved in a plot to use Sakaarian bodies to store his hatchlings.<ref>''Incredible Hulk'' #623. Marvel Comics.</ref> When Skaar refuses to allow the Hulk to harm the hatchlings, Miek attempts to drug Skaar. Following Miek's apparent death, Skaar remains in the Savage Land to keep an eye on the remaining Sakaarians.<ref>''Incredible Hulk'' #625. Marvel Comics.</ref>
 
 Skaar is recruited by [[Green Goblin|Norman Osborn]] to join the second incarnation of the [[Dark Avengers]].<ref>''New Avengers'' vol. 2 #18. Marvel Comics</ref> His first fight with the team goes against him when the [[The New Avengers (comics)|New Avengers]] discover them.<ref>''New Avengers'' vol. 2 #19. Marvel Comics.</ref> After the Dark Avengers reveal that they have captured Captain America and are planning to capture the other Avengers to put on trial, Skaar turns on his teammates.<ref>''New Avengers'' vol. 2 #22. Marvel Comics.</ref> It is revealed at that point that Skaar is actually a double agent. He then frees Captain America while the New Avengers defeat the remaining Dark Avengers.<ref>''New Avengers'' vol. 2 #23. Marvel Comics.</ref>
 
 Skaar later travels back to the Savage Land as it reminds him of his home planet. The Hulk in his Doc Green form tracks Skaar there in order to depower him as part of his plan to depower every Gamma mutate on Earth. After a brief fight, Skaar is finally depowered. Doc Green teleports Skaar to Paris along with a backpack full of money so he can start a new and better life under the alias "Santos."<ref>''Hulk'' Vol. 3 #7. Marvel Comics.</ref>
 
 During the "[[Civil War II]]" storyline, Skaar is among those who learn about Bruce Banner's death.<ref>''Civil War II: The Fallen'' #1. Marvel Comics.</ref>
+
+Abomination's company Green Spring later repowered Skaar. While working for Green Spring, Skaar was dispatched to retrieve the escaped gamma mutate Stockpile.<ref>{{cite comic|writer=[[Ewing, Al]]; [[Frasier, Crystal]]|artist=Medina, Lan|title=[[Gamma Flight]]|story=Someone Bigger|issue=1|publisher=[[Marvel Comics]]|date=August 2021}}</ref> This puts Skaar into conflict with the group [[Gamma Flight]], which comes to Stockpile's defense, and the U.S. Hulkbuster Force, which was formed to stop the threat of the gamma mutates. Skaar easily defeated the U.S. Hulkbuster Force, but spared its members' lives.<ref>{{cite comic|writer=[[Ewing, Al]]; [[Frasier, Crystal]]|artist=Medina, Lan|title=[[Gamma Flight]]|story=Without Mercy|issue=2|publisher=[[Marvel Comics]]|date=September 2021}}</ref>
 
 ==Powers and abilities==
 Skaar has powers inherited from both his parents, although the set inherited from the Hulk has since been drained. Like his father, the Hulk, he had superhuman endurance, regenerative abilities, and superhuman strength and durability, which, also like his father, increased when he was enraged. His power was such that he could break the Juggernaut's armor, although he was not as strong as the Savage Hulk persona. Skaar could boost his strength further with Old Power - a synthesized form of the [[Galactus|Power Cosmic]]{{issue|date=August 2014}}, in one instance absorbing the energy of an entire city.<ref>{{cite comic|writer=Greg Pak|penciller=[[Paul Pelletier]]|inker=Danny Miki|story=Sons of Wrath|title=Incredible Hulk|volume=1|issue=611|publisher=Marvel Comics|date=October 2010}}</ref> [[Iron Fist (comics)|Iron Fist]] is able to daze him with a powerful chi-punch.<ref>''New Avengers'' vol. 2 #20. Marvel Comics.</ref> He could revert to a human form when calm or otherwise incapacitated. However, in Skaar's case, his other form is half-human, half-Oldstrong. From his mother, Caiera, he has the powers of an Oldstrong, emerging from his birth cocoon able to walk and talk within moments. He can also draw power from the planet and harden his body.<ref>''Planet Hulk: Gladiator Guidebook''. Marvel Comics.</ref> Having been born within the depths of a lake of lava, Skaar is resistant to intense heat.<ref>''Skaar: Son of Hulk'' #1. Marvel Comics.</ref>
@@ -111,10 +114,10 @@ The series the character has appeared in have been collected into [[trade paperb
 ==External links==
 {{Portal|Speculative fiction}}
 * {{Marvelwiki|Skaar|Skaar}}
+* [https://marvel.fandom.com/wiki/Skaar_(Earth-616) Skaar] at Marvel Wiki
 * {{gcdb|type=character|search=Skaar|title=Skaar}}
 * {{comicbookdb|type=character|id=16526|title=Skaar}}
 * [http://www.newsarama.com/comics/080610-BSESkaar01.html Best Shots Extra: ''Skaar: Son of Hulk'' #1]. [[Newsarama]]. June 10, 2008.
-* {{Marveldatabase|Skaar}}
 
 {{Hulk}}
 {{John Romita Jr.}}

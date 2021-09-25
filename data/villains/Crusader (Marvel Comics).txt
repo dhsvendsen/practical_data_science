@@ -35,7 +35,7 @@ The Crusader attended a meeting organized by the [[Hood (comics)|Hood]] to take 
 ===Z'Reg===
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |character_name=Crusader
-|image=crusader.jpg
+|image=Crusader (Marvel Comics).jpg
 |caption=Crusader in his human form.<br>Art by [[Harvey Tolibao]].
 |real_name=Z'Reg
 |species=[[Skrull]]
@@ -88,7 +88,7 @@ Z'Reg's Skrull physiology enables him to [[shapeshift]] into virtually any form 
 [[Category:Comics characters introduced in 2006]]
 [[Category:Fictional characters from Chicago]]
 [[Category:Fictional characters from Illinois]]
-[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics extraterrestrial superheroes]]
 [[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics supervillains]]

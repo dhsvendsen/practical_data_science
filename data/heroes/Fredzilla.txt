@@ -1,4 +1,4 @@
-{{short description|Fictional character in the Marvel universe}}
+{{Short description|Fictional character in the Marvel universe}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image=Fred (Marvel Comics).jpg
 |caption=Fred.<br>Art by [[David Nakayama]].
@@ -15,7 +15,7 @@
 
 '''Fred''' (nicknamed '''Fredzilla''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a member of the superhero team [[Big Hero 6 (comics)|Big Hero 6]].
 
-The character appears in the 2014 animated film ''[[Big Hero 6 (film)|Big Hero 6]]'' and the video game ''[[Kingdom Hearts III]]'', voiced by [[T. J. Miller]], and in the subsequent [[Big Hero 6 (TV series)|animated series]] by [[Brooks Wheelan]]. This version of him is a man of [[European descent]] who is a comic book fan that wears a dragon suit that breathes fire.
+The character appears in the 2014 animated film ''[[Big Hero 6 (film)|Big Hero 6]]'' and the video game ''[[Kingdom Hearts III]]'', voiced by [[T.J. Miller]] and in the subsequent [[Big Hero 6 (TV series)|animated series]] by [[Brooks Wheelan]]. This version of him is a man of [[White people|European]] descent who is a comic book fan that wears a dragon suit that breathes fire.
 
 ==Publication history==
 The character was created by [[Chris Claremont]] and [[David Nakayama]] and first appeared in ''Big Hero 6'' #1 (September 2008). He along with [[Wasabi-No-Ginger]] were meant to serve as replacements for then current members [[Sunpyre]] and [[Ebon Samurai]].
@@ -76,6 +76,7 @@ Fred makes an appearance along with the rest of Big Hero 6 in ''[[Kingdom Hearts
 [[Category:Fictional characters from Hokkaido]]
 [[Category:Fictional college students]]
 [[Category:Japanese superheroes]]
+[[Category:Kaiju]]
 [[Category:Kingdom Hearts characters]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Teenage characters in comics]]

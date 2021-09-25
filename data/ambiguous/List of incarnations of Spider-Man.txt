@@ -16,19 +16,19 @@
 |debutyr7   = 
 |debutyr8   = 
 |creators   = [[Stan Lee]]<br />[[Steve Ditko]]
-|characters = [[Spider-Man|Peter Parker]]<br />[[Ben Reilly]]<br/>[[Doctor Octopus|Otto Octavius]]<br/>[[Spider-Man: The Manga|Yu Komori]]<br/>[[Kaine Parker]]<br/>[[Spider-Man (Pavitr Prabhakar)|Pavitr Prabhaker]]<br/>[[Miles Morales]]
+|characters = [[Spider-Man|Peter Parker]]<br />[[Ben Reilly]]<br/>[[Doctor Octopus|Otto Octavius]]<br/>[[Spider-Man: The Manga|Yu Komori]]<br/>[[Kaine Parker]]<br/>[[Spider-Man (Pavitr Prabhakar)|Pavitr Prabhaker]]<br/>[[Spider-UK|William "Billy" Braddock]]<br/>[[Miles Morales]]
 |seealso    = [[Alternative versions of Spider-Man]]
 |cat        = super
 |subcat     = Marvel Comics
 |hero       = y
 |sortkey    = Spider-Man
 }}
-"[[Spider-Man]]" is the name of several [[fictional character]]s in the [[Marvel Universe]]. The first and main character is [[Spider-Man|Peter Parker]], created by [[Stan Lee]] and [[Steve Ditko]]. Other characters have adopted the alias over the years in the [[Earth 616]] universe such as [[Ben Reilly]] and [[Doctor Octopus|Otto Octavius]]. There also consists of [[Alternative versions of Spider-Man|alternate universe versions]] of the web-slinger such as [[Spider-Girl (Mayday Parker)|May "Mayday" Parker]] and [[Spider-Man 2099|Miguel O'Hara]].
+"[[Spider-Man]]" is the name of several [[superhero|superheroes]] in the [[Marvel Universe]]. The first titular and main protagonist is [[Spider-Man|Peter Parker]], created by [[Stan Lee]] and [[Steve Ditko]]. Other characters have adopted the alias over the years in the [[Earth 616]] universe such as [[Ben Reilly]] and [[Doctor Octopus|Otto Octavius]]. There also consists of [[Alternative versions of Spider-Man|alternate universe versions]] of the web-slinger such as [[Spider-Girl (Mayday Parker)|May "Mayday" Parker]] and [[Spider-Man 2099|Miguel O'Hara]].
 
 ==Characters named Spider-Man==
 ===Peter Parker===
 {{Main|Spider-Man}}
-Peter Parker, the Amazing Spider-Man, is the mainstream [[Earth-616]] incarnation of the character and appears in almost every piece of Spider-Man related media.
+Peter Parker, the Amazing Spider-Man, is the mainstream and original [[Earth-616]] incarnation of the character and appears in almost every piece of Spider-Man related media.
 
 ===Ben Reilly===
 {{Main|Ben Reilly}}
@@ -166,6 +166,7 @@ Outside of the [[Earth 616]] universe, there exists many versions of Spider-Man.
 {{Spider-Man}}
 {{Spider-Woman}}
 {{Spider-Man characters}}
+{{Avengers characters}}
 {{SIA|comics}}
 
 [[Category:Articles about multiple fictional characters]]

@@ -8,7 +8,7 @@
 |image          = Azazel HCV.jpg
 |imagesize      = 200
 |converted      = y
-|caption        = Azazel
+|caption        = 
 |character_name = Azazel
 |real_name      =
 |species        = [[Mutant (Marvel Comics)|Neyaphem]]

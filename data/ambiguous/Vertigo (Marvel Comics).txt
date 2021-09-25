@@ -10,7 +10,7 @@
 | species=[[Savage Land Mutates|Savage Land Mutate]]
 | publisher=[[Marvel Comics]]
 | debut=''[[Marvel Fanfare]]'' #1 (March [[1982 in comics|1982]])
-| creators=[[Chris Claremont]]<br>[[Michael Golden (comics)|Michael Golden]]
+| creators=[[Chris Claremont]] (writer)<br>[[Michael Golden (comics)|Michael Golden]] (artist)
 | alliances=[[Savage Land Mutates]]<br>[[Marauders (comics)|Marauders]]<br>[[Femizons]]
 | aliases=
 | powers=Ability to induce extreme disorientation, nausea and unconsciousness
@@ -64,7 +64,7 @@ In the ''[[Age of X]]'' reality Vertigo appeared as an X-Man.<ref>''X-Men Legacy
 * Vertigo first appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' animated series, voiced by [[Vanessa Marshall]]. This version is a member of Mister Sinister's [[Marauders (comics)|Marauders]]. In the episode "eXcessive Force", Vertigo and [[Blockbuster (Marauder)|Blockbuster]] pursue [[Berzerker (comics)|Berzerker]], only to encounter [[Cyclops (Marvel Comics)|Cyclops]]. While Blockbuster fights him, Vertigo escapes to warn [[Arclight (comics)|Arclight]]. After Cyclops catches up to them, she escapes once more. In the episode "Shades of Grey", Vertigo joins the Marauders in fighting the [[X-Men]], only to be defeated by [[Emma Frost]].{{Citation needed|date=May 2008}}
 
 ===Video games===
-Vertigo appears as a boss in ''[[Deadpool (video game)|Deadpool]]''.<ref>http://www.comingsoon.net/news/gamenews.php?id=103948</ref> This version is a member of Mister Sinister's Marauders, who encounter the [[Deadpool|eponymous character]] after they unknowingly cost him a bounty. Deadpool fights and kills Vertigo, and later does the same with several clones of her while hunting Sinister.
+Vertigo appears as a boss in ''[[Deadpool (video game)|Deadpool]]''.<ref>{{Cite web|url=http://www.comingsoon.net/news/gamenews.php?id=103948|title = The Marauders Confirmed for Deadpool Video Game|date = 8 May 2013}}</ref> This version is a member of Mister Sinister's Marauders, who encounter the [[Deadpool|eponymous character]] after they unknowingly cost him a bounty. Deadpool fights and kills Vertigo, and later does the same with several clones of her while hunting Sinister.
 
 ==References==
 {{reflist|2}}
@@ -78,7 +78,6 @@ Vertigo appears as a boss in ''[[Deadpool (video game)|Deadpool]]''.<ref>http://
 [[Category:Characters created by Chris Claremont]]
 [[Category:Characters created by Michael Golden]]
 [[Category:Comics characters introduced in 1982]]
-[[Category:Female characters in comics]]
 [[Category:Fictional clones]]
 [[Category:Fictional mercenaries]]
 [[Category:Marvel Comics female supervillains]]

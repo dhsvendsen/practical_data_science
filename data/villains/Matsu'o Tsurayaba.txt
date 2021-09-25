@@ -11,7 +11,7 @@
 |real_name=Matsu'o Tsurayaba
 |publisher=Marvel Comics
 |debut= ''Uncanny X-Men'' #255 (Mid-December 1989)
-|creators=
+|creators=[[Chris Claremont]]
 |alliances=[[Hand (comics)|The Hand]]
 |aliases=
 |powers=martial artist.
@@ -60,4 +60,4 @@ Matsu'o Tsurayaba's strength has been augmented with cybernetic implants. On occ
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Fictional Japanese people]]
-[[Category:Wolverine characters]]
+[[Category:Wolverine (comics) characters]]

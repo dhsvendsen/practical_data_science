@@ -24,7 +24,7 @@
 
 '''Silhouette''' ('''Silhouette Chord''') is a [[fictional character]], a [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She first appeared in ''[[New Warriors]]'' #2 (August 1990), and was created by [[Fabian Nicieza]] and [[Mark Bagley]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=329}}</ref> 
 
-Silhouette and her brother Aaron Chord ([[Midnight's Fire]]) are mutants with [[Magic (supernatural)|magic]]al powers gained from the bloodline of their mother, a member of a temple cult in [[Southeast Asia]]. She manipulates the [[Darkforce]], having the power to [[Teleportation|teleport]], hide in shadows, and more.  She is also a [[paraplegic]], having been paralyzed from the waist down by a bullet injury sustained tracking drug gangs early in her career.
+Silhouette and her brother Aaron Chord ([[Midnight's Fire]]) are mutants with [[Magic (supernatural)|magic]]al powers gained from the bloodline of their mother, a member of a temple cult in [[Southeast Asia]] who married an [[African-American]] soldier from the [[Vietnam War]]. She manipulates the [[Darkforce]], having the power to [[Teleportation|teleport]], hide in shadows, and more.  She is also a [[paraplegic]], having been paralyzed from the waist down by a bullet injury sustained tracking drug gangs early in her career.
 
 ==Fictional character biography==
 
@@ -92,7 +92,6 @@ She wears a costume made from [[unstable molecules]], because initially she coul
 [[Category:Characters created by Fabian Nicieza]]
 [[Category:Characters created by Mark Bagley]]
 [[Category:Comics characters introduced in 1990]]
-[[Category:Female characters in comics]]
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutates]]

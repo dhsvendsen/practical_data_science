@@ -1,4 +1,5 @@
 {{short description|Character from Marvel Comics}}
+{{For|the [[Advanced Idea Mechanics|A.I.M.]] scientist who also goes by "Victorius"|Victorius (comics)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Runaways22.jpg|250px]]
 |caption=Victor Mancha, surrounded by bars of metal and electricity on the cover of ''Runaways'' #22 (2007). Cover art by [[Jo Chen]].
@@ -98,3 +99,4 @@ On colorist Christina Strain's Live Journal, she revealed that Victor's eyes are
 [[Category:Characters created by Brian K. Vaughan]]
 [[Category:Mexican superheroes]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Avengers (comics) characters]]

@@ -1,3 +1,9 @@
+{{Proposed deletion/dated
+  |concern = Fails [[WP:GNG]].
+  |timestamp = 20210921233341
+  |nom = Avilich
+  |help = off
+}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=
 |caption=Cover to ''Generation X'' #60

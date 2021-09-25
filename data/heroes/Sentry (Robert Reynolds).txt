@@ -1,8 +1,8 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|character_name=The Sentry
-|image=Sentry(Robert Reynolds).jpg
+|character_name=Sentry
+|image=Sentry (Robert Reynolds).png
 |converted=y
-|caption=Art by [[Adi Granov]]
+|caption=Art by [[Bryan Hitch]]
 |real_name=Robert Reynolds
 |species= Human Mutate
 |publisher=[[Marvel Comics]]
@@ -11,48 +11,52 @@
 |alliances=[[The New Avengers (comics)|New Avengers]]<br>[[The Mighty Avengers|Mighty Avengers]]<br>[[Dark Avengers]]<br>[[Horsemen of Apocalypse|Horsemen of Death]]
 |aliases=The Void, Death
 |powers= '''Sentry''':<br>
-* Molecular Manipulation: all of his powers are based on this and fluctuate depending on his mental state
-* Superhuman strength, durability, stamina, speed, agility, reflexes, dexterity, senses and intelligence 
+* Superhuman strength, durability, condition,  stamina, speed, agility, reflexes, intelligence 
+* Superhuman senses: hearing, vision, sight, and smell
 * Travel at a speed exceeding speed of light
+* Energy manipulation
 * Regeneration
 * Immortality
 * Complete invulnerability
 * Resurrection 
 * Flight
-* Electromagnetic spectrum vision
 * Microscopic vision
 * Telescopic vision
-* Infrared vision
+* Infrared vision 
 * X-Ray vision
 * Teleportation 
+* Telekinesis
 * Telepathy
+* Mind control
 * Empathy/emotion manipulation
-* Aura detection
-* Mind control resistance
 * Astral projection
 * Precognition
 * Invisibility
 * Intangibility 
 * Shape-shifting
 * Illusion casting
-* Energy and matter manipulation 
+* Matter manipulation
+* Photokinesis
 * Force-field projection
-* Generation of hard-light constructs
-
-
-* Darkness manipulation and projection
-* Time manipulation
 * Reality manipulation 
 * Power bestowal
-* Death touch
 * The power of one million exploding suns
+'''The Void''':
+* Molecular manipulation
+* Clairvoyance
+* Night and Negative Zone augmentation
+* Umbrakinesis
+* Death touch
+* Atmokinesis
+
+
 |cat=super
 |subcat=Marvel Comics
 |hero=y
-|sortkey=Sentry (Robert Reynolds)
+|sortkey=Sentry (Marvel Comics)
 |}}
 
-'''Sentry''' ('''Robert''' "'''Bob'''" '''Reynolds''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''The Sentry'' #1 (September 2000),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=311}}</ref> and was created by [[Paul Jenkins (writer)|Paul Jenkins]] and [[Jae Lee]] with uncredited conceptual contributions by [[Rick Veitch]].<ref name="veitch">{{cite web|url=http://www.rickveitch.com/tag/the-sentry/ |title=The Sentry |publisher=Rick Veitch |access-date=2013-10-02}}</ref>
+'''Sentry''' ('''Robert''' "'''Bob'''" '''Reynolds''') is a fictional character and superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''The Sentry'' #1 (September 2000),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=311}}</ref> and was created by [[Paul Jenkins (writer)|Paul Jenkins]] and [[Jae Lee]] with uncredited conceptual contributions by [[Rick Veitch]].<ref name="veitch">{{cite web|url=http://www.rickveitch.com/tag/the-sentry/ |title=The Sentry |publisher=Rick Veitch |access-date=2013-10-02}}</ref>
 
 ==Creation==
 In the late 1990s, Paul Jenkins and Rick Veitch developed an idea by Jenkins' about "an over-the-hill guy, struggling with an addiction, who had a tight relationship with his dog" into a proposal for Marvel Comics' [[Marvel Knights]] line. Jenkins conceived of the character "a guardian type, with a watchtower", and came up with the name "Sentry" (after previously considering "Centurion"). Veitch suggested that the character could be woven into the history of the [[Marvel Universe]], with versions of the character from the 1940s depicted in artistic styles matching the comics of each period. Veitch also suggested that due to some cataclysmic event, all recollection of the Sentry would have been removed from everyone's memory (including his own). Jenkins and Veitch decided that they would create not only a fictional history for the Sentry within the Marvel Universe, but also a fictional publication history in the real world, complete with imaginary creators ("Juan Pinkles" and "Chick Rivet", anagrams of Paul Jenkins and Rick Veitch). Jenkins pitched the concept to Marvel Knights editor [[Joe Quesada]]. Quesada decided to commission a miniseries written by Jenkins with art by Jae Lee, with whom Jenkins had previously worked on an ''[[Inhumans]]'' miniseries.<ref name="veitch"/>
@@ -153,7 +157,7 @@ After shooting Robert, apparently killing him, Lindy records the Sentry's origin
 Upon his return, the Void has now taken control of Robert's body. With black tendrils raining from the sky, the Void severely damages multiple buildings, killing some innocents. As the [[Iron Patriot]], Osborn flies to the Void, claiming that he was breaking their "deal". Norman then has [[Bullseye (comics)|Bullseye]] murder Lindy.<ref name=da14>''Dark Avengers'' #14. Marvel Comics.</ref>
 
 ====Siege====
-During the 2010 storyline "[[Siege (comics)|Siege]]", when Osborn attacks the city of [[Asgard (comics)|Asgard]], Sentry, who serves Osborn, is pitted against the Avengers and others who rebel against Osborn. At Osborn's request, the Sentry destroyed Asgard.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded}}</ref> The Void then takes complete control, Sentry kills Ares much to the surprise of the combatants.<ref>[[Bendis, Brian Michael]] (w), [[Coipel, Olivier]] (p), Morales, Mark (i). "The Siege of Asgard – Phase Two" ''Siege'' #2 (April 2010), Marvel Comics.</ref><ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=24874 |title=STORMING HEAVEN: "Siege" #2 |publisher=Comic Book Resources |access-date=2013-09-20}}</ref> After defeating the entire Avengers contingent, Sentry is eventually reverted to human form following Loki's revival of the Avengers using the stones of Norn. He then asks to be killed and following a brief outburst from the Void, his wish is granted by [[Thor (Marvel Comics)|Thor]].<ref name="Siege#4">{{cite web|url=http://www.comicbookresources.com/?page=article&id=26287 |title=STORMING HEAVEN: "Siege" #4 |publisher=Comic Book Resources |access-date=2013-09-20}}</ref> Thor respectfully carries Reynolds' body to the sun and cremates him there.
+During the 2010 storyline "[[Siege (comics)|Siege]]", when Osborn attacks the city of [[Asgard (comics)|Asgard]], Sentry, who serves Osborn, is pitted against the Avengers and others who rebel against Osborn. At Osborn's request, the Sentry destroyed Asgard.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded}}</ref> The Void then takes complete control, Sentry kills Ares much to the surprise of the combatants.<ref>[[Bendis, Brian Michael]] (w), [[Coipel, Olivier]] (p), Morales, Mark (i). "The Siege of Asgard – Phase Two" ''Siege'' #2 (April 2010), Marvel Comics.</ref><ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=24874 |title=STORMING HEAVEN: "Siege" #2 |date=17 February 2010 |publisher=Comic Book Resources |access-date=2013-09-20}}</ref> After defeating the entire Avengers contingent, Sentry is eventually reverted to human form following Loki's revival of the Avengers using the stones of Norn. He then asks to be killed and following a brief outburst from the Void, his wish is granted by [[Thor (Marvel Comics)|Thor]].<ref name="Siege#4">{{cite web|url=http://www.comicbookresources.com/?page=article&id=26287 |title=STORMING HEAVEN: "Siege" #4 |date=18 May 2010 |publisher=Comic Book Resources |access-date=2013-09-20}}</ref> Thor respectfully carries Reynolds' body to the sun and cremates him there.
 
 At a memorial service for Bob Reynolds, CLOC remarks he would rebuild the Watchtower (which vanished at the moment of Bob's apparent death) at an undisclosed location in preparation for the return of the Sentry, and that no one would be allowed to approach it. CLOC then gives Mister Fantastic the Sentry's diary and instructs him to read the final sentence of page nineteen, the contents of which Reynolds knew that only Mister Fantastic would understand. When asked about it, Mister Fantastic keeps the information to himself.<ref>''The Sentry: Fallen Sun''. Marvel Comics.</ref>
 
@@ -163,12 +167,12 @@ The Sentry is later resurrected by the [[Apocalypse Twins]], who use a [[Celesti
 ===Marvel Legacy===
 It is revealed that Doctor Strange cured Robert from his condition and put the Void into a chamber of his Sanctum Sanctorum. When Loki became the new Sorcerer Supreme, Stephen asked the Sentry for help, now residing on the top of a mountain.<ref>''Doctor Strange'' #382. Marvel Comics.</ref> Because of Loki's curiosity about the chamber, Stephen opens it, unleashing the Void.<ref>Doctor Strange #384. Marvel Comics.</ref> This causes the Void to possess Doctor Strange; however, with the replenishment of his magic by Loki and the help of the Sentry, Strange is freed by his influence and together they lock-in the Void again. An angry and distrustful Robert hits Strange, telling him to leave him alone.<ref>''Doctor Strange'' #385. Marvel Comics.</ref>
 
-It is later revealed that Doctor Strange created a device called the Confluctor that created a pocket dimension where Robert Reynolds can go to once every 24 hours to be the Sentry and fight the Void with Scout and Watchdog. This will prevent him from turning into the Void in the real world. Robert confides in Billy Turner (formerly The Scout) about the pocket dimension. Unbeknownst to him, Billy devises a plot with one of Sentry's oldest enemies [[Cranio]] to duplicate the Sentry formula and trap Robert Reynolds in the pocket dimension, so Cranio can rule there and Billy will be the new Sentry.<ref>''Sentry'' Vol. 3 #1-3. Marvel Comics.</ref> The plan is foiled when S.H.I.E.L.D. and Iron Man arrest Robert Reynolds for not checking in on his "parole", but he unleashes the Sentry and escapes. Billy takes the Sentry formula and battles Reynolds. They are evenly matched until Reynolds while in his subconscious thoughts decides to stop fighting the Void and become one with him, creating the newly-merged Sentry. An inexperienced Billy is unable to properly use the full powers of the Sentry and is killed by the Sentry. Then the Sentry removes Cranio from the pocket dimension. Iron Man returns with the Avengers, but they are unable to stop the new Sentry. Realizing they can't stop him, Iron Man asks if he'll do the right thing. Reynolds replies "You don't have a choice" and flies off into space.<ref>''Sentry'' Vol. 3 #4-5. Marvel Comics.</ref>
+It is later revealed that Doctor Strange created a device called the Confluctor that created a pocket dimension where Robert Reynolds can go to once every 24 hours to be the Sentry and fight the Void with Scout and Watchdog. This will prevent him from turning into the Void in the real world. Robert confides in Billy Turner (formerly The Scout) about the pocket dimension. Unbeknownst to him, Billy devises a plot with one of Sentry's oldest enemies [[Cranio]] to duplicate the Sentry formula and trap Robert Reynolds in the pocket dimension, so Cranio can rule there and Billy will be the new Sentry.<ref>''Sentry'' Vol. 3 #1-3. Marvel Comics.</ref> The plan is foiled when S.H.I.E.L.D. and Iron Man arrest Robert Reynolds for not checking in on his "parole", but he unleashes the Sentry and escapes. Billy takes the Sentry formula and battles Reynolds. They are evenly matched until Reynolds while in his subconscious thoughts decides to stop fighting the Void and become one with him. The newly-merged Sentry easily kills Billy, then removes Cranio from the pocket dimension. Iron Man returns with the Avengers, but they are unable to stop the new Sentry. As Reynolds prepares to leave, Iron Man asks if they're supposed to simply trust he'll do the right thing from now on. Reynolds replies "You don't have a choice" and flies off into space.<ref>''Sentry'' Vol. 3 #4-5. Marvel Comics.</ref>
 
-During the "[[King in Black]]" storyline, Sentry is back in his golden appearance and has been called by the Avengers to help fight [[Knull (character)|Knull]]. He attempts to do fly Knull into space, as he had done to Carnage, only for Knull to break free and tear Sentry in half, absorbing the Void, emerging from Sentry's body, into his own.<ref>''King in Black'' #1. Marvel Comics.</ref>
+During the "[[King in Black]]" storyline, Sentry returns in his golden appearance and has been called by the Avengers to help fight [[Knull (character)|Knull]]. He attempts to fly Knull into space, as he had done to Carnage, only for Knull to break free and tear Sentry in half instead, absorbing the Void emerging from Sentry's body, into his own.<ref>''King in Black'' #1. Marvel Comics.</ref>
 
 ==Powers and abilities==
-[[Image:Sentrycarnage.jpg|right|255px|thumb|The Sentry rips [[Carnage (comics)|Carnage]] in half. Interior panel from ''[[The New Avengers (comics)|New Avengers]]'' #2. Drawn by [[David Finch (comics)|David Finch]].]]
+
 
 The Sentry's powers ostensibly derive from the Super Soldier-serum that "moves his [[molecule]]s an instant ahead of the current timeline".{{Citation needed|date=September 2013}} This was designed to be a hundred thousand times stronger than the original used on [[Captain America]], and was modified by [[Weapon X]].<ref name="Sentry1">''The Sentry'' #1. Marvel Comics.</ref> However, in ''The Age of the Sentry'' mini-series, it is suggested that the Sentry is a sentient life-force, a refugee from another universe which attempted to break through to another one for its new home, and that this was merely accommodated by the serum.<ref>''The Age of the Sentry'' #6. Marvel Comics.</ref>
 
@@ -196,7 +200,7 @@ Several reasons for the existence of the Void have been given: the innate divisi
 The Void possesses the ability to shape-shift, and through its control over the weather and darkness it can create destructive storms and deadly "infini-tendrils" that attack the mind.{{Citation needed|date=September 2013}} Victims impaled on the tendrils experience traumatic visions of the past, present, and future. Its regular appearance varies between a shadowy, trench-coat-wearing villain to a massive hurricane of darkness.{{Citation needed|date=September 2013}} It can also assume powers dependent on shape, like a flame form that breathes fire,{{Citation needed|date=September 2013}} alternately an armored monster with superstrength and toughness.{{Citation needed|date=September 2013}} It is at its strongest during the night and in the [[Negative Zone]], where it has shown itself capable of easily overpowering the Hulk by breaking every single bone in his body in moments.{{Citation needed|date=September 2013}} Coincidentally, Sentry is at his weakest in the Negative Zone.{{Citation needed|date=September 2013}} A mere physical assault required much effort to hold off, even with the combined [[force shield|force fields]] of Iron Man, [[Doctor Strange]], and the [[Invisible Woman]], while the united forces of the [[The New Avengers (comics)|New Avengers]], [[Fantastic Four]], [[X-Men]], [[Inhumans]], [[Illuminati (comics)|Illuminati]], and heavily armed S.H.I.E.L.D. agents simultaneously attacked it.<ref>''New Avengers'' #7–10. Marvel Comics.</ref>
 
 ==Team==
-Joining Sentry to take on the Void are his sidekick, Scout,<ref>{{Cite web|url=https://marvel.fandom.com/wiki/Billy_Turner_(Earth-616)|title=Billy Turner (Earth-616)|website=Marvel Database|language=en|access-date=2019-08-09}}</ref> his loyal canine companion Watchdog and his equal, Sentress.
+Joining Sentry to take on the Void are his sidekick, Scout, his loyal canine companion Watchdog and his equal, Sentress.
 
 ===Scout===
 Better known as Scout, Billy Turner is the sidekick and partner of the Sentry. After the Sentry made the entire world forget of his existence with the help of Mister Fantastic and Doctor Strange in order to stop the Void, Billy went on to live a normal life. He lived with his mother and worked at a fast food restaurant. When the Sentry first re-emerged, Billy's memories of his life as Scout returned. He suited up on his old costume and joined the Sentry and numerous other heroes at the Statue of Liberty to take a stand against the Void. When the Sentry saw himself forced to return to obscurity, Billy returned again to his normal life.<ref>{{Cite book|title=Sentry Vol 1 #5|last=Jenkins|first=Paul|publisher=Marvel|year=2001}}</ref>
@@ -262,7 +266,7 @@ The Sentry has appeared in some issues of ''[[What If (comics)|What If]]'':
 ===Video games===
 * The Sentry appears in the Nintendo DS version of ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Nolan North]].
 * The Sentry is a playable character in ''[[Marvel Super Hero Squad Online]]''.
-* Robert Reynolds is a playable character in ''[[Marvel: Contest of Champions]]'' as both the Sentry and the Void.<ref>https://news.marvel.com/comics/83179/entering-marvel-contest-champions-void/</ref>
+* Robert Reynolds is a playable character in ''[[Marvel: Contest of Champions]]'' as both the Sentry and the Void.<ref>{{Cite web|url=https://news.marvel.com/comics/83179/entering-marvel-contest-champions-void/|title = Entering Marvel Contest of Champions: The Void}}</ref>
 * The Sentry is a playable character in ''[[Marvel Puzzle Quest]]''.
 * The Sentry appears in ''[[Lego Marvel's Avengers]]''.
 * The Sentry is a playable character in ''[[Marvel Future Fight]]''.
@@ -274,7 +278,7 @@ The Sentry has appeared in some issues of ''[[What If (comics)|What If]]'':
 * The lyrics of the song "A Million Exploding Suns" by [[Horse the Band]] draw on the duality of the Sentry's lifestyle.
 * Seth Marton, better known as [[Seth Sentry]], is an Australian rapper from [[Victoria, Australia]] whose stagename is a reference to Sentry, as he was Marton's favorite superhero growing up.
 
-==See Also==
+==See also==
 {{Portal|Speculative fiction|Comics}}
 * [[Metafiction]]
 
@@ -297,6 +301,7 @@ The Sentry has appeared in some issues of ''[[What If (comics)|What If]]'':
 {{S.H.I.E.L.D.}}
 
 [[Category:2000 comics debuts]]
+[[Category:Avengers (comics) characters]]
 [[Category:Characters created by Paul Jenkins (writer)]]
 [[Category:Comics characters introduced in 2000]]
 [[Category:Fictional characters from New York (state)]]
@@ -307,12 +312,11 @@ The Sentry has appeared in some issues of ''[[What If (comics)|What If]]'':
 [[Category:Fictional characters with immortality]]
 [[Category:Fictional drug addicts]]
 [[Category:Fictional murderers]]
-[[Category:Fictional shapeshifters]]
-[[Category:Male characters in comics]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
-[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics characters who are shapeshifters]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics telepaths]]
 [[Category:Merged fictional characters]]
 [[Category:S.H.I.E.L.D. agents]]

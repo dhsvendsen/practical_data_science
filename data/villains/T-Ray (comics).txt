@@ -14,7 +14,7 @@
 | alliances      = <!-- optional -->
 | partners       = <!-- optional -->
 | supports       = <!-- optional -->
-| aliases        = <!-- optional -->
+| aliases        = Jack
 | powers         = [[Zombie]], superhuman strength, knowledge of magical [[Louisiana Voodoo|voodoo]] rituals, [[fourth wall]] awareness
 | cat            = super
 | subcat         = Marvel Comics

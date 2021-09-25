@@ -1,3 +1,5 @@
+{{For|the unrelated object in the Marvel Cinematic Universe|Power Stone (Marvel Cinematic Universe)}}
+
 The '''Orb''' is the name of two fictional supervillains appearing in [[American comic book]]s published by [[Marvel Comics]], primarily adversaries of [[Ghost Rider]].
 
 ==Publication history==
@@ -68,6 +70,9 @@ Drake Shannon is an athletic man with no superhuman powers. He is an expert stun
 
 The second Orb used a repulsor ray gun. Unlike the original Orb, this Orb's head is an actual giant eyeball.<ref>''Ghost Rider'' #27 (November 2008), letters page. Marvel Comics</ref> He claims to be able to talk by flexing certain muscles in his 'eye'/head.<ref name="OriginalSin#3" /> He has merged with one of the eyes of [[Uatu]], which now resides in his chest.<ref name="OriginalSin#8" />
 
+==In other media==
+The Drake Shannon incarnation of the Orb appears in the ''[[M.O.D.O.K. (TV series)|M.O.D.O.K.]]'' animated television series, voiced by [[Bill Hader]].{{cn|date=May 2021}} This version works as a bartender at the Bar with No Name and rarely speaks.<ref>{{cite episode|title=If Saturday Be... For the Boys!|series=M.O.D.O.K.|credits=Towner, Eric and Alex Kramer (director); Patton Oswalt (writer)|network=Hulu|air-date=May 21, 2021|season=1|number=4}}</ref>
+
 ==References==
 {{reflist}}
 
@@ -77,7 +82,6 @@ The second Orb used a repulsor ray gun. Unlike the original Orb, this Orb's head
 
 {{Ghost Rider}}
 
-[[Category:Animated series villains]]
 [[Category:Characters created by Len Wein]]
 [[Category:Characters created by Ross Andru]]
 [[Category:Comics characters introduced in 1973]]

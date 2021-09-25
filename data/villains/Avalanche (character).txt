@@ -1,4 +1,4 @@
-{{Use dmy dates|date=June 2012}}
+{{Use dmy dates|date=August 2021}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Avalanche XCorps.jpg|250px]]
 |caption=
@@ -44,7 +44,7 @@ Avalanche was among the mutants resurrected and residing on [[Krakoa]].<ref>''X-
 ===Unknown===
 A somehow-repowered [[Mesmero (comics)|Mesmero]] brainwashed the unknown Avalanche into joining his Brotherhood of Mutants which was secretly funded by anti-mutant activist Lydia Nance. Avalanche's first mission with the Brotherhood of Mutants was to kidnap Mayor Bill de Blaso and held him hostage.<ref>''X-Men Gold'' Vol. 2 #2. Marvel Comics.</ref> The X-Men arrived and defeated the Brotherhood of Mutants who are then arrested by the arriving S.H.I.E.L.D. Agents.<ref>''X-Men Gold'' Vol. 2 #3. Marvel Comics.</ref>
 
-As Lydia Nance still had a use for the Brotherhood of Mutants, she orchestrated Mesmero's escape from the Box.<ref>''X-Men Gold'' Vol. 2 #22. Marvel Comics.</ref> Mesmero once again lured Avalanche and the second Pyro into helping him out again. They were to attack a yacht that was owned by the Heritage Initiative at the time of its fundraiser. They group fought the X-Men alongside the NYPD.<ref>''X-Men Gold'' Vol. 2 #21. Marvel Comics.</ref> The Brotherhood of Mutants managed to get away and fall back to their base. When Mesmero states that the Brotherhood of Mutants are still under Lydia Nance's paycheck, Pyro takes his leave since he didn't want to work for an anti-mutant activist. Avalanche then demanded from Mesmero to get Pyro's cut.<ref>''X-Men Gold'' Vol. 2 #22. Marvel Comics.</ref>
+As Lydia Nance still had a use for the Brotherhood of Mutants, she orchestrated Mesmero's escape from the Box.<ref name="ReferenceA">''X-Men Gold'' Vol. 2 #22. Marvel Comics.</ref> Mesmero once again lured Avalanche and the second Pyro into helping him out again. They were to attack a yacht that was owned by the Heritage Initiative at the time of its fundraiser. They group fought the X-Men alongside the NYPD.<ref>''X-Men Gold'' Vol. 2 #21. Marvel Comics.</ref> The Brotherhood of Mutants managed to get away and fall back to their base. When Mesmero states that the Brotherhood of Mutants are still under Lydia Nance's paycheck, Pyro takes his leave since he didn't want to work for an anti-mutant activist. Avalanche then demanded from Mesmero to get Pyro's cut.<ref name="ReferenceA"/>
 
 Avalanche then joined another new Brotherhood of Mutants, this time led by Magneto's clone [[Joseph (comics)|Joseph]]. During a battle with the X-Men, Avalanche mocked [[Magik (Illyana Rasputin)|Magik]], prompting her to stab him in the heart with her soulsword. It is unknown if he survived this encounter.<ref>''Uncanny X-Men'' #16 (Apr 2019). Marvel Comics.</ref>
 
@@ -75,11 +75,11 @@ It was also mentioned that Avalanche was the one who blinded [[Hawkeye (Clint Ba
 * Avalanche appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', voiced by [[James Patrick Stuart]].<ref>''Wolverine e os X-Men (Wolverine and the X-Men)'' Ep. 1 – "Hindsight Pt. I"</ref> He is a member of the Brotherhood of Mutants. Unlike the other televised versions of the character, this adaptation has a strong Greek accent and sports a goatee. He first appears in "Hindsight" Pt. 2 where he and the Brotherhood of Mutants trick the X-Men into attacking the Mutant Response Division.
 
 ===Video games===
-* Avalanche appears as a [[Boss (video games)|boss]] character in ''[[X-Men Legends]]'' voiced by [[Peter Lurie]].<ref name="btva">{{cite web|title=Avalanche Voice - X-Men franchise <nowiki>|</nowiki> Behind The Voice Actors|url=https://www.behindthevoiceactors.com/characters/X-Men/Avalanche/|website=behindthevoiceactors.com|date=December 19, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> He is part of Magneto's Brotherhood of Mutants and fights the X-Men at The Mount alongside [[Sabretooth (comics)|Sabretooth]]. The [[Shadow King]] also had a Dark Avalanche when the X-Men were in the Astral Plane.
+* Avalanche appears as a [[Boss (video games)|boss]] character in ''[[X-Men Legends]]'' voiced by [[Peter Lurie]].<ref name="btva">{{cite web|title=Avalanche Voice - X-Men franchise <nowiki>|</nowiki> Behind The Voice Actors|url=https://www.behindthevoiceactors.com/characters/X-Men/Avalanche/|website=behindthevoiceactors.com|date=19 December 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> He is part of Magneto's Brotherhood of Mutants and fights the X-Men at The Mount alongside [[Sabretooth (comics)|Sabretooth]]. The [[Shadow King]] also had a Dark Avalanche when the X-Men were in the Astral Plane.
 * Avalanche is featured as a boss in the Facebook game ''[[Marvel: Avengers Alliance]]''. He later appeared as an unlockable character when the player collects 8 Boombox Lockboxes that contain his eight comic book covers.
 
 ===Toys and collectibles===
-* An Avalanche 6 inch figure was released in the "X-Men Classics" toy line. The package refers to him as Dominic Petros. He includes a wind-up rockslide base with vibrating action.
+* An Avalanche 6-inch figure was released in the "X-Men Classics" toy line. The package refers to him as Dominic Petros. He includes a wind-up rockslide base with vibrating action.
 
 ==References==
 {{Reflist}}

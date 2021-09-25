@@ -1,10 +1,12 @@
+{{Short description|Marvel Comics cosmic entity}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=[[Image:Shuma Gorath.jpg|250px]]
 |character_name=Shuma-Gorath
 |real_name=
 |species=Old Ones/[[Many-angled ones]]
 |publisher=[[Marvel Comics]]
-|debut=''[[Marvel Premiere]]'' #5 (November 1972)
+|debut=''[[Marvel Premiere]]'' #5 (Mentioned)(November 1972)
+"[[Marvel Premiere]]" #10 (Full) (September 1973)
 |creators=[[Steve Englehart]]<br /> [[Frank Brunner]]
 |alliances=
 |aliases=Lord of Chaos
@@ -14,7 +16,7 @@
 '''Shuma-Gorath''' ({{IPAc-en|ˈ|ʃ|uː|m|ə|_|ˈ|g|ɔːr|æ|θ}}) is a [[character (fiction)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Shuma-Gorath first appears as an adversary for [[Doctor Strange]] in ''[[Marvel Premiere]]'' #5 (November 1972), created by [[Steve Englehart]] and [[Frank Brunner]]. The character's name is taken from [[Robert E. Howard]]'s short story "The Curse of the Golden Skull", which features a dying magician named Rotath invoking the "iron-bound books of Shuma-Gorath" in a curse against humanity.
+Shuma-Gorath first appears as an adversary for [[Doctor Strange]] in ''[[Marvel Premiere]]'' #10 (September 1973), created by [[Steve Englehart]] and [[Frank Brunner]]. The character's name is taken from [[Robert E. Howard]]'s short story "The Curse of the Golden Skull", which features a dying magician named Rotath invoking the "iron-bound books of Shuma-Gorath" in a curse against humanity.
 
 ==Fictional character biography==
 During Earth's pre-history Shuma-Gorath ruled the world, and demanded [[human sacrifice]] until eventually banished by time-traveling sorcerer [[Sise-Neg]].<ref>''Marvel Premiere'' #14 (March 1974). Marvel Comics</ref> The entity eventually returns during the [[Hyborian Age]], but is imprisoned within a mountain by the power of the god [[Crom (fictional deity)|Crom]].<ref>''Conan the Barbarian'' #240 (Jan. 1991). Marvel Comics</ref> Shuma-Gorath continues to be an influence on Earth until returned to its home dimension by Crom.<ref>''Conan the Barbarian'' #260 (Sept. 1992). Marvel Comics</ref>
@@ -38,8 +40,6 @@ Shuma-Gorath is an ancient force of chaos, the immortal, nigh-invincible, and go
 In the "Venomized" event, a Poison Shuma-Gorath was present in the Poison Hive's invasion of the [[Earth-616|Prime Marvel Universe]], fighting [[Vision (Marvel Comics)|Vision]] and [[Falcon (Marvel Comics)|Falcon]], successfully bonding a [[Klyntar|symbiote]] to the latter.<ref>''Venomized'' #1-5. Marvel Comics.</ref>
 
 ==In other media==
-
-===Video games===
 * Shuma-Gorath appears as a playable character in the [[fighting game]] ''[[Marvel Super Heroes (video game)|Marvel Super Heroes]]'', voiced by Frank Perry.<ref name="btva">{{cite web|title=Shuma-Gorath Voice - Doctor Strange franchise <nowiki>|</nowiki> Behind The Voice Actors|url=https://www.behindthevoiceactors.com/characters/Doctor-Strange/Shuma-Gorath/|website=behindthevoiceactors.com|date=December 21, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref><ref>http://www.vgmuseum.com/end/arcade/b/mshshu.htm</ref>
 * Shuma-Gorath appears as a playable character in the fighting game ''[[Marvel Super Heroes vs. Street Fighter]]'', voiced again by Frank Perry.<ref>http://www.vgmuseum.com/end/arcade/a/mshsfshu.htm</ref>
 * Shuma-Gorath appears as a playable character in the fighting game ''[[Marvel vs. Capcom 2: New Age of Heroes]]'', voiced again by Frank Perry.{{cn|date=November 2016}}

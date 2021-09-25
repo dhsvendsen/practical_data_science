@@ -64,7 +64,10 @@ In the ''[[Mutant X (comics)|Mutant X]]'' reality, Stingray is a member of the [
 During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline, a version of Stingray resides in the futuristic [[Battleworld]] domain of Technopolis (which is based on a world in which everyone wears armors to live and survive due to an unknown airborne virus). This version is a spy outfitted with an advanced suit of armor developed by [[Iron Man 2020|Arno Stark]]. He is sent to spy on Kiri Oshiro by Arno Stark and [[Kingpin (comics)|Wilson Fisk]] and ends up trying to kill the girl and her friend Lila Rhodes after stating that he can't leave behind any witnesses. Kiri manages to defeat Stingray before he can kill Lila.<ref>''Armor Wars'' #2. Marvel Comics.</ref>
 
 ==In other media==
-* Stingray appears in the ''[[Iron Man (TV series)|Iron Man]]'' animated television series episode "Armor Wars" Pt. 2, voiced by [[Tom Kane]]. This version is a naval command officer who can use water and air to his advantage. Iron Man attacks him, believing his armor was based on stolen [[Stark Enterprises]] armor designs, only to discover soon after this was not true.
+===Television===
+* Stingray appears in the ''[[Iron Man (TV series)|Iron Man]]'' animated television series episode "Armor Wars" Pt. 2, voiced by [[Tom Kane]].{{cn|date=April 2021}} This version is a naval command officer who can use water and air to his advantage. Iron Man attacks him, believing his armor was based on stolen [[Stark Enterprises]] armor designs, only to discover soon after this was not true.
+
+===Video games===
 * Stingray appears in the video game ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=13 January 2018}}</ref> He helps [[Captain America]], [[Carol Danvers|Captain Marvel]], [[Doctor Strange]], the [[Hulk]], and [[Thor (Marvel Comics)|Thor]] claim a shard of the Nexus of All Realities from [[Attuma]].
 
 ==Reception==
@@ -83,6 +86,7 @@ During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline, a version 
 {{Mercs for Money}}
 
 {{DEFAULTSORT:Stingray (Comics)}}
+[[Category:Avengers (comics) characters]]
 [[Category:Characters created by Bill Everett]]
 [[Category:Characters created by Roy Thomas]]
 [[Category:Comics characters introduced in 1969]]

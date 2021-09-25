@@ -1,5 +1,7 @@
 {{Short description|Fictional character appearing in American comic books published by Marvel Comics}}
 
+{{confuse|Aragorn}}
+
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 |image=ValkyrieDefenders4.jpg
 |image_size=200

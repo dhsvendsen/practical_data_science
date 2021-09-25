@@ -1,4 +1,4 @@
-{{In-universe|date=January 2019}}
+{{Short description|Fictional superhero}}{{In-universe|date=January 2019}}
 {{Overly detailed|date=January 2019}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=Runaways Vol 1 5 Textless.jpg
@@ -109,7 +109,7 @@ In Brian K. Vaughan's original pitch for the series, Chase was originally called
 
 * Chase Stein (accompanied by Old Lace) appeared as a playable character in the Facebook video game ''[[Marvel: Avengers Alliance]]''.
 
-* Chase is a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>https://news.marvel.com/games/87421/this-week-in-marvel-games-runaways-jessica-jones-and-proxima-midnight/</ref> He appears in the "Runaways" DLC.
+* Chase is a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{Cite web |url=https://news.marvel.com/games/87421/this-week-in-marvel-games-runaways-jessica-jones-and-proxima-midnight/ |title=Archived copy |access-date=2018-04-23 |archive-date=2018-06-14 |archive-url=https://web.archive.org/web/20180614221354/https://news.marvel.com/games/87421/this-week-in-marvel-games-runaways-jessica-jones-and-proxima-midnight/ |url-status=dead }}</ref> He appears in the "Runaways" DLC.
 
 ==References==
 {{reflist|2}}
@@ -122,3 +122,4 @@ In Brian K. Vaughan's original pitch for the series, Chase was originally called
 [[Category:Characters created by Brian K. Vaughan]]
 [[Category:Comics characters introduced in 2003]]
 [[Category:Fictional mechanics]]
+[[Category:Time travelers]]

@@ -1,3 +1,4 @@
+{{Short description|Fictional character appearing in American comic books}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Dr Bong.jpg
 |caption=
@@ -22,9 +23,9 @@ The character subsequently appears in ''Howard the Duck'' #16–20 (September 19
 Doctor Bong received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #2.
 
 ==Fictional character biography==
-As a child, Lester Verde was severely bullied. When complaining about it to his mother, she noted his creative use of insults against his tormentors and sparked his desire to use his creativity to become a writer.{{Issue|date=April 2010}}
+As a child, Lester Verde was severely bullied. When complaining about it to his mother, she noted his creative use of insults against his tormentors and sparked his desire to use his creativity to become a writer.<ref>"Howard the Duck #17</ref>
 
-Originally a [[journalism]] student whose yellow journalism got his professor fired, his hand is severed by a miniature guillotine when performing with the punk band Mildred Horowitz. This is a big factor in his becoming the villain Doctor Bong. How he developed his paraphernalia was never explained.
+Originally a [[journalism]] student whose yellow journalism got his professor fired, his hand is severed by a miniature guillotine when performing with the punk band Mildred Horowitz. This is a big factor in his becoming the villain Doctor Bong. How he developed his paraphernalia was never explained.<ref>"Howard the Duck" #17</ref>
 
 It is revealed that he was also a skilled scientist, using his knowledge of [[chemistry]] and [[physics]] to create several devices and creatures to do his bidding, particularly [[Fifi the Duck]], who was the closest thing Bong had to a henchwoman.<ref>"Howard the Duck" #17</ref> He lives in a castle on a remote island, and can stun or kill by ringing his bell-shaped head.<ref>{{cite book |last1=Morris |first1=Jon |title=The Legion of Regrettable Supervillains: Oddball Criminals from Comic Book History |date=2017 |publisher=Quirk Books |isbn=978-1594749322 |page=216}}</ref>
 
@@ -55,6 +56,7 @@ Doctor Bong is a genius scientist with advanced knowledge of genetic engineering
 ==External links==
 * [http://www.marveldirectory.com/individuals/d/doctorbong.htm Doctor Bong at MarvelDirectory.com]
 
+{{Howard the Duck}}
 {{Deadpool}}
 {{Steve Gerber}}
 

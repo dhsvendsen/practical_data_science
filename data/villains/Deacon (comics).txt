@@ -1,5 +1,4 @@
 {{about|the Marvel Comic s character|information about the musician Steve "'''The Deacon'''" Hunter|Steve Hunter}}
-{{mergeto|List of Marvel Comics characters: D|date=October 2020}}
 {{More citations needed|date=June 2010}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
 |image=Deacon new.jpg
@@ -33,7 +32,7 @@ None, but the Deacon is a mountain of a man whose strength is easily greater tha
 *[http://marvel.com/universe/Deacon Deacon] at the Marvel Universe
 
 {{Ghost Rider}}
-
+{{Jason Aaron}}
 {{DEFAULTSORT:Deacon, The}}
 [[Category:Comics characters introduced in 2008]]
 [[Category:Marvel Comics supervillains]]

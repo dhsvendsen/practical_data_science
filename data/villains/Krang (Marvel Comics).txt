@@ -51,11 +51,11 @@ In the ''[[House of M]]'' reality, Warlord Krang was shown as Namor's aide.<ref>
 ==In other media==
 
 ===Television===
-* Warlord Krang appeared in the "Sub-Mariner" segment of ''[[The Marvel Super Heroes]]'', voiced by [[Paul Kligman]].<ref name="BTVA">https://www.behindthevoiceactors.com/characters/Marvel-Universe/Warlord-Krang/</ref>
+* Warlord Krang appeared in the "Sub-Mariner" segment of ''[[The Marvel Super Heroes]]'', voiced by [[Paul Kligman]].<ref name="BTVA">{{Cite web|url=https://www.behindthevoiceactors.com/characters/Marvel-Universe/Warlord-Krang/|title=Warlord Krang Voices (Marvel Universe)}}</ref>
 * Warlord Krang appears in the ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "Now Comes the Sub-Mariner" voiced by [[Neil Ross]].<ref name="BTVA"/>
 
 ===Video games===
-* Warlord Krang appears as a mini-boss in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Fred Tatasciore]].<ref name="BTVA"/> He is a member of [[Doctor Doom]]'s [[Masters of Evil]]. He is seen guarding the first sonic emitter with Byrrah (who he calls his cousin) after Attuma and [[Tiger Shark (Marvel Comics)|Tiger Shark]] took over Atlantis. It is revealed by Uatu the Watch that if the player fails to get the rare Walek seaweed as one of the ingredients for a medicine needed to heal Namor, Krang will take the throne from the weakened Namor and command the Atlanteans to steal nuclear weapons in order to wage war against the surface.|
+* Warlord Krang appears as a mini-boss in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Fred Tatasciore]].<ref name="BTVA"/> He is a member of [[Doctor Doom]]'s [[Masters of Evil]]. He is seen guarding the first sonic emitter with Byrrah (who he calls his cousin) after Attuma and [[Tiger Shark (Marvel Comics)|Tiger Shark]] took over Atlantis. It is revealed by [[Uatu]] that if the player fails to get the rare Walek seaweed as one of the ingredients for a medicine needed to heal Namor, Krang will take the throne from the weakened Namor and command the Atlanteans to steal nuclear weapons in order to wage war against the surface.
 
 ==References==
 {{reflist}}
@@ -74,6 +74,7 @@ In the ''[[House of M]]'' reality, Warlord Krang was shown as Namor's aide.<ref>
 [[Category:Fictional dictators]]
 [[Category:Fictional kings]]
 [[Category:Fictional mass murderers]]
+[[Category:Fictional swordfighters]]
 [[Category:Fictional warlords]]
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]
 [[Category:Marvel Comics supervillains]]

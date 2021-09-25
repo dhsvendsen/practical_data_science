@@ -6,7 +6,7 @@
 {{expand section|date=August 2018}}
 '''Kid Colt''' starred in the [[comic book]] series ''[[Kid Colt Outlaw]]'', as well as in several other titles. He is the longest-running cowboy star in American comic-book publishing, featured in stories for a 31-year stretch from 1948–1979, though from 1966 most of the published stories were reprints.
 
-Kid Colt appeared in numerous series through that decade, including ''[[All Winners Comics|All Western Winners]]''<!--sp OK-->, ''[[Wild Western]]'', ''Two-Gun Western'',<!--sp OK--> and ''[[Gunsmoke Western]]''. Each issue of ''[[The Mighty Marvel Western]]'' featured three [[Old West]] heroes: the [[Rawhide Kid]] and the [[Two-Gun Kid]] in all issues, and Kid Colt in all issues except #25-42 (July 1973 - Oct. 1975), in which [[Matt Slade (comics)|Matt Slade]], from the 1956 series ''Matt Slade, Gunfighter'', published by Marvel forerunner [[Atlas Comics (1950s)|Atlas Comics]], was substituted. Virtually all Kid Colt stories were drawn by the character's longtime artist, [[Jack Keller (comics)|Jack Keller]].<ref name=gcd>[http://www.comics.org/series/1870/ ''The Mighty Marvel Western''] at the [[Grand Comics Database]]</ref><ref>[http://www.atlastales.com/sT/161 ''Matt Slade, Gunfighter''] at AtlasTales.com</ref> The series ended with #229 (April 1979), making it the longest-running Western comic book.<ref>[http://www.toonopedia.com/kidcolt.htm ''Kid Colt, Outlaw''] at [[Don Markstein's Toonopedia]]. [http://www.webcitation.org/6d7WSDuVb Archived] from the original on November 18, 2015.</ref>
+Kid Colt appeared in numerous series through that decade, including ''[[All Winners Comics|All Western Winners]]''<!--sp OK-->, ''[[Wild Western]]'', ''Two-Gun Western'',<!--sp OK--> and ''[[Gunsmoke Western]]''. Each issue of ''[[The Mighty Marvel Western]]'' featured three [[Old West]] heroes: the [[Rawhide Kid]] and the [[Two-Gun Kid]] in all issues, and Kid Colt in all issues except #25-42 (July 1973 - Oct. 1975), in which [[Matt Slade (comics)|Matt Slade]], from the 1956 series ''Matt Slade, Gunfighter'', published by Marvel forerunner [[Atlas Comics (1950s)|Atlas Comics]], was substituted. Virtually all Kid Colt stories were drawn by the character's longtime artist, [[Jack Keller (comics)|Jack Keller]].<ref name=gcd>[http://www.comics.org/series/1870/ ''The Mighty Marvel Western''] at the [[Grand Comics Database]]</ref><ref>[http://www.atlastales.com/sT/161 ''Matt Slade, Gunfighter''] at AtlasTales.com</ref> The series ended with #229 (April 1979), making it the longest-running Western comic book.<ref>[http://www.toonopedia.com/kidcolt.htm ''Kid Colt, Outlaw''] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6d7WSDuVb?url=http://www.toonopedia.com/kidcolt.htm Archived] from the original on November 18, 2015.</ref>
 
 Kid Colt additionally headlined the three-issue ''Giant-Size Kid Colt'' (Jan. 1975 - July 1975), which consisted entirely of reprints except for one new story in each of the latter two issues.<ref>[https://www.comics.org/series/2244/ ''Giant-Size Kid Colt''] at the [[Grand Comics Database]].</ref>
 
@@ -69,7 +69,7 @@ During a period where time itself was becoming unraveled, Kid Colt teamed up wit
 | supports=<!--optional-->
 | powers = Shapeshifting<br>Teleportation<br>Creation of sub-space pockets
 }}
-'''Kid Colt''' (real name: Elric Freedom Whitemane) is a contemporary [[superhero]] character in the [[Marvel Comics]] [[Marvel universe|universe]] who has appeared as a member of the modern-day [[Young Allies]]. Created by [[Fabian Nicieza]] and [[Mark Bagley]], he debuted in ''[[Heroes Reborn (comics)|Heroes Reborn]]: Young Allies'' #1 (Jan. 2000).
+'''Kid Colt''' (real name: Elric Freedom Whitemane) is a contemporary [[superhero]] character in the [[Marvel Comics]] [[Marvel universe|universe]] who has appeared as a member of the modern-day [[Young Allies]]. Created by [[Fabian Nicieza]] and [[Mark Bagley]], he debuted in ''[[Heroes Reborn (1996 comic)|Heroes Reborn]]: Young Allies'' #1 (Jan. 2000).
 
 Born to hippies, Elric was a normal child, until government agents paid his parents to let them give him special "tests" (which were attempts to fuse his [[DNA]] with the DNA of the equine aliens known as the [[Kymellian]]s). The tests were successful, and young Elric changed into a strange, bipedal horse-like creature. Hearing stories of the wild west, Elric assumed the identity of Kid Colt, and began to use his newfound powers to help those in need. He was eventually recruited by the [[Young Allies]] to help them free two alien beings. Elric decided to remain with the team.{{issue|date=November 2011}}
 
@@ -108,8 +108,9 @@ Elric is a hybrid of human and [[Kymellian]]. Due to his alien [[DNA]], he can s
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1948]]
 [[Category:Comics characters introduced in 2000]]
+[[Category:Fictional cowboys and cowgirls]]
 [[Category:Fictional horses]]
 [[Category:Golden Age adventure heroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Timely Comics characters]]
-[[Category:Western (genre) characters]]
+[[Category:Western (genre) comics characters]]

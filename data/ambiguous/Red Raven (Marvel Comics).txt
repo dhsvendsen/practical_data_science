@@ -12,7 +12,7 @@ Redford Raven appeared in ''[[Rawhide Kid]]'' #38 (February 1964),<ref>{{cite bo
 ==Fictional character biography==
 ==={{anchor|Original Red Raven}} Original Red Raven===
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=Red Raven Comics Issue 1.jpg
+image=
 |caption= 
 |character_name=Red Raven
 |real_name=

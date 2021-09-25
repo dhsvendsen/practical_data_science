@@ -1,4 +1,4 @@
-{{About|the Marvel Comics character|the Black Sabbath song|Psycho Man (Black Sabbath song)}}
+{{About|the Marvel Comics character|the Black Sabbath song|Psycho Man (song)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 | image = FantasticFour-283.jpg
 | image_size = 250
