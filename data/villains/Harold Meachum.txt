@@ -1,5 +1,5 @@
 {{Infobox comics character
-|image= 
+|image= Harold Meachum (Earth-616) from Marvel Premiere Vol 1 18 001.png
 |caption=
 |character_name=Harold Meachum
 |species=[[Human]]
@@ -10,9 +10,9 @@
 |aliases=
 |powers=
 }}
-'''Harold "Harry" Meachum''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a sinister businessman, primarily a foe of [[Iron Fist (comics)|Iron Fist]]. In his original appearances in comics, he is depicted as the father of [[Joy Meachum]] and the brother of [[Ward Meachum]].
+'''Harold''' "'''Harry'''" '''Meachum''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a sinister businessman, primarily a foe of [[Iron Fist (comics)|Iron Fist]]. In his original appearances in comics, he is depicted as the father of [[Joy Meachum]] and the brother of [[Ward Meachum]].
 
-In the first season of the [[Netflix]] [[Marvel Cinematic Universe]] series ''[[Iron Fist (TV series)|Iron Fist]]'', Harold was the father of both Joy and Ward and was portrayed by [[David Wenham]].
+In the first season of the [[Marvel Cinematic Universe]] series ''[[Iron Fist (TV series)|Iron Fist]]'', Harold was the father of both Joy and Ward and was portrayed by [[David Wenham]].
 
 ==Publication history==
 {{expand-section|date=March 2017}}

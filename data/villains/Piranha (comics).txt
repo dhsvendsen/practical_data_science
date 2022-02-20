@@ -1,6 +1,6 @@
 {{short description|Fictional comic book character}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics--> 
-|image=
+|image=Piranha (Earth-616) from Sub-Mariner Vol 1 70 0001.jpg
 |caption=
 |character_name=Piranha
 |real_name=
@@ -11,7 +11,7 @@
 |alliances=[[Deep Six (Marvel Comics)|Deep Six]]
 |aliases=
 |powers=Superhuman strength, speed, agility, stamina and durability<br>Sharp teeth & claws<br>Air & Water breathability<br>Neurocognitive deficiency venom<br>Marine telepathy<br>Healing factor<br>Consumptive knowledge replication<br>Digestive assimilation
-Zombie physiology<br>Zombification<br>Asexual Repoduction<br>Self-Spawning
+Zombie physiology<br>Zombification<br>Asexual Reproduction<br>Self-Spawning
 |}} 
 '''Piranha''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Namor|Sub-Mariner]]'' #70 (May 1974).<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=266}}</ref>
 
@@ -34,9 +34,13 @@ The Piranha was a normal piranha fish mutated by radiation into a semi-humanoid 
 * {{Marvunapp|http://www.marvunapp.com/Appendix/piranha.htm|Piranha}}
 
 {{Namor}}
-
+{{Midnight Sons}}
 [[Category:Characters created by George Tuska]]
 [[Category:Characters created by Marv Wolfman]]
 [[Category:Comics characters introduced in 1974]]
+[[Category:Fictional fish]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics telepaths]]

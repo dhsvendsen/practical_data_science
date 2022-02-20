@@ -1,3 +1,4 @@
+{{Short description|Fictional character from Marvel Comics}}
 {{for|the Star Wars comic|Nomad (Star Wars Tales)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=NomadLS-1.jpg
@@ -35,7 +36,7 @@ He is killed by an agent of the Skull, the [[Ameridroid]], in ''Captain America'
 
 ==Jack Monroe==
 {{main|Jack Monroe (comics)}}
-The third and best known Nomad is Jack Monroe, who was formerly known as the third [[Bucky (Marvel Comics)|Bucky]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=212}}</ref> He was created by writer Steve Englehart and artist Sal Buscema in ''[[Captain America (comic book)|Captain America]]'' #153 (September 1972).
+The third and best known Nomad is Jack Monroe, who was formerly known as the third [[Bucky (Marvel Comics)|Bucky]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=212}}</ref> He was created by writer Steve Englehart and artist Sal Buscema in ''[[Captain America (comic book)|Captain America]]'' #153 (September 1972). During the "Captain America No More" story arc, when Rogers was forced to abandon his identity as Captain America by a US Government committee, Monroe offered to let Rogers become Nomad again, but Rogers declined and took a new identity, The Captain, for the interim.
 
 ==Rikki Barnes==
 {{main|Rikki Barnes}}

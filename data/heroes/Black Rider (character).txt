@@ -1,8 +1,8 @@
 {{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
-| image = 
+| image = Marvel Westerns Strange Westerns Starring the Black Rider Vol 1 1 Textless.jpg
 | caption = 
 | character_name = The Black Rider
-| publisher = [[Timely Comics]]
+| publisher = [[Marvel Comics]]
 | debut = ''[[All Winners Comics|All-Western Winners]]'' #2 (Winter 1948)
 | creators = [[Syd Shores]] (art)
 | alter_ego = Matthew "Doc" Masters
@@ -86,9 +86,11 @@ A modern-day version of the character stars in the five-issue ensemble [[miniser
 [[Category:Comics characters introduced in 1948]]
 [[Category:Western (genre) heroes and heroines]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Timely Comics characters]]
 [[Category:1948 comics debuts]]
 [[Category:Western (genre) comics]]
 [[Category:1950 comics debuts]]
 [[Category:1955 comics endings]]
 [[Category:Western (genre) comics characters]]
+[[Category:Western (genre) outlaws]]

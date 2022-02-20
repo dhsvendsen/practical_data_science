@@ -14,7 +14,7 @@
 |villain= y
 }}
 
-'''Hammer and Anvil''' are [[Character (arts)|fictional]] [[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. 
+'''Hammer and Anvil''' are <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. 
 
 ==Publication history==
 They first appeared in ''[[The Incredible Hulk (comic book)|Hulk]]'' #182 (December 1974), and were created by [[Len Wein]] and [[Herb Trimpe]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=153}}</ref>

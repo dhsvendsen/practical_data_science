@@ -1,3 +1,4 @@
+{{Short description|Marvel comics character}}
 {{Infobox comics character
 | character_name = Black Mariah
 | image          = Black Mariah.jpg
@@ -23,9 +24,9 @@
 | villain        = y
 | sortkey        =
 |}}
-'''Black Mariah''' (real name '''Mariah Dillard''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of [[Luke Cage]]. She was created by [[Billy Graham (comics)|Billy Graham]], [[George Tuska]], and [[Steve Englehart]], and first appeared in ''Luke Cage, Hero for Hire'' Vol. 1, #5 (January 1973).
+'''Black Mariah''' (real name '''Mariah Dillard''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of [[Luke Cage]]. She was created by [[Billy Graham (comics)|Billy Graham]], [[George Tuska]], and [[Steve Englehart]], and first appeared in ''Luke Cage, Hero for Hire'' Vol. 1, #5 (January 1973).
 
-[[Alfre Woodard]] portrayed Mariah Dillard in the [[Netflix]] series ''[[Luke Cage (TV series)|Luke Cage]]'', set in the [[Marvel Cinematic Universe]].<ref name="auto">[http://www.newsarama.com/28701-is-luke-cage-s-black-mariah-in-civil-war.html UPDATE: Is a Netflix LUKE CAGE Character In CAPTAIN AMERICA: CIVIL WAR? | Newsarama.com], Retrieved April 7, 2016</ref>
+[[Alfre Woodard]] portrayed Mariah Dillard in the series ''[[Luke Cage (TV series)|Luke Cage]]'', set in the [[Marvel Cinematic Universe]].<ref name="auto">[http://www.newsarama.com/28701-is-luke-cage-s-black-mariah-in-civil-war.html UPDATE: Is a Netflix LUKE CAGE Character In CAPTAIN AMERICA: CIVIL WAR? | Newsarama.com], Retrieved April 7, 2016</ref>
 
 ==Publication history==
 Black Mariah first appeared in ''[[Luke Cage]]: Hero for Hire'' #5 (January 1973) and was created by [[George Tuska]] and [[Steve Englehart]].

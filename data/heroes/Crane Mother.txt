@@ -1,6 +1,6 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | character_name = Crane Mother
-| image = 
+| image = Crane Mother (Earth-616).png
 | converted = 
 | caption = 
 | publisher = [[Marvel Comics]]

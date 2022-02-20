@@ -1,12 +1,13 @@
+{{Short description|Fictional character from Marvel Comics}}
 {{Notability|date=August 2018}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image = DeathMetal1.png
 | imagesize=200
-| caption = Death Metal, on the cover of ''Death Metal'' #1 (January 1994).
+| caption = Death Metal, on the cover of ''Death Metal'' #1 (January 1994)
 | character_name = Death Metal
 | publisher = [[Marvel UK]]
 | debut = ''Death³'' #1 (September 1993)
-| creators = [[Dan Abnett]]<br>[[Dell Barras]]
+| creators = [[Dan Abnett]]<br />[[Dell Barras]]
 | alter_ego = Death Metal
 | full_name =
 | species = Robot
@@ -14,8 +15,9 @@
 | alliances = <!-- optional -->
 | aliases = <!-- optional: actual identities the character uses, not nicknames -->
 | supports=
-| powers = Shape-changing, superstrength, resistant to injury, ability to absorb memories and personalities of others
+| powers = Shape-changing, superstrength, resistance to injury, ability to absorb memories and personalities of others
 }}
+
 '''Death Metal''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in the [[Marvel UK]] imprint. He first appeared in ''Death³'' #1 and was created by [[Dan Abnett]] and [[Dell Barras]].
 
 ==Fictional character biography==
@@ -42,6 +44,7 @@ In ''Death Metal vs. [[Genetix (comics)|Genetix]]'', Death Metal sought to creat
 {{DEFAULTSORT:Death Metal (Comics)}}
 [[Category:Comics characters introduced in 1993]]
 [[Category:Marvel UK titles]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics robots]]
 [[Category:Characters created by Dan Abnett]]

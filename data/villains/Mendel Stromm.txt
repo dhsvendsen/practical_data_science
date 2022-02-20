@@ -1,3 +1,4 @@
+{{Short description|Fictional supervillain in publications by Marvel Comics}}
 {{notability|date=December 2020}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | image = Mendel Stromm.png
@@ -55,7 +56,7 @@ Mendel Stromm appears in the 2002 ''[[Spider-Man (2002 film)|Spider-Man]]'' live
 
 ===Video games===
 * Mendel Stromm makes a minor appearance in the 2002 ''[[Spider-Man (2002 video game)|Spider-Man]]'' film tie-in game, voiced by [[Peter Lurie]].
-* Mendel Stromm appears in ''[[The Amazing Spider-Man (2012 video game)|The Amazing Spider-Man]]'' video game, voiced by an uncredited voice actor. This version is an Oscorp scientist who is responsible for a cross-species experiment which resulted in a [[red-bellied piranha]] / human hybrid codenamed "Nattie".<ref>{{Cite web | url=http://fans.marvel.com/marvel_interactive/blog/2012/06/25/who_the_heck_is_nattie_ | title=The Official Site for Marvel Movies, Characters, Comics, TV, & More | access-date=2012-06-25 | archive-url=https://web.archive.org/web/20120628000913/http://fans.marvel.com/marvel_interactive/blog/2012/06/25/who_the_heck_is_nattie_ | archive-date=2012-06-28 | url-status=dead }}</ref> Stromm is later infected by the Cross-Species Virus and attacked by one of [[Alistair Smythe]]'s [[Spider Slayer|Combat Sentries]].
+* Mendel Stromm appears in ''[[The Amazing Spider-Man (2012 video game)|The Amazing Spider-Man]]'' video game, voiced by [[Fred Tatasciore]]. This version is an Oscorp scientist who is responsible for a cross-species experiment which resulted in a [[red-bellied piranha]] / human hybrid codenamed "Nattie".<ref>{{Cite web | url=http://fans.marvel.com/marvel_interactive/blog/2012/06/25/who_the_heck_is_nattie_ | title=The Official Site for Marvel Movies, Characters, Comics, TV, & More | access-date=2012-06-25 | archive-url=https://web.archive.org/web/20120628000913/http://fans.marvel.com/marvel_interactive/blog/2012/06/25/who_the_heck_is_nattie_ | archive-date=2012-06-28 | url-status=dead }}</ref> Stromm is later infected by the Cross-Species Virus and attacked by one of [[Alistair Smythe]]'s [[Spider Slayer|Combat Sentries]].
 
 ==References==
 {{Reflist}}
@@ -77,6 +78,7 @@ Mendel Stromm appears in the 2002 ''[[Spider-Man (2002 film)|Spider-Man]]'' live
 [[Category:Superhero film characters]]
 [[Category:Fictional engineers]]
 [[Category:Fictional scientists]]
+[[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]

@@ -8,7 +8,7 @@ image=[[File:Webofspiderman30.jpg|250px]]
 |creators=[[Stan Lee]] (writer)<br>[[John Romita Sr.]] (artist)
 |alliances=[[Hydra (comics)|HYDRA]]
 |aliases=The Schemer, The Rose, The Blood Rose
-|powers=Good martial artist<br>High-level intellect<br>Carries a handgun and a variety of mini-grenades<br>'''(As Rose)''':<br>Wears a bulletproof suit
+|powers=Martial artist<br>High-level intellect<br>Carries a handgun and a variety of mini-grenades<br>'''(As Rose)''':<br>Wears a bulletproof suit
 }}
 '''Richard Fisk''' is a [[character (arts)|fictional character]], a criminal appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''The Amazing Spider-Man'' #83 (April 1970) and was created by [[Stan Lee]] and [[John Romita Sr.]] He is the son of [[Kingpin (character)|Wilson Fisk]] and [[Vanessa Fisk]]. Although originally portrayed as a [[villain]], he later became an [[antihero]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=53}}</ref>
 
@@ -62,8 +62,12 @@ Another version of Richard Fisk appeared in [[Punisher Max|Punisher MAX]]'s firs
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1970]]
 [[Category:Fictional characters from New York City]]
+[[Category:Fictional gangsters]]
 [[Category:Fictional murderers]]
-[[Category:Hydra agents]]
+[[Category:Fictional vigilantes]]
+[[Category:Hydra (comics) agents]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]
 [[Category:Vigilante characters in comics]]

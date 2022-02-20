@@ -28,7 +28,7 @@
 |hero=y
 |sortkey=Vulcan
 }}
-'''Vulcan''' ('''Gabriel Summers''') is a [[fictional character|fictional]] [[supervillain]] and [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[X-Men: Deadly Genesis]]'' #1 (January 2006).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=398}}</ref> He is the third Summers brother to be revealed, the younger brother of [[X-Men]] characters [[Cyclops (Marvel Comics)|Cyclops]] and [[Havok (comics)|Havok]].
+'''Vulcan''' ('''Gabriel Summers''') is a [[fictional character|fictional]] [[Character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[X-Men: Deadly Genesis]]'' #1 (January 2006).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=398}}</ref> He is the third Summers brother to be revealed, the younger brother of [[X-Men]] characters [[Cyclops (Marvel Comics)|Cyclops]] and [[Havok (comics)|Havok]].
 
 ==Publication history==
 Though a third Summers brother was mentioned years before by Sinister during an encounter with Cyclops, Vulcan first appeared in ''[[X-Men: Deadly Genesis]]'' #1, a story written by [[Ed Brubaker]] that ran from January to July 2006. Vulcan then appeared in "The Rise and Fall of the [[Shi'ar Empire]]" storyline, also written by Brubaker, in ''[[Uncanny X-Men]]'' issues #475 to 486 (September 2006 to July 2007).<ref>[http://forum.newsarama.com/showthread.php?threadid=59707 "Ed Brubaker on his ''Uncanny X-Men'' Line-up"]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}, [[Newsarama]], February 16, 2006.</ref><ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=101434 |title=Uncanny in Space – Talking X-Men With Ed Brubaker |author=Matt Brady |archive-url=https://web.archive.org/web/20071015195321/http://forum.newsarama.com/showthread.php?t=101434 |archive-date=2007-10-15 |url-status=dead |website=Newsarama.com |date=2007-02-12}}</ref><ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=115874 |title=Ed Brubaker on The Rise and Fall of the Shi'ar Empire: Conclusion |author=Matt Brady |archive-url=https://web.archive.org/web/20070705180815/http://forum.newsarama.com/showthread.php?t=115874 |archive-date=2007-07-05 |url-status=dead |website=Newsarama.com |date=2007-06-08}}</ref>
@@ -140,7 +140,7 @@ Vulcan's stories have been collected into [[trade paperback (comics)|trade paper
 * [http://www.uncannyxmen.net/storylines/third-summers-brother Third Summers Brother Article Pre-Vulcan] at Uncannyxmen.net
 * [http://www.marvel.com/news/2.1439 Release Report for Evil Emperor Vulcan]
 
-{{X-Men}}
+{{X-Men characters}}
 {{Inhumans}}
 {{Guardians of the Galaxy}}
 
@@ -151,8 +151,10 @@ Vulcan's stories have been collected into [[trade paperback (comics)|trade paper
 [[Category:Fictional mass murderers]]
 [[Category:Fictional patricides]]
 [[Category:Fictional slaves]]
+[[Category:Galactic emperors]]
 [[Category:Marvel Comics extraterrestrial supervillains]]
 [[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics orphans]]
 [[Category:Shi'ar]]
+[[Category:X-Men members]]

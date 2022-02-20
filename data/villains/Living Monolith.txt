@@ -1,4 +1,4 @@
-
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Monolith.png|250px]]
 |caption=Art by [[Alan Davis]].
@@ -6,7 +6,7 @@ image=[[Image:Monolith.png|250px]]
 |real_name=Ahmet Abdol
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
-|debut=''[[The Uncanny X-Men|X-Men]]'' #54 (March [[1969 in comics|1969]])
+|debut=''[[The Uncanny X-Men|The X-Men]]'' #54 (March [[1969 in comics|1969]])
 |creators=[[Arnold Drake]]<br>[[Don Heck]]
 |alliances=Cult of the Living Monolith<br/>[[Apocalypse: The Twelve|The Twelve]]
 |partners=Plasma
@@ -14,7 +14,7 @@ image=[[Image:Monolith.png|250px]]
 |powers=Energy absorption and projection<br>Superhuman strength, durability and longevity<br>Size and mass manipulation<br>[[Telepathy]]
 }}
 
-The '''Living Monolith''' ('''Ahmet Abdol''') is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[The Uncanny X-Men|X-Men]]'' #54 (March [[1969 in comics|1969]]).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=215}}</ref>
+The '''Living Monolith''' ('''Ahmet Abdol''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[The Uncanny X-Men|The X-Men]]'' #54 (March [[1969 in comics|1969]]).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=215}}</ref>
 
 Abdol is the '''Living [[Pharaoh]]''' while in his normal appearance, but once he obtained enough cosmic energy, he would increase in mass, size, and power, thus becoming the Living [[Monolith]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=191}}</ref>
 
@@ -23,7 +23,7 @@ Abdol has mainly been an X-Men villain, usually using [[Havok (comics)|Havok]] t
 ==Fictional character biography==
 Ahmet Abdol was born in [[Cairo]], [[Egypt]].  He was a professor of [[Egyptology]] and archeologist who discovered he had the ability to manipulate cosmic energy, mainly by absorbing it and projecting it as energy blasts. Deciding to use his powers for his own personal gain, Abdol created a cult around himself as the [[messiah]], the Cult of the Living Pharaoh, became a supervillain and set about his plan to rule the world.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=135}}</ref>
 
-Abdol discovered that another mutant, [[Havok (comics)|Havok]] (Alex Summers, brother to [[Cyclops (Marvel Comics)|Scott Summers]] also known as Cyclops) could absorb and project cosmic energy more easily than Abdol could. Abdol kidnapped Havok and used him to increase his power, and battled the [[X-Men]].<ref>''X-Men'' Vol. 1 #54-55</ref> He then first became the Living Monolith, and battled the X-Men in this form.<ref>''X-Men'' Vol. 1 #56-57</ref> He was then captured by the [[Sentinel (comics)|Sentinels]], but escaped.<ref>''X-Men'' Vol. 1 #58-60</ref>
+Abdol discovered that another mutant, [[Havok (comics)|Havok]] (Alex Summers, brother to [[Cyclops (Marvel Comics)|Scott Summers]] also known as Cyclops) could absorb and project cosmic energy more easily than Abdol could. Abdol kidnapped Havok and used him to increase his power, and battled the [[X-Men]].<ref>''The X-Men'' #54-55</ref> He then first became the Living Monolith, and battled the X-Men in this form.<ref>''The X-Men'' #56-57</ref> He was then captured by the [[Sentinel (comics)|Sentinels]], but escaped.<ref>''The X-Men'' #58-60</ref>
 
 Abdol later stole the ruby scarab and battled the [[N'Kantu, the Living Mummy|Living Mummy]].<ref>''Supernatural Thrillers'' #9</ref> He later abducted Havok again. As the Living Monolith, he battled [[Spider-Man]] and [[Thor (Marvel Comics)|Thor]].<ref>''Marvel Team-Up'' #69-70</ref> Later, using the Cheops Crystal, he became the Living Monolith again. He battled [[Luke Cage]], [[Iron Fist (comics)|Iron Fist]], [[Cyclops (Marvel Comics)|Cyclops]], [[Storm (Marvel Comics)|Storm]], and [[Nightcrawler (comics)|Nightcrawler]].<ref>''Power Man and Iron Fist'' #56-57</ref>
 
@@ -31,7 +31,7 @@ Later, Abdol abducted [[Mister Fantastic]], the [[Invisible Woman]], and the [[H
 
 His relative, Leila O'Toole, also known as Plasma, joins the Cult of the Living Pharaoh and tries to capture [[Havok (comics)|Havok]] for the Living Pharaoh.<ref>''Marvel Comics Presents'' #24–31</ref>
 
-It was later revealed that, although the Monolith is usually the one pulling the strings, another X-Men villain, [[Apocalypse (comics)|Apocalypse]], wanted to use the Living Monolith to drain the powers of other super-beings.<ref>''Uncanny X-Men'' #376 (January 2000)</ref> As a result, Abdol went on a rampage, and several superheroes attempted to stop him before he began to grow to planet size.{{Issue|date=July 2010}}
+It was later revealed that, although the Monolith is usually the one pulling the strings, another X-Men villain, [[Apocalypse (comics)|Apocalypse]], wanted to use the Living Monolith to drain the powers of other super-beings.<ref>''The Uncanny X-Men'' #376 (Jan. 2000)</ref> As a result, Abdol went on a rampage, and several superheroes attempted to stop him before he began to grow to planet size.{{Issue|date=July 2010}}
 
 It was later revealed, also, that Abdol's formerly dormant mutant powers had been activated by a procedure performed on him by [[Mister Sinister]]. Sinister spliced certain x-genes from Alex Summers into his [[genome]], thus giving Abdol the ability to absorb cosmic energy. Since his powers were modified to become genetically similar to Havok's, this explained why their abilities symbiotically interfered with one another's.{{Issue|date=April 2010}}
 
@@ -68,7 +68,7 @@ Abdol has a gifted intellect, and is an expert archeologist and Egyptologist, wi
 * {{Marvunapp|http://www.marvunapp.com/Appendix6/living_pharaoh_abdol.htm|Living Monolith}}
 * {{Marvelwiki|Living_Monolith|Living Monolith}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix/topograp.htm|The Topographical Man}}; a possible alternate future Living Monolith in the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]] universe
-{{X-Men}}
+{{X-Men characters}}
 [[Category:Comics characters introduced in 1969]]
 [[Category:Characters created by Arnold Drake]]
 [[Category:Characters created by Don Heck]]

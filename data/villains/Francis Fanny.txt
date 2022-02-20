@@ -1,7 +1,7 @@
 {{all plot|date=November 2014}}
 {{for|others named Ajax|Ajax (disambiguation)#Comics}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Francis Fanny (Earth-616) from Deadpool vs. Thanos Vol 1 1 001.jpg
 |caption=
 |character_name=Ajax
 |real_name=Francis Fanny<ref name = "DVT">{{Cite comic|writer = Tim Seeley|penciller = Elmo Bondoc|inker = Elmo Bondoc|colorist = Ruth Redmond|letterer = VC's Joe Sabino|editor = Jordan D. White|title = Deadpool vs. Thanos|volume = 1|issue = #1-3|date = 2 September 2015 - 14 October 2015|publisher = Marvel Comics|location = United States}}</ref>
@@ -13,7 +13,7 @@
 |powers=* Enhanced strength
 * Intuitive capacity
 '''Via implants:'''
-* Superhuman speed and agility
+* Superhuman speed, reflexes and agility
 * High tolerance to pain
 |}}
 '''Francis''' "'''Fanny'''" '''Freeman''' (also known as '''Ajax''') is a fictional [[supervillain]] first appeared in ''[[Deadpool (comic book)|Deadpool]]''  #14 ([[cover-dated]] March 1998) and was created by writer [[Joe Kelly (comics writer)|Joe Kelly]] and artist [[Walter A. McDaniel]].

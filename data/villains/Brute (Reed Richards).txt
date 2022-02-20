@@ -1,5 +1,6 @@
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=
+image=Reed Richards (Earth-1123) from Fantastic Four Vol 3 47 0001.jpg
 |caption=
 |character_name=Brute
 |real_name=Reed Richards
@@ -28,9 +29,7 @@ Brute is a version of [[Reed Richards]] from a world created by the [[High Evolu
 
 The Brute made his way to ''True Earth'', where he joined the [[Frightful Four]] to beat the [[Fantastic Four]], [[Thundra]] and [[Tigra]].<ref>''Fantastic Four'' #177. Marvel Comics.</ref> Later, the [[Impossible Man]] inadvertently freed the Fantastic Four, who overcame the Frightful Four. During the ensuing fight, the Brute managed to trap the original Reed Richards in the [[Negative Zone]] and replace him.<ref>''Fantastic Four'' #178. Marvel Comics.</ref> Once accepted as the leader of the Fantastic Four, he sent the Human Torch and the Thing into the Negative Zone and battled with Invisible Girl.<ref>''Fantastic Four'' #182. Marvel Comics.</ref> However, the remaining trio made it back from the Negative Zone with the help of [[Annihilus]] who lost his Cosmic Rod to [[Mad Thinker]]'s [[Awesome Android]]. After seeing Reed Richard's selfless dedication to his wife, the concussion that made the Brute evil wore off and he sacrificed himself to keep the original Reed Richards' promise to return the cosmic Rod to Annihilus.<ref>''Fantastic Four'' #183. Marvel Comics.</ref>
 
-Brute was glimpsed when Abraxas scanned through the alternate Earths.<ref>''Fantastic Four'' Vol. 3 #47. Marvel Comics.</ref> As Abraxas assaulted Mister Fantastic, he told him "as you die on this Earth, so do your other selves across the realities". Brute was shown among the Reed Richards to be among the victims of Abraxas' attack.<ref>''Fantastic Four'' Vol. 3 #49. Marvel Comics.</ref>
-
-During the "[[Avengers: Standoff!]]" storyline, Brute was an inmate of Pleasant Hill, a gated community established by S.H.I.E.L.D.<ref>''All-New, All-Different Avengers'' #8. Marvel Comics.</ref>
+Brute was glimpsed when Abraxas scanned through the alternate Earths.<ref>''Fantastic Four'' vol. 3 #47. Marvel Comics.</ref> As Abraxas assaulted Mister Fantastic, he told him "as you die on this Earth, so do your other selves across the realities". Brute was shown among the Reed Richards to be among the victims of Abraxas' attack.<ref>''Fantastic Four'' vol. 3 #49. Marvel Comics.</ref> During the "[[Avengers: Standoff!]]" storyline, Brute was an inmate of Pleasant Hill, a gated community established by S.H.I.E.L.D.<ref>''All-New, All-Different Avengers'' #8. Marvel Comics.</ref>
 
 ==Powers and abilities==
 Richards can transform at will into the Brute, who possesses an 8–9 foot tall form with significant [[superhuman]] strength and durability. In addition, he retains the brilliant genius and much of the knowledge of Reed Richards.
@@ -38,7 +37,7 @@ Richards can transform at will into the Brute, who possesses an 8–9 foot tall 
 At one point he proved able to absorb geothermal energy from the Earth's core, increasing his own power. In such form, he could also fire energy blasts.
 
 ==Other versions==
-The Brute makes an appearance in the tie-in comic ''[[Spider-Man Unlimited]]''. In this continuum, a Counter-Earth version of Reed and his friends were exposed to cosmic rays like their Earth counterparts. Reed became a creature known as The Brute, Sue ended up in a coma, Johnny was dead, and only Ben was unaffected. Using his good standing with the High Evolutionary as Reed Richards (who tries to maintain his secret identity by putting up a snobby front), Brute secretly aids the Counter-Earth rebels against them. Ben Grimm helps out by gathering data held by The High Evolutionary.<ref>''Spider-Man Unlimited'' Vol. 2 #3. Marvel Comics.</ref>
+The Brute makes an appearance in the tie-in comic ''[[Spider-Man Unlimited]]''. In this continuum, a Counter-Earth version of Reed and his friends were exposed to cosmic rays like their Earth counterparts. Reed became a creature known as The Brute, Sue ended up in a coma, Johnny was dead, and only Ben was unaffected. Using his good standing with the High Evolutionary as Reed Richards (who tries to maintain his secret identity by putting up a snobby front), Brute secretly aids the Counter-Earth rebels against them. Ben Grimm helps out by gathering data held by The High Evolutionary.<ref>''Spider-Man Unlimited'' vol. 2 #3. Marvel Comics.</ref>
 
 ==References==
 {{Reflist}}
@@ -51,8 +50,11 @@ The Brute makes an appearance in the tie-in comic ''[[Spider-Man Unlimited]]''. 
 
 {{Fantastic Four}}
 
+[[Category:Alternative versions of comics characters]]
 [[Category:Characters created by Gil Kane]]
 [[Category:Characters created by Roy Thomas]]
 [[Category:Comics characters introduced in 1972]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics supervillains]]

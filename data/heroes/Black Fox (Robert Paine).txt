@@ -1,6 +1,6 @@
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
-|image=
-|caption=Black Fox (Dr. Robert William Paine)<br>Art by [[John Byrne (comics)|John Byrne]].
+|image=Robert Paine (Earth-616).jpg
+|caption=
 |character_name=Black Fox
 |real_name=Robert William Paine
 |publisher=[[Marvel Comics]]

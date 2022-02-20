@@ -3,7 +3,7 @@
 ==Publication history==
 The Count Barzon version of Silencer first appeared in ''[[Marvel Premiere]]'' #49 and was created by Mark Evanier and Sal Buscema.
 
-The Akyia Badaranaike version of Silencer was created by writer [[Peter B. Gillis]] and artist [[Brent Anderson]] and debuted in ''[[Strikeforce: Morituri]]'' #13 (December 1987), whereupon she joins the title cast until her death in issue #23. She was the only African and second black team member to be featured in the cast, after [[Adept (comics)|Adept]].
+The Akyia Badaranaike version of Silencer was created by writer [[Peter B. Gillis]] and artist [[Brent Anderson (comics)|Brent Anderson]] and debuted in ''[[Strikeforce: Morituri]]'' #13 (December 1987), whereupon she joins the title cast until her death in issue #23. She was the only African and second black team member to be featured in the cast, after [[Adept (comics)|Adept]].
 
 The Dean Helm version of Silencer was a supervillain and made his first and only appearance in ''[[Hawkeye (Clint Barton)|Hawkeye]]'' Vol.1 #2 (1983), created by [[Mark Gruenwald]].
 
@@ -15,12 +15,12 @@ Accepting an assignment from the Bodavian Freedom Party, Count Barzon heads out 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=Silencer comics.jpg
 |converted=y
-|caption='''Silencer'''<br>Art by [[Brent Anderson]]
+|caption='''Silencer'''<br>Art by [[Brent Anderson (comics)|Brent Anderson]]
 |character_name='''Silencer '''
 |real_name=Akiya Badaranaike
 |publisher=[[Marvel Comics]]
 |debut= ''Strikeforce Morituri'' #13 (December 1987)
-|creators=[[Peter B. Gillis]]<br> [[Brent Anderson]]
+|creators=[[Peter B. Gillis]]<br> [[Brent Anderson (comics)|Brent Anderson]]
 |alliances=[[Strikeforce: Morituri]]
 |powers=Nullifies sound waves <br> Enhanced strength
 }}

@@ -1,23 +1,23 @@
 {{About|the comic book characters|the comic book series of the same name|Scarlet Spider (comic book)}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
-|image = Scarlet Spider combined.jpg
-|imagesize =
-|converted = y
-|caption = The four versions of the Scarlet Spider in the main [[Marvel Universe]]. Counter-clockwise from top left:<br>
+| image     = Scarlet Spider combined.jpg
+| imagesize =
+| converted = y
+| caption   = The four versions of the Scarlet Spider in the main [[Marvel Universe]]. Counter-clockwise from top left:<br>
 [[Ben Reilly]] as the Scarlet Spider on the cover of ''[[Web of Scarlet Spider]]'' #1, art by Steven Butler<br>
 Joe Wade as the evil cybernetic Scarlet Spider, art by Paris Karounos<br>
 Red Team Scarlet Spiders on the cover of ''[[Avengers: The Initiative]]'' #7, art by [[Stefano Caselli]]<br>
-[[Kaine Parker]] as the Scarlet Spider on the variant cover of [[Scarlet Spider (comic book)#Volume 2|''Scarlet Spider'' (vol. 2)]] #1, art by [[Mark Bagley]]
-|publisher = [[Marvel Comics]]
-|cat = super
-|subcat = Marvel Comics
-|hero = y
-|villain = y
-|sortkey = Spider-Man
+[[Kaine Parker]] as the Scarlet Spider on the variant cover of [[Scarlet Spider (comic book)#Volume 2|''Scarlet Spider'' vol. 2]] #1 art by [[Mark Bagley]]
+| publisher = [[Marvel Comics]]
+| cat       = super
+| subcat    = Marvel Comics
+| hero      = y
+| villain   = y
+| sortkey   = Spider-Man
 }}
 
-The '''Scarlet Spider''' is an alias used by several [[Character (arts)|fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]], most notably [[Ben Reilly]] and [[Kaine Parker]].
+The '''Scarlet Spider''' is an alias used by several [[Character (arts)|fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]], most notably [[Ben Reilly]] and [[Kaine Parker]], both of whom are genetic replicates of the superhero [[Spider-Man]].
 
 ==Fictional character biography==
 ===Ben Reilly===
@@ -29,7 +29,7 @@ Benjamin "Ben" Reilly, a clone of the original Spider-Man created by the [[Jacka
 To continue his superhero activities, Peter Parker was forced to use the Scarlet Spider identity due to all of his Spider-Man costumes being ruined, while Ben Reilly pretended to be the former in prison.{{Issue|date=August 2018}}
 
 ===Joe Wade===
-'''Joseph "Joe" Wade''' is the only character to operate as a villain under the Scarlet Spider alias. An undercover FBI agent, he's assigned to investigate the second [[Lady Octopus|Doctor Octopus]].<ref>''The Spectacular Scarlet Spider'' #1</ref> However, Doctor Octopus discovers Joe and traps his body in a virtual reality chamber before using his thoughts to power a hard-light holographic duplicate of the Scarlet Spider to tarnish the Scarlet Spider name.<ref>''Scarlet Spider'' #2</ref> Despite this, Joe is unable to stop himself from committing acts of violence. The true Scarlet Spider (Ben Reilly) attacks Doctor Octopus' lair, damaging the machine while Joe is still inside.<ref>''The Spectacular Scarlet Spider'' #2</ref> This turned Joe into a mechanized version of the Scarlet Spider with superhuman strength and speed, claws on his fingertips, the ability to fire webbing from his wrists, crawl up walls, and fire laser "stingers" from his eyes. After the imposter goes on a rampage, the second Spider-Man (Ben Reilly) joins forces with the [[New Warriors]] to stop the cybernetic Scarlet Spider before the FBI put him in custody so Joe can undergo medical treatment to remove the technology.<ref>''Web of Scarlet Spider'' #3</ref><ref>''New Warriors'' #67</ref><ref>''Web of Scarlet Spider'' #4</ref>
+'''Joseph "Joe" Wade''' is the only character to operate as a villain under the Scarlet Spider alias. An undercover FBI agent, he's assigned to investigate the second [[Lady Octopus|Doctor Octopus]].<ref>''The Spectacular Scarlet Spider'' #1</ref> However, Doctor Octopus discovers Joe and traps his body in a virtual reality chamber before using his thoughts to power a hard-light holographic duplicate of the Scarlet Spider to tarnish the Scarlet Spider name.<ref>''Scarlet Spider'' #2</ref> Despite this, Joe is unable to stop himself from committing acts of violence. The true Scarlet Spider (Ben Reilly) attacks Doctor Octopus' lair, damaging the machine while Joe is still inside.<ref>''The Spectacular Scarlet Spider'' #2</ref> This turned Joe into a mechanized version of the Scarlet Spider with superhuman strength and speed, claws on his fingertips, the ability to fire webbing from his wrists, crawl up walls, and fire laser "stingers" from his eyes. After the imposter goes on a rampage, the second Spider-Man (Ben Reilly) joins forces with the [[New Warriors]] to stop the cybernetic Scarlet Spider before the FBI put him in custody so Joe can undergo medical treatment to remove the technology.<ref>''Web of Scarlet Spider'' #3</ref><ref>''The New Warriors'' #67</ref><ref>''Web of Scarlet Spider'' #4</ref>
 
 ===Scarlet Spiders (Red Team)===
 {{Main|Michael Van Patrick}}
@@ -45,7 +45,7 @@ Kaine Parker, a clone of the original Spider-Man also created by the Jackal, is 
 In the alternate future [[Marvel Comics 2|MC2]], '''Felicity Hardy''', daughter of [[Black Cat (Marvel Comics)|Felicia Hardy]] and [[Flash Thompson]], adopts the Scarlet Spider identity to irritate her mother. She attempts to convince [[Spider-Girl (Mayday Parker)|Spider-Girl]] to take her on as a sidekick, but the latter refuses.<ref>''Spider-Girl'' #45-46 (June 2002)</ref> Undeterred, she continues to fight crime until several near-death experiences cause her to give up the identity.  Although she has no actual powers, she is skilled in martial arts and gymnastics and utilizes an array of spider-themed weaponry.
 
 ===''Spider-Gwen''===
-The ''[[Spider-Gwen]]'' universe's [[Mary Jane Watson]] dresses as the Scarlet Spider for Halloween.<ref>''Spider-Gwen'' (vol. 2) #13</ref>
+The ''[[Spider-Gwen]]'' universe's [[Mary Jane Watson]] dresses as the Scarlet Spider for Halloween.<ref>''Spider-Gwen'' vol. 2 #13</ref>
 {{-}}
 
 ==In other media==

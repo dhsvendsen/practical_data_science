@@ -1,7 +1,7 @@
-{{Short description|Fictional character appearing in Marvel Comics publications and related media}}
+{{Short description|Marvel Comics fictional character}}
 {{Redirect|Unus|the village in Azerbaijan|Unus, Azerbaijan|the American community|Unus, West Virginia}}
 {{Infobox comics character
-|image=
+|image=Gunther Bain (Earth-616) from Official Handbook of the Marvel Universe Vol 1 11 001.jpg
 |caption=Unus the Untouchable
 |real_name=Angelo "Unus" Unuscione; legally changed to Gunther Bain
 |species=[[Mutant (Marvel Comics)|Human Mutant]]

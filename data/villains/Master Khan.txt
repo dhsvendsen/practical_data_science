@@ -1,5 +1,5 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
-image= 
+image= Master Khan (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 7 0001.jpg
 |caption=
 |character_name=Master Khan
 |real_name=Khan
@@ -45,10 +45,10 @@ Master Khan has magical powers that enable him to distort reality, levitate, and
 {{Steve Ditko}}
 
 {{DEFAULTSORT:Khan, Master}}
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by John Byrne (comics)]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Steve Ditko]]
-[[Category:Characters created by Chris Claremont]]
-[[Category:Characters created by John Byrne]]
 [[Category:Comics characters introduced in 1960]]
 [[Category:Marvel Comics characters who use magic]]
 [[Category:Marvel Comics supervillains]]

@@ -5,7 +5,7 @@
 |caption         = {{Descript-inner-art|All-New Invaders|1|2|April, 2014|pub=Marvel|art=[[Steve Pugh]]}}
 |character_name  = Vision
 |real_name       = Aarkus
-|publisher       = [[Timely Comics]]<br>[[Marvel Comics]]
+|publisher       = [[Marvel Comics]]
 |debut           = ''Marvel Mystery Comics'' #13<br> (November 1940)
 |creators        = [[Joe Simon]] (writer)<br>[[Jack Kirby]] (artist)
 |alliances       = Battle-Axis<br>[[Invaders (comics)|Invaders]]
@@ -17,7 +17,7 @@
 * Ability to generate illusory images of himself
 }}
 |}}
-
+{{Lead too short|date=October 2021}}
 '''Vision''' ('''Aarkus''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by the writer [[Joe Simon]] and artist [[Jack Kirby]], the character first appeared during the [[Golden Age of comic books]] in ''[[Marvel Mystery Comics]]'' #13 (Nov. 1940), published by Marvel predecessor [[Timely Comics]].<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/vision1.htm |title=The Vision}}</ref>
 
 == Publication history ==
@@ -71,6 +71,7 @@ Vision (Aarkus) was made a playable character in ''[[Marvel Contest of Champions
 [[Category:Marvel Comics aliens]]
 [[Category:Marvel Comics extraterrestrial superheroes]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Timely Comics characters]]
 
 [[fr:Vision (comics)]]

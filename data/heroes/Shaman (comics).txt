@@ -10,7 +10,7 @@
 |character_name=Shaman
 |real_name=Michael Twoyoungmen
 |publisher=[[Marvel Comics]]
-|debut=''Uncanny [[X-Men]]'' #120 (Apr 1979)
+|debut=''The Uncanny [[X-Men]]'' #120 (Apr 1979)
 |creators=[[John Byrne (comics)|John Byrne]]
 |alliances=[[Alpha Flight]]
 |aliases=The Binder of Spirits, The Breaker of Dark Spells, The Promised One, [[Talisman (comics)|Talisman]] 
@@ -25,7 +25,7 @@
 Shaman was created by [[John Byrne (comics)|John Byrne]] and first appeared in ''Uncanny [[X-Men]]'' in the 120th issue of the comic in April 1979.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=321}}</ref>
 
 ==Fictional character biography==
-Michael Twoyoungmen is from [[Calgary]], [[Alberta]] and is a member of Canada's [[First Nations]] (specifically the [[Tsuu T'ina]]).
+Michael Twoyoungmen is from [[Calgary]], [[Alberta]] and is a member of Canada's [[First Nations in Canada|First Nations]] (specifically the [[Tsuu T'ina]]).
 
 His grandfather, elderly and near death, asks him to become his mystical apprentice. Twoyoungmen, not believing in magic, refuses. At around the same time, his wife Kathryn Twoyoungmen becomes terminally ill. Twoyoungmen desperately seeks a cure but, despite promising his daughter Elizabeth he would find one, Kathryn dies; his grandfather passes away on the very same day.
 
@@ -41,7 +41,7 @@ When a pregnant Snowbird is about to give birth to her first child and the birth
 
 Much later, time-displaced versions of Alpha Flight are brought forward in time and remain in the present, assuming the mantle of Alpha Flight while the original Alpha Flight depart Earth to return a clutch of [[Marrina Smallwood|Plodex]] eggs to the Plodex homeworld.{{issue|date=December 2012}}
 
-Shaman, along with [[Major Mapleleaf]] II, both [[Puck (comics)|Pucks]], [[Guardian (Marvel Comics)|Guardian]], and [[Vindicator (comics)|Vindicator]], is brutally attacked by [[Xorn|the Collective]]. Their bodies are left in the [[Yukon Territory]] as the Collective continues on to the United States. Shaman is later confirmed dead by Sasquatch.<ref>''New Avengers #16''. Marvel Comics.</ref>
+Shaman, along with [[Major Mapleleaf]] II, both [[Puck (comics)|Pucks]], [[Guardian (Marvel Comics)|Guardian]], and [[Vindicator (comics)|Vindicator]], is brutally attacked by [[Xorn|the Collective]]. Their bodies are left in the [[Yukon Territory]] as the Collective continues on to the United States. Shaman is later confirmed dead by Sasquatch.<ref>''The New Avengers #16''. Marvel Comics.</ref>
 
 During the "[[Chaos War (comics)|Chaos War]]" storyline, Shaman (alongside Guardian, Vindicator, and [[Marrina Smallwood]]) is among the heroes who return from the dead after what happened to the death realms due to [[Amatsu-Mikaboshi (character)|Amatusu-Mikaboshi]]'s rampage through the Underworld. He ends up with a reunited Alpha Flight as they once again fight the Great Beasts.<ref>''Chaos War: Alpha Flight'' #1. Marvel Comics.</ref> Shaman remains among the living after the defeat of the Chaos King.<ref>''Chaos War #5''. Marvel Comics.</ref>
 
@@ -76,7 +76,7 @@ Shaman appears in the ''[[X-Men (TV series)|X-Men]]'' episode "Repo Man" voiced 
 {{Flight Program}}
 
 [[Category:Canadian superheroes]]
-[[Category:Characters created by John Byrne]]
+[[Category:Characters created by John Byrne (comics)]]
 [[Category:Comics characters introduced in 1979]]
 [[Category:Fictional characters from Alberta]] 
 [[Category:Fictional First Nations people]]

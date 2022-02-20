@@ -1,25 +1,24 @@
-{{Short description|Fictional character appearing in comic books}}
-{{About|Brian Braddock|the superheroine formerly known as Captain Britain|Lionheart (Marvel Comics)|his sister who sometimes uses the code name|Psylocke}}
+{{Short description|Marvel Comics fictional character}}
+{{About|Brian Braddock|his sister, the superheroine currently known as Captain Britain|Betsy Braddock|the superheroine formerly known as Captain Britain|Lionheart (Marvel Comics)}}
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |image=Captbrit.jpg
 |converted=y
 |caption= Cover of ''Captain Britain'' [[Trade paperback (comics)|trade paperback]] edition (2005).<br />Art by [[Alan Davis]]
-|character_name=Captain Britain
-|real_name=Brian Braddock
+|character_name=Brian Braddock
 |publisher=[[Marvel Comics]]
-|debut=''Captain Britain'' #1 (October 1976)
+|debut='''As Captain Britain:'''<br />''Captain Britain'' #1 (October 1976)<br />'''As Britanic:'''<br />''Excalibur'' (vol. 1) #75<br />'''As Captain Avalon:'''<br />''Excalibur'' (vol. 4) #13
 |creators=
 |alliances=[[Secret Avengers]]<br/>[[MI-13 (comics)|MI-13]]<br/>[[Excalibur (comics)|Excalibur]]<br/>Captain Britain Corps<br/>[[Knights of Pendragon]]<br/>[[Hellfire Club (comics)|Hellfire Club]]<br>[[New Excalibur]]<br>[[Illuminati (comics)|Illuminati]]<br>Champions of Europe 
-|aliases=Britannic
+|aliases=Captain Britain, Britannic, Captain Avalon
 |powers=Superhuman strength, speed, endurance, agility, durability, reflexes, and senses<br>Force fields<br>Energy beams<br>Flight 
 |cat=super
 |subcat=Marvel Comics
 |hero=y
 |sortkey=Captain Britain
 }}
-'''Captain Britain''' ('''Brian Braddock''') is a fictional [[superhero]] appearing in [[Marvel UK|British]] and [[American comic book]]s published by [[Marvel Comics]].<ref>{{Cite web|url=https://www.hobbydb.com/marketplaces/hobbydb/subjects/captain-britain-character-character|title=Captain Britain (character) {{!}} hobbyDB|website=www.hobbydb.com|access-date=2019-11-06}}</ref> He first appeared in ''Captain Britain Weekly'' #1 (October 1976), the beginning of a serial best-remembered for runs by writer [[Chris Claremont]], artist [[Alan Davis]], and writer [[Alan Moore]].
+'''Brian Braddock''' is a fictional [[superhero]] appearing in [[Marvel UK|British]] and [[American comic book]]s published by [[Marvel Comics]], originally as '''Captain Britain'''.<ref>{{Cite web|url=https://www.hobbydb.com/marketplaces/hobbydb/subjects/captain-britain-character-character|title=Captain Britain (character) {{!}} hobbyDB|website=www.hobbydb.com|access-date=2019-11-06}}</ref> Created in 1976 by writer [[Chris Claremont]] and artist [[Herb Trimpe]], with later contributions from [[Alan Moore]] and [[Alan Davis]], he first appeared in ''Captain Britain Weekly'' #1. The character was initially intended exclusively for the British comics market.
 
-The character was initially intended exclusively for the British comics market. Endowed with extraordinary powers by the [[Matter of Britain|legendary]] magician [[Merlyn (Marvel Comics)|Merlyn]] and his daughter [[Roma (comics)|Roma]], Captain Britain is assigned to uphold the laws of Britain.
+Endowed with extraordinary powers by the [[Matter of Britain|legendary]] magician [[Merlyn (Marvel Comics)|Merlyn]] and his daughter [[Roma (comics)|Roma]], Brian becomes Captain Britain, assigned to be the champion of the British Isles and its peoples, as well as the defender of [[Earth-616]] as a member of the [[Marvel Multiverse|multiversal]] '''Captain Britain Corps'''. Following his corruption by [[Morgan le Fay (Marvel Comics)|Morgan le Fay]], his twin sister [[Betsy Braddock|Betsy]] reclaimed the mantle of Captain Britain, with Brian taking up the moniker '''Captain Avalon''' as defender of [[Avalon (Marvel Comics)|Avalon]].<ref>''Excalibur'', vol. 4 #13</ref>
 
 ==Publication history==
 Captain Britain originally appeared in the first issue of ''Captain Britain Weekly'' (cover-dated the week ending 13 October 1976), an anthology comic published exclusively in the United Kingdom by the Marvel Comics imprint known as [[Marvel UK]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=69}}</ref> The comic represented the first original content published by Marvel UK, who had previously only handled reprints of Marvel Comics' U.S. publications.<ref name="back29">{{cite journal|last=Lowrey|first=Nigel |title=The Saga of Captain Britain|journal=[[Back Issue!]]|issue=29|pages=35–43 |publisher=[[TwoMorrows Publishing]]|date=August 2008|location=Raleigh, North Carolina}}</ref> However, the new content was still created by Marvel's American staff (the initial team being [[London]]-born writer Chris Claremont, penciller [[Herb Trimpe]], and inker [[Fred Kida]]) under the supervision of U.S. editor [[Larry Lieber]], then shipped to the UK for publication.<ref name="back29"/> (In addition, the new 8-page Captain Britain installments in each issue of ''Captain Britain Weekly'' were supplemented by more reprinted material, featuring [[Nick Fury]] and the [[Fantastic Four]]).
@@ -154,7 +153,7 @@ During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Captain Britain
 Captain Britain later represented the government of the United Kingdom when he attended [[Black Panther (comics)|Black Panther]]'s meeting in the Eden Room of Avengers Mountain.<ref>''Avengers'' vol. 8 #11</ref>
 
 ===Dawn of X===
-Following the events of [[Dawn of X]], Brian was corrupted by [[Morgan le Fay (Marvel Comics)|Morgan le Fay]] and turned into her champion.<ref>''Excalibur'' #1, 2019</ref> Betsy resumed the role of Captain Britain and the leadership of a new [[Excalibur (comics)|Excalibur]] team. While Brian was freed from le Fay's thrall, the torture he suffered at Morgana's hands left him so angry that when he was given the choice between the Sword and Amulet once again, he took up the blade this time. Out of fear of what could happen, since the sword is capable of great good in the right hands, but it could also prove to be a dangerous weapon if Brian improperly unleashed on the world, he briefly gave the Sword of Might over to his sister for sake-keeping.<ref>''Excalibur'' #4, 2020</ref>
+Following the events of [[Dawn of X]], Brian was corrupted by [[Morgan le Fay (Marvel Comics)|Morgan le Fay]] and turned into her champion.<ref>''Excalibur'' #1, 2019</ref> Betsy resumed the role of Captain Britain and the leadership of a new [[Excalibur (comics)|Excalibur]] team. While Brian was freed from le Fay's thrall, the torture he suffered at Morgana's hands left him so angry that when he was given the choice between the Sword and Amulet once again, he took up the blade this time. Out of fear of what could happen, since the sword is capable of great good in the right hands, but it could also prove to be a dangerous weapon if Brian improperly unleashed on the world, he briefly gave the Sword of Might over to his sister for safe-keeping.<ref>''Excalibur'' #4, 2020</ref>
 
 ===The Birth of Captain Avalon===
 Later when the Sword of Might was foretold to have a role in the coming battle against the swordbearers of Arrako, Brian has finally taken it back up since part of the prophecy about the ten blades needed to save Krakoa and by extension, the entire world, implied that Betsy and Brian Braddock would both be among the champions of Krakoa. While the Sword of Might is a clear choice for one of the blades, there is a question about the second, the mysterious Starlight Sword. To this end, Brian and Betsy accompany their brother Jamie to Otherworld and the Starlight Citadel, home of Saturnyne and key capital of the Otherworld. But even when they are attacked by the pocket-dimension Captain Britains created by Jamie, Brian refuses to draw the Sword of Might out of anger. He does not get a choice in the matter though, as an unintended attack by the Captain Britain-Gambit destroys the scabbard containing the blade, unleashing its magics onto Brian. The former Captain Britain is transformed, but since he did not embrace his rage and hate while wielding the sword, he is given seemingly slightly more control over the blade and his actions. He also receives a new costume, with a white, gold, and black color scheme topped with a mask prescient of the one he wore as Captain Britain. Dubbed Captain Avalon by Jamie, Brian announces that he stands in the defense of the Braddock family and serves at the behest of his brother, Jamie. Even Saturnyne's attempts to seduce him away from this decision fail to contend with his commitment to his wife, his brother and his sister. Brian Braddock stands as a new champion for Krakoa, even if he is not a mutant, and is last seen joining the circle of champions with their blades drawn after helping Betsy make off with the newly-forged Starlight Sword.<ref>''Excalibur'' #13, 2020</ref>
@@ -461,7 +460,7 @@ Lists members whose status is unclear, the Corps was decimated in ''[[X-Men: Die
 *Cap'n Saxonia (Frideswide Lawley) (Earth-924) -''Excalibur'' #49 - Also a member of [[Excalibur (comics)#Calibur (Earth-924)|Calibur]] alongside that dimension's versions of Spider-Girl, Iron Fist, Hulk and Dr. Strange. She was sometimes known as Captain Saxonia.
 *Captain Albion (Katherine Huggen) (Earth-523) - ''Daredevils'' #6
 *Captain Angleterre (Paul-Henri Spencer) (Earth-305) - ''Mighty World of Marvel'' vol. 2 #13 (1984)
-*[[Meggan (character)|Meggan#Earth-1189|Captain Britain (Meggan)]] (Earth-1189<ref name="OHOTMUAU"/>) - ''Excalibur'' vol. 1 #44 - Her world was devastated by war between superheroes and villains. She took over the mantle after her version of Braddock died<ref>''Excalibur'' #15</ref> and became part of the Corps.
+*[[Meggan (character)#Other versions|Captain Britain (Meggan)]] (Earth-1189<ref name="OHOTMUAU"/>) - ''Excalibur'' vol. 1 #44 - Her world was devastated by war between superheroes and villains. She took over the mantle after her version of Braddock died<ref>''Excalibur'' #15</ref> and became part of the Corps.
 *Captain Britain (Brian Braddock) (Earth-3913) - ''Excalibur'' #44 (1991) - He was accused of murdering a police officer.
 *Captain Britain (Brian Braddock) (Earth-4400) - ''Exiles'' #43
 *Captain Britain (Brian Braddock) (Earth-7475) - ''[[Alpha Flight (comic book)|Alpha Flight]]'' #74 - Runs the common market, all of Western Europe and North Africa.
@@ -569,7 +568,7 @@ A number of [[trade paperback (comics)|trade paperbacks]] have been released col
 |-
 | ''Captain Britain Volume 5: End Game'' || Paperback || by [[Alan Moore]], [[Jamie Delano]] and [[Alan Davis]] || collects ''[[The Mighty World of Marvel]]'' (vol. 2) #7-16 and ''Captain Britain Monthly'' #1-14 || 292 pages || [[Panini Comics|Panini]] || {{ISBN|1-84653-459-3}} || December 2010
 |-
-| ''Captain Britain: Legacy of a Legend'' || Paperback || by [[Chris Claremont]], [[Steve Parkhouse]], [[Alan Moore]] and [[Jamie Delano]] || collects ''Captain Britain Weekly'' #1-2, ''[[Marvel Team-Up]]'' #65-66, material from ''[[Hulk Comic Weekly]]'' #1, 3-5, 57-59, ''[[The Mighty World of Marvel|Marvel Superheroes]]'' #377-384, 386, ''[[The Daredevils]]'' #3-4, ''[[The Mighty World of Marvel]]'' (vol. 2) #8-126 and ''Captain Britain Monthly'' #14 || 208 pages || [[Marvel Comics|Marvel US]] || {{ISBNT|978-1-302-90668-9}} || December 2016
+| ''Captain Britain: Legacy of a Legend'' || Paperback || by [[Chris Claremont]], [[Steve Parkhouse]], [[Alan Moore]] and [[Jamie Delano]] || collects ''Captain Britain Weekly'' #1-2, ''[[Marvel Team-Up]]'' #65-66, material from ''[[Hulk Comic Weekly]]'' #1, 3-5, 57-59, ''[[The Mighty World of Marvel|Marvel Superheroes]]'' #377-384, 386, ''[[The Daredevils]]'' #3-4, ''[[The Mighty World of Marvel]]'' (vol. 2) #8-12 and ''Captain Britain Monthly'' #14 || 208 pages || [[Marvel Comics|Marvel US]] || {{ISBNT|978-1-302-90668-9}} || December 2016
 |-
 | ''Captain Britain Volume 1: Before Excalibur...'' || Paperback || by [[Jamie Delano]] and [[Alan Davis]] || collects ''[[The Mighty World of Marvel]]'' (vol. 2) #14-16 and ''Captain Britain Monthly'' #1-14 || 196 pages || [[Panini Comics|Marvel UK]] || {{ISBN|1-85400-020-9}} || 1988
 |-
@@ -649,6 +648,7 @@ A number of [[trade paperback (comics)|trade paperbacks]] have been released col
 [[Category:Fictional kings]]
 [[Category:Fictional physicists]]
 [[Category:Fictional twins]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters who use magic]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]

@@ -1,3 +1,4 @@
+{{hatnote|"Matt Hawk" redirects here. For the punter, see [[Matt Haack]]}} 
 {{Infobox comics character and title
 |image=Two-Gun Kid 01.jpg
 |caption=Two-Gun Kid (Matt Hawk / Matt Liebowicz)<br>Art by [[Scott Kolins]].
@@ -10,7 +11,7 @@
 |alliance_color=background:#c0c0ff
 |status= Active
 |alliances=
-|previous_alliances=[[Avengers (comics)|Avengers]]<br>[[Fifty State Initiative]]<br>[[Desert Stars]]<br>The Sensational Seven<br>[[Goodman, Lieber, Kurtzberg & Holliway]]
+|previous_alliances=[[Avengers (comics)|Avengers]]<br>[[Fifty State Initiative]]<br>[[Desert Stars]]<br>The Sensational Seven<br>Goodman, Lieber, Kurtzberg & Holliway
 |aliases=Matt Hawk, Matthew Liebowicz
 |relatives= Nancy (wife, deceased), (daughter, name unknown, deceased)
 |powers= Expert marksman<br>Trained hand-to-hand combatant 
@@ -83,7 +84,7 @@ The 1995 ''Two-Gun Kid: Sunset Riders'' [[miniseries]] reveals that Matt had mar
 
 Later, [[She-Hulk]],<ref>''[[She-Hulk]]'' vol. 2, #3 (Feb. 2006).</ref> after dealing with the [[Time Variance Authority]], is given the chance to free one time-traveling Avenger out of continuity limbo. She chooses the Two-Gun Kid. It's clarified that his heroic nature prevents him from being returned to his own time, as he would inevitably try to fix things.
 
-In present time, he learns his previous modern-day encounters with the Avengers has resulted in his law license and other paraphernalia being kept in an Avengers safety-deposit box. Once he learns She-Hulk works for a law-firm, [[Goodman, Lieber, Kurtzberg & Holliway]], he tries to become her colleague. He comes to the conclusion he will never be able to catch up on current laws and becomes a bounty hunter.<ref>''[[She-Hulk]]'' vol. 2, #5 (Apr. 2006).</ref> His first catch is the supervillain [[Bushwacker (comics)|Bushwacker]].
+In present time, he learns his previous modern-day encounters with the Avengers has resulted in his law license and other paraphernalia being kept in an Avengers safety-deposit box. Once he learns She-Hulk works for a law-firm, Goodman, Lieber, Kurtzberg & Holliway, he tries to become her colleague. He comes to the conclusion he will never be able to catch up on current laws and becomes a bounty hunter.<ref>''[[She-Hulk]]'' vol. 2, #5 (Apr. 2006).</ref> His first catch is the supervillain [[Bushwacker (comics)|Bushwacker]].
 
 For a time he rooms with the [[Awesome Android]], who has reformed and is also an employee of the firm. Liebowicz travels using a twin-engine jet cycle, donated to him by his superhero friend [[Hawkeye (Clint Barton)|Hawkeye]].
 
@@ -122,6 +123,7 @@ A new modern-day version of the character, a teenager, stars in the five-issue e
 [[Category:Fictional gunfighters]]
 [[Category:Golden Age adventure heroes]]
 [[Category:Jewish superheroes]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics titles]]
 [[Category:Timely Comics titles]]

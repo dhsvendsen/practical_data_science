@@ -19,7 +19,7 @@
 | hero = y
 | sortkey = Surge (comics)
 }}
-'''Surge''' ('''Noriko Ashida''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a [[Mutant (Marvel Comics)|mutant]], one of the student body in the [[X-Mansion|Xavier Institute]], and a member of the former [[New Mutants]] squad therein. She maintained her powers post [[Decimation (comics)|M-Day]] and was the leader of the [[New X-Men]].
+'''Surge''' ('''Noriko Ashida''') is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a [[Mutant (Marvel Comics)|mutant]], one of the student body in the [[X-Mansion|Xavier Institute]], and a member of the former [[New Mutants]] squad therein. She maintained her powers post [[Decimation (comics)|M-Day]] and was the leader of the [[New X-Men]].
 
 ==Publication history==
 {{Expand section|date=December 2012}}
@@ -61,28 +61,26 @@ Regardless, Nori is a loyal figure, dedicated to her friends, and increasingly f
 Nori is a member of Hellions in the House of M reality which is a group of junior agents of S.H.I.E.L.D. Her father is a human terrorist whom she was taken away from at a young age.  She was taken off the squad and replaced with Magik due to her father's involvement in their latest mission.  She then recruits help from some of the students from the New Mutant Leadership Institute and they travel to Japan where they come across Project Genesis.<ref>''New X-Men Academy X'' #15-17 (2005)</ref>
 
 ==In other media==
-===Television===
-* Surge appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Kokoro Kikuchi]]. In this version, her hair color is naturally blue, as evidenced by her eyebrows being the same shade. While she was briefly romantically attracted to [[Thor (Marvel Comics)|Thor]]'s partner, Hikaru Akatsuki, she later chooses to go to the Xavier Institute with [[Wolverine (character)|Wolverine]], after being offered protection by [[Magneto (Marvel Comics)|Magneto]].
+Surge appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Kokoro Kikuchi]] in the Japanese version. In this version, her hair color is naturally blue, as evidenced by her eyebrows being the same shade. While she was briefly romantically attracted to [[Thor (Marvel Comics)|Thor]]'s partner, Hikaru Akatsuki, she later chooses to go to the Xavier Institute with [[Wolverine (character)|Wolverine]], after being offered protection by [[Magneto (Marvel Comics)|Magneto]].
 
-===Video games===
-* Surge appears in the video game ''[[X-Men: Destiny]]''<ref>http://multiplayerblog.mtv.com/2011/01/11/x-men-destiny-details/</ref> voiced by [[Aileen Ong Casas]]. Surge is imprisoned in a [[U-Men (comics)|U-Man]] base, but the character breaks her out alongside [[Colossus (comics)|Colossus]] and [[Quicksilver (comics)|Quicksilver]].
+Surge appears in the video game ''[[X-Men: Destiny]]''<ref>{{cite web |url=http://multiplayerblog.mtv.com/2011/01/11/x-men-destiny-details/ |title = MTV}}</ref> voiced by Aileen Ong Casas. Surge is imprisoned in a [[U-Men (comics)|U-Man]] base, but the character breaks her out alongside [[Colossus (character)|Colossus]] and [[Quicksilver (Marvel Comics)|Quicksilver]].
 
 ==References==
 {{Reflist}}
 
 ==External links==
 * [http://marvel.com/universe/Surge_%28Noriko_Ashida%29 Surge] at Marvel.com
-* [https://marvel.fandom.com/wiki/Noriko_Ashida_(Earth-616) Surge] at Marvel Wikia
+* [https://marvel.fandom.com/wiki/Noriko_Ashida_(Earth-616) Surge] at Marvel Wiki
 {{Portal bar|Speculative fiction|Comics|Japan}}
 
 {{New Mutants}}
-{{X-Men}}
+{{X-Men characters}}
 
 {{DEFAULTSORT:Surge (Comics)}}
 [[Category:Comics characters introduced in 2004]]
 [[Category:Fictional characters with electric or magnetic abilities]]
-[[Category:Japanese superheroes]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics mutants]]
 [[Category:New Mutants]]
+[[Category:Japanese-American superheroes]]

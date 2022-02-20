@@ -1,9 +1,10 @@
-The '''Black Talon''' is the name of a number of [[fictional character|fictional]] [[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
+{{Short description|Marvel Comics fictional character}}
+The '''Black Talon''' is the name of a number of <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-'''Desmond Drew''' first appeared in ''[[Strange Tales]]'' (vol. 1) #173 (April [[1974 in comics|1974]]) and was created by [[Gene Colan]] and [[Len Wein]].
+'''Desmond Drew''' first appeared in ''[[Strange Tales]]'' #173 (April [[1974 in comics|1974]]) and was created by [[Gene Colan]] and [[Len Wein]].
 
-The successor to Drew named '''Samuel David Barone''' wore the same costume as the original and was an ally of the [[Grim Reaper (comics)|Grim Reaper]], operating in the New Orleans area.  He first appeared in ''[[The Avengers (comic book)|The Avengers]]'' #152 (Oct 1976), created by [[Gerry Conway]] and [[John Buscema]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=54}}</ref>
+The successor to Drew named '''Samuel David Barone''' wore the same costume as the original and was an ally of the [[Grim Reaper (comics)|Grim Reaper]], operating in the New Orleans area. He first appeared in ''[[The Avengers (comic book)|The Avengers]]'' #152 (Oct. 1976), created by [[Gerry Conway]] and [[John Buscema]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=54}}</ref>
 
 ==Fictional character biography==
 ===Black Talon (Pascal Horta)===
@@ -17,7 +18,7 @@ image=
 |real_name=Desmond Drew
 |species=Human
 |publisher=[[Marvel Comics]]
-|debut=''[[Strange Tales]]'' (vol. 1) #173 (April [[1974 in comics|1974]])
+|debut=''[[Strange Tales]]'' #173 (April [[1974 in comics|1974]])
 |creators=[[Gene Colan]] (artist)<br>[[Len Wein]] (writer)
 |alliances=
 |partners=Mama Limbo
@@ -25,7 +26,7 @@ image=
 |powers=Voodoo magic manipulation that allows him to create and control zombies
 |}}
 
-The second Black Talon is a [[Haitian Vodou|voodoo]] [[Houngan|priest]] who can create and control [[zombies]]. He wears a costume which resembles a chicken, and has an upside-down cross painted on his chest. He was a millionaire and voodoo [[witch doctor]], and posed as a "living loa" to carry out the plans of his mother, Mama Limbo. He battled and became an enemy of [[Brother Voodoo]].<ref>''Strange Tales'' Vol. 1 #172-173</ref>  He was later exposed as an impostor, and was beaten to death by his own cultists.<ref>''Tales of the Zombie'' #6</ref>
+The second Black Talon is a [[Haitian Vodou|voodoo]] [[Houngan|priest]] who can create and control [[zombies]]. He wears a costume which resembles a chicken, and has an upside-down cross painted on his chest. He was a millionaire and voodoo [[witch doctor]], and posed as a "living loa" to carry out the plans of his mother, Mama Limbo. He battled and became an enemy of [[Brother Voodoo]].<ref>''Strange Tales'' #172-173</ref> He was later exposed as an impostor, and was beaten to death by his own cultists.<ref>''Tales of the Zombie'' #6</ref>
 {{-}}
 
 ===Black Talon (Samuel Barone)===
@@ -37,7 +38,7 @@ The second Black Talon is a [[Haitian Vodou|voodoo]] [[Houngan|priest]] who can 
 |real_name      = Samuel David Barone
 |species        =
 |publisher      = [[Marvel Comics]]
-|debut          = ''[[The Avengers (comic book)|The Avengers]]'' #152 (Oct [[1976 in comics|1976]])
+|debut          = ''[[The Avengers (comic book)|The Avengers]]'' #152 (Oct. [[1976 in comics|1976]])
 |creators       = [[Gerry Conway]] (writer)<br>[[John Buscema]] (artist)
 |alliances      = [[Lethal Legion]]<br>X-Humed<br>[[Masters of Evil]]
 |partners       = [[Grim Reaper (comics)|Grim Reaper]] 
@@ -49,11 +50,11 @@ The second Black Talon is a [[Haitian Vodou|voodoo]] [[Houngan|priest]] who can 
 |sortkey        = Black Talon
 |}}
 
-The third Black Talon was a professional criminal and cult leader, like the original. He resurrected [[Wonder Man]] as a zombie at the behest of the [[Grim Reaper (comics)|Grim Reaper]] and sent him to attack the [[Avengers (comics)|Avengers]]. The Black Talon battled the Avengers himself, and was defeated by the [[Scarlet Witch]].<ref>''Avengers'' vol. 1 #152</ref> He then joined the second [[Lethal Legion]].  With the Grim Reaper and [[Nekra]], he battled the [[Vision (Marvel Comics)|Vision]] and Scarlet Witch.<ref>''Vision & Scarlet Witch'' Vol. 2 #1</ref> Under the Grim Reaper's orders, he attempted a recreation of "Simon Williams" as a zombie.<ref>''West Coast Avengers'' Vol. 2 #2</ref> With the [[Man-Ape]], Black Talon deserted the Lethal Legion during a battle with the [[West Coast Avengers]].<ref>''Vision & Scarlet Witch'' Vol. 2 #2</ref>
+The third Black Talon was a professional criminal and cult leader, like the original. He resurrected [[Wonder Man]] as a zombie at the behest of the [[Grim Reaper (comics)|Grim Reaper]] and sent him to attack the [[Avengers (comics)|Avengers]]. The Black Talon battled the Avengers himself, and was defeated by the [[Scarlet Witch]].<ref>''Avengers'' #152</ref> He then joined the second [[Lethal Legion]].  With the Grim Reaper and [[Nekra]], he battled the [[Vision (Marvel Comics)|Vision]] and Scarlet Witch.<ref>''Vision & Scarlet Witch'' vol. 2 #1</ref> Under the Grim Reaper's orders, he attempted a recreation of "Simon Williams" as a zombie.<ref>''West Coast Avengers'' Vol. 2 #2</ref> With the [[Man-Ape]], Black Talon deserted the Lethal Legion during a battle with the [[West Coast Avengers]].<ref>''Vision & Scarlet Witch'' vol. 2 #2</ref>
 
-Nekra learned the Black Talon's voodoo rites, and she later used them on two occasions to resurrect the Grim Reaper as a zombie.<ref>''Vision & Scarlet Witch'' Vol. 2 #12; ''Avengers West Coast'' #65</ref>
+Nekra learned the Black Talon's voodoo rites, and she later used them on two occasions to resurrect the Grim Reaper as a zombie.<ref>''Vision & Scarlet Witch'' vol. 2 #12; ''Avengers West Coast'' #65</ref>
 
-When battling [[She-Hulk]], Black Talon formed the X-Humed from the four dead mutants [[Kevin Sydney|Changeling]], [[Scaleface]], [[Living Diamond]] and [[Harry Leland]] but was unable to control all of them at once and Changeling was able to break his hold long enough for She-Hulk to triumph.<ref>''Sensational She-Hulk'' #34-35 (1991-1992)</ref>
+When battling [[She-Hulk]], Black Talon formed the X-Humed from the four dead mutants [[Kevin Sydney|Changeling]], [[Scaleface]], [[Living Diamond]] and [[Harry Leland]] but was unable to control all of them at once and Changeling was able to break his hold long enough for She-Hulk to triumph.<ref>''The Sensational She-Hulk'' #34-35 (1991-1992)</ref>
 
 The Black Talon has also fought [[Deadpool (comics)|Deadpool]], who viciously mocked him for his chicken costume.<ref>''Deadpool'' #29 (1999)</ref>
 
@@ -65,7 +66,7 @@ Black Talon later turned up alive and appeared as a member of the [[Shadow Counc
 
 After he was attacked by [[Alex Wilder]], [[Tombstone (comics)|Tombstone]] recovered and enlisted Black Talon to rescue [[Mr. Fish]] from Hell.<ref>''Power Man and Iron Fist'' vol. 3 #14</ref>
 
-Black Talon later resurfaced in a small strip mall in New York where, during a Halloween walk-a-thon, he turns a group of dead senior citizens into zombies. He encounters Deadpool, who laughs when he sees an old photo of him due to the chicken head of his costume, which Talon removed. It is later revealed that Black Talon's attack on the mall was part of a plan to help his grandmother win the walk-a-thon, though his grandmother only wanted to win the race. During the battle, Black Talon's grandmother manages to convince him to stop, forcing him to retreat.<ref>''Deadpool'' Vol. 5 #5</ref>
+Black Talon later resurfaced in a small strip mall in New York where, during a Halloween walk-a-thon, he turns a group of dead senior citizens into zombies. He encounters Deadpool, who laughs when he sees an old photo of him due to the chicken head of his costume, which Talon removed. It is later revealed that Black Talon's attack on the mall was part of a plan to help his grandmother win the walk-a-thon, though his grandmother only wanted to win the race. During the battle, Black Talon's grandmother manages to convince him to stop, forcing him to retreat.<ref>''Deadpool'' vol. 5 #5</ref>
 
 ==Powers and abilities==
 Both Desmond Drew and Samuel Barone were voodoo cult leaders who gain their powers from the manipulation of the forces of voodoo magic. Each had the ability to create and control zombies of their creation, either vocally or telepathically. However, the Black Talon cannot communicate with his zombies telepathically when they are not in his immediate vicinity.

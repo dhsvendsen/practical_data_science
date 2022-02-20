@@ -1,6 +1,6 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |publisher=[[Marvel Comics]]
-|image=
+|image=Rebecca Ryker (Earth-616).jpg
 |debut=''[[Avengers Arena]]'' #1 (December 2012)
 |creators=[[Dennis Hopeless]]<br>[[Kev Walker]]
 |character_name=Death Locket
@@ -49,9 +49,9 @@ While she gained some combat experience fighting alongside the Young Masters, sh
 ==Other versions==
 
 ===House of M===
-During the [[Secret Wars (2015 comic book)|Secret Wars: battleworld]] event where all of reality had died in a mass Incursion event triggered by the [[Beyonders]].<ref>''New Avengers'' Vol. 3 #29 (March 2015)</ref> What remained of the Multiverse had been condensed onto a singular planet within the greater totality which remained afterwards, Rebecca is a guerrilla freedom fighter within the Monarchy of M ruled by [[Magneto (Marvel Comics)|King Eric Magnus]] whom brutally enslaves and incarcerates Homo Sapians both innocent and guilty simply for being human.<ref>''House of M'' Vol. 2 #1-4</ref>
+During the [[Secret Wars (2015 comic book)|Secret Wars: battleworld]] event where all of reality had died in a mass Incursion event triggered by the [[Beyonders]].<ref>''New Avengers'' vol. 3 #29 (March 2015)</ref> What remained of the Multiverse had been condensed onto a singular planet within the greater totality which remained afterwards, Rebecca is a guerrilla freedom fighter within the Monarchy of M ruled by [[Magneto (Marvel Comics)|King Eric Magnus]] whom brutally enslaves and incarcerates Homo Sapians both innocent and guilty simply for being human.<ref>''House of M'' vol. 2 #1-4</ref>
 
-Seeking to aide fellow rebels in the Human Resistance Movement [[Hawkeye (Clint Barton)|Hawkeye]], [[Black Cat (Marvel Comics)|Black Cat]] and [[Misty Knight]] as the three are evading capture by S.H.I.E.L.D.'s Red Guard.<ref>''House of M'' Vol. 2 #1</ref>
+Seeking to aide fellow rebels in the Human Resistance Movement [[Hawkeye (Clint Barton)|Hawkeye]], [[Black Cat (Marvel Comics)|Black Cat]] and [[Misty Knight]] as the three are evading capture by S.H.I.E.L.D.'s Red Guard.<ref>''House of M'' vol. 2 #1</ref>
 
 ==In other media==
 * Death Locket appears in ''[[Marvel: Avengers Alliance]]''.<ref>http://marvel.com/news/video_games/25867/go_inside_avengers_alliance_spec_op_33{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
@@ -66,6 +66,8 @@ Seeking to aide fellow rebels in the Human Resistance Movement [[Hawkeye (Clint 
 
 [[Category:Characters created by Kev Walker]]
 [[Category:Comics characters introduced in 2012]]
+[[Category:Fictional amputees]]
 [[Category:Fictional cyborgs]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]

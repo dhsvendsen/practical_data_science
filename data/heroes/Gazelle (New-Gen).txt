@@ -18,7 +18,7 @@
 | sortkey = Gazelle
 }}
 
-'''Gazelle''' ('''Elle''') is a fictional character, a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in the [[NEW-GEN (Comic)|NEW-GEN]] comic books. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, she first appeared in NEW-GEN #1 (2010). He was one of the children from the world of NEW-GEN granted extraordinary abilities by Deadalus' [[nanobot]] infestation. She is a founding member of the A.P.N.G. superhero team.<ref>http://www.comicvine.com/gazelle/29-74397/</ref>
+'''Gazelle''' ('''Elle''') is a fictional character, a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in the [[NEW-GEN (Comic)|NEW-GEN]] comic books. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, she first appeared in NEW-GEN #1 (2010). He was one of the children from the world of NEW-GEN granted extraordinary abilities by Deadalus' [[nanobot]] infestation. She is a founding member of the A.P.N.G. superhero team.<ref>{{Cite web|url=http://www.comicvine.com/gazelle/29-74397/|title=Gazelle (Character)}}</ref>
 
 ==Fictional character biography==
 ===Early life===
@@ -39,3 +39,5 @@ Gazelle's body underwent a severe transformation as a result of Deadalus' nanobo
 == External links ==
 * https://web.archive.org/web/20110707153446/http://apngenterprises.com/comic/characters-of-new-gen/
 * http://www.comicvine.com/gazelle/29-74397/
+
+[[Category:Marvel Comics characters who can move at superhuman speeds]]

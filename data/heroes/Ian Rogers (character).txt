@@ -1,6 +1,6 @@
 {{Short description|Marvel Comics character}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Leopold Zola (Earth-616) from Captain America Vol 7 23 0001.png
 |caption=
 |character_name =Ian Rogers
 |real_name=Leopold Zola
@@ -23,6 +23,7 @@ A character named '''[[Sarah Rogers]]''' is the alternate reality daughter of St
 
 An alternate iteration has since been seen as the [[Ultimate Marvel]] equivalent of '''[[Red Skull]]''', the secret son of [[Captain America (Ultimate Marvel character)|Captain America]] (Steve Rogers) and [[Gail Richards]]. This character was created by [[Mark Millar]] and [[Carlos Pacheco]], and first appeared in ''[[Ultimate Comics: Avengers]]'' #1 (October 2009). He wears simple khaki pants and a white tee shirt.<ref name="Ultimate Avengers #2"/> After his father's presumed death during World War II, he is taken from his mother and raised on an army base where he appears to be a well-adjusted, physically superior and tactically brilliant young man who greatly resembles his father. However, his easygoing personality is a ruse. Around the age of seventeen, he kills over 200 men on the base and then cuts off his own face in rejection of his father, leaving a "red skull".<ref name="Ultimate Avengers #2">''Ultimate Avengers'' #2</ref> As a final symbol of his rebellion against the system that created him, he assassinates President John F. Kennedy.<ref name="Ultimate Avengers #5">''Ultimate Avengers'' #5</ref> During his decades long career of working as a professional assassin, he forces [[Petra Laskov]] to choose between killing the woman's husband or infant son; Petra kills the husband yet Red Skull kills the child anyway and Petra is viciously raped by his henchmen. Eventually, Red Skull joins [[Advanced Idea Mechanics|A.I.M.]] so that he and his men can steal the Cosmic Cube's blueprints. There he finally meets Captain America and brutally beats his nemesis. Before throwing Captain America out of the helicopter, Red Skull reveals his true identity. At A.I.M. headquarters in Alaska, Red Skull kills the lead officer and takes charge of the operation. Now in control of the Cosmic Cube, he gains great power. As a sadistic display of his power, he has the entire Alaskan A.I.M. team cannibalize each other. When the Avengers arrive on the scene, they immediately attack, but the Cosmic Cube imbues him with nearly unlimited power, making him absolutely invulnerable. Captain America arrives in a stolen Teleporter Jet, but Red Skull forces the jet to crash. The Captain survives the crash and teleports the jet to Red Skull's exact coordinates, impaling him on one of the two rods that protrude from its nose.<ref name="Ultimate Avengers #6">''Ultimate Avengers'' #6</ref> Red Skull is taken to a hospital and kept alive long enough for his mother's goodbyes. Red Skull explains to [[Nick Fury (Ultimate Marvel character)|Nick Fury]] that all he wanted to do with the Cosmic Cube was to turn back time and prevent his father from being lost, so that he could grow up with a normal life. Petra (disguised as a nurse) enters the room and shoots Red Skull in the head, killing him. [[Gregory Stark]] implies that Red Skull was called out of retirement in order for Fury's S.H.I.E.L.D. position to be restored.<ref name="Ultimate Avengers #6"/>
 {{-}}
+During the 2015 Secret Wars crossover event a version of Ian Rogers appears in a warzone where Hydra has always been in power and founded New York City. Ian meets a version of himself that kept the Leopoldo persona and became a Hydra version Captain America.<ref>’’Hail Hydra’’ #1-4</ref>
 
 ==In other media==
 *A character named '''James Rogers''' appears in ''[[Next Avengers: Heroes of Tomorrow]]'', voiced by [[Noah Crawford]]. The character is the son of [[Captain America]] (Steve Rogers) and [[Black Widow (Natasha Romanova)]].
@@ -38,6 +39,8 @@ An alternate iteration has since been seen as the [[Ultimate Marvel]] equivalent
 [[Category:Characters created by Rick Remender]]
 [[Category:Characters created by John Romita Jr.]]
 [[Category:Comics characters introduced in 2013]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics titles]]

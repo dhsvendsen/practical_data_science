@@ -1,5 +1,6 @@
+{{Short description|Marvel Comics character}}
 {{Infobox comics character
-|image          =
+|image          = Brian DeWolff (Earth-616) from Official Handbook of the Marvel Universe Master Edition Vol 1 30 0001.jpg
 |imagesize      =
 |converted      =
 |caption        =
@@ -44,5 +45,6 @@ Wraith possesses a variety of psionic powers as an effect of energy from advance
 [[Category:Characters created by Sal Buscema]]
 [[Category:Comics characters introduced in 1976]]
 [[Category:Fictional New York City Police Department officers]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]

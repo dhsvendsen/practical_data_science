@@ -1,12 +1,10 @@
 {{short description|Fictional character appearing in Marvel Comics}}
-
 {{Infobox comics character and title
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Rogue
 | image     = Rogue (Marvel Comics character - circa 2018).png
 | imagesize = <!--default 250-->
 | caption   = Rogue on a textless [[variant cover]] of ''Mr. & Mrs. X'' #1 (July 2018), art by [[J. Scott Campbell]]
-| alt       = 
 | publisher = [[Marvel Comics]]
 | debut     = ''[[The Avengers (comic book)|Avengers Annual]]'' #10 ([[1981 in comics|1981]])
 | creators  = [[Chris Claremont]]<br>[[Michael Golden (comics)|Michael Golden]]
@@ -18,8 +16,7 @@
 | aliases   = Anna Raven
 | powers    =
 *Absorption of life force, abilities, memories, personality, and physical characteristics of others via skin-to-skin contact
-*Superhuman strength, speed, durability (previously permanently absorbed from [[Carol Danvers]] and currently from [[Wonder Man]])
-*[[Flight]]
+*Flight, superhuman strength, speed, durability (previously permanently absorbed from [[Carol Danvers]] and later from [[Wonder Man]])
 <!--Series section--> 
 | title               = Rogue
 | cvr_image           = <!-- file name format only -->
@@ -172,7 +169,7 @@ When the Galactic Council transforms Earth into a maximum-security penal colony 
 ===X-Treme X-Men team===
 Rogue was part of the [[X-Treme X-Men]] team led by [[Storm (Marvel Comics)|Storm]]. The team's first mission was in search of [[Destiny (Irene Adler)#The Books of Truth|Destiny's diaries]] (which prophesied future events). During an invasion of [[Khan (comics)|Khan]] (an alien conqueror from another dimension) of the island nation of [[Madripoor]], Rogue requested that [[Sage (comics)|Sage]] use her power of jump-starting abilities to evolve her to a point where she could control all of the various powers that she had ever absorbed. Sage agreed, and Rogue became a one-woman army, able to use the powers of anyone she had absorbed in the past all at once.<ref>''X-Treme X-Men'' #13 (July 2002). Marvel Comics</ref>
 
-During Khan's invasion, Rogue was also confronted by [[Vargas (comics)|Vargas]] who was said to be "a new species altogether". Vargas foresaw himself being killed by Rogue in [[Destiny (Irene Adler)|Destiny]]'s diaries and, despite his belief in the prophecies, attempted to stop this occurrence from happening. Thus, in the midst of the invasion battle, Vargas ambushed Rogue as she was trying to rescue Gambit (see ''[[X-Treme X-Men]]''), spearing both Rogue and Gambit with his blade before escaping. Rogue survived due to possessing both Wolverine and the [[Hulk]]'s powers. Returning to the city shortly after the battle to recover his sword, Vargas was surprised in turn by Rogue dressed in Psylocke's costume (Vargas having killed [[Psylocke]] earlier for sport). After a lengthy battle, Rogue "fulfilled her destiny" by seemingly finishing Vargas off with his own weapon. Returning to Gambit, Rogue, with the help of [[Jean Grey]], forced him from near death in the astral plane.<ref>''X-Treme X-Men'' #17 (October 2002). Marvel Comics</ref>
+During Khan's invasion, Rogue was also confronted by [[Vargas (comics)|Vargas]] who was said to be "a new species altogether". Vargas foresaw himself being killed by Rogue in [[Destiny (Irene Adler)|Destiny]]'s diaries and, despite his belief in the prophecies, attempted to stop this occurrence from happening. Thus, in the midst of the invasion battle, Vargas ambushed Rogue as she was trying to rescue Gambit (see ''[[X-Treme X-Men]]''), spearing both Rogue and Gambit with his blade before escaping. Rogue survived due to possessing both Wolverine and the [[Hulk]]'s powers. Returning to the city shortly after the battle to recover his sword, Vargas was surprised in turn by Rogue dressed in Psylocke's costume (Vargas having killed [[Betsy Braddock|Psylocke]] earlier for sport). After a lengthy battle, Rogue "fulfilled her destiny" by seemingly finishing Vargas off with his own weapon. Returning to Gambit, Rogue, with the help of [[Jean Grey]], forced him from near death in the astral plane.<ref>''X-Treme X-Men'' #17 (October 2002). Marvel Comics</ref>
 
 Following the repulsion of the invasion, Rogue realized that Destiny's prophecies were only possibilities and that trying to follow them was more dangerous than ignoring them. She also learned that she had inherited a mansion in New Orleans from Destiny, as well as a sizable fortune, and the X-Treme X-Men team retired there to recuperate. Rogue soon left the team with Gambit, since they both emerged powerless from their ordeals and wanted to explore their relationship further.<ref>''X-Treme X-Men'' #19 (December 2002). Marvel Comics</ref>
 
@@ -268,7 +265,7 @@ She was later seen fighting alongside Captain America with the Avengers A.I.<ref
 Rogue absorbs Wolverine's powers and is told to stop the Scarlet Witch, who is seemingly helping the Apocalypse Twins, but in reality, she plans to use her powers to bring as many of Earth's heroes as she possibly can to defeat the Twins.<ref>''Uncanny Avengers'' #13. Marvel Comics</ref> Wolverine tells her that no one is to be killed if it can be helped, but upon seeing Wanda, Rogue goes into a berserker rage and murders her. Rogue is then killed by the recently re-resurrected Grim Reaper, who had been revived once again by the Apocalypse Twins to be one of their four horsemen of death.<ref>''Uncanny Avengers'' #14. Marvel Comics</ref> Her death was undone when Havok and the surviving members of the Unity Squad were sent from the future by Kang to stop the Twins from destroying Earth, their minds projected back into their past selves so that they could not only warn Rogue what was to come, but then arranged for her to absorb the powers of numerous superheroes to give her the strength to hold the Celestial back. Rogue also finally made peace with Wanda and forgave her.<ref name="Uncanny Avengers 21">''Uncanny Avengers'' #21. Marvel Comics</ref> After the crisis was over, Rogue was in the process of being driven mad by all the heroes Rogue had absorbed (all of the Avengers and the X-Men). The Scarlet Witch cast a spell to return those powers to their owners, although Rogue still retained the powers and the very essence she absorbed from Wonder Man.<ref>''Uncanny Avengers'' #22. Marvel Comics</ref> She has also lost her ability to freely touch others.<ref name="Uncanny Avengers 23">''Uncanny Avengers'' #23. Marvel Comics</ref>
 
 ===''X-Men'' (vol. 4)===
-In 2013, Marvel revealed a new comic book simply named ''X-Men''. Written by [[Brian Wood (comics)|Brian Wood]], ''X-Men'' features an all-female cast including [[Storm (Marvel Comics)|Storm]], [[Jubilee (comics)|Jubilee]], Rogue, [[Kitty Pryde]], [[Rachel Summers|Rachel Grey]], and [[Psylocke]].<ref>{{cite web|last=Esposito|first=Joey|title=Marvel Debuts All-Female X-Men|url=http://uk.ign.com/articles/2013/01/14/marvel-debuts-all-female-x-men|website=IGN}}</ref> Rogue was removed from this series' cast after the ''[[Battle of the Atom]]'' crossover, to avoid contradicting her death in ''Uncanny Avengers''.{{citation needed|date=January 2014}}
+In 2013, Marvel revealed a new comic book simply named ''X-Men''. Written by [[Brian Wood (comics)|Brian Wood]], ''X-Men'' features an all-female cast including [[Storm (Marvel Comics)|Storm]], [[Jubilee (comics)|Jubilee]], Rogue, [[Kitty Pryde]], [[Rachel Summers|Rachel Grey]], and [[Betsy Braddock|Psylocke]].<ref>{{cite web|last=Esposito|first=Joey|title=Marvel Debuts All-Female X-Men|url=http://uk.ign.com/articles/2013/01/14/marvel-debuts-all-female-x-men|website=IGN}}</ref> Rogue was removed from this series' cast after the ''[[Battle of the Atom]]'' crossover, to avoid contradicting her death in ''[[Uncanny Avengers]]''.{{citation needed|date=January 2014}}
 
 ===AXIS and return to the Uncanny Avengers===
 After her resurrection, Rogue took part in AXIS with the X-Men, her powers allowing her to sense the aspect of Professor X that remained within the Red Skull.<ref>''Uncanny Avengers'' #25</ref> During this time, the AUD was disbanded when various heroes underwent a moral inversion due to a spell cast by [[Doctor Doom]] and the Scarlet Witch to stop the telepathic Red Skull. In the aftermath, the Unity Division was reformed, with Rogue as leader of the team.<ref>''Avengers/X-Men: AXIS'' #9</ref><ref>''Uncanny Avengers'' (vol. 2) #1</ref>
@@ -309,6 +306,8 @@ The new twist in Rogue's powers consists of prompting her victims of her skin-to
 During ''Uncanny Avengers'', Rogue used her powers to absorb the energies of numerous superheroes to oppose the Celestial Executioner, stating that she had "been practicing"; she was even able to absorb the ionic energy-based powers of Wonder Man (whom she had been previously unable to absorb).<ref name="Uncanny Avengers 21"/> However, apparently due to the scale of the energies she absorbed in the process, Rogue's powers have reverted to their original state, unable to touch anyone without absorbing them automatically, and she retains Wonder Man's psyche and powers.<ref name="Uncanny Avengers 23"/>
 
 Anna's powers underwent another change during a battle with the Shi'ar Imperial Guard and a decanting faction of radicals led by Deathbird. The genetically conceived offspring of Charles Xavier and Lilandra Neramani; Xandra had reached into Rogue's conscious mind and used her considerable telepathic abilities in order to kick start a change in her powers. Initially seemingly no different from before, Rogue's absorption abilities had been vastly augmented from what they were before, still having no control over her abilities, she now as the capacity to drain life energy and supernatural skills from other living beings a good distance away. Eliminating the need to physically touch anyone for her siphoning powers to take effect.<ref>''Mr. and Mrs. X'' #5 (November 2018)</ref> After such a harrowing endeavor Spiral showed her how to fix her broken abilities, taking her and Remy to the Mojoworld where Rogue dove into her own subconsciousness and came to terms with herself. Realizing that she had been purposefully limiting her own abilities out of personal fear, now coming to terms with her own shortcomings, Rogue regained control of her life force absorption power and could now willingly initiate the ranged mass absorption effect that Xandra unlocked within her.<ref name="ReferenceA"/>
+
+After the reboot of X-Men with the release of House of X and Powers of X, Rogue's power absorption is once again proved to be lethal. She could easily kill Apocalypse with mere skin-to-skin touch, resulting in almost instant death with Apocalypse's body withered as she is done absorbing his life-force. The result of her power absorption was that she got Apocalypse's blue skin, although the effect disappeared not long after.<ref> ''Excalibur'' #5 (2019) </ref>
 
 ===Ms. Marvel powers===
 As a young woman, Rogue permanently absorbed the superhuman powers and the psyche of [[Carol Danvers]], the original [[Ms. Marvel]].<ref name="debut"/> This provided her with superhuman strength, stamina, durability, reflexes, speed and a seventh sense. She was able to repel bullets and fly at sub-sonic speeds, much like Ms. Marvel could. In addition, she possessed an amalgamated mutant human/Kree physiology that rendered her resistant to most toxins and poisons, with the added effect of making her virtually invulnerable.<ref>''Uncanny X-Men'' #172-173 (August – September 1983). Marvel Comics</ref>
@@ -441,8 +440,9 @@ In the [[Age of Ultron]] storyline, Rogue and [[Havok (comics)|Havok]] are a mar
 {{Brotherhood of Evil Mutants}}
 {{Uncanny Avengers}}
 {{X-Comics}}
-{{X-Men}}
+{{X-Men characters}}
 {{Wolverine}}
+
 {{DEFAULTSORT:Rogue (Comics)}}
 [[Category:Avengers (comics) characters]]
 [[Category:Characters created by Chris Claremont]]
@@ -464,6 +464,5 @@ In the [[Age of Ultron]] storyline, Rogue and [[Havok (comics)|Havok]] are a mar
 [[Category:Marvel Comics film characters]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutants]]
-[[Category:Marvel vs. Capcom fighters]]
 [[Category:Superheroes who are adopted]]
-[[Category:X-Men supporting characters]]
+[[Category:X-Men members]]

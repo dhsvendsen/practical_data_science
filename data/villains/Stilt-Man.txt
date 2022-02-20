@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character
 | image = Stiltman.jpg
 | caption = Stilt-Man (Wilbur Day),<br>art by [[Scott Kolins]]
@@ -10,7 +11,7 @@
 | aliases = [[Stuntmaster (comics)|Stunt-Master]]
 | powers = Competent engineer and inventor<br>Moderately talented disguise artist<br>Possesses arsenal of weapons and devices<br>Armored battlesuit grants:<br>Superhuman strength<br>Telescopic legs<br>Silicon coating against adhesives and Spider-Man's webbing
 }}
-'''Stilt-Man''' is the name of different fictional supervillains appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Stilt-Man''' is the name of multiple different <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->supervillains in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 Stilt-Man first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #8 (June 1965).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=359}}</ref> He is a criminal wearing an impenetrable suit of armor with powerful telescopic legs (useful for high-story heists).<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=108}}</ref> In addition to being one of Daredevil's most enduring arch-foes, he has appeared as an adversary for heroes more equally matched to his power level, such as [[Iron Man]] and [[Thor (Marvel Comics)|Thor]].
@@ -95,7 +96,6 @@ The Wilbur Day version of Stilt-Man appeared in the ''[[Iron Man (TV series)|Iro
 {{Daredevil}}
 {{Spider-Man characters}}
 
-[[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Wally Wood]]
 [[Category:Comics characters introduced in 1965]]
 [[Category:Fictional characters from New York City]]

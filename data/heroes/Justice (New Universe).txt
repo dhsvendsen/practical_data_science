@@ -1,6 +1,6 @@
 {{Infobox comics character| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
-image=<!-- Deleted image removed: [[Image:Justice (New Universe).jpg|250px]] -->
-|caption=Cover to ''Justice'' #32. Art by [[Lee Weeks]]
+image=John Roger Tensen.jpg
+|caption=
 |character_name=Justice
 |real_name=John Roger Tensen
 |publisher=[[Marvel Comics]]
@@ -44,7 +44,7 @@ Justice was able to create a personal force-field with his left hand (which he r
 
 Later, when Justice surfaced in the Marvel Universe of 2099, his powers changed drastically (see below).
 
-The ''newuniversal'' version of Justice also has different abilities; he appears to possess a limited form of telepathy, allowing him to read misdeeds from someone else's mind. He also manifests solid constructs made from glowing energy; these appear as either flat, rectangular panels which he uses as shields or platforms, or angular shapes which he uses as cutting blades.
+The ''newuniversal'' version of Justice also has different abilities; he appears to possess a limited form of telepathy, allowing him to read misdeeds from someone else's mind. He also manifests solid constructs made from glowing energy; these appear as either flat, rectangular panels which he uses as shields or platforms, or angular shapes which he uses as cutting blades. He also possesses matter displacement abilities. Seemingly vanishing and reappearing at will wherever he so chooses.
 
 ==Other versions==
 ===Marvel 2099===
@@ -112,7 +112,7 @@ The entire ''Psi-Man'' novel series was rereleased in 2000 by Ace Books in new e
 *[http://www.marvunapp.com/Appendix/justicet.htm Justice profile at Marvel Appendix]
 
 [[Category:1986 comics debuts]]
-[[Category:Characters created by Archie Goodwin]]
+[[Category:Characters created by Archie Goodwin (comics)]]
 [[Category:Comics by Gerry Conway]]
 [[Category:Comics by Peter David]]
 [[Category:Comics by Steve Englehart]]

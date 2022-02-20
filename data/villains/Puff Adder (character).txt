@@ -1,9 +1,9 @@
-{{short description|Fictional comic book villain}}
+{{Short description|Marvel Comics fictional character}}
 {{In-universe|date=October 2009}}
 {{Infobox comics character
-|image=
-|caption=Puff Adder, art by unknown.
 |character_name=Puff Adder
+|image=Gordon Fraley (Earth-616) from Captain America Sam Wilson Vol 1 3.jpg
+|caption=Puff Adder as seen in ''Captain America: Sam Wilson'' #3.
 |real_name=Gordon "Gordo" Fraley
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
@@ -13,9 +13,9 @@
 |aliases=
 |powers=Experienced aircraft pilot and street fighter<br>Slight superhuman strength and stamina<br>Noxious gas projection via costume's cowl<br>Ability to enlarge, or "puff up," body
 }}
-'''Puff Adder''' ('''Gordon Fraley''') is fictional character, a [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He made his debut in ''[[Captain America (comic book)|Captain America]]'' #337 (January 1988), created by writer [[Mark Gruenwald]] and artist [[Tom Morgan (comics)|Tom Morgan]]. The character is depicted primarily as a member of the [[Serpent Society]].
+'''Puff Adder''' ('''Gordon Fraley''') is a fictional character, a [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He made his debut in ''[[Captain America (comic book)|Captain America]]'' #337 (January 1988), created by writer [[Mark Gruenwald]] and artist [[Tom Morgan (comics)|Tom Morgan]]. The character is depicted primarily as a member of the [[Serpent Society]].
 
-Fraley made his debut as Puff Adder as part of the fourth version of the [[Serpent Squad]] alongside [[Copperhead (comics)|Copperhead]], [[Fer-de-Lance (comics)|Fer-de-Lance]] and [[Black Racer (Marvel Comics)|Black Racer]], robbing a casino in [[Las Vegas]]. The heist was a ploy to gain acceptance into the [[Serpent Society]] by Society leader [[Sidewinder (comics)|Sidewinder]]. Once part of the Society they help [[Viper (Madame Hydra)|Viper]] take control of the Serpent Society and support her in a plot to take control of the President of the United States. The plot is eventually foiled by [[Captain America]] and several members of the Serpent Society who remained loyal to Sidewinder. After Viper is defeated the Serpent Society is reformed and Puff Adder becomes a regular member of the group. He later becomes a member of Serpent Solutions as the Serpent Society was reorganized.
+Fraley made his debut as Puff Adder as part of the fourth version of the [[Serpent Squad]] alongside [[Copperhead (comics)|Copperhead]], [[Fer-de-Lance (comics)|Fer-de-Lance]] and [[Black Racer (Marvel Comics)|Black Racer]], robbing a casino in [[Las Vegas]]. The heist was a ploy to gain acceptance into the [[Serpent Society]] by Society leader [[Sidewinder (comics)|Sidewinder]]. Once part of the Society ,they help [[Viper (Madame Hydra)|Viper]] take control of the Serpent Society and support her in a plot to take control of the President of the United States. The plot is eventually foiled by [[Captain America]] and several members of the Serpent Society who remained loyal to Sidewinder. After Viper is defeated the Serpent Society is reformed and Puff Adder becomes a regular member of the group. He later becomes a member of Serpent Solutions when the Serpent Society was reorganized.
 
 ==Publication history==
 {{Expand section|date=December 2012}}
@@ -44,6 +44,8 @@ Puff Adder appears in the 2017 "[[Secret Empire (comics)|Secret Empire]]" storyl
 
 In a prelude to the "[[Hunted (comics)|Hunted]]" storyline, several members of the Serpent Society were captured by [[Kraven the Hunter]], [[Taskmaster (comics)|Taskmaster]], and [[Eric O'Grady#Black Ant|Black Ant]] and forced to participate in a murderous hunt set up by [[Arcade (Marvel Comics)|Arcade]]. Black Mamba, Cottonmouth, Bushmaster, Black Racer, Puff Adder, Rock Python, and Fer-de-Lance were placed in electric cages to wait for the hunt to commence.<ref>''Amazing Spider-Man'' Vol. 5 #16. Marvel Comics.</ref>
 
+During the "[[Devil's Reign]]" storyline, Puff Adder and Coachwhip appear as members of [[Kingpin (character)|Mayor Wilson Fisk]]'s incarnation of the [[Thunderbolts (comics)|Thunderbolts]] at the time when Mayor Fisk had outlawed superhero activity. They alongside the Thunderbolts unit with them attack [[Spider-Woman (Jessica Drew)|Spider-Woman]] only to be fought off by Spider-Woman as she gets Lindsay McRabe to safety.<ref>''Spider-Woman'' Vol. 7 #18. Marvel Comics.</ref>
+
 ==Powers and abilities==
 Puff Adder has the [[Mutant (Marvel Comics)|mutant]] ability to cause the epidermis of his entire body to engorge with blood and thus swell his body to a more intimidating size, upwards of approximately {{convert|10|ft|m}}. In ''[[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]]'' #29 [[Charlie-27]] states that Puff Adder can increase his mass to over five tons, the limit of what Charlie-27 can lift on Earth. Puff Adder can only remain fully inflated for approximately fifteen minutes at a time. Puff Adder also possesses a slight degree of superhuman strength and stamina.{{issue|date=May 2017}}
 
@@ -52,7 +54,7 @@ Fraley is a competent hand-to-hand fighter, with extensive experience in street-
 The cowl of Puff Adder's costume contains a pressurized container of noxious gas which can be released from his mouth area. It is activated by a specific motion made with his jaw muscles.{{issue|date=May 2017}}
 
 ==Race variation==
-His race varies from artist to artist. In his first appearance, he was depicted as [[Caucasian race|Caucasian]], but a few issues later, he is depicted as [[African American]].{{Citation needed|date=November 2008}}
+His race varies from artist to artist. In his first appearance, he was depicted as [[Caucasian race|Caucasian]]. A few issues later, he is depicted as [[African American]].{{Citation needed|date=November 2008}}
 
 ==References==
 {{reflist}}

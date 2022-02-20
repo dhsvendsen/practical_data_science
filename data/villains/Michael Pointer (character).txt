@@ -1,5 +1,6 @@
+{{Short description|Comics}}
 {{Superherobox <!--Wikipedia:WikiProject Comics-->
-| image =[[Image:Mcp4.jpg|250px]]
+| image =Mcp4.jpg
 | caption =Cover art for ''Marvel Comics Presents (vol 2)'' #4.<br>Art by [[Michael Choi (comics)|Mike Choi]].
 | character_name = Omega
 | publisher = [[Marvel Comics]]

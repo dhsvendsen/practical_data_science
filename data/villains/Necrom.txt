@@ -1,7 +1,7 @@
 {{distinguish|Necron (disambiguation){{!}}Necron}}
 {{Refimprove|date=December 2009}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image          =
+|image          = Necrom (Earth-148) 01 from Excalibur Vol 1 46 00001.jpg
 |caption        =
 |character_name = Necrom
 |real_name      = Necrom
@@ -35,6 +35,11 @@ Necrom, like other members of his race, was immortal in the sense that he would 
 ==References==
 <references/>
 
+{{Captain Britain}}
+{{Excalibur}}
+{{Marvel Mystic}}
+
 [[Category:Comics characters introduced in 1992]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics characters who use magic]]
 [[Category:Marvel Comics supervillains]]

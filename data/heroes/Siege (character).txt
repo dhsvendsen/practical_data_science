@@ -1,6 +1,6 @@
 {{Notability|date=January 2019}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=<!-- Deleted image removed: [[Image:Siege003.jpg|250px]] -->
+image=Siege (Marvel Comics).jpg
 |caption=Siege
 |character_name=Siege
 |real_name=John Kelly
@@ -48,4 +48,6 @@ Possibly because the organic portions of his body are not his own, or possibly b
 [[Category:Comics characters introduced in 1990]]
 [[Category:Comics characters introduced in 1993]]
 [[Category:Fictional cyborgs]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics superheroes]]

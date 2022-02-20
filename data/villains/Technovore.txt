@@ -2,8 +2,8 @@
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Technovore
-| image          = <!-- filename format only -->
-| imagesize      = <!-- default 250 -->
+| image          = Technovore (Earth-616) from Iron Man Vol 1 294 001.jpg
+| imagesize      = 250
 | caption        = 
 | publisher      = [[Marvel Comics]]
 | debut          = ''[[Iron Man (comic book)|Iron Man]]'' #294 (July 1993)
@@ -27,7 +27,7 @@
 | sortkey        = 
 | addcharcat#    = 
 }}
-'''Technovore''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]], typically as an enemy of the superhero [[Iron Man]].
+'''Technovore''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]], typically as an enemy of the superhero [[Iron Man]].
 
 While Technovore made its animated debut in the TV series ''[[Iron Man: Armored Adventures]]'', it has since made limited media appearances.
 
@@ -47,7 +47,7 @@ Technovore can absorb technology into itself, adding the abilities of consumed t
 ==In other media==
 ===Television===
 * Technovore appears in the ''[[Iron Man: Armored Adventures]]'' animated series, voiced by [[Tabitha St. Germain]]. Introduced in the episode "Seeing Red", it is a virus designed by Tony Stark to consume [[Features of the Marvel Universe#Project_Pegasus|Project Pegasus]]' data on the Iron Man and [[Crimson Dynamo]] armors to stop [[Iron Monger|Obadiah Stane]] from getting them. The virus was meant to burn itself out, but attained sentience when it uploaded itself into Project Pegasus's nanobot project. In its self-titled episode, the Technovore virus molds the nanotechnology into a body and runs loose in Project Pegasus' facility, assimilating all forms of technology it can find. James Rhodes travels to the facility to investigate a disturbance, but encounters Technovore, who used Rhodes' earpiece to call its creator so it can consume the Iron Man armor. Project Pegasus' lead scientist, Anton Harchov, escapes just before Iron Man arrives, activates his armor's self-destruct function, and seemingly destroys Technovore. Unbeknownst to everyone however, pieces of the virus' nanotech landed on Anton's coat. 
-* Technovore appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' animated series, voiced by [[Dwight Schultz]]. Introduced in the episode "Nick Fury: Agent of S.H.I.E.L.D.", this version was originally an inmate of the [[Vault (comics)|Vault]]. After escaping off-screen in "Breakout, Part 1", Technovore returns in "Alone Against A.I.M.", after it gets captured by [[Advanced Idea Mechanics|A.I.M.]] agents and reprogrammed so their [[Scientist Supreme]] can take revenge on Tony Stark. Technovore is released in [[Stark Industries]] and fights Tony, [[Maria Hill]], and [[War Machine]] before Tony tricks the virus into consuming the Arc Reactor's vast energy, destroying it in the process.
+* Technovore appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' animated series, voiced by [[Dwight Schultz]]. Introduced in the episode "Nick Fury: Agent of S.H.I.E.L.D.", this version was originally an inmate of the [[Vault (Marvel Comics)|Vault]]. After escaping off-screen in "Breakout, Part 1", Technovore returns in "Alone Against A.I.M.", after it gets captured by [[Advanced Idea Mechanics|A.I.M.]] agents and reprogrammed so their [[Scientist Supreme]] can take revenge on Tony Stark. Technovore is released in [[Stark Industries]] and fights Tony, [[Maria Hill]], and [[War Machine]] before Tony tricks the virus into consuming the Arc Reactor's vast energy, destroying it in the process.
 * Technovore appears in the ''[[Spider-Man (2017 TV series)|Spider-Man: Maximum Venom]]'' animated series episode "Web of Venom" Pt. 1. This version is a technological parasite developed and abandoned by Horizon High. [[Lizard (comics)|Dr. Curt Connors]] releases Technovore from Horizon High's project graveyard and frames [[Grady Scraps]] for it. The parasite assimilates various forms of technology before [[Spider-Man]] destroys it.
 
 ===Film===
@@ -67,5 +67,7 @@ Technovore appears in the anime film ''[[Iron Man: Rise of Technovore]]'', voice
 [[Category:Fictional murderers]]
 [[Category:Fictional robots]]
 [[Category:Superhero film characters]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics robots]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Iron Man characters]]

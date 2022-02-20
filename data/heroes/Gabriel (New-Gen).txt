@@ -18,7 +18,7 @@
 | sortkey = Gabriel
 }}
 
-'''John Gabriel''' is a fictional character, a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in the [[NEW-GEN (Comic)|NEW-GEN]] comic books. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is the founder and leader of the A.P.N.G., and the leading scientific mind in the field of [[nanotechnology]] on the world of New-Gen.<ref>http://www.comicvine.com/gabriel/29-69829/</ref>
+'''John Gabriel''' is a fictional character, a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in the [[NEW-GEN (Comic)|NEW-GEN]] comic books. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is the founder and leader of the A.P.N.G., and the leading scientific mind in the field of [[nanotechnology]] on the world of New-Gen.<ref>{{Cite web|url=http://www.comicvine.com/gabriel/29-69829/|title=Gabriel (Character)}}</ref>
 
 ==Fictional Character Biography==
 ===Utopia and Deadalus' Betrayal===
@@ -42,3 +42,5 @@ Gabriel also possesses a genius level intellect, and regularly creates both nano
 == External links ==
 * https://web.archive.org/web/20110707153446/http://apngenterprises.com/comic/characters-of-new-gen/
 * http://www.comicvine.com/gabriel/29-69829/
+
+[[Category:Marvel Comics characters with superhuman strength]]

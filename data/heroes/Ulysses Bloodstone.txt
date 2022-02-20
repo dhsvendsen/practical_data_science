@@ -22,7 +22,7 @@
 ==Publication history==
 Ulysses Bloodstone first appeared in ''[[Marvel Presents]]'' #1 (Oct 1975) and was created by [[Len Wein]], [[Marv Wolfman]], and [[John Warner (comics)|John Warner]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=59}}</ref>
 
-John Warner has explained the development of Ulysses Bloodstone: "Len Wein and Marv Wolfman came up with the spark that would become Bloodstone—the premise of a man who fights monsters—and together he {{sic}} and I began to develop a series idea to take up ten pages of ''[[Where Monsters Dwell]]."'' <ref name=helixhex>"Of Helixes and Hexes," written by John Warner, published in the "Reader's Space" section of ''[[Marvel Presents]]'' #2, for December of 1975.</ref> [[Mike Vosburg]] was the artist assigned to the first installment, and then [[Pat Boyette]] was to do the rest of the series. Warner developed ideas for the ongoing story describing the planned ideas as "grand and epic and sweeping in scope" and "very cosmic and complex."<ref name=helixhex />
+John Warner has explained the development of Ulysses Bloodstone: "Len Wein and Marv Wolfman came up with the spark that would become Bloodstone—the premise of a man who fights monsters—and together he {{sic}} and I began to develop a series idea to take up ten pages of ''[[Where Monsters Dwell]]."'' <ref name=helixhex>"Of Helixes and Hexes," written by John Warner, published in the "Reader's Space" section of ''[[Marvel Presents]]'' #2, for December of 1975.</ref> [[Mike Vosburg]] was the artist assigned to the first installment, and then [[Pat Boyette]] was to do the rest of the series. Warner developed ideas for the ongoing story, describing the planned ideas as "grand and epic and sweeping in scope" and "very cosmic and complex."<ref name=helixhex />
 
 ''Where Monsters Dwell'' was cancelled at the same time as ''[[The Living Mummy]],'' another title on which Warner was working. However, he was informed that he ''would'' get the chance to run part of the story in the first two issues of a new title, ''[[Marvel Presents]].'' The first two parts were finished, and they would run in issue one; Warner had to draw everything to a satisfactory close in the second issue. He says, "In the first two episodes I had laid the groundwork for this grand sweeping epic ... and all of a sudden I had to tie it off in eighteen pages."<ref name=helixhex /> This left a lot of the story untold, and he could only introduce two of the characters he wanted to bring in, Brad Carter and P.D.Q. Warner. Due to the delays Boyette was unavailable for the second issue, whose artwork [[Sonny Trinidad]] drew instead.{{cn|date=April 2020}}
 
@@ -76,7 +76,7 @@ Stories featuring him that have been collected into [[trade paperback (comics)|t
 * ''[[Captain America]]: The Bloodstone Hunt'' (collects ''Captain America'' volume 1 #357-362, 1989), tpb July 1993, {{ISBN|0-87135-972-3}}<ref>{{comicbookdb|type=issue|id=65888|title=''Hunt for the Bloodstone''}}</ref>
 
 ==In other media==
-A Bloodstone TV series was considered for development in 2001.<ref>http://www.comicbookresources.com/?page=article&id=13675</ref>
+A Bloodstone TV series was considered for development in 2001.<ref>{{Cite web|url=http://www.comicbookresources.com/?page=article&id=13675|title = Error}}</ref>
 
 ==References==
 {{Reflist}}
@@ -91,9 +91,11 @@ A Bloodstone TV series was considered for development in 2001.<ref>http://www.co
 [[Category:Characters created by Marv Wolfman]]
 [[Category:Comics characters introduced in 1975]]
 [[Category:Fictional actors]]
-[[Category:Marvel Comics characters who use magic]]
+[[Category:Fictional characters with immortality]]
 [[Category:Fictional monster hunters]]
 [[Category:Fictional pirates]]
 [[Category:Fictional soldiers]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutates]]

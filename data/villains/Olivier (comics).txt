@@ -30,7 +30,7 @@
 | addcharcat#    = 
 }}
 
-'''Olivier''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of the [[antihero]] the [[Punisher]].<ref> {{cite book|author = Bradley Mengel|title = Serial Vigilantes of Paperback Fiction: An Encyclopedia from Able Team to Z-Comm|url = http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-4165-5|archive-url = https://archive.is/20150404123847/http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-4165-5|url-status = dead|archive-date = 4 April 2015|access-date = 26 March 2015|year = 2012|publisher = [[McFarland & Company]]|isbn = 9780786441655|page = 217}} </ref> Olivier was created by [[Bernie Wrightson]], [[Christopher Golden]] and [[Thomas E. Sniegoski]], and first appeared in ''[[The Punisher (1998 series)|The Punisher]]'' Vol. 4, #1 (November 1998) as a reimagined depiction of an already existing individual: '''Frank Costa''' was created by [[Tony DeZuniga]] and [[Archie Goodwin (comics)|Archie Goodwin]], and debuted in ''Marvel Super Action'' Vol. 1, #1 (January 1976).
+'''Olivier''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of the [[antihero]] the [[Punisher]].<ref> {{cite book|author = Bradley Mengel|title = Serial Vigilantes of Paperback Fiction: An Encyclopedia from Able Team to Z-Comm|url = http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-4165-5|archive-url = https://archive.today/20150404123847/http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-4165-5|url-status = dead|archive-date = 4 April 2015|access-date = 26 March 2015|year = 2012|publisher = [[McFarland & Company]]|isbn = 9780786441655|page = 217}} </ref> Olivier was created by [[Bernie Wrightson]], [[Christopher Golden]] and [[Thomas E. Sniegoski]], and first appeared in ''[[The Punisher (1998 series)|The Punisher]]'' Vol. 4, #1 (November 1998) as a reimagined depiction of an already existing individual: '''Frank Costa''' was created by [[Tony DeZuniga]] and [[Archie Goodwin (comics)|Archie Goodwin]], and debuted in ''Marvel Super Action'' Vol. 1, #1 (January 1976).
 
 == Publication history ==
 
@@ -62,7 +62,7 @@ As a demon and true fallen angel, Olivier is impervious to age, disease, and inj
 
 ==In other media==
 ===Film===
-* Costa was the initial name of the crime family that massacred the Castle family in the 2004 ''[[The Punisher (2004 film)|Punisher]]'' film. It was later changed to the Saint with '''Howard Saint''' talking on the role.<ref> {{cite web|url = http://www.comicbookresources.com/?page=article&id=3305|title = Behind the Scenes with ''Punisher'' Writer Michael France|last = Richards|first = Dave|publisher = Comic Book Resources|date = 23 March 2004|website = comicbookresources.com|access-date = 16 October 2015}} </ref> 
+* Costa was the initial name of the crime family that massacred the Castle family in the 2004 ''[[The Punisher (2004 film)|Punisher]]'' film. It was later changed to the Saint with '''Howard Saint''' taking on the role.<ref> {{cite web|url = http://www.comicbookresources.com/?page=article&id=3305|title = Behind the Scenes with ''Punisher'' Writer Michael France|last = Richards|first = Dave|publisher = Comic Book Resources|date = 23 March 2004|website = comicbookresources.com|access-date = 16 October 2015}} </ref> 
 
 * The Costa crime family is showcased in Detective [[Martin Soap]]'s expository slideshow in the 2008 film ''[[Punisher: War Zone]]'', with it being insinuated that the entire syndicate was wiped out by the Punisher. The head of the family is renamed '''Antonio Costa'''.<ref>{{cite AV media|people = [[Lexi Alexander]] (Director)|date = 5 December 2008|title = [[Punisher: War Zone]]|medium = Motion picture|location = United States|publisher = [[Lions Gate Entertainment]]}}</ref>
 
@@ -85,7 +85,7 @@ As a demon and true fallen angel, Olivier is impervious to age, disease, and inj
 {{Punisher}}
 {{Marvel Mystic}}
 
-[[Category:Characters created by Archie Goodwin]]
+[[Category:Characters created by Archie Goodwin (comics)]]
 [[Category:Comics characters introduced in 1976]]
 [[Category:Comics characters introduced in 1998]]
 [[Category:Fictional characters with fire or heat abilities]]

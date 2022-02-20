@@ -1,5 +1,5 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| image =
+| image = Vincente Fortunato (Earth-616) from All-New Official Handbook of the Marvel Universe A to Z Vol 1 4 0001.jpg
 | caption =
 | character_name =Don Fortunato
 | real_name =Vincente Fortunato
@@ -39,6 +39,7 @@ Fortunato's dominance was eventually shattered when the Kingpin returned, launch
 [[Category:Characters created by Howard Mackie]]
 [[Category:Comics characters introduced in 1996]]
 [[Category:Fictional crime bosses]]
+[[Category:Fictional Italian American people]]
 [[Category:Fictional gangsters]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]

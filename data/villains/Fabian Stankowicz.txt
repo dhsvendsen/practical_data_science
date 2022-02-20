@@ -1,5 +1,5 @@
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Fabian Stankiewicz (Earth-616) from All-New Official Handbook of the Marvel Universe A to Z Vol 1 10 0001.jpg
 |caption=
 |character_name=Fabian Stankowicz
 |real_name=Fabian Stankowicz
@@ -77,6 +77,7 @@ Fabian's Mechanaut armor also had extendable limbs and knock-out gas.
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/stankowicz.htm|Fabian Stankowicz}}
 
+{{Avengers characters}}
 {{Captain America}}
 
 {{DEFAULTSORT:Stankowicz, Fabian}}

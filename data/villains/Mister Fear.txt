@@ -1,4 +1,6 @@
-'''Mister Fear''' is the name of four [[fictional character]]s, all [[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is often depicted as an antagonist to the hero [[Daredevil (Marvel Comics character)|Daredevil]].
+{{Short description|Marvel Comics fictional characters}}
+
+'''Mister Fear''' is the name of four <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is often depicted as an antagonist to the hero [[Daredevil (Marvel Comics character)|Daredevil]].
 
 ==Publication history==
 Mister Fear is the identity of multiple supervillains who use a special 'fear gas' fired from a gas pellet gun; the original version (Zoltan Drago) first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #6 (February 1965) and was created by [[Stan Lee]] and [[Wally Wood]].<ref name=Villains>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=223-224}}</ref>
@@ -14,7 +16,7 @@ The fourth version (Alan Fagan) first appeared in ''[[Marvel Team-Up]]'' #92 (Ap
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image =
 | caption =
-| character_name = Mister Fear
+| character_name = Mister Fear I
 | publisher = [[Marvel Comics]]
 | debut = ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #6 (February 1965)
 | creators = [[Stan Lee]]<br>[[Wally Wood]]
@@ -25,7 +27,7 @@ The fourth version (Alan Fagan) first appeared in ''[[Marvel Team-Up]]'' #92 (Ap
 | aliases =
 | powers = Accomplished wax sculptor<br>Talented amateur chemist<br>Gifted intellect<br>Fear pheromone administered primarily by gas pellets, occasionally by syringe, most recently by an aerosol sprayer
 }}
-'''Zoltan Drago''' was the proprietor of a financially ailing wax museum who attempted to use his knowledge of chemistry to create an elixir which would turn his wax statues into living creatures, with which he would create a private army. The chemical failed to create life in wax, but Drago discovered the brew he had created could evoke fear in those who inhaled said chemical. He designed a frightening costume for himself as the Mister Fear persona.
+'''Zoltan Drago''' was the proprietor of a financially ailing wax museum who attempted to use his knowledge of chemistry to create an elixir which would turn his wax statues into living creatures, with which he would create a private army. The chemical failed to create life in wax, but Drago discovered that it could evoke fear when inhaled. He designed a frightening costume for himself as the Mister Fear persona.
 
 As the original Mister Fear, Drago used his fear-gas to make terrified slaves of the brutish [[Ox (comics)|Ox]] of the Enforcers and the [[Eel (comics)|Eel]]. Naming his triumvirate as the '''Fellowship of Fear''', he ran afoul in New York City and was soundly defeated by [[Daredevil (Marvel Comics character)|Daredevil]] and imprisoned.<ref>''Daredevil'' #6. Marvel Comics.</ref> Drago was later killed by [[Machinesmith|Starr Saxon]] for his Mister Fear equipment,<ref>''Daredevil'' #55. Marvel Comics.</ref> and later Larry Cranston decided to take on the Mister Fear gear.<ref>''Daredevil'' #91. Marvel Comics.</ref>
 {{-}}
@@ -37,10 +39,10 @@ Criminal engineer Samuel "Starr" Saxon desired the means to confront Daredevil d
 ===Larry Cranston===
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image = [[Image:Mrfear.jpg|250px]]
-| caption = Larry Cranston as Mister Fear.<br>Art by [[Michael Lark]].
-| character_name = Mister Fear
+| caption = Larry Cranston as Mister Fear III,<br>art by [[Michael Lark]]
+| character_name = Mister Fear III
 | publisher = [[Marvel Comics]]
-| debut = ''[[Daredevil (Marvel Comics series)|Daredevil]]'' I #89 (July 1972)<br>''Daredevil'' I #91 (September 1972; as Mister Fear) 
+| debut = ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #89 (July 1972)<br>''Daredevil'' #91 (September 1972; as Mister Fear) 
 | creators = [[Gerry Conway]]<br>[[Gene Colan]]
 | real_name = Lawrence "Larry" Cranston
 | alliances =
@@ -50,13 +52,13 @@ Criminal engineer Samuel "Starr" Saxon desired the means to confront Daredevil d
 | powers = Skilled lawyer<br>Extensively trained hand to hand combatant<br>Fear pheromone administered primarily by gas pellets, occasionally by syringe, most recently by an aerosol sprayer<br>Use of a perfume that made him able to influence other people
 }}
 
-'''Lawrence "Larry" Cranston''' was a law school classmate of Matt Murdock who also became an employer for a while.<ref>''Daredevil'' #88. Marvel Comics.</ref> Cranston was staying in a hotel room across the hall from Zoltan Drago. He happened to overhear Starr Saxon killing Drago. And after learning that Saxon himself had died, Cranston decided to take on the Mister Fear guise himself.<ref>''Daredevil'' #91. Marvel Comics.</ref>
+'''Lawrence "Larry" Cranston''' was a law school classmate of Matt Murdock who also became an employer for a while.<ref>''Daredevil'' #88. Marvel Comics.</ref> Cranston was staying in a hotel room across the hall from Zoltan Drago. He happened to overhear Starr Saxon killing Drago, and after learning that Saxon himself had died, Cranston decided to take on the Mister Fear guise himself.<ref>''Daredevil'' #91. Marvel Comics.</ref>
 
 As the third Mister Fear, Cranston went mad during his first effort against [[Daredevil (Marvel Comics character)|Daredevil]] in San Francisco, jumping off a building, assuming that he was wearing a rocket pack which he had previously worn in battle with the hero, and seemingly died due to injuries sustained in a fall.<ref>''Daredevil'' #90-91. Marvel Comics.</ref>
 
 Cranston survived the fall and returned years later.<ref>''Over the Edge'' #1. Marvel Comics.</ref> He masterminded a series of campaigns meant to discredit Daredevil with the aid of the [[Enforcers (comics)|Enforcers]], the Eel, and the sleepless woman [[Insomnia (comics)|Insomnia]]. Daredevil defeated them and Cranston abandoned the Mister Fear identity.<ref>''Daredevil'' #361-375. Marvel Comics.</ref>
 
-Cranston later resurfaced, along with the Enforcers at his side, providing the criminals of Hell's Kitchen a drug that causes the user to become psychotic and completely unafraid of death, in the "[[Without Fear]]" storyline. He also made an attempt to overthrow the [[Hood (comics)|Hood]], as New York's main crime boss. In an attempt to make Daredevil's life miserable, Cranston also secretly gave an overdose of the drug to [[Milla Donovan]] (Daredevil's wife); the result led to an innocent man's murder by Milla. The two fought but Cranston, having murdered the drug's creator and destroyed all of the antidote's known samples, forced Daredevil to spare his life due to the fact that he was the only one whose testimony could save Milla from being sentenced to death for the murder committed earlier. But before he was sent to prison, Cranston had one of his henchmen provide him with a new chemical compound he had created: one that made everyone worship him. With this new power, Cranston entered jail as a prison "king", surrounded by bodyguards, saluted by prison guards, and entering a lavish cell with a female officer waiting to greet him.<ref>''Daredevil'' vol. 2 #95-103, Marvel Comics.</ref>
+Cranston later resurfaced, along with the Enforcers at his side, providing the criminals of Hell's Kitchen a drug that causes the user to become psychotic and completely unafraid of death, in the "[[Without Fear]]" storyline. He also made an attempt to overthrow the [[Hood (comics)|Hood]], as New York's main crime boss. In an attempt to make Daredevil's life miserable, Cranston also secretly gave an overdose of the drug to [[Milla Donovan]] (Daredevil's wife); the result led to an innocent man's murder by Milla. The two fought, but Cranston, having murdered the drug's creator and destroyed all of the antidote's known samples, forced Daredevil to spare his life due to the fact that he was the only one whose testimony could save Milla from being sentenced to death for the murder committed earlier. But before he was sent to prison, Cranston had one of his henchmen provide him with a new chemical compound he had created: one that made everyone worship him. With this new power, Cranston entered jail as a prison "king", surrounded by bodyguards, saluted by prison guards, and entering a lavish cell with a female officer waiting to greet him.<ref>''Daredevil'' (vol. 2) #95-103, Marvel Comics.</ref>
 
 During the "[[King in Black]]" storyline, Mister Fear is among the villains recruited by Mayor [[Kingpin (character)|Wilson Fisk]] to be part of the Thunderbolts at the time of [[Knull (character)|Knull]]'s invasion.<ref>''King in Black: Thunderbolts'' #1. Marvel Comics.</ref>
 {{-}}
@@ -65,7 +67,7 @@ During the "[[King in Black]]" storyline, Mister Fear is among the villains recr
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image =
 | caption =
-| character_name = Mister Fear
+| character_name = Mister Fear IV
 | publisher = [[Marvel Comics]]
 | debut = ''[[Marvel Team-Up]]'' #92 (April 1980)
 | creators = [[Steven Grant]]<br>[[Carmine Infantino]]
@@ -77,9 +79,9 @@ During the "[[King in Black]]" storyline, Mister Fear is among the villains recr
 | powers = Highly adept businessman<br>Fear pheromone administered primarily by gas pellets, occasionally by syringe, most recently by an aerosol sprayer
 }}
 
-'''Alan Fagan''' was born in [[Madison, Wisconsin]]. He is Larry Cranston's nephew and Ariel Tremmore's father. When Larry seemingly died, he came into possession of the fear gas and other equipment.<ref>''Marvel Team-Up'' #92. Marvel Comics.</ref> Unlike the other versions, Fagan's primary adversary was [[Spider-Man]] not Daredevil.<ref>''Web of Spider-Man'' #63. Marvel Comics.</ref><ref>''Web of Spider-Man'' #98-100. Marvel Comics.</ref>
+'''Alan Fagan''' was born in [[Madison, Wisconsin]]. He is Larry Cranston's nephew and Ariel Tremmore's father. When Larry seemingly died, he came into possession of the fear gas and other equipment.<ref>''Marvel Team-Up'' #92. Marvel Comics.</ref> Unlike the other versions, Fagan's primary adversary was [[Spider-Man]], not Daredevil.<ref>''Web of Spider-Man'' #63. Marvel Comics.</ref><ref>''Web of Spider-Man'' #98-100. Marvel Comics.</ref>
 
-As the fourth Mister Fear, Fagan attempted to use his fear-gas in blackmail schemes which were stymied by Spider-Man, with the aid of [[Hawkeye (Clint Barton)|Hawkeye]].<ref>''Marvel Team-Up'' #92. Marvel Comics.</ref> Fagan was brutally attacked in prison, much of the skin carved from his face by men in the employ of Ariel who used the skin to draw out fear-gas residue his daughter used to turn herself into the villain [[Shock (comics)|Shock]].<ref>''Daredevil'' #314-315. Marvel Comics.</ref>  
+As the fourth Mister Fear, Fagan attempted to use his fear-gas in blackmail schemes which were stymied by Spider-Man, with the aid of [[Hawkeye (Clint Barton)|Hawkeye]].<ref>''Marvel Team-Up'' #92. Marvel Comics.</ref> Fagan was brutally attacked in prison, much of the skin carved from his face by men in the employ of Ariel, who used the skin to draw out the fear-gas residue his daughter used to turn herself into the villain [[Shock (comics)|Shock]].<ref>''Daredevil'' #314-315. Marvel Comics.</ref>  
 
 Fagan recovered from these injuries and received improved weaponry from [[Latveria]]'s interim ruler [[Lucia von Bardas]], including a suit of armor resembling a metallic version of the traditional Mister Fear costume. The weaponry was destroyed at the climax of the ''[[Secret War (comics)|Secret War]]'' miniseries.<ref>''Secret War'' #3-5. Marvel Comics.</ref>
 

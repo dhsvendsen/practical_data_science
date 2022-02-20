@@ -1,6 +1,7 @@
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character
 |character_name=Vermin
-|image=
+|image=Edward Whelan (Earth-616) from Fear Itself Spider-Man Vol 1 1 001.jpg
 |caption=
 |real_name=Edward Whelan
 |publisher=[[Marvel Comics]]
@@ -17,19 +18,19 @@ As Vermin:
 *Razor sharp teeth
 *Inch-long claw-like fingernails
 *Ability to control rats and stray dogs and revert to human form at will
-|}}
-'''Vermin''' ('''Edward Whelan''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an adversary of [[Captain America]] and [[Spider-Man]]. A [[geneticist]] working for [[Helmut Zemo|Baron Zemo]] and [[Arnim Zola]], Edward Whelan was subjected to an experiment that mutated him into a humanoid [[rat]], gaining superhuman abilities, as well as the predatory insticts of a rat. The character's most notable appearance was in the storyline "[[Kraven's Last Hunt]]".
+}}
+'''Vermin''' ('''Edward Whelan''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an adversary of [[Captain America]] and [[Spider-Man]]. A [[geneticist]] working for [[Helmut Zemo|Baron Zemo]] and [[Arnim Zola]], Edward Whelan was subjected to an experiment that mutated him into a humanoid [[rat]], gaining superhuman abilities, as well as the predatory instincts of a rat. The character's most notable appearance was in the storyline "[[Kraven's Last Hunt]]".
 
 ==Publication history==
 {{Expand section|date=December 2012}}
 The character's first appearance was in ''[[Captain America (comic book)|Captain America]]'' #272 (August 1982).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=393}}</ref> He was created by [[J. M. DeMatteis]] and [[Mike Zeck]].<ref>{{cite journal|last= Johnson|first= Dan|date= August 2009|title= In Our Sights: Kraven's Last Hunt|journal= [[Back Issue!]]|issue= #35|page= 5|publisher= [[TwoMorrows Publishing]]}}</ref>
 
-He became a [[Spider-Man]] villain as well in ''[[Marvel Team-Up]]'' #128 (April 1983), fighting both Captain America and Spider-Man.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=134}}</ref>
+He became a Spider-Man villain as well in ''[[Marvel Team-Up]]'' #128 (April 1983), fighting both Captain America and Spider-Man.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=134}}</ref>
 
 ==Fictional character biography==
 Edward Whelan suffered severe physical and sexual [[child abuse|abuse]] as a child from his father.<ref name="SSM178">''The Spectacular Spider-Man'' #178-184. Marvel Comics.</ref> As an adult, he became a [[geneticist]] working for [[Helmut Zemo|Baron Helmut Zemo]] and [[Primus (Marvel Comics)|Primus]] I (who was impersonating [[Arnim Zola]]). After being subjected to an experiment by Primus, his skin becomes a light pinkish fur color and he is mutated into a cannibalistic, humanoid rat. Vermin is defeated by [[Captain America]] and turned over to [[S.H.I.E.L.D.]]<ref>''Captain America'' #272. Marvel Comics.</ref> He escapes S.H.I.E.L.D., however, and returns to the service of Zola and Zemo. Vermin is shackled by Zemo with Captain America in a dungeon; he battles, mutates, escapes, and wounds Zemo.<ref>''Captain America'' #275-278. Marvel Comics.</ref>
 
-Vermin later battles Captain America and [[Spider-Man]] at a street festival and is captured.<ref>''Marvel Team-Up'' #128. Marvel Comics.</ref> Some time later, Vermin kidnaps women off the streets into the sewers, and devours them. He is defeated and captured by [[Kraven the Hunter]] disguised as Spider-Man; Kraven sought to prove himself superior to Spider-Man by defeating Vermin alone when Spider-Man needed Captain America to help him. He is forced by Kraven to battle the real Spider-Man, then allowed to escape; he is finally captured and turned over to the police by Spider-Man.<ref>''Web of Spider-Man'' #31-32; ''The Amazing Spider-Man'' #293-294; ''The Spectacular Spider-Man'' #131-132. Marvel Comics.</ref> During the breakout from the supervillain prison the [[Vault (comics)|Vault]], Vermin assists [[Eddie Brock|Venom]] in hunting down Warden Marsh. Under Venom's orders, Vermin later teams with [[Powderkeg]] and [[Mentallo]]; they temporarily defeat [[Iron Man]] and [[Hank Pym]]. Mentallo's powers are used to neutralize the break out.<ref>''Avengers: Deathtrap, The Vault'' #1. Marvel Comics.</ref>
+Vermin later battles Captain America and Spider-Man at a street festival and is captured.<ref>''Marvel Team-Up'' #128. Marvel Comics.</ref> Some time later, Vermin kidnaps women off the streets into the sewers, and devours them. He is defeated and captured by [[Kraven the Hunter]] disguised as Spider-Man; Kraven sought to prove himself superior to Spider-Man by defeating Vermin alone when Spider-Man needed Captain America to help him. He is forced by Kraven to battle the real Spider-Man, then allowed to escape; he is finally captured and turned over to the police by Spider-Man.<ref>''Web of Spider-Man'' #31-32; ''The Amazing Spider-Man'' #293-294; ''The Spectacular Spider-Man'' #131-132. Marvel Comics.</ref> During the breakout from the supervillain prison the [[Vault (Marvel Comics)|Vault]], Vermin assists [[Eddie Brock|Venom]] in hunting down Warden Marsh. Under Venom's orders, Vermin later teams with [[Powderkeg]] and [[Mentallo]]; they temporarily defeat [[Iron Man]] and [[Hank Pym]]. Mentallo's powers are used to neutralize the break out.<ref>''Avengers: Deathtrap, The Vault'' #1. Marvel Comics.</ref>
 
 Vermin eventually escapes the asylum, and attacks his parents at their home in Scarsdale. He is captured by Spider-Man and returned to psychiatric care. In response to treatment from Dr. Ashley Kafka, he temporarily reverts to his human form.<ref name="SSM178"/>
 
@@ -47,9 +48,9 @@ During the ''[[Secret Invasion]]'' storyline, he is among the many supervillains
 
 During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, Vermin joins with the Hood's gang in an attack on the New Avengers, who were expecting the [[Dark Avengers]] instead.<ref>''The New Avengers'' #50. Marvel Comics.</ref>
 
-During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Vermin attacks Spider-Man, who is struggling to deal with the fear and chaos that is gripping Manhattan.<ref>''Fear Itself: Spider-Man'' #2. Marvel Comics.</ref>
+During the ''Fear Itself'' storyline, Vermin attacks Spider-Man, who is struggling to deal with the fear and chaos that is gripping Manhattan.<ref>''Fear Itself: Spider-Man'' #2. Marvel Comics.</ref>
 
-Vermin returns in the ''The Amazing Spider-Man'' storyline "Kraven's First Hunt". He attacks the new [[Kraven the Hunter (Ana Kravinoff)|Kraven the Hunter]] for intruding on his tunnels, and is beaten by her very badly. He escapes outside and runs into Spider-Man, who is wearing a [[Daredevil (Marvel Comics character)|Daredevil]] costume. Not recognizing his old foe, Vermin attacks, overwhelming him, and taking a bite out of his shoulder.<ref>''The Amazing Spider-Man'' #566. Marvel Comics.</ref> Up close, Vermin is able to identify Spider-Man's scent. Appealing to the last shred of humanity within Vermin, Spider-Man convinces him to reveal where Kraven is. Vermin later attacks Kraven again, but is defeated and captured by her.<ref>''The Amazing Spider-Man'' #567. Marvel Comics.</ref>
+Vermin returns in ''The Amazing Spider-Man'' storyline "Kraven's First Hunt". He attacks the new [[Kraven the Hunter (Ana Kravinoff)|Kraven the Hunter]] for intruding on his tunnels, and is beaten by her very badly. He escapes outside and runs into Spider-Man, who is wearing a [[Daredevil (Marvel Comics character)|Daredevil]] costume. Not recognizing his old foe, Vermin attacks, overwhelming him, and taking a bite out of his shoulder.<ref>''The Amazing Spider-Man'' #566. Marvel Comics.</ref> Up close, Vermin is able to identify Spider-Man's scent. Appealing to the last shred of humanity within Vermin, Spider-Man convinces him to reveal where Kraven is. Vermin later attacks Kraven again, but is defeated and captured by her.<ref>''The Amazing Spider-Man'' #567. Marvel Comics.</ref>
 
 As part of the ''[[All-New, All-Different Marvel]]'', Vermin appears as a member of [[Maker (Reed Richards)|Maker]]'s [[Revengers|New Revengers]].<ref>''The New Avengers'' vol. 4 #7. Marvel Comics.</ref>
 
@@ -68,7 +69,8 @@ Though Vermin has no formal martial arts training, he utilizes bestial ferocity,
 Before being altered by Zola, Whelan was an accomplished geneticist.  As Vermin, his intellect is reduced to a childlike (yet cunning) level and he suffers from paranoid delusions.
 
 ==Other versions==
-In the [[Ultimate Marvel]] universe, Edward Whelan used to work for [[S.H.I.E.L.D.]] before its dissolution, which led to him living in the sewers where he had a psychic connection with Agent Crock. Vermin and Agent Crock ruled the sewers with an iron fist until they encountered the Young Ultimates during their search for [[Crossbones (comics)|Crossbones]]. After being unable to reason with them, [[Alternative versions of Kitty Pryde#Shadowcat|Shadowcat]] phased through Agent Crock's head enough to kill him and even Vermin as a side effect of their psychic connection.<ref>''All-New Ultimates'' #7. Marvel Comics.</ref>
+===Ultimate Marvel===
+*In the [[Ultimate Marvel]] universe, Edward Whelan used to work for [[S.H.I.E.L.D.]] before its dissolution, which led to him living in the sewers where he had a psychic connection with Agent Crock. Vermin and Agent Crock ruled the sewers with an iron fist until they encountered the Young Ultimates during their search for [[Crossbones (comics)|Crossbones]]. After being unable to reason with them, [[Alternative versions of Kitty Pryde#Shadowcat|Shadowcat]] phased through Agent Crock's head enough to kill him and even Vermin as a side effect of their psychic connection.<ref>''All-New Ultimates'' #7. Marvel Comics.</ref>
 
 ==In other media==
 ===Video games===
@@ -92,6 +94,7 @@ In the [[Ultimate Marvel]] universe, Edward Whelan used to work for [[S.H.I.E.L.
 [[Category:Fictional African-American people]]
 [[Category:Fictional cannibals]]
 [[Category:Fictional geneticists]]
+[[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]

@@ -4,7 +4,7 @@
 |character_name = Toro
 |real_name      = Thomas Raymond
 |species        = [[Inhumans]]
-|publisher      = [[Timely Comics]], [[Atlas Comics (1950s)|Atlas Comics]], [[Marvel Comics]]
+|publisher      = [[Marvel Comics]]
 |debut          = ''Human Torch Comics'' #2 (Fall 1940)
 |creators       = [[Carl Burgos]] (writer / artist)
 |alliances      = [[Invaders (comics)|The Invaders]]<br/>[[Kid Commandos]]<br/>[[Young Allies]]<br/>[[All-Winners Squad]]<br/>[[Legion of the Unliving]]
@@ -82,6 +82,8 @@ Before an Earth-616 counterpart appeared in the second ''Young Allies'' series, 
 [[Category:Golden Age superheroes]]
 [[Category:Fictional characters with fire or heat abilities]]
 [[Category:Inhumans]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics orphans]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Timely Comics characters]]

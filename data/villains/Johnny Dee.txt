@@ -2,7 +2,7 @@
 {{about||the American heavy metal drummer|Johnny Dee (musician)|the Honeymoon Suite singer|Johnnie Dee|the basketball player|Johnny Dee (basketball)}}
 {{Notability|date=October 2018}}
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
-| image = <!-- Deleted image removed: [[Image:Jonnhy.jpg|200px]] -->
+| image = Johnny Dee (Earth-616) from Civil War X-Men Vol 1 3.png
 | caption = Johnny Dee
 | character_name = Johnny Dee
 | real_name = John D.
@@ -36,5 +36,6 @@ Johnny and the creature share the same nervous system, but Johnny cannot feel th
 [[Category:Comics characters introduced in 2005]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Fictional murderers]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics mutants]]
 [[Category:Fictional henchmen]]

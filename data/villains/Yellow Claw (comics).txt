@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{Use mdy dates|date=January 2015}}
 {{refimprove|date=February 2021}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
@@ -7,7 +8,7 @@
 |converted=y
 |caption=''Yellow Claw'' #1, cover art by [[Joe Maneely]]
 |alter_ego=Plan Chu
-|publisher=[[Atlas Comics (1950s)|Atlas Comics]] / [[Marvel Comics]]
+|publisher=[[Marvel Comics]]
 |debut=''Yellow Claw'' #1 (Oct. 1956)
 |creators=[[Al Feldstein]] (writer)<br>[[Joe Maneely]] (artist)
 |alliances = <!-- optional -->
@@ -18,7 +19,7 @@
 |villain=y
 }}
 
-'''The Yellow Claw''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Al Feldstein]] and artist [[Joe Maneely]], the character first appeared in ''Yellow Claw'' #1 ([[cover-date]]d Oct. 1956), published by [[Atlas Comics (1950s)|Atlas Comics]], the 1950s predecessor of Marvel.<ref>{{cite book |last1=Schelly |first1=William |title=American Comic Book Chronicles: The 1950s |date=2013 |publisher=TwoMorrows Publishing |isbn=9781605490540 |pages=158–159}}</ref>
+'''The Yellow Claw''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Al Feldstein]] and artist [[Joe Maneely]], the character first appeared in ''Yellow Claw'' #1 ([[cover-date]]d Oct. 1956), published by [[Atlas Comics (1950s)|Atlas Comics]], the 1950s predecessor of Marvel.<ref>{{cite book |last1=Schelly |first1=William |title=American Comic Book Chronicles: The 1950s |date=2013 |publisher=TwoMorrows Publishing |isbn=9781605490540 |pages=158–159}}</ref>
 
 ==Publication history==
 The ''Yellow Claw'' series chronicled the adventures of a Chinese-American [[FBI]] agent, [[Jimmy Woo]], and his battles against a "[[Yellow Peril]]" Communist [[Mandarin (bureaucrat)|mandarin]] known only as the Yellow Claw.<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/yeloclaw.htm |title=The Yellow Claw}}</ref> The title character was a [[Fu Manchu]] [[manqué]] (indeed, Fu Manchu author [[Sax Rohmer]] had written a novel titled ''[[The Yellow Claw]]'') whose grandniece, Suwan, was in love with Woo.{{citation needed|date=February 2021}}

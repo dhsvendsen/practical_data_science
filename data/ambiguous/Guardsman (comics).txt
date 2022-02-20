@@ -1,5 +1,5 @@
 {{short description|Fictional comic book character}}
-'''Guardsman''' was the name of a fictional [[supervillain]]/[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The name was later applied to a squad of agents who wear suits of power armor while working security at the [[Vault (comics)|Vault]]. The character first appeared in ''[[Iron Man]]'' #43 (Nov 1971).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=159}}</ref>
+'''Guardsman''' was the name of a [[supervillain]]/[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The name was later applied to a squad of agents who wear suits of power armor while working security at the [[Vault (Marvel Comics)|Vault]]. The character first appeared in ''[[Iron Man]]'' #43 (Nov 1971).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=159}}</ref>
 
 ==Fictional character biography==
 ===Kevin O'Brien===
@@ -33,7 +33,7 @@ Kevin found himself seized with sudden attraction for Marianne and became extrem
 |publisher=[[Marvel Comics]]
 |debut=''[[Iron Man (comic book)|Iron Man]]'' #82 (January 1976)<br>(as Guardsman) ''Iron Man'' #97
 |creators=[[Len Wein]] (writer)<br>[[Herb Trimpe]] (artist)
-|alliances=[[Avengers (comics)|Avengers]]<br>Iron Legion<br>[[Features of the Marvel Universe#Project_Pegasus|Project: Pegasus]]<br>[[Vault (comics)|The Vault]]
+|alliances=[[Avengers (comics)|Avengers]]<br>Iron Legion<br>[[Features of the Marvel Universe#Project_Pegasus|Project: Pegasus]]<br>[[Vault (Marvel Comics)|The Vault]]
 |aliases=
 |powers=Powered armor grants:<br>Superhuman strength and physical resistance,<br>Flight,<br>Repulsor rays
 }}
@@ -44,7 +44,10 @@ O'Brien finally hired Harry Key, an unscrupulous private investigator, to get hi
 
 After Iron Man defeated the Mandarin, Stark fixed the malfunction in the Guardsman armor's circuitry so it was safe to wear.{{Issue|date=February 2012}} Michael O'Brien was determined to use the armor to vindicate both his brother's and his own senseless actions. When Stark International was taken over by the criminal [[Midas (comics)#Mordecai Midas|Midas]], the Guardsman joined with a number of Stark's other friends and allies to battle Midas' men. He was turned to gold by Midas' power, but was later restored to flesh.<ref>''Iron Man'' #108</ref> Having quit the police force, O'Brien interviewed for the position of security director at [[Features of the Marvel Universe#Project_Pegasus|Project: Pegasus]], the government energy research facility, after its previous director [[Quasar (Wendell Vaughn)|Quasar]] quit. With a high recommendation by Stark, O'Brien got the job.<ref name="Avengers236">''Avengers'' #236</ref> Sometime later, while guarding the Project, O'Brien's Guardsman armor was damaged in a battle with the subhuman [[Subterranea (comics)#Lava Men|Lava Men]].<ref name="Avengers236" /> It was later repaired at the Project's expense. O'Brien, as the Guardsman, has been living and working full-time in the Project since his appointment and has performed his duties capably.{{Issue|date=February 2012}}
 
-Later, he was the security chief at [[Hydro-Base|Avengers Island]].<ref>''Avengers'' #301</ref> He also participated in the Iron Legion against [[Ultimo (Marvel Comics)|Ultimo]], wearing a re-creation of the Silver Centurion armor.<ref>''Iron Man'' #300</ref>
+Later, he was the security chief at [[Hydro-Base|Avengers Island]].<ref>''The Avengers'' #301</ref> He also participated in the Iron Legion against [[Ultimo (Marvel Comics)|Ultimo]], wearing a re-creation of the Silver Centurion armor.<ref>''Iron Man'' #300</ref>
+
+===Ozkar Waters===
+A new Guardsman, '''Ozkar Waters''', appears during the ''[[King in Black]]'' tie-in miniseries ''Planet of the Symbiotes''. He is a mercenary for [[Alchemax]] and father of Bren Waters (the new host of the [[Toxin (comics)|Toxin]] symbiote).<ref>''King in Black: Planet of the Symbiotes'' #3 (April 2021)</ref>
 
 ===Other known Guardsmen===
 
@@ -55,8 +58,8 @@ Later, he was the security chief at [[Hydro-Base|Avengers Island]].<ref>''Avenge
 * Paul Danvers<ref name="Cage9" />
 * Charles "Charlie" DeMulder{{Issue|date=April 2009}}
 * Terence "Terry" Doocey{{Issue|date=April 2009}}
-* Frank Ensign (Guardsman Prime)<ref name="Avengers Spotlight #26">''Avengers Spotlight'' #26</ref> - helped transport the Wizard to prison; later aided [[Iron Man|Iron Man (Anthony Stark)]].
-* William "Billy" Fredricks<ref name="Darkhawk #5">''Darkhawk'' #5</ref> - first appeared guarding a wounded [[Portal (comics)|Portal]] in hospital and later seen at [[Goodman, Lieber, Kurtzberg & Holliway|Goodman, Lieber, Kurtzberg & Book]].
+* Frank Ensign (Guardsman Prime)<ref name="Avengers Spotlight #26">''Avengers Spotlight'' #26</ref> - helped transport the Wizard to prison; later aided [[Iron Man|Iron Man (Tony Stark)]].
+* William "Billy" Fredricks<ref name="Darkhawk #5">''Darkhawk'' #5</ref> - first appeared guarding the wounded [[Portal (comics)|Portal]] in hospital and later seen at Goodman, Lieber, Kurtzberg & Book.
 * Sam Hanson{{Issue|date=April 2009}}
 * Patrick Herbert<ref>''Deathlok'' vol. 2 #8</ref> - worked at the Vault, was tricked by Mainframe (Ian Wajler)
 * Michael "Mike" Ivy<ref name="Avengers Spotlight #26"/> - aided Guardsman Prime in the transportation of the [[Wizard (Marvel Comics)|Wizard]].
@@ -70,7 +73,7 @@ Later, he was the security chief at [[Hydro-Base|Avengers Island]].<ref>''Avenge
 * Gregory Smoot<ref>''Captain America'' #354</ref> - was chosen to test [[U.S. Agent (comics)|U.S. Agent]] using the [[Iron Monger]] armor
 * Tim Teller{{Issue|date=April 2009}}
 * Jerry Tinsley{{Issue|date=April 2009}}
-* Eliot Villagran<ref name="Darkhawk #5"/> - seen guarding a hospitalized [[Portal (comics)|Portal]]
+* Eliot Villagran<ref name="Darkhawk #5"/> - seen guarding the hospitalized [[Portal (comics)|Portal]]
 
 ====Former members====
 * Marty Delarosa<ref name=Web109>''Web of Spider-Man'' #109</ref> - while off-duty, he met and flirted with [[Calypso (comics)|Calypso]] who convinced him to sneak her into the Vault; once in, she killed him.<ref name=Web109 />
@@ -82,13 +85,13 @@ Later, he was the security chief at [[Hydro-Base|Avengers Island]].<ref>''Avenge
 * Ravello Medina<ref name="Cage9" /> - deceased
 * Corbin Rubinstein<ref name="Cage9" /> - deceased
 * Chuck Scott{{Issue|date=April 2009}} - deceased
-* Danny Stephens<ref name=Deathtrap1 /> - worked at the Vault and was the first Guardsman taken hostage and killed by [[Venom (Marvel Comics character)|Venom (Eddie Brock)]]<ref name=Deathtrap1 />
+* Danny Stephens<ref name=Deathtrap1 /> - worked at the Vault and was the first Guardsman taken hostage and killed by [[Eddie Brock|Venom (Eddie Brock)]]<ref name=Deathtrap1 />
 * Pascal Tyler<ref name="Cage9" /> - killed Cinder, framing [[Luke Cage]] and [[Rhino (comics)|Rhino]]
 * Ernie Vancata{{Issue|date=April 2009}}
 * [[Hybrid (Scott Washington)|Scott Washington (Hybrid)]]<ref>''The New Warriors'' #21</ref> - also known as Guardsman 6, became known as Hybrid when the Riot, Phage, Lasher and Agony symbiotes merged with him after he was paralyzed in a gang shoot out<ref>''Venom: Along Came a Spider'' #1</ref>
 
 ==Powers and abilities==
-Both Guardsmen wore powered armor designed by Tony Stark and Stark Industries. The Guardsman armor contained a powered exoskeleton that gave the wearer superhuman strength, allowing the operator to lift 40 tons under optimal conditions for about 3 minutes. The armor's high-carbon steel-alloy mesh and radiation shielding also offer protection from most ballistic and even energy weapons. The armor can fly via chemically-powered boot jets at a maximum speed of {{convert|250|mi/h|km/h|abbr=on}} for 3 hours, and contains 30 minutes air supply for submersion or high-altitude flight.
+Both Guardsmen wore powered armor designed by Stark Industries. The Guardsman armor contained a powered exoskeleton that gave the wearer superhuman strength, allowing the operator to lift 40 tons under optimal conditions for about 3 minutes. The Guardsman armor's high-carbon steel-alloy mesh and radiation shielding also offer protection from most ballistic and even energy weapons. The Guardsman armor can fly via chemically-powered boot jets at a maximum speed of {{convert|250|mi/h|km/h|abbr=on}} for 3 hours, and contains 30 minutes air supply for submersion or high-altitude flight.
 
 Each palm of the Guardsman armor's gauntlets contains a charged ion "repulsor ray" emitter, capable of 45 seconds continuous discharge at a range of {{convert|40|ft|m}} before irregularities in the plasma cone diffuse the beam.
 
@@ -102,10 +105,10 @@ The Guardsman armor was replicated by Stane International for use at the Vault, 
 
 ==In other media==
 ===Television===
-* The Guardsmen appear in the ''[[Iron Man (TV series)|Iron Man]]'' animated series episode "Armor Wars" Pt. 2. They serve as security for the [[Vault (comics)|Vault]] alongside [[Hawkeye (Clint Barton)|Hawkeye]] before [[Iron Man]] breaks in to disable the Guardsmen's armor.{{Citation needed|date=November 2008}}
+* The Guardsmen appear in the ''[[Iron Man (TV series)|Iron Man]]'' animated series episode "Armor Wars" Pt. 2. They serve as security for the [[Vault (Marvel Comics)|Vault]] alongside [[Hawkeye (Clint Barton)|Hawkeye]] before [[Iron Man]] breaks in to disable the Guardsmen's armor.{{Citation needed|date=November 2008}}
 * Two separate depictions of Guardsman appear in the ''[[Iron Man: Armored Adventures]]'' animated series.
 ** Michael O'Brien (voiced by [[Brian Drummond]]<ref>[http://www.behindthevoiceactors.com/voice-compare/Iron-Man/Iron-Monger/ Behind the Voice Cast: ''Iron Man: Armored Adventures'']. Retrieved 2012-05-02.</ref>) is [[Stark International]]'s security chief under [[Iron Monger|Obadiah Stane]]. While he does not initially wear a powered suit of armor for most of his appearances, he eventually pilots the '''[[Crimson Dynamo]]''' suit in the episode "Seeing Red",<ref>''Iron Man: Armored Adventures'', episode "Seeing Red"</ref> and later the '''[[Iron Monger]]''' [[mecha|mech]] in "Enter: Iron Monger". In the latter episode, he refuses to kill Iron Man while the hero was aiding a civilian, for which he is subsequently fired for showing mercy.<ref>''Iron Man: Armored Adventures'', episode "Enter: The Iron Monger!"</ref> 
-** The Guardsman concept appears in the episode "Armor Wars", and is presented as an armored group of criminals ([[Force (comics)|Force]] and [[Shockwave (comics)|Shockwave]]) who appear as public heroes and commercial mascots on Stane's behalf while utilizing powered suits based on stolen specs for Iron Man's armors. While they seemingly appear in time to prevent disastrous incidents, [[Pepper Potts]] discovers evidence that the Guardsmen caused them and that they were originally [[Maggia (comics)|Maggia]] enforcers. Pepper works with Iron Man to expose the Guardsmen at an expo meant to introduce their third member [[Firepower (comics)|Firepower]] before Iron Man and [[War Machine]] defeat the criminals. However, Stane escapes suspicion by claiming not to have had any knowledge of the Guardsmen's pasts.
+** The Guardsman concept appears in the episode "Armor Wars", and is presented as an armored group of criminals - [[Force (comics)|Force]] and [[Shockwave (comics)|Shockwave]] - who appear as public heroes and commercial mascots on Stane's behalf while utilizing powered suits based on stolen specs for Iron Man's armors. While they seemingly appear in time to prevent disastrous incidents, [[Pepper Potts]] discovers evidence that the Guardsmen caused them and that they were originally [[Maggia (comics)|Maggia]] enforcers. Pepper works with Iron Man to expose the Guardsmen at an expo meant to introduce their third member [[Firepower (comics)|Firepower]] before Iron Man and [[War Machine]] defeat the criminals. However, Stane escapes suspicion by claiming not to have had any knowledge of the Guardsmen's pasts.
 * The Guardsmen appear in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series, voiced by [[Roger Craig Smith]] (in "Civil War, Part 3: The Drums of War"),<ref name="Civil War, Part 3: The Drums of War">{{cite episode|title=Civil War, Part 3: The Drums of War|series-link=Avengers Assemble (TV series)|series=Avengers: Ultron Revolution|network=Disney XD|season=3|number=25|airdate=January 28, 2017}}</ref> [[David Kaye (voice actor)|David Kaye]] (in "Prison Break"),<ref name="Prison Break">{{cite episode|title=Prison Break|series-link=Avengers Assemble (TV series)|series=Avengers: Secret Wars|network=Disney XD|season=4|number=4|airdate=August 27, 2017}}</ref> and [[Fred Tatasciore]] (in "Vibranium Curtain" Pt. 2).<ref name="Vibranium Curtain Pt. 2">{{cite episode|title=Vibranium Curtain Pt. 2|series-link=Avengers Assemble (TV series)|series=Avengers: Black Panther's Quest|network=Disney XD|season=5|number=15|airdate=January 6, 2019}}</ref> They first appear as enforcers for [[Ultron|Truman Marsh]] in the episodes "World War Hulk" and "Civil War, Part 1: The Fall of Attilan". In "Civil War, Part 3: The Drums of War", the Guardsmen work security for Marsh's personal prison, the [[The Raft (comics)|Raft]], after the [[Avengers (comics)|Avengers]] are incarcerated there. However, Tony Stark gets free and receives help from [[Black Widow (Natalia Romanova)|Black Widow]], [[Songbird (comics)|Songbird]], [[Black Bolt]], and [[Medusa (comics)|Medusa]] to fight past the Guardsmen and get to [[Captain America]] in the infirmary. In "Prison Break", the Guardsmen try to stop [[Power Princess|Zarda]], [[Typhoid Mary (character)|Typhoid Mary]], and the [[Black Widow (Yelena Belova)|Crimson Widow]] from escaping the Vault. While the Guardsmen are quickly defeated, the [[Hope Pym|Wasp]] and [[Carol Danvers|Captain Marvel]] manage to defeat the supervillains. The Guardsmen also make minor appearances in "Avengers No More" Pt. 1 and "The Vibranium Curtain" Pt. 2.
 
 ===Toys===
@@ -130,6 +133,7 @@ The Guardsman armor was replicated by Stane International for use at the Vault, 
 [[Category:Comics characters introduced in 1970]]
 [[Category:Comics characters introduced in 1976]]
 [[Category:Fictional characters from Illinois]]
+[[Category:Fictional police officers in comics]]
 [[Category:Fictional prison officers and governors|Guardsman]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

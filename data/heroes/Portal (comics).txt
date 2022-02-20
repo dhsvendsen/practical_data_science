@@ -1,7 +1,7 @@
 {{Notability|date=September 2018}}
 {{In-universe|date=September 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=<!-- Unsourced image removed: [[image:Portal littlesky.jpg]] -->
+image=Charles Little Sky.jpg
 |caption=
 |character_name=Portal
 |real_name=Charles Little Sky

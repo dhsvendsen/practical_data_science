@@ -1,7 +1,8 @@
-{{Distinguish|Venom (Marvel Comics character)|Venom (disambiguation){{!}}Venom}}
+{{Short description|Marvel Comics character associated with Killmonger and opposed to Black Panther}}
+{{Distinguish|Venom (character)|Venom (disambiguation){{!}}Venom}}
 {{refimprove|date=December 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image= 
+image= Horatio Walters (Earth-616) from All-New Official Handbook of the Marvel Universe Update Vol 1 2 0001.jpg
 |character_name=Venomm
 |real_name=Horatio Walters
 |species=[[Human]]

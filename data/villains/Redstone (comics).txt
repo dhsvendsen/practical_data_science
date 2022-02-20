@@ -1,11 +1,11 @@
-{{Refimprove|date=January 2009}}
+{{More citations needed|date=January 2009}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | image = [[Image:Redstone(comics).jpg|250px]]
 | caption = Redstone fighting [[Hyperion (comics)|Hyperion]]
 | character_name = Redstone
 | publisher = [[Marvel Comics]]
 | debut = ('''First''') [[Squadron Supreme]] # 9 (May 1986)<BR>('''Second''') Supreme Power #12
-| creators = ('''Squadron Supreme''') [[Mark Gruenwald]]<BR>('''Supreme Power''') [[J. Michael Straczynski]]<BR>[[Gary Frank]]
+| creators = ('''Squadron Supreme''') [[Mark Gruenwald]]<BR>('''Supreme Power''') [[J. Michael Straczynski]]<BR>[[Gary Frank (comics)|Gary Frank]]
 | alter_ego = ('''both''') Michael Redstone
 | species = <!-- optional -->
 | homeworld = Earth

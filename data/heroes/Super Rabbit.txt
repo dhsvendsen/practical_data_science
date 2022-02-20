@@ -7,7 +7,7 @@ image=[[Image:SuperRabbit6.jpg|180px]]
 |publisher=[[Timely Comics]]
 |debut=''Comedy Comics'' #14 (Mar. 1943)
 |creators=[[Ernie Hart]]
-|alliances=
+|alliances=[[Justice League]]
 |aliases= The Marvel of the Age
 |powers=Super strength<br/>Flight<br/>Invulnerability except for a single spot at top of head
 }}
@@ -28,7 +28,7 @@ Aside from creator Ernie Hart, other artists who contributed to his adventures i
 In 1977, Marvel announced a reboot of the character in a solo series with Marv Wolfman as writer, but apparently this project did not come to fruition.<ref>Letters page of ''[[Marvel Two-In-One]]'' #30, August 1977</ref>
 
 ==Fictional character biography==
-Meek little Waffles Bunny, variously depicted as a reporter or a [[shoeshine boy]], rubs a magic ring to gain mass and height and become the flying, super-strong Super Rabbit.<ref>{{cite book |last1=Becattini |first1=Alberto |title=American Funny Animal Comics in the 20th Century: Volume Two |date=2019 |publisher=Theme Park Press |isbn=978-1683902218 |chapter=Super-Animals}}</ref> He is virtually invulnerable except for a small spot on the very top of his head, where something as light as a falling feather could knock him out. He protects the innocent, captures robbers, and even fights such [[World War II]] menaces as Super Nazi, a pig with a [[Hitler]] mustache.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=262}}</ref> His self-proclaimed "number-one fan" and unasked-for publicist Wilbur Woodpecker occasionally accompanies Super Rabbit, much to his consternation.<ref>[http://www.toonopedia.com/superrab.htm Super Rabbit] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/62voLIn1W?url=http://www.toonopedia.com/superrab.htm Archived] from the original on November 3, 2011.</ref>
+Meek little Waffles Bunny, variously depicted as a reporter or a [[shoeshine boy]], rubs a [[magic ring]] to gain mass and height and become the flying, super-strong Super Rabbit.<ref>{{cite book |last1=Becattini |first1=Alberto |title=American Funny Animal Comics in the 20th Century: Volume Two |date=2019 |publisher=Theme Park Press |isbn=978-1683902218 |chapter=Super-Animals}}</ref> He is virtually invulnerable except for a small spot on the very top of his head, where something as light as a falling feather could knock him out. He protects the innocent, captures robbers, and even fights such [[World War II]] menaces as Super Nazi, a pig with a [[Hitler]] mustache.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=262}}</ref> His self-proclaimed "number-one fan" and unasked-for publicist Wilbur Woodpecker occasionally accompanies Super Rabbit, much to his consternation.<ref>[http://www.toonopedia.com/superrab.htm Super Rabbit] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/62voLIn1W?url=http://www.toonopedia.com/superrab.htm Archived] from the original on November 3, 2011.</ref>
 
 Generally tall and lanky, the blue-clad, red-caped and orange-gloved and booted "Marvel of the Age" sometimes takes on a more buff and bulky form. His original costume featured the initial "S" on his chest, which he later replaced with the words "SUPER RABBIT".
 
@@ -44,7 +44,7 @@ Generally tall and lanky, the blue-clad, red-caped and orange-gloved and booted 
 {{GoldenAge}}
 
 [[Category:Marvel Comics superheroes]]
-[[Category:Fictional rabbits and hares]]
+[[Category:Fictional Leporidae]]
 [[Category:Fictional anthropomorphic characters]]
 [[Category:Golden Age superheroes]]
 [[Category:Golden Age comics titles]]
@@ -54,4 +54,7 @@ Generally tall and lanky, the blue-clad, red-caped and orange-gloved and booted 
 [[Category:Comics characters introduced in 1943]]
 [[Category:Superhero comics]]
 [[Category:Comics about animals]]
-[[Category:Comics about rabbits and hares]]
+[[Category:Comics about Leporidae]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Fictional reporters]]

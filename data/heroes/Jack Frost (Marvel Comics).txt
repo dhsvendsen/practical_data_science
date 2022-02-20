@@ -1,4 +1,4 @@
-{{Short description|Fictional character appearing in American comic books published by Marvel Comics}}
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=JackFrost_Marvel.jpg
 |caption=Detail from cover of ''The Invaders'' #6 (May 1976).<br>Art by [[Jack Kirby]] and [[Joe Sinnott]].
@@ -11,6 +11,7 @@ image=JackFrost_Marvel.jpg
 |aliases=The God in the Ice
 |powers= Cold and ice manipulation<br>Superhuman stamina and durability
 }}
+{{Lead too short|date=October 2021}}
 '''Jack Frost''' is a fictional superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in 1941 in ''[[U.S.A. Comics]]'' published by Marvel's 1940s forerunner [[Timely Comics]], during the period fans and historians call the [[Golden Age of comic books]].<ref name=Benton>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/188 |access-date=1 April 2020 |page=189}}</ref>
 
 ==Publication history==
@@ -22,7 +23,7 @@ Jack Frost's four stories were originally untitled, but comics historians refer 
 
 In addition to the four comics stories in ''U.S.A. Comics'', Jack also appeared in a two-page text feature written by Lee in issue #2, "When U.S.A. Heroes Meet!" In this story, there's a gathering at the home of Dan Kane (also known as the superhero Captain Terror) of that issue's heroes: Jack Frost, Rockman, [[Whizzer (Robert Frank)|the Whizzer]], the Defender and the Vagabond. Jack makes friends with the other heroes, although at one point he does call them "a bunch of sissies". The group agrees to meet next issue and present the tale that they've decided is the best story of the month. The conceit was dropped, and the group did not reassemble in the next issue.
 
-More than three decades after Jack Frost's final appearance, Marvel launched ''[[Invaders (comics)|The Invaders]]'' in 1975, an intentionally nostalgic comic featuring star characters from the Golden Age — [[Captain America]], [[Bucky Barnes]], [[Human Torch|the Human Torch]] and [[Namor|the Sub-Mariner]] — in [[World War II]]-era adventures. Writer and editor [[Roy Thomas]] wanted to expand the franchise, so he created a second superteam — the [[Liberty Legion]] — with a group of second-string Golden Age heroes including Jack Frost, along with [[Miss America (Madeline Joyce)|Miss America]], [[Whizzer (Robert Frank)|the Whizzer]], [[Jeffrey Mace|the Patriot]], [[Thin Man (comics)|the Thin Man]], [[Red Raven (Marvel Comics)|Red Raven]] and [[Blue Diamond (comics)|the Blue Diamond]].<ref name=BackIssue>{{cite journal |last1=Cassell |first1=Dewey |title=The Liberty Legion |journal=Back Issue |date=August 2018 |issue=106 |publisher = [[TwoMorrows Publishing]] |pages=19–22}}</ref>
+More than three decades after Jack Frost's final appearance, Marvel launched ''[[Invaders (comics)|The Invaders]]'' in 1975, an intentionally nostalgic comic featuring star characters from the Golden Age — [[Captain America]], [[Bucky Barnes]], [[Human Torch (android)|the Human Torch]] and [[Namor|the Sub-Mariner]] — in [[World War II]]-era adventures. Writer and editor [[Roy Thomas]] wanted to expand the franchise, so he created a second superteam — the [[Liberty Legion]] — with a group of second-string Golden Age heroes including Jack Frost, along with [[Miss America (Madeline Joyce)|Miss America]], [[Whizzer (Robert Frank)|the Whizzer]], [[Jeffrey Mace|the Patriot]], [[Thin Man (comics)|the Thin Man]], [[Red Raven (Marvel Comics)|Red Raven]] and [[Blue Diamond (comics)|the Blue Diamond]].<ref name=BackIssue>{{cite journal |last1=Cassell |first1=Dewey |title=The Liberty Legion |journal=Back Issue |date=August 2018 |issue=106 |publisher = [[TwoMorrows Publishing]] |pages=19–22}}</ref>
 
 Thomas said that he chose Jack Frost for the team because the character fit an archetype that Thomas was looking for: "I felt I should have a Sub-Mariner type and, in a way, Jack Frost kind of fit that bill", he said. He chose not to explore Jack's backstory, although there are indications that he may be an alien: "His background was vague in the original stories, so I wanted to keep it vague", said Thomas.<ref name=BackIssue/>
 
@@ -38,7 +39,7 @@ The introduction in his first story implies that he is a mythical creature, a lo
 
 This spirit was awoken by the cries of a dying prospector, who's been shot by a claim-jumper. In his final moments, the man pleads with Jack to protect his daughter in [[New York City]], and Jack — horrified by the crime — transports himself to America to confer with the police. They don't believe his story, so he determines to fight evil wherever he can find it.<ref>{{cite book |last1=Steranko |first1=Jim |title=The Steranko History of Comics, vol 1 |date=1970 |publisher=Supergraphics |page=62}}</ref>
 
-During [[World War II]], he joined with other superheroes to form the team [[Liberty Legion]] and protect the United States from [[Axis powers of World War II|Axis]] home-front infiltration. The Liberty Legion was initially assembled by [[Bucky Barnes|Bucky]] to rescue the [[Invaders (comics)|Invaders]] brainwashed by the [[Red Skull]]. With the Legion, Jack Frost battled [[Namor|Namor the Sub-Mariner]] and the original [[Human Torch (android)|Human Torch]], and protected bystanders from shrapnel with an ice umbrella.<ref>''Marvel Premiere'' #29; ''Invaders'' #6; ''Marvel Premiere'' #30</ref>
+During [[World War II]], he joined with other superheroes to form the team [[Liberty Legion]] and protect the United States from [[Axis powers of World War II|Axis]] home-front infiltration. The Liberty Legion was initially assembled by [[Bucky Barnes|Bucky]] to rescue the [[Invaders (comics)|Invaders]] brainwashed by the [[Red Skull]]. With the Legion, Jack Frost battled [[Namor|Namor the Sub-Mariner]] and the original [[Human Torch (android)|Human Torch]], and protected bystanders from shrapnel with an ice umbrella.<ref>''Marvel Premiere'' #29; ''The Invaders'' #6; ''Marvel Premiere'' #30</ref>
 
 Jack Frost was seen again in a 1991 issue of ''Captain America'', in which it was explained that he had sacrificed himself by melding with a powerful Arctic "ice-worm" monster, in order to neutralize it and keep it from savaging innocent people. Jack Frost was briefly freed during an encounter with Captain America, before willingly being swallowed by and joining with the ice-worm once more. [[Thor (Marvel Comics)|Thor]] speculates that Jack Frost may be the diminutive child of a [[Norse mythology]] [[Giants (Marvel Comics)|Frost giant]].<ref>''[[Captain America (comic book)|Captain America]]'' #384 (April 1991)</ref>
 
@@ -58,10 +59,12 @@ Jack Frost has the ability to generate sub-freezing temperatures.  Combined with
 {{Jack Frost}}
 {{GoldenAge}}
 
+[[Category:Characters created by Charles Nicholas]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1941]]
 [[Category:Fictional characters with ice or cold abilities]]
 [[Category:Golden Age superheroes]]
 [[Category:Jack Frost]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Timely Comics characters]]

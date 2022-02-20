@@ -1,6 +1,6 @@
 {{Unreferenced|date=December 2009}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=
+image=Francis Leighton (Earth-616) from Mystique Vol 1 20.png
 |caption=
 |character_name=Shepard
 |real_name=Francis Leighton

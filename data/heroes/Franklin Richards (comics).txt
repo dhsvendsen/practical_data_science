@@ -1,4 +1,4 @@
-{{short description|Character from Marvel Comics}}
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | character_name = Franklin Richards
 | image          = Franklin richards.jpg

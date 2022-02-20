@@ -1,6 +1,6 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=[[Image:Nuklo.jpg|249px|]]
-|caption=Nuklo makes his first cover appearance. From'' The Avengers Annual'' #6
+|caption=Nuklo makes his first cover appearance, from ''The Avengers Annual'' #6.
 |character_name=Nuklo
 |real_name=Robert Frank, Jr
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
@@ -24,7 +24,7 @@ The capsule lay beneath the basement of a government building for several decade
 
 Nuklo is returned to the capsule and placed back in government custody. The government place him under the care of U. S. Army General Jacob Pollock, who becomes a renegade and allies himself with the criminal [[Living Laser]]. Nuklo accidentally escapes his containment vessel and wreaks havoc for the Avengers before his father, the Whizzer, is able to get close enough to knock him unconscious.<ref>''Avengers Annual'' #6</ref>
 
-Nuklo is then taken to the newly opened government energy facility Project: Pegasus for treatment and study. There his radiation level was diminished significantly and his education was started. After a few years, he is placed in the custody of scientists in a special facility at General Hospital in [[Manhattan]] where he is treated by a psychologist named Dr. Linda Hyams and a radiologist named Dr. Ira S. Bishoff, who was secretly the Whizzer's old nemesis [[Isbisa]]. Over the course of months, Isbisa siphons Nuklo's radiation and transfers it to himself, in order to gain sufficient power to exact revenge upon the Whizzer. When Robert Frank finally manages to get a court order turning his son over to his care, Isbisa attacks. At the battle's end, the Whizzer dies of a heart attack rescuing his son, but Nuklo is permanently cured of his excess radiation.<ref>''Vision and Scarlet Witch ''#2</ref>
+Nuklo is then taken to the newly opened government energy facility Project: Pegasus for treatment and study. There his radiation level was diminished significantly and his education was started. After a few years, he is placed in the custody of scientists in a special facility at General Hospital in [[Manhattan]] where he is treated by a psychologist named Dr. Linda Hyams and a radiologist named Dr. Ira S. Bishoff, who was secretly the Whizzer's old nemesis [[Isbisa]]. Over the course of months, Isbisa siphons Nuklo's radiation and transfers it to himself, in order to gain sufficient power to exact revenge upon the Whizzer. When Robert Frank finally manages to get a court order turning his son over to his care, Isbisa attacks. At the battle's end, the Whizzer dies of a heart attack rescuing his son, but Nuklo is permanently cured of his excess radiation.<ref>''Vision and Scarlet Witch'' #2</ref>
 
 Nuklo is placed in the custody of Dr. Linda Hyams, his psychologist, who takes him to live with her family in a small community in upstate New York.{{Issue|date=July 2010}} Robert Frank, Jr. passes high school equivalency tests and gets a job at a service station.{{Issue|date=July 2010}} He is attacked by the super human-hunting [[TESS-One]] robot.<ref>''Captain America Annual'' #8 (1986)</ref>
 
@@ -37,7 +37,7 @@ Nuklo has superhuman strength and can project an aura that absorbs force used ag
 {{Reflist}}
 
 ==External links==
-*http://marvel.com/universe/Nuklo
+* http://marvel.com/universe/Nuklo
 
 [[Category:Fictional characters from New York (state)]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]

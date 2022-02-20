@@ -2,18 +2,18 @@
 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=Bloodscream.jpg
-|caption=Bloodscream from ''Wolverine'' (vol. 2) #4. Art by [[John Buscema]].
+|caption=Bloodscream from ''Wolverine'' vol. 2 #4. Art by [[John Buscema]].
 |real_name=
 |character_name=Bloodscream
 |publisher=[[Marvel Comics]]
-|debut=''[[Wolverine (comic book)|Wolverine]]'' Vol. 2 #4 (February, 1989)
+|debut=''[[Wolverine (comic book)|Wolverine]]'' vol. 2 #4 (Feb. 1989)
 |creators=[[Chris Claremont]]<br>[[John Buscema]]
 |alliances=
 |aliases=Bloodsport
 |powers=Superhuman strength, speed, stamina, agility and reflexes<br>Regenerative healing factor<br>Extended lifespan<br>Limited shape-shifting<br>Ability to drain blood from victims by touching their skin with hand<br>Good hand to hand combatant<br>Many underworld connections 
 |}}
 
-'''Bloodscream''' (originally '''Bloodsport''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of [[Wolverine (character)|Wolverine]].
+'''Bloodscream''' (originally '''Bloodsport''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of [[Wolverine (character)|Wolverine]].
 
 ==Publication history==
 Bloodscream's first appearance was in ''[[Wolverine (comic book)|Wolverine]]'' vol. 2 #4 (February, 1989), and he was created by [[Chris Claremont]] and [[John Buscema]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=58}}</ref>
@@ -33,7 +33,7 @@ After he parts company with Roughouse, Bloodscream enters a partnership with [[C
 
 However, Bloodscream later reappears, and revives the androids [[Albert (comics)|Albert]] and [[Elsie-Dee]], hoping to use them to locate Wolverine. Bloodscream later begins working as a mercenary again with Roughouse, the two being hired by villain the [[Black Tarantula]] for a time before being defeated and captured by [[Spider-Man]]- although they were unaware of this as Spider-Man fought them using his [[Spider-Man: Identity Crisis|four new identities]]- exchanging knowledge of the Tarantula's plans for their freedom. He encounters Wolverine a few more times and has recently been involved in a confrontation with [[Iron Man]] in which he was beaten. Iron Man stabbed him with a blade in his armour normally used to interface with outside systems. Maintaining Bloodscream's inability to be hurt with mortally forged weapons, this blade was created by a Stark Enterprises engineering robot rather than a man.{{Issue|date=April 2011}}
 
-Recently, Bloodscream and Roughouse have come into employment by [[Hydra (Marvel Comics)|HYDRA]]. They came into conflict with the [[Shadow Initiative]]. Already beheaded by [[Typhoid Mary (comics)|Typhoid Mary]], Bloodscream is defeated by the appearance of [[Ant-Man (Eric O'Grady)|Ant-Man]], who destroys Bloodscream's body by growing inside of it. However, Ant-Man states Bloodscream would have pulled himself back together, thus urging the Shadow Initiative to evacuate the HYDRA headquarters.{{Issue|date=April 2011}}
+Recently, Bloodscream and Roughouse have come into employment by [[Hydra (Marvel Comics)|HYDRA]]. They came into conflict with the [[Shadow Initiative]]. Already beheaded by [[Typhoid Mary (character)|Typhoid Mary]], Bloodscream is defeated by the appearance of [[Ant-Man (Eric O'Grady)|Ant-Man]], who destroys Bloodscream's body by growing inside of it. However, Ant-Man states Bloodscream would have pulled himself back together, thus urging the Shadow Initiative to evacuate the HYDRA headquarters.{{Issue|date=April 2011}}
 
 ==Powers and abilities==
 Bloodscream possesses a variety of superhuman abilities that are reminiscent of those possessed by supernatural vampires, even though he himself is not a true vampire. He possesses none of the supernatural or mystical vulnerabilities common to true vampires. He suffers no harm from sunlight, silver, or any other traditional weakness from folklore.
@@ -71,6 +71,7 @@ Bloodscream is a good hand-to-hand combatant and has many connections throughout
 [[Category:Fictional sailors]]
 [[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics vampires]]

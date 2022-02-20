@@ -50,11 +50,11 @@ Pyro's first mission with the Brotherhood of Mutants was to kidnap Mayor [[Bill 
 
 As Lydia Nance still had a use for the Brotherhood of Mutants, she orchestrated Mesmero's escape from the Box.<ref>''X-Men Gold'' Vol. 2 #22. Marvel Comics.</ref> Mesmero once again lured Pyro and the second Avalanche into helping him out again. They were to attack a yacht that was owned by the Heritage Initiative at the time of its fundraiser. They group fought the X-Men alongside the NYPD.<ref name="X-Men Gold #21"/> The Brotherhood of Mutants got away and fell back to their base. When Mesmero stated that the Brotherhood of Mutants are still under Lydia Nance's paycheck, Pyro took his leave since he didn't want to work for an anti-mutant activist. Avalanche then demanded from Mesmero to get Pyro's cut.<ref>''X-Men Gold'' Vol. 2 #22. Marvel Comics</ref> After finding the Xavier Institute for Mutant Education and Outreach, Pyro revealed his history to the X-Men and wanted to join up with them. While Iceman was wary of this, Rogue vouched for him.<ref>''X-Men Gold'' Vol. 2 #23. Marvel Comics.</ref>
 
-Pyro was revealed to be gay in ''X-Men Gold'' #31, in a post-sex scene with Iceman<ref>{{cite web |last1=Randall |first1=Devin |title=Marvel Comics Reveal Former X-Men Villain’s Gay Through Post-Sex Scene With Iceman |url=http://instinctmagazine.com/post/marvel-comics-reveal-former-x-men-villain%E2%80%99s-gay-through-post-sex-scene-iceman |website=Instinct Magazine |access-date=17 August 2018 |archive-url=https://web.archive.org/web/20180817193411/http://instinctmagazine.com/post/marvel-comics-reveal-former-x-men-villain%E2%80%99s-gay-through-post-sex-scene-iceman |archive-date=17 August 2018 |url-status=dead }}</ref> and withdrawn from the X-Men to help his mother.{{issue|date=October 2020}}
+Pyro was revealed to be gay in ''X-Men Gold'' #31, in a post-sex scene with Iceman<ref>{{cite web |last1=Randall |first1=Devin |title=Marvel Comics Reveal Former X-Men Villain's Gay Through Post-Sex Scene With Iceman |url=http://instinctmagazine.com/post/marvel-comics-reveal-former-x-men-villain%E2%80%99s-gay-through-post-sex-scene-iceman |website=Instinct Magazine |access-date=17 August 2018 |archive-url=https://web.archive.org/web/20180817193411/http://instinctmagazine.com/post/marvel-comics-reveal-former-x-men-villain%E2%80%99s-gay-through-post-sex-scene-iceman |archive-date=17 August 2018 |url-status=dead }}</ref> and withdrawn from the X-Men to help his mother.{{issue|date=October 2020}}
 
 ==Powers and abilities==
 ===St. John Allerdyce===
-Allerdyce is a [[Mutant (Marvel Comics)|mutant]] who has the psionic power to manipulate flame by shaping it as he desires, increasing or decreasing its heat, intensity and size, he cannot actually create fire himself, however, he consequently wears a specially insulated costume with a built-in [[Flamethrower|flamethrower]] that can throw a stream of flame a maximum distance of {{convert|25|ft|m}} he can psionically manipulate the flame to do whatever he desires and sometimes induces it to take semi-solid form as an animate flame being (these creations, though capable of movement and of grasping or carrying solid objects, are not alive and do not think or act on their own) the degree of Pyro's concentration necessary to manipulate a flame construct is directly proportional to the construct's size, power and flame, though he cannot be burned by a flame which he is manipulating, Pyro can be harmed by any fire that he does not mentally control. It is generally accepted that he must be able to see a flame in order to take control of it (hence limiting his mental influence to approximately 100 yards) any of Pyro's fiery creations will immediately revert to ordinary flame if he turns his interest from it.
+Allerdyce is a [[Mutant (Marvel Comics)|mutant]] who has the psionic power to manipulate flame by shaping it as he desires, increasing or decreasing its heat, intensity and size, he cannot actually create fire himself, however, he consequently wears a specially insulated costume with a built-in [[Flamethrower|flamethrower]] that can throw a stream of flame a maximum distance of {{convert|25|ft|m}} he can psionically manipulate the flame to do whatever he desires and sometimes induces it to take semi-solid form as an animate flame being (these creations, though capable of movement and of grasping or carrying solid objects, are not alive and do not think or act on their own) the degree of Pyro's concentration necessary to manipulate a flame construct is directly proportional to the construct's size, power and flame, though he cannot be burned by a flame which he is manipulating, Pyro can be harmed by any fire that he does not mentally control. It is generally accepted that he must be able to see a flame in order to take control of it (hence limiting his mental influence to approximately 100 yards) any of Pyro's fiery creations will immediately revert to ordinary flame if he turns his interest from it. After his return Allerdyce's powers have increased in some ways, showing he can prevent the gunpowder in a loaded pistol from igniting as well as generate fires on his own accord, without need of a heat source or fuel generated ignition point to get malleable combustible substance.<ref>''Marauders'' #27</ref>
 
 ===Simon Lasker===
 Simon has the mutant ability to elementally generate, control and manipulate fire; similar to the original Pyro. But unlike Allerdyce; he seems capable of igniting fire on his own and does not require outside sources of existing flame to manipulate.
@@ -109,7 +109,7 @@ Ultimate Pyro, like his Age of Apocalypse counterpart, can generate flames witho
 * Pyro is a boss in the 2006 movie tie-in game ''[[X-Men: The Official Game]]'', voiced by [[Steve Van Wormer]].<ref name="btva"/>  The player encounters him during Iceman's level.
 * Pyro appears in the 2011 video game ''[[X-Men: Destiny]]'', voiced by [[Steve Blum]].<ref name="btva"/> 
 * Pyro also appears as a boss in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Crispin Freeman]].<ref name="btva"/> 
-* Pyro appears in ''[[Lego Marvel Super Heroes]]'',<ref>[http://www.newsarama.com/19216-nycc-2013-marvel-adds-more-characters-to-lego-marvel-super-heroes-game.html]</ref> voiced by [[Nolan North]].{{citation needed|date=May 2019}}
+* Pyro appears in ''[[Lego Marvel Super Heroes]]'',<ref>{{Cite web|url=http://www.newsarama.com/19216-nycc-2013-marvel-adds-more-characters-to-lego-marvel-super-heroes-game.html|title=Marvel &#124; GamesRadar+}}</ref> voiced by [[Nolan North]].{{citation needed|date=May 2019}}
 
 ==References==
 {{reflist|2}}
@@ -120,13 +120,13 @@ Ultimate Pyro, like his Age of Apocalypse counterpart, can generate flames witho
 *{{comicbookdb|type=character|id=2026|title=Pyro}}
 
 {{Brotherhood of Evil Mutants}}
-{{X-Men}}
+{{X-Men characters}}
 {{Ultimate X-Men}}
 {{Magneto}}
 
 {{DEFAULTSORT:Pyro (Comics)}}
 [[Category:Characters created by Chris Claremont]]
-[[Category:Characters created by John Byrne]]
+[[Category:Characters created by John Byrne (comics)]]
 [[Category:Comics characters introduced in 1981]]
 [[Category:Fictional characters with fire or heat abilities]]
 [[Category:Fictional gay males]]

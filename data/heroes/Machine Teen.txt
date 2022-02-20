@@ -1,5 +1,5 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=<!-- Unsourced image removed: [[Image:Machine Teen preview.jpg|250px]] -->
+image=Machine Teen.png
 |caption=Machine Teen
 |character_name=Machine Teen
 |real_name=A.D.A.M.<BR>(''Autonomously Decisive Automated Mechanism'')
@@ -40,7 +40,7 @@ Adam and his friends are brought to a building where Adam's father is. Adam is t
 Adam was considered as a "potential recruit" for the [[Avengers: The Initiative|Initiative]] program, according to ''Civil War: Battle Damage Report''.{{Issue|date=August 2011}}
 
 ===Avengers Academy===
-Machine Teen is part of the new class of students when the [[Avengers Academy]] moves to the former headquarters of the [[West Coast Avengers]].<ref>http://www.comicbookresources.com/?page=article&id=34865</ref><ref>''Avengers Academy'' #21 (Nov. 2011)</ref> Machine Teen later leaves the Avengers Academy, alongside [[Rocket Racer]].<ref>''Avengers Academy'' #26</ref>
+Machine Teen is part of the new class of students when the [[Avengers Academy]] moves to the former headquarters of the [[West Coast Avengers]].<ref>{{Cite web|url=http://www.comicbookresources.com/?page=article&id=34865|title = NYCC: Gage Offers the Runaways Shelter at "Avengers Academy"|date = 16 October 2011}}</ref><ref>''Avengers Academy'' #21 (Nov. 2011)</ref> Machine Teen later leaves the Avengers Academy, alongside [[Rocket Racer]].<ref>''Avengers Academy'' #26</ref>
 
 ==Powers and abilities==
 As a humanoid robot, Adam has all the basic powers of an [[Android (robot)|android]]. He has super strength, as seen when he easily rips open a steel door, freeing his friends from their captors. He also has limited durability, with bullets having little effect on him and being able to shrug off other physical attacks. Additionally, he has enhanced agility, as seen when he dodges opponents attacks and early on during the football game when he avoids the opponent players. As a robot, Adam has the ability to remember and easily memorize a lot of information.
@@ -72,6 +72,7 @@ During the [[House of M]] event, Adam and his father joined up with [[Advanced I
 *[https://web.archive.org/web/20110716162934/http://www.sumerak.com/images/mteen_ohotmu.jpg  Machine Teen THE ALL-NEW OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE: A-Z #6 (2006]
 
 [[Category:2005 comics debuts]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics robots]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Next]]

@@ -3,15 +3,15 @@
 image=[[File:Titaniummanwarmachine.png]]
 |caption=Titanium Man<br>Variant cover for ''War Machine'' #1. Art by [[Mike Deodato]].
 |character_name=Titanium Man
-|real_name=(I) Boris Bullski<br>(II) Kondrati "Gremlin" Topolov 
+|real_name=(I) Boris Bullski<br>(II) Kondrati "Gremlin" Topolov
 |publisher=[[Marvel Comics]]
 |debut=''[[Tales of Suspense]]'' #69<br>(September 1965)
-|creators=[[Stan Lee]] (Writer)<br>[[Don Heck]] (Artist) 
+|creators=[[Stan Lee]] (Writer)<br>[[Don Heck]] (Artist)
 |alliances=(I) [[KGB]]<br>Green Liberation Front<br>[[Titanic Three]]<br>[[Secret Defenders]]<br>(II) [[Soviet Super-Soldiers]]
 |aliases=(I) Boris the Merciless, the Other, the Commander
 |powers='''(Boris Bullski)''':<br>Enhanced strength<br>'''(Gremlin)''':<br>Accomplished genetic engineer<br>Superhuman intelligence<br>Ability to create advanced devices and weapons<br>'''(Both)''':<br>Armored suit grants:<br>Superhuman strength and durability<br>Supersonic flight<br>Concussive blasts<br>Projection of constrictive force "rings" and electromagnetically paralytic beams
 }}
-The '''Titanium Man''' ("''Chelovek-Titan''") is the name of two [[fictional character|fictional]] [[supervillains]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The original Titanium Man first appeared in ''[[Tales of Suspense]]'' #68 (Sept 1965) and was created by [[Stan Lee]] and [[Don Heck]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=382}}</ref>
+The '''Titanium Man''' ("''Chelovek-Titan''") is the name of two <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillains]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The original Titanium Man first appeared in ''[[Tales of Suspense]]'' #68 (Sept 1965) and was created by [[Stan Lee]] and [[Don Heck]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=382}}</ref>
 
 ==Fictional character biography==
 
@@ -32,7 +32,7 @@ Sometime later, during a space mission to destroy an enormous [[asteroid]] that 
 
 Now a mercenary, Bullski was hired by Tony Stark to fake an attack on Congress trying to show reasons to stop the superhuman registration act. He battled [[Spider-Man]] there and made a withdrawal after Spidey damaged his helmet with his cybernetic claws, but not without saying to a camera in Spider-Man's Iron Spider suit a planned talk which Stark used in the Congress in rejection of the SRA.
 
-The Titanium Man reappeared, this time in Russia, as a member of the rogue Soviet super-rebel group called Remont Six. He was knocked out by [[Darkstar (Marvel Comics)|Darkstar]], but was apparently not captured.<ref>''Hulk: Winter Guard''</ref>
+The Titanium Man reappeared, this time in Russia, as a member of the rogue Soviet super-rebel group called Remont Six. He was knocked out by [[Darkstar (Marvel Comics)|Darkstar]], but was apparently not captured.<ref>''{{cite web |url=Hulk: Winter Guard |url-status=dead |archive-url=https://web.archive.org/web/20130820172829/http://hulk/ |archive-date=2013-08-20 |title=Welcome to the US Petabox}}''</ref>
 
 Some time later Titanium Man was seen being beaten down by [[Noh-Varr|the Protector]]. The identity of this Titanium Man or the circumstances of the battle remain undisclosed, but he is presumably Bullski, because he was wearing that version of the armor.<ref>''The Avengers'' vol. 4 #2</ref>
 
@@ -54,7 +54,7 @@ Another version was introduced under the name Gennedy Ovinnik. Ovinnik, a Corpor
 
 A Titanium Man was contacted and hired, ostensibly through the Hammer again, to do a mercenary job for Tony Stark in his effort to stop the [[Civil War (comics)|superhuman registration bill]].
 
-Recently, the Titanium Man reappeared, this time in Russia, as a member of the rogue Soviet super-rebel group called Remont Six. He was knocked out by [[Darkstar (Marvel Comics)|Darkstar]], but was apparently not captured.<ref>Hulk: Winter Guard</ref>
+Recently, the Titanium Man reappeared, this time in Russia, as a member of the rogue Soviet super-rebel group called Remont Six. He was knocked out by [[Darkstar (Marvel Comics)|Darkstar]], but was apparently not captured.<ref>{{cite web |url=Hulk: Winter Guard |url-status=dead |archive-url=https://web.archive.org/web/20130820172829/http://hulk/ |archive-date=2013-08-20 |title=Welcome to the US Petabox}}</ref>
 
 In the same period, another Titanium Man was seen being beaten down by [[Noh-Varr]]. The identity of this Titanium Man or the circumstances of the battle remain undisclosed.<ref>Avengers Vol. 4 2</ref>
 
@@ -71,19 +71,19 @@ Boris Bullski, the original Titanium Man, also possessed enhanced strength due t
 
 ==Other versions==
 ===Ultimate Titanium Man===
-In ''[[Ultimate Marvel]]'', '''Jake Miller''' was an employee of the Crystal Lake Energy Complex. During the [[Hydra (Marvel)|Hydra]] attack to the United States, he volunteered to enter the unattended nuclear plant in order to take control and prevent a catastrophe, but his family was killed by Hydra soldiers while he was away. In despair, Miller built a titanium armor using Quark-based pirated technology, and led to the nuclear plant in order to blow it up in revenge of the country. He was stopped by the [[Ultimates]], who convinced him to surrender. <ref>''Ultimate Comics Ultimates'' #18.1</ref>
+In the ''[[Ultimate Marvel]]'' reality, '''Jake Miller''' was an employee of the Crystal Lake Energy Complex. During [[Hydra (Marvel)|Hydra]]'s attack on the United States, he volunteered to enter an unattended nuclear plant in order to take control and prevent a catastrophe. However, his family was killed by Hydra soldiers while he was away. In despair, Miller builds a titanium suit of armor using pirated Quark-based technology and attempts to detonate the nuclear plant as revenge for what happened, but he is stopped by the [[Ultimates]], who convince him to surrender.<ref>''Ultimate Comics Ultimates'' #18.1</ref>
 
 ===Heroes Reborn — Iron Man===
-The ''[[Heroes Reborn]]'' continuity features a Soviet Titanium Man, developed for the Russians by [[Victor von Doom]], proved the better of the Iron Man prototype. Later, the same individual was shown, together with the Crimson Dynamo, as a free agent working for [[Hydra (Marvel Comics)|HYDRA]]. This Titanium Man was physically similar to the original mainstream version, cept for a grey color scheme.<ref>Iron Man Vol. 2 #9</ref> He is later killed by [[Doombots]] along with Crimson Dynamo and [[Black Knight (Marvel Comics)|Black Knight]].
+The ''[[Heroes Reborn (2021 comic)|Heroes Reborn]]'' continuity features a Soviet Titanium Man, which [[Victor von Doom]] created for the Russians to outperform the Iron Man prototype. Titanium Man later appears as a free agent working for Hydra,<ref>Iron Man Vol. 2 #9</ref> though he is later killed by [[Doombots]].
 
 ===Civil War: House of M===
-In the ''[[House of M]]'' reality, the second Titanium Man was seen as a member of the Soviet Super-Soldiers.<ref>''Civil War: House of M'' #2</ref>
+In the ''[[House of M]]'' reality, the second Titanium Man appears as a member of the Soviet Super-Soldiers.<ref>''Civil War: House of M'' #2</ref>
 
 ==In other media==
 ===Television===
 * Titanium Man appears in the [[Iron Man]] segment of ''[[The Marvel Super Heroes]]'' animated series, voiced by [[Ed McNamara]].<ref>The Marvel Super Heroes on TV! Book One: Iron Man (2017) - by J. Ballmann, ISBN 9 781545 345658</ref>
 * Titanium Man appears in the 1994 ''[[Iron Man (TV series)|Iron Man]]'' animated series, voiced by [[Gerard Maguire]].<ref name="btva">{{cite web|title= Titanium Man Voice - Iron Man franchise <nowiki>|</nowiki> Behind The Voice Actors|url=https://www.behindthevoiceactors.com/characters/Iron-Man/Titanium-Man/|website=behindthevoiceactors.com|date=December 20, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> In season one, he is introduced as a creation of [[MODOK]]'s and the [[Mandarin (character)|Mandarin]]'s most powerful minion before Iron Man throws him into space. In season two, Titanium Man forms an alliance with Dark Aegis until he discovers their genocidal tendencies and aligns himself with Iron Man and [[War Machine]] to defeat them, sacrificing himself in order to do so.
-* The Titanium Man armor appears in the ''[[Iron Man: Armored Adventures]]'' animated series. This version of the armor is coated in a [[Vibranium]]-titanium alloy and operated by '''[[Justin Hammer]]'''.<ref>http://marvel.toonzone.net/news.php?action=fullnews&id=676</ref>
+* The Titanium Man armor appears in the ''[[Iron Man: Armored Adventures]]'' animated series. This version is coated in a [[Vibranium]]-titanium alloy and operated by '''[[Justin Hammer]]'''.<ref>{{cite web |url=http://marvel.toonzone.net/news.php?action=fullnews&id=676 |url-status=dead |archive-url=https://web.archive.org/web/20121022160847/http://marvel.toonzone.net/news.php?action=fullnews&id=676 |archive-date=2012-10-22 |title=Marvel Animation Age}}</ref>
 
 ===Video games===
 * The Boris Bullski incarnation of Titanium Man appears as a [[boss (video gaming)|boss]] in the 2008 ''[[Iron Man (video game)|Iron Man]]'' film tie-in game, voiced by [[Dimitri Diatchenko]].<ref name="btva"/> This version is an agent of [[Advanced Idea Mechanics|A.I.M.]]

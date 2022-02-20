@@ -1,12 +1,14 @@
+{{refimprove|date=December 2021}}
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |character_name=Foreigner
 |image=SpideyForeigner209.jpg
 |converted=y
 |imagesize=200
-|caption=The Foreigner battling [[Spider-Man]] on the cover of ''[[Spectacular Spider-Man]]'' #209.
+|caption=The Foreigner battling [[Spider-Man]] on the cover of ''The [[Spectacular Spider-Man]]'' #209
 |real_name=
 |publisher=[[Marvel Comics]]
-|debut= (Voice only)<br>''[[Web of Spider-Man]]''<br>#15 (June1986).<br>(Full appearance)<br>''[[The Spectacular Spider-Man]]'' #116 (July 1986)
+|debut= (Voice only)<br>''[[Web of Spider-Man]]''<br>#15 (June 1986).<br>(Full appearance)<br>''[[The Spectacular Spider-Man]]'' #116 (July 1986)
 |creators=[[Peter David]]
 |alliances=1400 Club
 |previous_alliances=
@@ -18,11 +20,9 @@
 |villain=y
 |sortkey=Foreigner
 }}
-The '''Foreigner''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by writer [[Peter David]], and first appeared in ''Web of Spider-Man'' #15 (June 1986).
+The '''Foreigner''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was formerly married to [[Silver Sable]].
 
 The Foreigner is a mercenary and assassin. Although he has no superhuman abilities, he has trained his body to be in absolute peak physical condition, is among the greatest martial arts practitioners in the Marvel Universe, and as a professional assassin, who has evaded detection by various international law enforcement agencies, is highly intelligent. He is often depicted as being exceedingly competent.
-
-The Foreigner was formerly married to [[Silver Sable]].
 
 ==Publication history==
 Writer [[Peter David]] created the Foreigner as a master assassin character to be a nemesis for Spider-Man. According to David, the character was designed to bear a strong resemblance to [[Patrick McGoohan]].<ref name=PDTwistedStories>[[David, Peter]]. [http://www.peterdavid.net/index.php/2011/11/11/weird-twisted-reasonably-true-comic-book-stories/ "Weird, Twisted, Reasonably True Comic Book Stories"]. peterdavid.net. November 11, 2011. Reprinted from "But I Digress..." ''[[Comics Buyer's Guide]]'' #1169 (April 12, 1996).</ref> The character's voice was first heard on a telephone in a scene in ''Web of Spider-Man'' #15 (June 1986), which was written by [[David Michelinie]], but he did not make a full, visual appearance until later that year in ''[[The Spectacular Spider-Man]]'' #116 (July 1986).
@@ -36,7 +36,7 @@ The Foreigner hired an assassin to assume the identity of Blaze to fire-bomb the
 
 In the past, he has started a club of assassins called the 1400 Club. The [[CIA]], [[FBI]], and most government agencies throughout the world are not aware of the Foreigner's existence or that of his organization. As a master of disguise, he has literally hundreds of identities all over the world. These identities are used not only by him, but by other members of his organization who are also masters of disguise and assassination.
 
-He was formerly married to [[Silver Sable]], and was romantically involved for a short time with the Black Cat. He is a friend of Wilson Fisk and it is rumored that the two were friends when the Foreigner was hired to kill Fisk by one of his enemies but the Foreigner discovered they had the same birthday and capriciously decided to kill his employer instead. Later, he met Fisk and initiated their friendship/business relationship.
+He was formerly married to Silver Sable, and was romantically involved for a short time with the Black Cat. He is a friend of Wilson Fisk and it is rumored that the two were friends when the Foreigner was hired to kill Fisk by one of his enemies but the Foreigner discovered they had the same birthday and capriciously decided to kill his employer instead. Later, he met Fisk and initiated their friendship/business relationship.
 
 The Foreigner was once hired to kill the [[Hobgoblin (comics)|Hobgoblin]] by the mercenary [[Jason Macendale]] (who later himself became the Hobgoblin). He carried out the execution of [[Ned Leeds]]. The Foreigner's men made quick work and slit Leeds's throat.<ref name="Amazing Spider-Man #289">''The Amazing Spider-Man'' #289. Marvel Comics.</ref> It was later revealed that Leeds was actually a puppet of the [[Roderick Kingsley|original Hobgoblin]] who had abandoned the persona to avoid such an assassination.<ref name="Amazing Spider-Man #289"/> Later he hired Whisper, Pulse, Swift, and Warfare to kill [[Betty Brant|Betty Brant Leeds]], who was seeking to expose the Foreigner's role in Ned's death. He revealed to Betty that Leeds was supposedly the original Hobgoblin.<ref>''Web of Spider-Man'' #91-92. Marvel Comics.</ref>
 
@@ -46,14 +46,20 @@ He has been hired by many different characters to carry out various assassinatio
 
 At one point, machinations by [[Justin Hammer]] turned the 1400 Club against him and the organization was destroyed; the Foreigner did not seem to intend to rebuild it, as he realized the whole thing was too unwieldy and bloated for his tastes.
 
-It was discovered that Foreigner is the one responsible for murdering [[Thunderbolt Ross]], and framing Captain America for the crime.<ref>''Captain America'' vol. 9 #9. Marvel Comics.</ref> A somehow revived and rejuvenated [[Peggy Carter]], operating as Dryad, takes down Foreigner's New York-based safe houses.<ref>''Captain America'' vol. 9 #10. Marvel Comics.</ref> Peggy confronts Foreigner and fights him until [[Crossbones (comics)|Crossbones]] and [[Sin (Marvel Comics)|Sin]] shoot a missile at them. Peggy survives the attack, while Foreigner presumably perishes.<ref>''Captain America'' vol. 9 #11. Marvel Comics.</ref>
+It was discovered that Foreigner is the one responsible for murdering [[Thunderbolt Ross]], and framing [[Captain America]] for the crime.<ref>''Captain America'' vol. 9 #9. Marvel Comics.</ref> A somehow revived and rejuvenated [[Peggy Carter]], operating as Dryad, takes down Foreigner's New York-based safe houses.<ref>''Captain America'' vol. 9 #10. Marvel Comics.</ref> Peggy confronts Foreigner and fights him until [[Crossbones (comics)|Crossbones]] and [[Sin (Marvel Comics)|Sin]] shoot a missile at them. Peggy survives the attack, while Foreigner presumably perishes.<ref>''Captain America'' vol. 9 #11. Marvel Comics.</ref>
+
+Foreigner visited [[Chance (comics)|Chance]]'s airborne casino called the Palace where he got swindled by Chance. Foreigner is tricked and pressured by Chance into covering the night's debts if he can steal Spider-Man's web-shooters.<ref>''Amazing Spider-Man'' Vol. 5 #38-39. Marvel Comics.</ref> Both of them succeeded with help from the [[Jack O'Lantern (Marvel Comics)|Jack O'Lanterns]]. Then Chance had to reluctantly agree to become Foreigner's business partner.<ref>''Amazing Spider-Man'' Vol. 5 #40. Marvel Comics.</ref>
+
+After Foreigner and Chance found out that Empire State University student Jamie Tolentino used the Clairvoyant to win all bets and racked up a debt when it ran out of battery power, they were told by Jamie that he can get him the Catalyst as a power source for the Clairvoyant.<ref>''Amazing Spider-Man'' Vol. 5 #67. Marvel Comics.</ref> They succeed despite the intervention of Spider-Man and both devices are now in the Palace. It is then revealed that the Jack O'Lanterns, [[Grizzly (comics)|Grizzly]], and many of the Palace's patrons are actually sleeper agents of Finisher and [[Chameleon (Marvel Comics)|Chameleon]] as they start to trash the Palace.<ref>''Amazing Spider-Man'' Vol. 5 #68-69. Marvel Comics.</ref> Foreigner and Chance persuaded [[Slyde]] to work for them with a doubled pay while Jack O'Lantern fought the Jack O'Lanterns. Spider-Man and Jamie were able to prevent the Palace from crashing into Manhattan. Afterwards with his bank accounts drained by Spider-Man and [[Ned Leeds]], Foreigner hires [[Taskmaster (character)|Taskmaster]] and [[Eric O'Grady#Black Ant|Black Ant]] to assist in his payback plot.<ref>''Giant-Size Amazing Spider-Man: The Chameleon Conspiracy'' #1. Marvel Comics.</ref>
+
+During the "[[Sinister War]]" storyline, Foreigner, Taskmaster, Black Ant, Chance, Jack O'Lantern, and Slyde are sent by [[Kindred (Marvel Comics)|Kindred]] to attack Spider-Man after Kindred had disrupted their armored car robbery.<ref>''Sinister War'' #2. Marvel Comics.</ref>
 
 ==Powers and abilities==
-The Foreigner has no superhuman abilities. However, he has trained his body to be in absolute peak physical condition. He is stronger, faster, more agile, and has better reaction time than any Olympic athlete. He is adept in all known forms of martial arts, and most forms of conventional hand weaponry. He is among the greatest pugilists in the Marvel Universe, similar in ability to [[Captain America]] and [[Wolverine (character)|Wolverine]]. His skills are such that even without superhuman abilities, he is able to pull off seemingly inhuman feats of strength through intense concentration, and has even battled Spider-Man to a stand still.
+The Foreigner has no superhuman abilities. However, he has trained his body to be in peak physical condition. He is stronger, faster, more agile, and has better reaction time than any Olympic athlete. He is adept in all known forms of martial arts, and most forms of conventional hand weaponry. He is among the greatest pugilists in the Marvel Universe, similar in ability to [[Captain America]] and [[Wolverine (character)|Wolverine]]. His skills are such that even without superhuman abilities, he is able to pull off seemingly inhuman feats of strength through intense concentration, and has even battled Spider-Man to a stand still.{{fact|date=December 2021}}
 
-He possesses a near-mystic ability to place an opponent in a 10-second hypnotic trance through eye-contact, which makes the opponent believe the Foreigner can move faster than the eye can see. He has hypnotized Spider-Man in this fashion, which left Spider-Man disoriented or in a light trance for a few seconds while the Foreigner ran away at what seemed to be nearly superhuman speed; from Spider-Man's perspective it appeared that the Foreigner had teleported away. The Foreigner uses this ability for evading enemies.
+He possesses a near-mystic ability to place an opponent in a 10-second hypnotic trance through eye-contact, which makes the opponent believe the Foreigner can move faster than the eye can see. He has hypnotized Spider-Man in this fashion, which left Spider-Man disoriented or in a light trance for a few seconds while the Foreigner ran away at what seemed to be nearly superhuman speed; from Spider-Man's perspective it appeared that the Foreigner had teleported away. The Foreigner uses this ability for evading enemies.{{fact|date=December 2021}}
 
-He is a master of disguise and has assumed various identities all over the world, meaning that he probably speaks many different languages fluently. He is a brilliant strategist, tactician, and intelligence gatherer. His ability to escape detection from all government agencies and his remarkable intelligence gathering skills would require a great intellect.
+He is a master of disguise and has assumed various identities all over the world. He is a brilliant strategist, tactician, and intelligence gatherer who has somehow escaped much notice from governments and their agencies, leaving it to Spider-Man and other superheroes to handle him.{{fact|date=December 2021}}
 
 ==References==
 {{reflist}}

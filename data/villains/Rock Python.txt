@@ -1,8 +1,8 @@
 {{short description|Fictional supervillain character in American comic books}}
 {{other uses|Rock python (disambiguation){{!}}Rock python}}
 {{Infobox comics character|
-image=
-|caption=Rock Python, art by [[Dave Hoover]] and Danny Bulanadi.
+image=M’Gula (Earth-616) from Official Handbook of the Marvel Universe Vol 3 6 0001.jpg
+|caption=
 |character_name=Rock Python
 |real_name=M'Gula
 |species=[[Mutant (Marvel Comics)|Human Mutant]] or Mutate

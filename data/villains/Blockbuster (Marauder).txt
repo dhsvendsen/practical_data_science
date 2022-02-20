@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{other uses|Blockbuster (disambiguation){{!}}Blockbuster}}
 
 {{Superherobox| <!--Wikipedia:WikiProject Comics-->
@@ -7,20 +8,20 @@ image=[[Image:Blockbusterwiki.jpg]]
 |real_name=Michael Baer
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
-|debut=''[[Uncanny X-Men]]'' #210 (Oct 1986)
+|debut=''The [[Uncanny X-Men]]'' #210 (Oct. 1986)
 |creators=[[Chris Claremont]]<br>[[Michael Golden (comics)|Michael Golden]]
 |alliances=[[Marauders (comics)|Marauders]]
 |aliases=
 |powers=Superhuman Size, Superhuman Strength, Superhuman Stamina, Superhuman Endurance/Durability
 |}}
 
-'''Blockbuster''' ('''Michael Baer''') is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Chris Claremont]] and [[Michael Golden (comics)|Michael Golden]] and his first appearance was in ''[[Uncanny X-Men]]'' #210.
+'''Blockbuster''' ('''Michael Baer''') is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Chris Claremont]] and [[Michael Golden (comics)|Michael Golden]] and his first appearance was in ''The [[Uncanny X-Men]]'' #210.
 
 ==Publication history==
 {{expand-section|date=December 2020}}
-Blockbuster first appeared in ''[[Uncanny X-Men]]'' #210 (October 1986), and was created by [[Chris Claremont]] and [[Michael Golden (comics)|Michael Golden]].
+Blockbuster first appeared in ''The Uncanny X-Men'' #210 (Oct. 1986), and was created by [[Chris Claremont]] and [[Michael Golden (comics)|Michael Golden]].
 
-The character subsequently appears in ''X-Factor'' #10 (November 1986), ''Thor'' #373-374 (November–December 1986), ''The Uncanny X-Men'' #240 (January 1989), #243 (April 1989), ''X-Man'' #13 (March 1996), ''X-Men'' #200-203 (August–November 2007), and ''X-Men: Messiah Complex'' #1 (December 2007).
+The character subsequently appears in ''X-Factor'' #10 (Nov. 1986), ''Thor'' #373-374 (Nov.–Dec. 1986), ''The Uncanny X-Men'' #240 (Jan. 1989), #243 (April 1989), ''X-Man'' #13 (March 1996), ''X-Men'' #200-203 (Aug.–Nov. 2007), and ''X-Men: Messiah Complex'' #1 (Dec. 2007).
 
 Blockbuster appeared as part of the "Marauders" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #18.
 
@@ -29,9 +30,9 @@ Blockbuster appeared as part of the "Marauders" entry in the ''[[Official Handbo
 
 The Norse god [[Thor (Marvel Comics)|Thor]], summoned to the Morlock tunnels by his ally, the frog Puddleglup, happens upon Blockbuster following his torture of the mutant [[Warren Worthington III|Archangel]]. After a brief battle, in which Blockbuster is able to break Thor's left  arm, Thor kills Blockbuster to avenge the innocent Morlocks he has slain. Thor then burns his remains, along with those of the slaughtered Morlocks.{{Issue|date=December 2020}}
 
-Sinister uses his technology to clone the Marauders.  Blockbuster and other previously-slain Marauders return during the demonic invasion of Manhattan referred to as the [[Inferno (Marvel Comics)|Inferno]].  Blockbuster is among the Marauders set by Sinister to defend his orphanage/laboratory headquarters.  Blockbuster is slain by the mutant [[Havok (comics)|Havok]], who had, along with most of the X-Men, been tainted by the demonic invasion, becoming more bestial and aggressive.<ref>''Uncanny X-Men'' #243 (April 1989)</ref>
+Sinister uses his technology to clone the Marauders. Blockbuster and other previously-slain Marauders return during the demonic invasion of Manhattan referred to as the [[Inferno (Marvel Comics)|Inferno]].  Blockbuster is among the Marauders set by Sinister to defend his orphanage/laboratory headquarters.  Blockbuster is slain by the mutant [[Havok (comics)|Havok]], who had, along with most of the X-Men, been tainted by the demonic invasion, becoming more bestial and aggressive.<ref>''The Uncanny X-Men'' #243 (April 1989)</ref>
 
-Though the X-Men discovered and deactivated many of Sinister's Clone Vaults after the events of the crossover saga [[X-Cutioner's Song]], Blockbuster returned with the other original Marauders, when they attacked the X-Mansion.<ref>''X-Men'' vol. 2 #200</ref>
+Though the X-Men discovered and deactivated many of Sinister's Clone Vaults after the events of the crossover saga [[X-Cutioner's Song]], Blockbuster returned with the other original Marauders, when they attacked the X-Mansion.<ref>''X-Men'' #200</ref>
 
 ===Messiah Complex and Death===
 Blockbuster's body is seen later being "eaten" by [[Predator X (comics)|Predator X]] after he and the rest of the Marauders arrive at an Alaskan town. The Marauder's goal had been to find a mutant baby, a current rarity; they had also encountered the Purifiers, another group searching for the child.{{Issue|date=December 2020}}
@@ -64,5 +65,3 @@ Blockbuster appears in the ''[[Deadpool (video game)|Deadpool]]'' video game as 
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]
-
-[[tl:Blockbuster (Marauder)]]

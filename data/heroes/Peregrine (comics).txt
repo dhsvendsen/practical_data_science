@@ -1,6 +1,6 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=<!-- Deleted image removed: [[Image: PeregrineHV.jpg]] -->
-|caption=Peregrine of Contest of Champions
+image=Alain Racine.jpg
+|caption=
 |character_name=Peregrine
 |real_name=Alain Racine
 |species=

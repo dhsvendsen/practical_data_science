@@ -1,9 +1,9 @@
 {{Use mdy dates|date=January 2015}}
 {{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
-| image = 
-| caption = A [[Doug Wildey]] panel from ''The Outlaw Kid'' #11 (May 1956)
+| image = Lance Temple.jpg
+| caption = 
 | character_name = The Outlaw Kid
-| publisher = [[Atlas Comics (1950s)|Atlas Comics]] / [[Marvel Comics]]
+| publisher = [[Marvel Comics]]
 | debut = ''The Outlaw Kid'' #1 (September 1954)
 | creators = [[Doug Wildey]] (art)
 | alter_ego = Lance Temple
@@ -57,7 +57,7 @@
 |}}
 '''The Outlaw Kid'''  is a fictional [[Western (genre)|Western]] hero in comic books published by [[Marvel Comics]]. The character originally appeared in the company's 1950s iteration, [[Atlas Comics (1950s)|Atlas Comics]].<ref>{{cite book |last1=Schelly |first1=William |title=American Comic Book Chronicles: The 1950s |date=2013 |publisher=TwoMorrows Publishing |isbn=9781605490540 |pages=124–125}}</ref> A lesser-known character than the company's [[Kid Colt]], [[Rawhide Kid]] or [[Two-Gun Kid]], he also starred in a reprint series in the 1970s and a short-lived revival.
 
-The Outlaw Kid was Lance Temple, an [[Old West]] lawyer and [[American Civil War|Civil War]] veteran living with his blinded father on a ranch. Though promising his father he would never take up a gun, he'd nonetheless felt the need to right wrongs expediently on the near-lawless frontier, and created a masked identity in order to keep his gunslinging secret.
+The Outlaw Kid was Lance Temple, an [[Old West]] lawyer and [[American Civil War|Civil War]] veteran living with his blinded father on a ranch. Though promising his father he would never take up a gun, he nonetheless felt the need to right wrongs expediently on the near-lawless frontier, and created a masked identity in order to keep his gunslinging secret.
 
 ==Publication history==
 Comic-book artist [[Doug Wildey]], later a noted animation designer, illustrated three to four stories per issue of the 19-issue series ''The Outlaw Kid'' ([[cover date]]d Sept. 1954-Sept. 1957). [[Joe Maneely]] provided most of the covers. Backup features were usually "[[Black Rider (comics)|The Black Rider]]," drawn by [[Syd Shores]], or an anthological Western tale. An additional Outlaw Kid story appeared in ''[[Wild Western]]'' #43 (May 1955). Well over a year after the original series ended, two other Outlaw Kid stories by Wildey, presumably from inventory, saw print, in ''[[Kid Colt, Outlaw]]'' #82 (Jan. 1959) and ''Wyatt Earp'' #24 (Aug. 1959).
@@ -215,6 +215,9 @@ REPRINTS
 [[Category:American comics]]
 [[Category:Comics characters introduced in 1954]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:Marvel Comics titles]]
 [[Category:Western (genre) comics characters]]
 [[Category:Western (genre) outlaws]]
+[[Category:Fictional American lawyers]]
+[[Category:Fictional American Civil War veterans]]

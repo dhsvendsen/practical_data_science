@@ -1,9 +1,9 @@
 {{short description|Fictional comic book character}}
 {{Refimprove|date=December 2011}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| image = 
-| caption =
 | character_name = Werner von Strucker
+| image = Werner von Strucker.jpg
+| caption =
 | publisher = [[Marvel Comics]]
 | debut = ''Nick Fury, Agent of S.H.I.E.L.D.'' Vol. 2 #1 (September 1989)
 | creators = [[Bob Harras]]
@@ -24,11 +24,11 @@ Werner von Strucker first appeared in ''Nick Fury, Agent of S.H.I.E.L.D.'' Vol. 
 ==Fictional character biography==
 Werner von Strucker is the oldest son of [[Baron Strucker|Baron Wolfgang von Strucker]] and the half-brother of twins [[Fenris (comics)|Fenris]] (Andrea von Strucker and Andreas von Strucker).
 
-Werner briefly takes over [[Hydra (comics)|Hydra]] during one of his father's supposed deaths.{{Issue|date=January 2010}} Later Wolfgang returns from the dead via the Death Spore virus.{{Issue|date=January 2010}} Werner uses his influence to try to gain part of the territory of the [[Kingpin (comics)|Kingpin]] after he falls from power. The conference that would divide up the Kingpin's territory is set in Las Vegas.<ref>''Daredevil'' #307</ref>
+Werner briefly takes over [[Hydra (comics)|Hydra]] during one of his father's supposed deaths.{{Issue|date=January 2010}} Later Wolfgang returns from the dead via the Death Spore virus.{{Issue|date=January 2010}} Werner uses his influence to try to gain part of the territory of the [[Kingpin (comics)|Kingpin]] after he falls from power. The conference that would divide up the Kingpin's territory is set in Las Vegas.<ref>''Daredevil'' #307. Marvel Comics.</ref>
 
-At first, Werner's forces detain two spies, who were in reality [[Microchip (comics)|Microchip]] and [[Mickey Fondozzi]], two associates of the [[Punisher]]. They claim to be Four and Eight, members of the organization called the [[Secret Empire (organization)|Secret Empire]], one of Werner's fellow conference attendees. Not wanting to risk a rift with the Empire, Werner thus declines to kill them. Via a spy, the Empire learns of the two prisoners. Coincidentally, the real Four and Eight had not shown up for the Kingpin division meeting. The Secret Empire becomes convinced that Four and Eight have turned traitor. They send Chainsaw and his Praetorians, a motorcycle gang, to attack the entire group.<ref>''Punisher: War Journal'' #45-46</ref>
+At first, Werner's forces detain two spies, who were in reality [[Microchip (comics)|Microchip]] and [[Mickey Fondozzi]], two associates of the [[Punisher]]. They claim to be Four and Eight, members of the organization called the [[Secret Empire (organization)|Secret Empire]], one of Werner's fellow conference attendees. Not wanting to risk a rift with the Empire, Werner thus declines to kill them. Via a spy, the Empire learns of the two prisoners. Coincidentally, the real Four and Eight had not shown up for the Kingpin division meeting. The Secret Empire becomes convinced that Four and Eight have turned traitor. They send Chainsaw and his Praetorians, a motorcycle gang, to attack the entire group.<ref>''Punisher: War Journal'' #45-46. Marvel Comics.</ref>
 
-Werner survives the attack. He attends a later meeting of the criminal organizations, assisted by a brown-haired man. This assistant is really his father Baron Strucker. The meeting descends into violence, part of it resulting from Werner's siblings believing that he is not a worthy successor to their father. After the meeting breaks up, Baron Strucker slays Werner via the Death Spore virus and steps into power once again.<ref>''Daredevil'' #307-309; ''Nomad'' #4-6; ''Punisher War Journal'' #46-48</ref> Werner's corpse is found by a super-powered vigilante named [[Terror Inc.|Terror]]. The vigilante steals one of Werner's eyes in order to gain information about the recent criminal meetings.<ref>''Daredevil'' #305 (June 1992)</ref>
+Werner survives the attack. He attends a later meeting of the criminal organizations, assisted by a brown-haired man. This assistant is really his father Baron Strucker. The meeting descends into violence, part of it resulting from Werner's siblings believing that he is not a worthy successor to their father. After the meeting breaks up, Baron Strucker slays Werner via the Death Spore virus and steps into power once again.<ref>''Daredevil'' #307-309; ''Nomad'' #4-6; ''Punisher War Journal'' #46-48. Marvel Comics.</ref> Werner's corpse is found by a super-powered vigilante named [[Terror Inc.|Terror]]. The vigilante steals one of Werner's eyes in order to gain information about the recent criminal meetings.<ref>''Daredevil'' #305 (June 1992). Marvel Comics.</ref>
 
 ==In other media==
 * Werner von Strucker made an appearance in the 1998 film ''[[Nick Fury: Agent of S.H.I.E.L.D. (film)|Nick Fury: Agent of Shield]]'', played by Scott Heindl.
@@ -38,14 +38,16 @@ Werner survives the attack. He attends a later meeting of the criminal organizat
 {{Reflist}}
 
 ==External links==
-* [http://marvel.wikia.com/wiki/Werner_von_Strucker_%28Earth-616%29 Werner von Strucker] at Marvel Wiki
-* [http://www.comicvine.com/werner-von-strucker/4005-114485/ Werner von Strucker] at Comic Vine
+* [https://marvel.fandom.com/wiki/Werner_von_Strucker_%28Earth-616%29 Werner von Strucker] at Marvel Wiki
+* [https://comicvine.gamespot.com/werner-von-strucker/4005-114485/ Werner von Strucker] at Comic Vine
+
 {{Nick Fury}}
+
 {{DEFAULTSORT:Strucker, Werner}}
 [[Category:Characters created by Bob Harras]]
 [[Category:Comics characters introduced in 1992]]
 [[Category:Fictional Baltic-German people]]
 [[Category:Fictional business executives]]
-[[Category:Hydra agents]]
+[[Category:Hydra (comics) agents]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics television characters]]

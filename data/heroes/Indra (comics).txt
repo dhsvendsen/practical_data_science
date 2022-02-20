@@ -18,26 +18,26 @@
 |powers =Retractable armored plates<br>Psionic matter manifestation
 }}
 
-'''Indra''' ('''Paras Gavaskar''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A teenage [[Mutant (Marvel Comics)|mutant]], Indra attended the [[X-Mansion|Xavier Institute]] before its closing and is a member of the X-Men's training squad.  He first appeared in ''New X-Men: Academy X'' #7.
+'''Indra''' ('''Paras Gavaskar''') is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A teenage [[Mutant (Marvel Comics)|mutant]], Indra attended the [[X-Mansion|Xavier Institute]] before its closing and is a member of the X-Men's training squad.  He first appeared in ''New X-Men: Academy X'' #7.
 
 ==Fictional character biography==
 ===Alpha Squadron===
 [[Image:Indra1.jpg|left|frame|Indra using his original armor exoskeleton powers.]]
 
-'''Paras Gavaskar''' is an [[Demographics of India|Indian]] mutant teenager. After enrolling at the Xavier Institute, Gavaskar was assigned to [[Alpha Squadron (comics)|Alpha Squadron]], a training squad mentored by [[Northstar (Marvel Comics)|Northstar]]; he was a top achiever in his classes. Indra and his fellow team members [[Anole (comics)|Anole]], [[Loa (comics)|Loa]], [[Rubbermaid (comics)|Rubbermaid]], [[Network (comics)|Network]] and Kidogo suffered a great loss when they were told that Northstar had been killed in the line of duty.{{issue|date=November 2011}}  The Alpha Squadron was unaware of Northstar's resurrection.{{issue|date=November 2011}} Following the assumed death of Northstar, [[Karma (comics)|Karma]] was their advisor.{{issue|date=November 2011}}
+'''Paras Gavaskar''' is an [[Demographics of India|Indian]] mutant teenager. After enrolling at the Xavier Institute, Gavaskar was assigned to [[Alpha Squadron (comics)|Alpha Squadron]], a training squad mentored by [[Northstar (Marvel Comics)|Northstar]]; he was a top achiever in his classes. Indra and his fellow team members [[Anole (comics)|Anole]], [[Loa (comics)|Loa]], [[Rubbermaid (comics)|Rubbermaid]], [[Network (comics)|Network]] and Kidogo suffered a great loss when they were told that Northstar had been killed in the line of duty.{{issue|date=November 2011}} The Alpha Squadron was unaware of Northstar's resurrection.{{issue|date=November 2011}} Following the assumed death of Northstar, [[Karma (comics)|Karma]] was their advisor.{{issue|date=November 2011}}
 
 ===M-Day===
-Following the events of [[House of M]], almost all of the Institute's students were [[Decimation (comics)|depowered]], which led to the dissolution of the school's training squads. Indra was one of only twenty-seven students not to have lost his mutant abilities.{{issue|date=November 2011}}
+Following the events of [[House of M]], almost all of the institute's students were [[Decimation (comics)|depowered]], which led to the dissolution of the school's training squads. Indra was one of only twenty-seven students not to have lost his mutant abilities.{{issue|date=November 2011}}
 
-He participated in Emma Frost's Battle Royale which determined who will train to be an X-Man. Later, forty-two of Indra's former classmates died when their bus was attacked by [[William Stryker]], an anti-mutant crusader.<ref>''New X-Men'', vol. 2 #23–24</ref>
+He participated in Emma Frost's Battle Royale which determined who will train to be an X-Man. Later, forty-two of Indra's former classmates died when their bus was attacked by [[William Stryker]], an anti-mutant crusader.<ref>''New X-Men'' vol. 2 #23–24</ref>
 
 ===Quest for Magik===
-Indra was captured by [[Belasco (comics)|Belasco]] and was held in Limbo with most of the other students. When [[X-23]] orchestrated an attempt at escaping, Indra was beaten badly by the demon S'ym when the attack failed.<ref>''New X-Men'', vol. 2 #37</ref>
+Indra was captured by [[Belasco (comics)|Belasco]] and was held in Limbo with most of the other students. When [[X-23]] orchestrated an attempt at escaping, Indra was beaten badly by the demon S'ym when the attack failed.<ref>''New X-Men'' vol. 2 #37</ref>
 
 After returning home, Indra discovers that he is the youngest mutant on the planet, and may become the last mutant on the planet, excluding [[Franklin Richards (Fantastic Four)|Franklin Richards]], [[Molly Hayes]], [[Tito Bohusk]] and (technically) the [[Stepford Cuckoos]], and the most likely to be targeted.{{issue|date=November 2011}}
 
 ===Messiah Complex and Utopia===
-When [[Predator X (Marvel Comics)|Predator X]] attacks the Institute, Surge leaps to the defense of Indra, Trance and Wolf Cub, protecting them from the beast.<ref>''New X-Men'', vol. 2 #46</ref>
+When [[Predator X (Marvel Comics)|Predator X]] attacks the institute, Surge leaps to the defense of Indra, Trance and Wolf Cub, protecting them from the beast.<ref>''New X-Men'' vol. 2 #46</ref>
 
 Paras later relocates to San Francisco along with all the other X-Men.<ref>''X-Men: Manifest Destiny'' #2</ref> Soon, the city goes into a state of chaos due to the anti-mutant and pro-mutant movements. Cyclops sends [[Rogue (comics)|Rogue]], [[Gambit (Marvel Comics)|Gambit]] and [[Danger Room#Sentience|Danger]] to find any missing students, Paras being among them. Rogue finds some beaten H.A.M.M.E.R. agents and after absorbing their memories to see if they know where Paras is, it is revealed they attacked him when he was trying to go home to check on his friends. In self-defense, he attacks them and knocks them out.<ref>''X-Men: Legacy'' #226</ref>
 
@@ -47,22 +47,22 @@ This act of self-defense causes Paras to have an internal crisis, believing that
 | inker = 
 | story = Devil at the Crossroads
 | title = [[X-Men: Legacy]]
-| volume = 1
+| volume = 
 | issue = Annual
-| date = November 2009
+| date = Nov. 2009
 | publisher = Marvel Comics
 | location = 
 | page = 
 | panel = 
 | id =
-}}</ref>  Attempting to access his powers causes him great pain, which Paras believes is divine punishment for betraying his beliefs. Rogue attempts to counsel him, suggesting that his inability to access his powers is psychosomatic. Rogue confronts him with the fact that he chose the codename Indra, the Hindu god of war, despite his pacifist beliefs, and states that she believes he did so out of belief in his own potential. She further states that rather than embrace that potential, he is choosing to back away from it. This causes Paras to lose control, claiming that his Indra form is "not him" before his powers fully remanifest, now as a sophisticated full suit of armor and weaponry.<ref>{{Cite comic
+}}</ref> Attempting to access his powers causes him great pain, which Paras believes is divine punishment for betraying his beliefs. Rogue attempts to counsel him, suggesting that his inability to access his powers is psychosomatic. Rogue confronts him with the fact that he chose the codename Indra, the Hindu god of war, despite his pacifist beliefs, and states that she believes he did so out of belief in his own potential. She further states that rather than embrace that potential, he is choosing to back away from it. This causes Paras to lose control, claiming that his Indra form is "not him" before his powers fully remanifest, now as a sophisticated full suit of armor and weaponry.<ref>{{Cite comic
 | writer = [[Mike Carey (writer)|Mike Carey]]
 | penciller = [[Yanick Paquette]]
 | inker = [[Michel Lacombe]]
 | story = The Telltale Heart
 | title = [[X-Men: Legacy]]
-| volume = 1
-| issue = 234
+| volume = 
+| issue = #234
 | date = March 2010
 | publisher = Marvel Comics
 | location = 

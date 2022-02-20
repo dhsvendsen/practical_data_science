@@ -1,6 +1,6 @@
 {{Superherobox|
-|image=
-|caption=Typeface in Civil War Frontline #4,<br/> art by Ramon Bachs 
+|image=Gordon Thomas (Earth-616) from Civil War Front Line Vol 1 3 0001.jpg
+|caption=
 |character_name=Typeface
 |real_name= Gordon Thomas
 |publisher=[[Marvel Comics]]

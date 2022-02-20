@@ -1,7 +1,7 @@
 {{short description|Fictional comic book character}}
 {{notability|date=June 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-|image= 
+|image=Spyne (Earth-616) from Uncanny X-Men Vol 4 1 002.png
 |caption=
 |character_name= Spyne
 |real_name=
@@ -37,6 +37,7 @@ Spyne is a member of the [[Brotherhood of Mutants|Brotherhood of Chaos]].{{issue
 {{Reflist}}
 
 [[Category:Fictional cannibals]]
+[[Category:Fictional reptilians]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]

@@ -15,14 +15,16 @@
 *Wields a pulse staff, and rides a beta-propelled stingray hang-glider
 *Channels beta particles via the neural web of his vibranium-mesh skin 
 |}}
-'''Cardiac''' ('''Elias Wirtham''') is a [[fictional character]], a vigilante anti-hero appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Cardiac''' ('''Elias Wirtham''') is a [[fictional character]], appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by writer David Michelinie and penciller Erik Larsen and first appeared in The Amazing Spider-Man #342 in December 1990. 
+
+Wirtham is portrayed as an anti-hero, once a  physician and surgeon, he was driven to become a vigilante after the death of his brother Joshua, which he sees as being caused by corporate greed. He has upgraded his physical body, replacing his heart with a beta-particle reactor which allows him to channel energy through a vibranium weave mesh under his skin. This has given him enhanced speed, agility, and reflexes as well as being able to channel the energy through his fists. His unyielding approach to justice has bought him into conflict with a number of heroes, most notably Spider-Man.  
 
 ==Publication history==
 Created by writer [[David Michelinie]] and penciller [[Erik Larsen]], he first appeared as Elias Wirtham in ''[[The Amazing Spider-Man]]'' #342 (December 1990)<ref name="ASM342">''The Amazing Spider-Man'' #342 (December 1990)</ref> and as Cardiac in ''[[The Amazing Spider-Man]]'' #344 (February 1991).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=78}}</ref>
 
 ==Fictional character biography==
 [[File:Amazing Spider-Man Vol 1 344.jpg|left|thumb|Cover of ''[[The Amazing Spider-Man]]'' #344 (February, 1991), Cardiac's first appearance. Art by [[Erik Larsen]] and [[Randy Emberlin]].]]
-Wirtham is a physician and surgeon, and the owner and administrator of a biological research firm. Elias Wirtham is driven by his brother's death to research life-saving medical practices. His brother Joshua's death was the result of corporate greed, who had a cure for his condition ready, but did not distribute the medicine due to it not being a "profitable" time for them, hence his motivation against corporations. As a part of his research, Elias replaces his heart with a beta-particle reactor, which supplies energy throughout his body, in addition to a [[vibranium]] weave mesh under his skin. This energy, channeled through his muscles, increases his speed, agility, and reflexes, and can also be fired through his fists or the power staff he wields. He adopts the moniker "Cardiac" in reference to the source of his power.<ref name="ASM376">''The Amazing Spider-Man'' #376 (April 1993)</ref>
+Wirtham is a physician and surgeon, and the owner and administrator of a biological research firm. Elias Wirtham is driven by his brother's death to research life-saving medical practices. His brother Joshua's death was the result of corporate greed. A corporation had a cure for his condition ready, but did not distribute the medicine due to it not being a "profitable" time for them, hence Cardiac's motivation against corporations. As a part of his research, Elias replaces his heart with a beta-particle reactor, which supplies energy throughout [[vibranium]] weave mesh under his skin. This energy, channeled through his muscles, increases his speed, agility, and reflexes, and can also be fired through his fists or the power staff he wields. He adopts the moniker "Cardiac" in reference to the source of his power.<ref name="ASM376">''The Amazing Spider-Man'' #376 (April 1993)</ref>
 
 ===Fighting resumes===
 Cardiac becomes a vigilante, believing himself an instrument of justice. He first encounters [[Spider-Man]] while raiding Sapridyne Chemicals, a company owned by [[Justin Hammer]] which possesses chemicals vital for the production of [[cocaine]]. Hammer hires the [[Rhino (comics)|Rhino]] to kill Cardiac for raiding his company, but Cardiac defeats him.<ref name="ASM344">''The Amazing Spider-Man'' #344 (February 1991)</ref> Cardiac next destroys the house and property of Albert Brukner, a corrupt [[Savings and loan association|Savings & Loan]] broker, and then attacks a subsidiary of [[Iron Monger|Stane International]] that manufactured dangerous electronic dolls for children.<ref>''The Amazing Spider-Man'' #359 (February 1992)</ref> He invades Stane International itself to destroy designs for a sonic missile that produce the effects of [[nerve gas]].<ref>''The Amazing Spider-Man'' #360 (March 1992)</ref>
@@ -61,14 +63,18 @@ Dr. Elias Wirtham's business administrative skills provide him a strong power ba
 {{Spider-Man}}
 
 [[Category:Characters created by David Michelinie]]
-[[Category:Comics characters introduced in 1990]]
 [[Category:Characters created by Erik Larsen]]
+[[Category:Comics characters introduced in 1990]]
 [[Category:Fictional African-American people]]
 [[Category:Fictional characters from New York City]]
+[[Category:Fictional cyborgs]]
 [[Category:Fictional physicians]]
+[[Category:Fictional surgeons]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]
-[[Category:Marvel Comics characters with accelerated healing]]
-[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Vigilante characters in comics]]

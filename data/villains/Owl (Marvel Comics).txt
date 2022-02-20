@@ -1,19 +1,20 @@
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=[[Image:Owlmaleev.jpg|250px]]
-|caption=The Owl<br>Art by [[Alex Maleev]].
-|character_name=The Owl
+|image=Owlmaleev.jpg
+|caption=Artwork for the cover of ''Daredevil'' vol. 2, 78 (December 2005)<br/>Art by [[Alex Maleev]]
+|character_name=Owl
 |real_name=Leland Owlsley
-|species=Human Mutate 
+|species=Human mutate 
 |publisher=[[Marvel Comics]]
 |debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #3 (August 1964)
-|creators=[[Stan Lee]] (writer)<br>[[Joe Orlando]] (artist)
-|alliances="Owl Gang"<br>Gang of Four<br>[[Sinister Six]]teen
+|creators=[[Stan Lee]] (writer)<br/>[[Joe Orlando]] (artist)
+|alliances="Owl Gang"<br/>Gang of Four<br/>[[Sinister Six]]teen
 |aliases=
-|powers=Extremely skilled criminal organizer and money launderer<br>Superhuman sight and hearing<br>Enhanced strength, resiliency/resistance, reflexes/reactions and endurance<br>Hollow bones<br>Natural razor-sharp fangs and talons (with attachment devices)<br>Ability to glide short distances
+|powers=Extremely skilled criminal organizer and money launderer<br/>Superhuman sight and hearing<br/>Enhanced strength, resiliency/resistance, reflexes/reactions and endurance<br/>Hollow bones<br/>Natural razor-sharp fangs and talons (with attachment devices)<br/>Ability to glide short distances
 }}
-The '''Owl''' ('''Leland Owlsley''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted usually as an enemy of the [[superhero]]es [[Daredevil (Marvel Comics character)|Daredevil]], [[Spider-Man]] and [[Black Cat (Marvel Comics)|Black Cat]]. Created by writer [[Stan Lee]] and artist [[Joe Orlando]], the character first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #3 (August 1964).
+The '''Owl''' ('''Leland Owlsley''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted usually as an enemy of the [[superhero]]es [[Daredevil (Marvel Comics character)|Daredevil]], [[Spider-Man]] and [[Black Cat (Marvel Comics)|Black Cat]]. Created by writer [[Stan Lee]] and artist [[Joe Orlando]], the character first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #3 (August 1964).
 
-The character has appeared in numerous media adaptations, including the [[Marvel Cinematic Universe]] [[Netflix]] television series ''[[Daredevil (TV series)|Daredevil]]'' in the first season, in which he was played by [[Bob Gunton]].
+The character has appeared in numerous media adaptations, including the television series ''[[Daredevil (TV series)|Daredevil]]'', set in the [[Marvel Cinematic Universe]] in which he was played by [[Bob Gunton]].
 
 ==Publication history==
 The character first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #3 (August 1964).<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=257}}</ref> He was a recurring foe of [[Daredevil (Marvel Comics character)|Daredevil]] during the 1960s and 1970s. Since then, he has made occasional appearances in various Marvel titles, against such superheroes as [[Spider-Man]],<ref>''[[Peter Parker, the Spectacular Spider-Man]]'' #73-76. Marvel Comics.</ref><ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=131}}</ref> and has faced Daredevil again.<ref>''[[Daredevil (Marvel Comics series)|Daredevil]]'' #301-303, and vol. 2 #78. Marvel Comics.</ref>
@@ -84,10 +85,9 @@ In the alternate universe of [[Marvel Zombies]], Owl and Hammerhead (who are lac
 The Owl appeared as a mini-boss in the ''[[Spider-Man Animated Series (video game)|Spider-Man: Animated Series]]'' video game.
 
 ==References==
-{{reflist|2}}
+{{reflist|35em}}
 
 ==External links==
-* [http://marvel.com/universe/Owl Owl] at Marvel.com
 * {{Marvunapp|http://www.marvunapp.com/Appendix5/owlleland.htm|Owl}}
 
 {{Daredevil}}

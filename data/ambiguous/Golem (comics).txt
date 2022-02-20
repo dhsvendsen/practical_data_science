@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 The '''Golem''' is the name of a number of fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. These include:
 
 ==Monster==
@@ -18,7 +19,7 @@ The '''Golem''' is the name of a number of fictional characters appearing in [[A
 ===Publication history===
 The Golem first appeared in ''Strange Tales'' #174 (June 1974), and was created by [[Len Wein]] and [[John Buscema]].
 
-The character subsequently appears in ''Strange Tales'' #176-177 (October, December 1974), ''Marvel Two-in-One'' #11 (September 1975), ''The Hood'' #3 (September 2002), #5-6 (November–December 2002), and ''Nick Fury's Howling Commandos'' #2 (February 2006).
+The character also appears in ''Strange Tales'' #176-177 (October, December 1974), ''Marvel Two-in-One'' #11 (September 1975), ''The Hood'' #3 (September 2002), #5-6 (November–December 2002), and ''Nick Fury's Howling Commandos'' #2 (February 2006).
 
 ===Fictional character biography===
 '''Golem''' is a humanoid creature that was made in the 16th century by [[Maharal of Prague|Judah Loew Ben Bezalel]].  It was made from purple stone or clay and protected the [[Jewish]] people from persecutors in [[Prague]].  In later years it was reanimated by Professor Abraham Adamson’s life force as Adamson died.{{issue|date=November 2011}}
@@ -26,7 +27,7 @@ The character subsequently appears in ''Strange Tales'' #176-177 (October, Decem
 Golem later became a member of [[S.H.I.E.L.D.]]’s [[Nick Fury's Howling Commandos|Howling Commandos]] Monster Force.{{issue|date=November 2011}}
 
 ===Powers and abilities===
-'''Golem''' is 8' tall and has superhuman strength which it drew from the land as long as it is in contact with the Earth.
+'''Golem''' is 8' tall and has superhuman strength which it draws from the land as long as it is in contact with the Earth.
 
 {{clear}}
 
@@ -123,6 +124,7 @@ The Golem was ranked #26 on a listing of Marvel Comics' monster characters in 20
 [[Category:Fictional Polish Jews]]
 [[Category:Fictional Polish people]]
 [[Category:Jewish-related comics]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics demons]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

@@ -6,7 +6,7 @@
 | converted        = y
 | caption          = [[Iron Man]] battles '''Dreadknight''' on the cover of ''[[Iron Man (comic book)|Iron Man]]'' #102 (Sept. 1977). Art by [[George Pérez]].
 | publisher        = [[Marvel Comics]]
-| debut            = ''[[Iron Man (comic book)|Iron Man]]'' #101 (August 1977)
+| debut            = ''[[Iron Man (comic book)|Iron Man]]'' #101 (Aug. 1977)
 | creators         = [[Bill Mantlo]]<br>[[George Tuska]]
 | alter_ego        = Bram Velsing
 | alliances        = [[Frightful Four]]
@@ -16,7 +16,7 @@
 | villain          = y
 | sortkey          = Dreadknight
 |}}
-'''Dreadknight''' ('''Bram Velsing''') is a fictional character, a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Dreadknight''' ('''Bram Velsing''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 
@@ -25,7 +25,7 @@ The character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #101 (Aug
 ==Fictional character biography==
 '''Bram Velsing''' is a [[Latveria]]n scientist, unsatisfied with serving [[Doctor Doom]] whom he referred to as a "grotesque mockery of a man" and thought himself as his superior. Upon learning of Velsing's treacherous ideals, Doom uses a bio-fusion device to graft a skull-like metal helmet to Velsing's head, scarring him as a way to make him even with Doom.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=113}}</ref> Velsing flees and comes under the care of Victoria Frankenstein, who nurses him back to health at Castle Frankenstein. The character gains a variety of weapons and rides the "Hellhorse", a mutated bat-winged flying black horse genetically engineered from [[Black Knight (Nathan Garrett)|Nathan Garrett]]'s flying white horse by Victoria Frankenstein. Calling himself the Dreadknight, the character attempts to force more resources from Frankenstein to defeat Doctor Doom, only to be defeated by [[Iron Man]] and [[Frankenstein's Monster (Marvel Comics)|Frankenstein's Monster]].<ref>''Iron Man'' #101-102</ref>
 
-Dreadknight is revived by the mystical villains [[Morgan le Fay (Marvel Comics)|Morgan Le Fay]] and [[Mordred (comics)|Mordred]] and menaced [[Captain Britain]], [[Victoria Bentley]], and [[Bloodwraith|Sean Dolan]], but is defeated by [[Black Knight (Dane Whitman)|Dane Whitman]].<ref>''Black Knight'' (vol. 2) #2</ref>
+Dreadknight is revived by the mystical villains [[Morgan le Fay (Marvel Comics)|Morgan Le Fay]] and [[Mordred (comics)|Mordred]] and menaced [[Captain Britain]], [[Victoria Bentley]], and [[Bloodwraith|Sean Dolan]], but is defeated by [[Black Knight (Dane Whitman)|Dane Whitman]].<ref>''Black Knight'' vol. 2 #2</ref>
 
 Dreadknight appeared as a member of [[Wizard (Marvel Comics)|Wizard]]'s latest incarnation of the [[Frightful Four]] alongside [[Trapster]] and [[Man-Bull]]. In their attempt to capture a physicist named Dr. Cargill, the Frightful Four were defeated by [[Spider-Man]] and Dr. Cargill's daughter Turbine.<ref>''Amazing Spider-Man: Chaos in Calgary'' #3</ref>
 
@@ -74,4 +74,5 @@ The [[Ultimate Marvel]] version of Bram Velsing appears in a suit of armor based
 [[Category:Fictional engineers]]
 [[Category:Fictional scientists]]
 [[Category:Latverians]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics supervillains]]

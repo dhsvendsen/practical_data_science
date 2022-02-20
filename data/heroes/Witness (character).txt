@@ -1,3 +1,4 @@
+{{Lead too short|date=October 2021}}
 The '''Witness''' is the name of at least three [[fictional character|fictional]] characters appearing in [[American comic book]]s published by [[Marvel Comics]]. Of these, the first was published by [[Timely Comics]] in the 1940s and the final two by its successor company, Marvel Comics.
 
 ==Timely Comics==
@@ -7,7 +8,7 @@ image=[[Image:twelve005.jpg|250px]]
 |character_name=The Witness
 |real_name=
 |species=
-|publisher=[[Timely Comics]]
+|publisher=[[Marvel Comics]]
 |debut=''[[Mystic Comics]]'' #7 (Dec. 1941)
 |creators=[[Stan Lee]] (writer)
 |alliances=[[The Twelve (comics)|The Twelve]]
@@ -92,5 +93,6 @@ A character called the '''Witness''' (whose real name is '''LeBeau''') has appea
 [[Category:Fictional characters from Chicago]]
 [[Category:Fictional ghosts]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics male superheroes]]
 [[Category:New Universe characters]]
 [[Category:Timely Comics characters]]

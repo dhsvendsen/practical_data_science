@@ -1,4 +1,5 @@
 {{For|the Indian cellphone company|Micromax Informatics}}
+{{Short description|Marvel Comics fictional character}}
 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
   image =[[Image:Micromax.jpg|250px]]
@@ -7,7 +8,7 @@
 | real_name =Scott Wright
 | species=[[Mutant (Marvel Comics)|Human Mutant]]
 | publisher =[[Marvel Comics]]
-| debut = ''[[Excalibur (comic book)|Excalibur]]'' #44 (December 1991)
+| debut = ''[[Excalibur (comic book)|Excalibur]]'' #44 (Dec. 1991)
 | creators = [[Alan Davis]]
 | alliances =[[MI-13 (comics)|MI-13]]<br/>[[Vanguard (Marvel Comics)#Vanguard|Vanguard]]<br/>[[Excalibur (comics)|Excalibur]]<br/>[[R.C.X.]]<br/>[[MI16]]
 | aliases =Mr. Right
@@ -17,7 +18,7 @@
 
 ==Publication history==
 {{expand-section|date=December 2020}}
-Micromax was created by [[Alan Davis]] and first appeared in ''[[Excalibur (comic book)|Excalibur]]'' vol. 1 #44 (Dec 1991).
+Micromax was created by [[Alan Davis]] and first appeared in ''[[Excalibur (comic book)|Excalibur]]'' #44 (Dec. 1991).
 
 ==Fictional character biography==
 Prior to the discovery of his mutant abilities, Scott Wright was a [[disk jockey]]. With the discovery of his powers he became a special British government operative for M.I.6, a secret British national security unit, under the name '''Micromax'''.
@@ -26,9 +27,9 @@ He is first seen mistaking [[Rachel Summers]] for a burglar, and mistakenly tryi
 
 Micromax participates in battling the threat from the politician Orpington Smythe. Smythe is using manipulation, torture and murder in an attempt to control all the governmental agencies that deal with super-powered happenings. Micromax is captured for Nigel Orpington-Smythe by the [[R.C.X.]]<ref>''Excalibur'' #61</ref> He is subjected to medical tests at the Cloud Nine facility.<ref>''Excalibur'' #62</ref> Excalibur and a mutiny from within Smythe's own ranks eventually end Smythe's threat.{{issue|date=March 2013}}
 
-After a few missions with Excalibur, he resigns from the F.I.6 to join the [[Roxxon Energy Corporation|Brand Corporation]] in [[New Jersey]].<ref>''Excalibur'' #71 (1993)</ref> He uses his super-hero identity from time to time, and even helps the [[Avengers (comics)|Avengers]] face the invasion of [[Kang the Conqueror]].<ref>''Avengers'' vol. 3 #43 "Global Presence" (Aug 2001)</ref>
+After a few missions with Excalibur, he resigns from the F.I.6 to join the [[Roxxon Energy Corporation|Brand Corporation]] in [[New Jersey]].<ref>''Excalibur'' #71 (1993)</ref> He uses his super-hero identity from time to time, and even helps the [[Avengers (comics)|Avengers]] face the invasion of [[Kang the Conqueror]].<ref>''The Avengers'' vol. 3 #43 "Global Presence" (Aug. 2001)</ref>
 
-He becomes involved in a battle with [[X-Force]] and the surviving original [[X-Men]] over the fate of the '198', a group of mutants being forcibly detained on the grounds of the [[X-Mansion]]. At the request of the British government Micromax joins [[O*N*E*]],<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Ronald Byrd]] and [[Anthony Flamini]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story = Civil War | Title = Civil War: Battle Damage Report | Issue = #1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref> a policing force against unruly mutants. This team is fronted by [[Bishop (comics)|Bishop]] with the support of [[Sabra (comics)|Sabra]].<ref name="civilwarx-men1">{{Comic book reference | Writer = [[David Hine]] | Penciller =  [[Yanick Paquette]] | Inker = [[Serge LaPointe]] | Story = Civil War | Title = Civil War: X-Men | Issue = #1 | Date = September 2006 | Publisher = [[Marvel Comics]] | }}</ref> During the fight he is stabbed in the chest by [[Shatterstar]], and the 198 escape. He receives medical attention and survives the attack.<ref>''Civil War: X-Men'' #4 (2006)</ref>
+He becomes involved in a battle with [[X-Force]] and the surviving original [[X-Men]] over the fate of the '198', a group of mutants being forcibly detained on the grounds of the [[X-Mansion]]. At the request of the British government Micromax joins [[O*N*E*]],<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Ronald Byrd]] and [[Anthony Flamini]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story = Civil War | Title = Civil War: Battle Damage Report | Issue = #1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref> a policing force against unruly mutants. This team is fronted by [[Bishop (comics)|Bishop]] with the support of [[Sabra (comics)|Sabra]].<ref name="civilwarx-men1">{{Comic book reference | Writer = [[David Hine]] | Penciller =  [[Yanick Paquette]] | Inker = [[Serge LaPointe]] | Story = Civil War | Title = Civil War: X-Men | Issue = #1 | Date = Sept. 2006 | Publisher = [[Marvel Comics]] | }}</ref> During the fight he is stabbed in the chest by [[Shatterstar]], and the 198 escape. He receives medical attention and survives the attack.<ref>''Civil War: X-Men'' #4 (2006)</ref>
 
 Micromax has also been shown to be working with a group of vigilantes, called the [[Vanguard (Marvel Comics)#Vanguard|Vanguard]].<ref name=autogenerated1>''Marvel Comics Presents'' vol. 2 #5</ref>
 

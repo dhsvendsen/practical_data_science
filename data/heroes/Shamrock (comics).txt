@@ -1,6 +1,6 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-| image              =
-| caption            = Shamrock of ''Contest of Champions''
+| image              = Molly Fitzgerald.png
+| caption            = 
 | character_name     = Shamrock
 | real_name          = Molly Fitzgerald
 | species            = [[Mutant (Marvel Comics)|Human Mystic Mutant]]

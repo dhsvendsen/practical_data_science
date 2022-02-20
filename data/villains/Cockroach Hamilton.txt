@@ -3,7 +3,7 @@
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Cockroach Hamilton
-| image          = <!-- filename format only -->
+| image          = Dontrell Hamilton (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 5 0001.jpg
 | imagesize      = <!-- default 250 -->
 | caption        = 
 | publisher      = [[Marvel Comics]]
@@ -22,7 +22,7 @@
 | sortkey        = 
 | addcharcat#    = 
 }}
-'''Dontrell "Cockroach" Hamilton''' is the name of a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Dontrell''' "'''Cockroach'''" '''Hamilton''' is the name of a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 The character was portrayed by [[Dorian Crossmon Missick]] in the television series ''[[Luke Cage (TV series)|Luke Cage]]'' in the second season set in the [[Marvel Cinematic Universe]]. The actor is also the husband of [[Simone Missick]] who plays [[Misty Knight]] in the same series.
 
@@ -69,3 +69,5 @@ Cockroach appears in season 2 of ''[[Luke Cage (TV series)|Luke Cage]]'', portra
 {{DEFAULTSORT:Hamilton, Dontrell}}
 
 [[Category:Marvel Comics supervillains]]
+[[Category:Characters created by George Tuska]]
+[[Category:Marvel Comics male supervillains]]

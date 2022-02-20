@@ -4,9 +4,9 @@
 {{notability|date=June 2018}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name=The Buzz
-|image=
+|image=The Buzz (Marvel).jpg
 |converted=y
-|caption=Cover to ''The Buzz'' #1<br>Art by [[Jordan Hawkes]].
+|caption=
 |real_name=Jack Benjamin Jameson
 |publisher=[[Marvel Comics]]
 |debut=''Spider-Girl Annual'' #1999 (Sept. 1999)

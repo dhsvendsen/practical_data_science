@@ -1,4 +1,4 @@
-Three characters have taken the moniker of the [[fictional character|fictional]] supervillain '''Chemistro''' appearing in [[American comic book]]s published by [[Marvel Comics]].
+Three characters have taken the moniker of the <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] '''Chemistro''' appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 The Curtis Carr version of Chemistro first appeared in ''[[Luke Cage|Luke Cage, Hero for Hire]]'' #12 and was created by [[Steve Englehart]] and [[George Tuska]].
@@ -16,7 +16,7 @@ The Calvin Carr version of Chemistro first appeared in ''[[Power Man and Iron Fi
 |real_name=Curtis Carr
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Luke Cage|Luke Cage, Hero For Hire]]'' #12 (Aug 1973)
+|debut=''[[Luke Cage|Luke Cage, Hero For Hire]]'' #12 (Aug. 1973)
 |creators=[[Steve Englehart]] (writer)<br>[[George Tuska]] (artist)
 |alliances=[[Stark Industries]]
 |aliases=High-Tech
@@ -38,7 +38,7 @@ image=
 |real_name=Archibald Morton
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Luke Cage|Power Man]]'' #37 (Nov 1976)
+|debut=''[[Luke Cage|Power Man]]'' #37 (Nov. 1976)
 |creators=[[Marv Wolfman]] (writer)<br>[[Ron Wilson (comics)|Ron Wilson]] (artist)
 |alliances=
 |aliases=
@@ -64,7 +64,7 @@ Curtis' younger brother Calvin Carr stole the alchemy gun and took the Chemistro
 
 Calvin's alchemy gun was turned into wrist blasters by the [[Wizard (Marvel Comics)|Wizard]] who sent him and the [[Wrecker (comics)|Wrecker]] to attack [[Iron Man]] and [[War Machine|Jim Rhodes]] during the "[[Acts of Vengeance]]". Curtis helped the heroes, and Calvin destroyed Curtis' other foot, but gave up when he was defeated by Iron Man.<ref name="Iron Man #251-252"/>
 
-Calvin has been hired by the [[Hood (comics)|Hood]] to take advantage of the split in the superhero community caused by the Superhuman Registration Act.<ref>New Avengers #35</ref>
+Calvin has been hired by the [[Hood (comics)|Hood]] to take advantage of the split in the superhero community caused by the Superhuman Registration Act.<ref>''The New Avengers'' #35</ref>
 
 Chemistro informs The Hood of a plot by [[Owl (Marvel Comics)|Owl]] to sell [[Deathlok]], which he stole from S.H.I.E.L.D., to the highest bidder. As Owl hasn't gained permission from his new crime syndicate, The Hood decides to gatecrash the auction. Sending [[Madame Masque]], the [[Crimson Cowl (Justine Hammer)|Crimson Cowl]], the [[Wizard (Marvel Comics)|Wizard]], and [[Jonas Harrow|Dr. Jonas Harrow]] as proxies he effortlessly ambushes and dispatches the [[Owl (comics)|Owl]].
 
@@ -74,7 +74,7 @@ Chemistro suggests that they change their plan and instead use Deathlok to rob a
 
 In ''[[Secret Invasion]]'', he is one among many supervillains who rejoined the Hood's crime syndicate and attacked an invading [[Skrull]] force.<ref>''Secret Invasion'' #6</ref>
 
-He joins with the Hood's gang in an attack on the New Avengers, who were expecting the [[Dark Avengers]] instead.<ref>''New Avengers'' #50</ref> He later orchestrates a power-draining trap that was meant for the Dark Avengers only to end up having the New Avengers in his trap.<ref>New Avengers #55</ref> Chemistro was seen during the [[Siege (comics)|Siege]] of [[Asgard (comics)|Asgard]] as part of the Hood crime syndicate.<ref>''New Avengers'' #63</ref> Later Calvin is shown to be arrested, along with other members of the Hood's gang, by the U.S. Army.<ref>''Dark Avengers'' #16</ref>
+He joins with the Hood's gang in an attack on the New Avengers, who were expecting the [[Dark Avengers]] instead.<ref>''The New Avengers'' #50</ref> He later orchestrates a power-draining trap that was meant for the Dark Avengers only to end up having the New Avengers in his trap.<ref>''The New Avengers'' #55</ref> Chemistro was seen during the [[Siege (comics)|Siege]] of [[Asgard (comics)|Asgard]] as part of the Hood crime syndicate.<ref>''The New Avengers'' #63</ref> Later Calvin is shown to be arrested, along with other members of the Hood's gang, by the U.S. Army.<ref>''Dark Avengers'' #16</ref>
 
 During the ''[[Shadowland (comics)|Shadowland]]'' storyline, Chemistro was seen as member of Flashmob (a group of former opponents of Luke Cage consisting of [[Cheshire Cat (comics)|Cheshire Cat]], [[Comanche (comics)|Comanche]], [[Dontrell Hamilton|Dontrell "Cockroach" Hamilton]], [[Mr. Fish]] II, and [[Spear (comics)|Spear]]) when they confront the new [[Power Man (Victor Alvarez)|Power Man]] on the rooftop. Although Chemistro used his alchemy gun to free Iron Fist and Luke Cage, he was knocked out by Power Man. Chemistro ended up incarcerated at Ryker's Island. Although [[Nightshade (Marvel Comics)|Deadly Nightshade]]'s solicitor [[Big Ben Donovan]] mentioned that he has arranged for Chemistro to be released from Riker's Island.<ref>''Shadowland: Power Man'' #2</ref>
 
@@ -117,4 +117,5 @@ The Curtis Carr version of Chemistro appears in ''[[The Avengers: Earth's Mighti
 [[Category:Fictional amputees]]
 [[Category:Fictional characters from Kansas]]
 [[Category:Fictional characters from Wyoming]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics supervillains]]

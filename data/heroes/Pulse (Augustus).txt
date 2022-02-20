@@ -1,6 +1,6 @@
 {{Notability|date=October 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
- image=<!-- Unsourced image removed: [[Image:Pulseaugustus.jpg|225px]] -->
+ image=Pulse (Augustus).png
 |caption= 
 |character_name=Pulse
 |real_name=Augustus

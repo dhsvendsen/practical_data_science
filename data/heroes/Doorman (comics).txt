@@ -3,9 +3,9 @@
 | image = Doorman_HCV.jpg
 | imagesize = 200
 | converted = y
-| caption = Art for ''West Coast Avengers'' #49 (vol. 2).
+| caption = Art for ''West Coast Avengers'' vol. 2 #49.
 | publisher = [[Marvel Comics]]
-| debut = ''[[West Coast Avengers]]'' (Vol. 2) #46 (July 1989)
+| debut = ''[[West Coast Avengers]]'' vol. 2 #46 (July 1989)
 | issues= 
 | creators= [[John Byrne (comics)|John Byrne]]
 | alter_ego = DeMarr Davis
@@ -28,9 +28,9 @@ Created by [[John Byrne (comics)|John Byrne]], Doorman first appeared in the pag
 ==Fictional character biography==
 Little is known of Doorman's life before he responded to [[Mr. Immortal]]'s advertisement for the hero team that would eventually become the [[Great Lakes Avengers]]. It has been revealed, however, that he is a [[Mutant (Marvel Comics)|mutant]] and is [[African-American]].<ref name="GLA: Misassembled #4">''GLA: Misassembled'' #4</ref>
 
-Before joining the Great Lakes Avengers, DeMarr Davis was an average American. Sometime during his years in college, DeMarr's mother died. After completing four years of college and three years of graduate school, DeMarr decided to answer Mr. Immortal's newspaper ad asking "costumed adventurers" to join together and form a team. DeMarr, being a mutant with a unique teleporting ability, is able to allow his teammates entrance into almost any structure. He was a founding member of the Great Lakes Avengers.<ref>Seen in flashback in ''GLA: Misassembled'' #1–4 (2005)</ref>
+Before joining the Great Lakes Avengers, DeMarr Davis was an average American. Sometime during his years in college, DeMarr's mother died. After completing four years of college and three years of graduate school, DeMarr decided to answer Mr. Immortal's newspaper ad asking "costumed adventurers" to work together and form a team. DeMarr, being a mutant with a unique teleporting ability, is able to allow his teammates entrance into almost any structure. He was a founding member of the Great Lakes Avengers.<ref>Seen in flashback in ''GLA: Misassembled'' #1–4 (2005)</ref>
 
-He was first seen in public with the team by [[Hawkeye (Clint Barton)|Hawkeye]] and [[Mockingbird (Marvel Comics)|Mockingbird]], who later agreed to become their mentors.<ref>''West Coast Avengers'' #46</ref> With the team, he helped Hawkeye and the [[West Coast Avengers]] against "That Which Endures".<ref>''West Coast Avengers'' #48-49</ref> They also assisted Mockingbird in a holding action against [[Terminus (comics)|Terminus]].<ref>''Avengers Annual'' #19</ref> After aiding the [[Thunderbolts (comics)|Thunderbolts]] against the villain [[Graviton (comics)|Graviton]],<ref>''Thunderbolts'' #15–17 (June–August 1998) and #25 (Apr. 1999)</ref> the team clashed with the mercenary [[Deadpool]].<ref>''Deadpool'' #10–11 (November–December 1997) and #61 (2002)</ref>
+He was first seen in public with the team by [[Hawkeye (Clint Barton)|Hawkeye]] and [[Mockingbird (Marvel Comics)|Mockingbird]], who later agreed to become their mentors.<ref>''West Coast Avengers'' vol. 2 #46</ref> With the team, he helped Hawkeye and the [[West Coast Avengers]] against "That Which Endures".<ref>''West Coast Avengers'' vol. 2 #48-49</ref> They also assisted Mockingbird in a holding action against [[Terminus (comics)|Terminus]].<ref>''The Avengers'' Annual #19</ref> After aiding the [[Thunderbolts (comics)|Thunderbolts]] against the villain [[Graviton (comics)|Graviton]],<ref>''Thunderbolts'' #15–17 (June–Aug. 1998) and #25 (Apr. 1999)</ref> the team clashed with the mercenary [[Deadpool]].<ref>''Deadpool'' #10–11 (Nov.–Dec. 1997) and #61 (2002)</ref>
 
 Doorman is, however, the most cynical of the Great Lakes Avengers, constantly comparing the team to the real [[Avengers (comics)|Avengers]], usually at inappropriate times, and sometimes feeling embarrassed by his friends. Nonetheless, DeMarr cares for them deeply, and values each and every member of the team.
 
@@ -49,7 +49,7 @@ The team participated in a charity superhero poker tournament hosted by the [[Th
 {{see also|Civil War (comics)}}
 All of the Great Lakes Champions have registered with the United States government as required by the [[Registration Acts (comics)#2006 Superhuman Registration Act|Superhuman Registration Act]], as revealed when Deadpool mistakenly attempted to apprehend them for violating the Act, only to be defeated and informed that they had already registered.<ref>''Cable & Deadpool'' #30</ref>
 
-DeMarr has been identified as one of the 142 registered superheroes who appear on the cover of the comic book ''[[Avengers: The Initiative]]'' #1.<ref>[https://archive.is/20120526061017/http://www.marvel.com/news/comicstories.947 Avengers: The Initiative #1 Character Map]</ref>
+DeMarr has been identified as one of the 142 registered superheroes who appear on the cover of the comic book ''[[Avengers: The Initiative]]'' #1.<ref>[https://archive.today/20120526061017/http://www.marvel.com/news/comicstories.947 Avengers: The Initiative #1 Character Map]</ref>
 
 Doorman and his teammates became the Initiative group in charge of [[Wisconsin]], calling themselves the Great Lakes Initiative. They were given a rescue mission to save [[Dionysus (Marvel Comics)|Dionysus]] after he fell from [[Mount Olympus]] and was captured by [[Advanced Idea Mechanics|A.I.M.]], who planned to use his powers to cause mental instability on all the superheroes they consider a threat. During the task, Deadpool ambushes Mr. Immortal and Flatman. Flatman recruited him as a reserve member of the team but the mercenary eventually overstayed his welcome. After many failed attempts, Deadpool is kicked out of the group by Squirrel Girl.<ref>''Deadpool/GLI Summer Fun Spectacular'' #1</ref>
 
@@ -78,7 +78,7 @@ After dying and being resurrected by Oblivion to become its new "angel of death"
 {{Great Lakes Avengers}}
 
 [[Category:Avengers (comics) characters]]
-[[Category:Characters created by John Byrne]]
+[[Category:Characters created by John Byrne (comics)]]
 [[Category:Comics characters introduced in 1989]]
 [[Category:Fictional African-American people]]
 [[Category:Fictional personifications of death]]

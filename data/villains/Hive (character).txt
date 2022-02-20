@@ -3,6 +3,7 @@
 <!--Wikipedia:WikiProject Comics-->
 
 | debut           = ''[[Secret Warriors (comic book)|Secret Warriors]]'' #2 (May 2009)
+| image          = Hive (character).jpg
 | creators       = [[Brian Michael Bendis]]<br />[[Alex Maleev]]
 | alter_ego      = 
 | full_name      = The Hive Mind
@@ -62,7 +63,7 @@ An Inhuman version of Hive, also known as '''Alveus''', appears as the main anta
 [[Category:Characters created by Alex Maleev]]
 [[Category:Characters created by Brian Michael Bendis]]
 [[Category:Comics characters introduced in 2009]]
-[[Category:Hydra agents]]
+[[Category:Hydra (comics) agents]]
 [[Category:Fictional mass murderers]]
 [[Category:Fictional hypnotists and indoctrinators]]
 [[Category:Fictional parasites and parasitoids]]

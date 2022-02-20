@@ -1,19 +1,23 @@
+{{Short description|Marvel Comics fictional character}}
 {{About||the speed trap sharing system|Trapster (software)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| image =
-| caption =The Trapster.<br>Art by [[Michael Turner (comics)|Michael Turner]].
+| image =Peter Petruski (Earth-616) from Official Handbook of the Marvel Universe Vol 2 13 0001.png
+| caption =
 | character_name = Trapster
 | real_name = Peter Petruski
 | publisher = [[Marvel Comics]]
-| debut = '''As Paste-Pot Pete''':<br>''[[Strange Tales]]'' #104 (January 1963)<br>'''As Trapster''':<br>''[[Fantastic Four (comic book)|Fantastic Four]]'' #38
-| creators = [[Stan Lee]]<br>[[Jack Kirby]]
+| debut = '''As Paste-Pot Pete''':<br>''[[Strange Tales]]'' #104 (January 1963)<br>'''As Trapster''':<br>''[[Fantastic Four (comic book)|Fantastic Four]]'' #38 (May 1965)
+| creators = {{Plainlist|
+* [[Stan Lee]]
+* [[Jack Kirby]]
+}}
 | alliances =[[Frightful Four]]<br>Intelligencia<br>[[Maggia (comics)|Maggia]]<br>[[Sinister Six]]<br>Frightful Five<br>[[Lethal Legion]]
 | partners=[[Zodiac (comics)|Zodiac]]
 | aliases = Paste-Pot Pete, Willie 
 | powers =Expert chemist<br>Skilled marksman<br>Talented disguise artist<br>Genius level intellect<br>Suit grants:<br>Adhesive or lubricant projection<br>Wall crawling<br>Various trap-based weapons
 |}}
 
-'''Trapster''' ('''Peter Petruski''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Trapster''' ('''Peter Petruski''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 {{Expand section|date=December 2012}}
@@ -80,15 +84,13 @@ Peter appears as a [[bird]] called '''Paste Pot Peep''' in ''[[Spider-Ham|Peter 
 
 ==In other media==
 ===Television===
-* The Peter Petruski incarnation of Trapster appeared in ''[[The New Fantastic Four]]'' animated series episode "The Frightful Four", voiced by Gene Moss.{{citation needed|date=March 2016}} This version uses complex traps instead of super adhesives and is a member of the [[Wizard (Marvel Comics)|Wizard]]'s [[Frightful Four]].
-* The Peter Petruski incarnation of Trapster appeared in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' animated series episode "And the Wind Cries Medusa", voiced by [[Beau Weaver]].{{citation needed|date=March 2016}} This version is a member of the Wizard's Frightful Four.
-* The Peter Petruski incarnation of Trapster appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' animated series episode "Frightful", voiced by [[Sam Vincent (voice actor)|Sam Vincent]].{{citation needed|date=March 2016}} This version is a member of the Wizard's Frightful Four.
-* Peter Petruski / Paste Pot Pete appears in ''[[The Super Hero Squad Show]]'' animated series, voiced by [[Dave Boat]].{{citation needed|date=March 2016}} This version is a member of [[Doctor Doom]]'s [[Lethal Legion]] and briefly joins [[Pyro (Marvel Comics)|Pyro]] and [[Zzzax]] to form Team Toxic.
-* The Peter Petruski incarnation of Trapster appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series, voiced by [[Steven Weber (actor)|Steven Weber]].{{citation needed|date=March 2016}} This version is a member of the Frightful Four.
-* The Peter Petruski incarnation of Trapster makes a non-speaking cameo appearance in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series' pilot episode, "The Avengers Protocol" Pt. 1.{{cn|date=November 2016}}
-
-===Books===
-One of Paste Pot Pete's battles with Captain America is partially reprinted in ''The Penguin Book of Comics''.<ref>{{Cite book|title= The Penguin Book of Comics|last= Perry|first= George|year= 1971|publisher= Penguin Group|ISBN= 0-14-002802-1 |page=178}}</ref>
+* The Peter Petruski incarnation of Trapster appears in ''[[The New Fantastic Four]]'' episode "The Frightful Four", voiced by Gene Moss.{{citation needed|date=March 2016}} This version uses complex traps instead of super adhesives and is a member of the [[Wizard (Marvel Comics)|Wizard]]'s [[Frightful Four]].
+* The Peter Petruski incarnation of Trapster appears in the ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "And the Wind Cries Medusa", voiced by [[Beau Weaver]].{{citation needed|date=March 2016}} This version is a member of the Wizard's Frightful Four.
+* The Peter Petruski incarnation of Trapster appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "Frightful", voiced by [[Sam Vincent (voice actor)|Sam Vincent]].{{citation needed|date=March 2016}} This version is a member of the Wizard's Frightful Four.
+* Peter Petruski / Paste-Pot Pete appears in ''[[The Super Hero Squad Show]]'', voiced by [[Dave Boat]].{{citation needed|date=March 2016}} This version is a member of [[Doctor Doom]]'s [[Lethal Legion]] and briefly joins [[Pyro (Marvel Comics)|Pyro]] and [[Zzzax]] to form Team Toxic.
+* Paste-Pot Pete is mentioned in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "This Hostage Earth". When [[Hawkeye (Clint Barton)|Hawkeye]] tries to remember [[Chemistro]]'s name, he mentions Paste-Pot Pete, along with [[Hypno-Hustler]], as one of his likely names.
+* The Peter Petruski incarnation of Trapster appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'', voiced by [[Steven Weber (actor)|Steven Weber]].{{citation needed|date=March 2016}} This version is a member of the Frightful Four.
+* The Peter Petruski incarnation of Trapster makes a non-speaking cameo appearance in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "The Avengers Protocol: Part 1".{{cn|date=November 2016}}
 
 ==References==
 {{reflist|2}}

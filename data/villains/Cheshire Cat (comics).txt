@@ -1,7 +1,7 @@
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Cheshire Cat
-| image          = <!-- filename format only -->
+| image          = Cheshire (Earth-616).jpg
 | imagesize      = <!-- default 250 -->
 | caption        = 
 | publisher      = [[Marvel Comics]]
@@ -57,3 +57,6 @@ Cheshire Cat has the ability to become invisible and intangible. He can also tel
 [[Category:Fictional gangsters]]
 [[Category:Fictional characters who can turn invisible]]
 [[Category:Fictional characters who can teleport]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Characters created by Ron Wilson]]
+[[Category:Marvel Comics characters who can teleport]]

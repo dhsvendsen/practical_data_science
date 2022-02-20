@@ -3,7 +3,7 @@
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Spear
-| image          = <!-- filename format only -->
+| image          = Jasper Daniels (Earth-616).jpg
 | imagesize      = <!-- default 250 -->
 | caption        = 
 | publisher      = [[Marvel Comics]]

@@ -14,7 +14,7 @@ image=
 |real_name=Mordecai Midas
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Iron Man (comic book)|Iron Man]]'' #17 (Sep 1969)
+|debut=''[[Iron Man (comic book)|Iron Man]]'' #17 (Sept. 1969)
 |creators=[[Archie Goodwin (comics)|Archie Goodwin]]<br>[[George Tuska]]
 |alliances=
 |previous_alliances=
@@ -27,9 +27,9 @@ Midas rescued [[Madame Masque|Whitney Frost]] from a sinking ship, gave her a go
 
 Much later, Midas took control of Stark International. He battled Iron Man, Madame Masque, the [[Guardsman (comics)|Guardsman]], the [[Jack of Hearts (Marvel Comics)|Jack of Hearts]], [[Freak (Marvel Comics)|Eddie March]], the [[Wraith (Brian DeWolff)|Wraith]], [[Jasper Sitwell]], and [[Jean DeWolff]]. Midas learned Iron Man's secret identity, but was reduced to a mindless husk by the mental powers of Marianne Rodgers. He became a patient in a psychiatric hospital on full life support.<ref>''Iron Man'' #103-107. Marvel Comics.</ref>
 
-Years later, Iron Man returned to Greece to investigate the death of a private investigator who had been hired to find out who had been stealing gold shipments bound for Stark Enterprises. Iron Man came across an undersea base containing Midas' Centurions. Midas joined the battle, having been turned into a living being of gold as an after-effect of his powers being turned inward by Marianne Rodgers' psi-powers. Midas tried to escape on a vehicle piloted by one of his Centurions after Iron Man defeated him. His weight and the supply of gold he had proved too much, causing him to be accidentally thrown overboard. Iron Man searched the ocean bottoms for him, but could not find him. As Midas tried to grab Iron Man, his electrode shorted out, causing Midas to sink into the mire.<ref>''Marvel Super-Heroes'' (vol. 3) #13. Marvel Comics.</ref>
+Years later, Iron Man returned to Greece to investigate the death of a private investigator who had been hired to find out who had been stealing gold shipments bound for Stark Enterprises. Iron Man came across an undersea base containing Midas' Centurions. Midas joined the battle, having been turned into a living being of gold as an after-effect of his powers being turned inward by Marianne Rodgers' psi-powers. Midas tried to escape on a vehicle piloted by one of his Centurions after Iron Man defeated him. His weight and the supply of gold he had proved too much, causing him to be accidentally thrown overboard. Iron Man searched the ocean bottoms for him, but could not find him. As Midas tried to grab Iron Man, his electrode shorted out, causing Midas to sink into the mire.<ref>''Marvel Super-Heroes'' vol. 3 #13. Marvel Comics.</ref>
 
-As Tony Stark announced the formation of Stark Solutions, Midas was among Iron Man's archenemies who vowed revenge.<ref>''Iron Man'' (vol. 3) #1. Marvel Comics.</ref>
+As Tony Stark announced the formation of Stark Solutions, Midas was among Iron Man's archenemies who vowed revenge.<ref>''Iron Man'' vol. 3 #1. Marvel Comics.</ref>
 
 ===Malcolm J. Meriwell===
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
@@ -39,7 +39,7 @@ image=
 |real_name=Malcolm J. Meriwell
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Marvel Team-Up]]'' #30 (February 1975)
+|debut=''[[Marvel Team-Up]]'' #30 (Feb. 1975)
 |creators=[[Gerry Conway]]<br>[[Jim Mooney]]
 |alliances=
 |previous_alliances=
@@ -62,9 +62,9 @@ Midas II carried a special drug spray that he used to get his victims addicted t
 
 {{Iron Man}}
 
-[[Category:Characters created by Archie Goodwin]]
-[[Category:Characters created by Gerry Conway]]
+[[Category:Characters created by Archie Goodwin (comics)]]
 [[Category:Characters created by George Tuska]]
+[[Category:Characters created by Gerry Conway]]
 [[Category:Comics characters introduced in 1969]]
 [[Category:Comics characters introduced in 1975]]
 [[Category:Fictional businesspeople]]

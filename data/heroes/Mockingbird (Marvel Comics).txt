@@ -1,52 +1,46 @@
-{{short description|Fictional character appearing in American comic books published by Marvel Comics}}
+{{Short description|Marvel Comics fictional character}}
 {{redirects|Bobbi Morse|American football player|Bobby Morse}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| character_name = Bobbi Morse<br>{{small|Mockingbird}}
-| image = Cover of Mockingbird-1.jpg
-| converted = y
-| imagesize = <!-- default 250 -->
-| caption = Mockingbird on the cover of ''Mockingbird'' #1 by [[Joëlle Jones]] (March 2016), her first self-titled issue.
-| publisher = [[Marvel Comics]]
-| debut ={{ubl|As Dr. Barbara Morse: ''[[Astonishing Tales]]'' #6 (June 1971)|Full appearance: ''Astonishing Tales'' #12 (June 1972)|As Huntress: ''Marvel Super Action'' #1 (January 1976)|As Mockingbird: ''[[Marvel Team-Up]]'' #95 (July 1980)}}
-| creators = {{plainlist|
-* [[Len Wein]] (writer)
-* [[Neal Adams]] (artist)
-}}
-| alter_ego =
-| full_name = Barbara "Bobbi" Morse Barton
-| species = <!-- optional -->
-| homeworld = <!-- optional -->
-| alliances = [[S.H.I.E.L.D.]]<br />[[Avengers (comics)|Avengers]]<br />[[West Coast Avengers]]<br />[[Great Lakes Avengers]]<br />[[Night Shift (comics)|Night Shift]]<ref>''Marvel Comics Presents'' vol. 1, #87  (Oct. 1991)</ref><br />[[Legion of the Unliving]]<br />[[The New Avengers (comics)|New Avengers]]<br />[[World Counter-terrorism Agency]]<br />[[Secret Avengers]]<br />[[Parker Industries]]<br />[[Force Works]]<br />G.I.R.L<br />[[Advanced Idea Mechanics]] (A.I.M)<br />Underground<br />Daughters of Liberty
-| partners = [[Hawkeye (Clint Barton)|Hawkeye]]
-| supports = <!-- optional -->
-| aliases = Barbara Morse-Barton, Roberta Morse, Agent 19, the Huntress
-| powers =
-*Proficient in armed hand to hand combatant, espionage, gymnastics, and martial arts
+| character_name = Mockingbird
+| image          = Cover of Mockingbird-1.jpg
+| converted      = y
+| imagesize      = <!-- default 250 -->
+| caption        = Bobbi Morse on the cover of ''Mockingbird'' #1 by [[Joëlle Jones]] (March [[2016 in comics|2016]]), her first self-titled issue.
+| publisher      = [[Marvel Comics]]
+| debut          = {{ubl|'''As Dr. Barbara Morse''':|''[[Astonishing Tales]]'' #6 (June [[1971 in comics|1971]])|'''Full appearance''':|''Astonishing Tales'' #12 (June [[1972 in comics|1972]])|'''As Agent 19 of S.H.I.E.L.D.''':|''Astonishing Tales'' #18 (June [[1973 in comics|1973]])|'''As Huntress''':|''Marvel Super Action'' #1 (January [[1976 in comics|1976]])|'''As Mockingbird''':|''[[Marvel Team-Up]]'' #95 (July [[1980 in comics|1980]])}}
+| creators       = [[Len Wein]] (writer)<br>[[Neal Adams]] (artist)
+| alter_ego      =
+| full_name      = Barbara "Bobbi" Morse
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[S.H.I.E.L.D.]]<br>[[Avengers (comics)|Avengers]]<br>[[West Coast Avengers]]<br>[[Great Lakes Avengers]]<br>[[Night Shift (comics)|Night Shift]]<ref>''Marvel Comics Presents'' vol. 1, #87  (Oct. [[1991 in comics|1991]])</ref><br>[[Legion of the Unliving]]<br>[[The New Avengers (comics)|New Avengers]]<br>[[World Counter-terrorism Agency]]<br>[[Secret Avengers]]<br>[[Parker Industries]]<br>[[Force Works]]<br>G.I.R.L<br>[[Advanced Idea Mechanics]] (A.I.M)<br>Underground<br>Daughters of Liberty
+| partners       = [[Ka-Zar (Kevin Plunder)|Kevin Plunder / Ka-Zar]]<br>[[Hawkeye (Clint Barton)|Clint Barton / Hawkeye]] (ex-husband)
+| supports       = <!-- optional -->
+| aliases        = Barbara Morse-Barton, Roberta Morse, Agent 19, the Huntress, Mockingbird
+| powers         =
+*Proficient in armed hand to hand combat, espionage, gymnastics, and martial arts
 *Enhanced strength and agility
 *Healing and halted aging
 *Expert marksman and mastery of various other weapons, especially her trademark two battle staves
-| cat = super
-| subcat = Marvel Comics
-| hero = y
-| villain =
-| sortkey = Mockingbird
-| addcharcat# =
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        =
+| sortkey        = Mockingbird
+| addcharcat#    =
 |}}
-'''Mockingbird''' ('''Barbara''' "'''Bobbi'''" '''Morse''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Mockingbird first appeared in ''[[Astonishing Tales]]'' #6 in 1971 as a supporting character and eventual love interest of [[Ka-Zar (Kevin Plunder)|Ka-Zar]]. She is soon revealed to be a highly trained agent of S.H.I.E.L.D., as well as a Ph.D in biology. She first uses the moniker "Mockingbird" in ''[[Marvel Team-Up]]'' #95 (July 1980), and goes on to be a member of several Avengers teams.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=244}}</ref>
+'''Barbara''' "'''Bobbi'''" '''Morse''' is a [[fiction]]al [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Astonishing Tales]]'' #6 in [[1971 in comics|1971]] as a [[supporting character]] and eventual love interest of [[Ka-Zar (Kevin Plunder)|Ka-Zar]], with a Ph.D in biology. She is soon revealed to be the highly trained '''Agent 19 of [[S.H.I.E.L.D.]]''', taking the moniker '''Huntress''' in ''Marvel Super Action'' #1 in [[1976 in comics|1976]], and '''Mockingbird''' in ''[[Marvel Team-Up]]'' #95 in [[1980 in comics|1980]], before going on to be a member of several [[Avengers (comics)|Avengers]] teams, briefly marrying and subsequently divorcing [[Hawkeye (Clint Barton)|Clint Barton / Hawkeye]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=244}}</ref>
 
-In 2012, Mockingbird was listed as #48 on [[IGN]]'s "Top 50 Avengers".<ref>{{cite web |date=April 30, 2012 |title=The Top 50 Avengers |url=https://www.ign.com/top/avengers/48 |publisher=[[IGN]] |access-date=July 28, 2015}}</ref> Bobbi Morse was portrayed by [[Adrianne Palicki]] in the second and third seasons of the television series ''[[Agents of S.H.I.E.L.D.]]''.
+In [[2012 in comics|2012]], Mockingbird was listed as #48 on [[IGN]]'s "Top 50 Avengers".<ref>{{cite web |date=April 30, 2012 |title=The Top 50 Avengers |url=https://www.ign.com/top/avengers/48 |publisher=[[IGN]] |access-date=July 28, 2015}}</ref> In the [[Marvel Cinematic Universe]] (MCU), [[Bobbi Morse (Marvel Cinematic Universe)|Bobbi Morse]] was portrayed by [[Adrianne Palicki]] in the [[Agents of S.H.I.E.L.D. (season 2)|second]] and [[Agents of S.H.I.E.L.D. (season 3)|third seasons]] of the television series ''[[Agents of S.H.I.E.L.D.]]''
 
 ==Publication history==
 The character first appears as Barbara Morse in the [[Ka-Zar (Kevin Plunder)|Ka-Zar]] story in ''[[Astonishing Tales]]'' #6 (June 1971) written by [[Gerry Conway]] and pencilled by [[Barry Windsor-Smith|Barry Smith]]. The earliest story to be written and drawn (by [[Len Wein]] and [[Neal Adams]]) featuring the character was intended to appear in ''[[Savage Tales]]'' #2 (July 1971), but the series was canceled (a #2 and subsequent series appeared much later) and new homes were found for the stories in the ensuing months. In subsequent publications, creators including [[Roy Thomas]], [[Len Wein]], [[Neal Adams]], [[Mike Friedrich]], [[Archie Goodwin (comics)|Archie Goodwin]], [[George Evans (comics)|George Evans]], [[Steven Grant]], and [[Mark Gruenwald]] made significant contributions to the development of the character.
 
 After appearing in the 1983 Hawkeye mini-series, Mockingbird became a founding member of the ''[[West Coast Avengers]]'', appearing in the group's initial self-titled mini-series, followed by regular appearances in the group's ongoing monthly series, until its end in 1994.
 
-Mockingbird appeared as a regular character throughout the 2010–2013 ''New Avengers'' series, from issue #1 (August 2010) through its final issue #34 (January 2013). She also co-starred in the 2010 series ''[[Hawkeye & Mockingbird]]'', which ran for 6 issues. Mockingbird became regular character in the 2013 ''[[Secret Avengers]]'' series by [[Nick Spencer]] and [[Luke Ross]].<ref name="SecretAvengers">{{cite web |url=http://www.comicbookresources.com/?page=article&id=41551 |title=NYCC: Spencer's "Secret Avengers" are the Newest Agents of S.H.I.E.L.D. |last=Richards |first=Dave |date=14 October 2012 |publisher=Comic Book Resources |access-date=15 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130927115401/http://www.comicbookresources.com/?page=article&id=41551 |archive-date=27 September 2013 }}</ref>
+Mockingbird appeared as a regular character throughout the 2010–2013 ''New Avengers'' series, from issue #1 (August 2010) through its final issue #34 (January 2013). She also co-starred in the 2010 series ''[[Hawkeye & Mockingbird]]'', which ran for 6 issues. Mockingbird became a regular character in the 2013 ''[[Secret Avengers]]'' series by [[Nick Spencer]] and [[Luke Ross]].<ref name="SecretAvengers">{{cite web |url=http://www.comicbookresources.com/?page=article&id=41551 |title=NYCC: Spencer's "Secret Avengers" are the Newest Agents of S.H.I.E.L.D. |last=Richards |first=Dave |date=14 October 2012 |publisher=Comic Book Resources |access-date=15 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130927115401/http://www.comicbookresources.com/?page=article&id=41551 |archive-date=27 September 2013 }}</ref>
 
 In September 2015, Mockingbird starred in the [[One-shot (comics)|one-shot]] ''Mockingbird: S.H.I.E.L.D. 50th Anniversary'' #1 by writer [[Chelsea Cain]] and artist [[Joëlle Jones]].<ref>{{cite web |url=http://www.themarysue.com/tms-exclusive-red-widow-debut-marvel/ |title=The Mary Sue Exclusive: First Look at Red Widow, Set to Debut in Marvel's Mockingbird: S.H.I.E.L.D. 50th Anniversary #1 |last=Jusino |first=Teresa |date=August 18, 2015 |publisher=[[The Mary Sue]] |access-date=February 26, 2015}}</ref> That November, Marvel announced the launch of her first [[ongoing series]] by Cain and artist [[Kate Niemczyk]] in March 2016.<ref>{{cite web |url=https://marvel.com/news/comics/25477/mockingbird_flies_solo_in_2016?linkId=18920107 |title=Mockingbird Flies Solo in 2016 |last=Stevens |first=Tim |date=November 20, 2015 |publisher=Marvel.com |access-date=February 26, 2015}}</ref> It was canceled after eight issues due to poor sales,<ref>{{Cite web|url=https://comicbookinvest.com/2016/11/08/mockingbird-vol-1-8/|title=Mockingbird vol. 1, #8|first=Jason|last=Shaw|date=November 8, 2016}}</ref> despite receiving critical acclaim.<ref>{{Cite web|url=https://www.comicsbeat.com/marvels-mockingbird-is-cancelled-with-issue-8s-release-today/|title=Syndicated Comics|date=October 19, 2016}}</ref>
-
-
-
 
 ==Fictional character biography==
 ===First appearances===
@@ -99,14 +93,14 @@ The reference to the "why we abandoned the "'Huntress' moniker" is a nod to the 
 
 The miniseries reveals how Morse originally became involved with S.H.I.E.L.D. recounting how she left her biology studies at [[Georgia Institute of Technology|Georgia Tech]] to follow her "favorite prof"<ref name="hwk2">Mark Gruenwald (w) & (p), Breeding, Brett (i). "Point Blank!". ''Hawkeye'' vol. 1, #2 (Oct. 1983). Marvel Comics. p. 9</ref> Wilma Calvin on the government's Project: Gladiator. The research project was partly sponsored by S.H.I.E.L.D. which led Morse to enroll in their spy school and graduate at the top of her class. It is also revealed that she spent six months convalescing in a private hospital after the injuries she suffered in ''Marvel Team-Up'' #95.<ref name="hwk2" />
 
-Gruenwald was editor of the ''[[Avengers (comics)|Avengers]]'' title in late 1983 when writer [[Roger Stern]] began to feature Hawkeye and Mockingbird as members of the series supporting cast.<ref name="av239">[[Roger Stern|Stern, Roger]] (w), [[Al Milgrom|Milgrom, Al]] (p), [[Joe Sinnott|Sinnott, Joe]] (i). "Late Night of the Super-stars!". ''[[Avengers (comics)|Avengers]]'' vol. 1, #239 (Jan. 1984). Marvel Comics.</ref> In a short period Mockingbird moves back into [[Avengers Mansion]] with Barton as he returns to active duty,<ref name="av239" /> she is formally introduced to the team as his wife,<ref>Stern, Roger (w), Milgrom, Al (p), Breeding, Brett & [[Joe Rubinstein|Rubinstein, Joe]] (i). "Easy Come… Easy Go!". ''Avengers '' vol. 1, #242 (Apr. 1984). Marvel Comics. p. 6–12</ref> the [[Vision (Marvel Comics)|Vision]] then proposes that Hawkeye and Mockingbird establish a second Avengers team on the west coast,<ref>Stern, Roger (w), Milgrom, Al (p), Sinnott, Joe (i). "Chain of Command!". ''Avengers '' vol. 1, #243 (May 1984). Marvel Comics. p. 30</ref> and the two move out to Los Angeles.<ref>Stern, Roger (w), Milgrom, Al (p), Sinnott, Joe (i). "And The Rockets Red Glare!". ''Avengers '' vol. 1, #244 (June 1984). Marvel Comics. p. 16</ref>
+Gruenwald was editor of the ''[[Avengers (comics)|Avengers]]'' title in late 1983 when writer [[Roger Stern]] began to feature Hawkeye and Mockingbird as members of the series' supporting cast.<ref name="av239">[[Roger Stern|Stern, Roger]] (w), [[Al Milgrom|Milgrom, Al]] (p), [[Joe Sinnott|Sinnott, Joe]] (i). "Late Night of the Super-stars!". ''[[Avengers (comics)|Avengers]]'' vol. 1, #239 (Jan. 1984). Marvel Comics.</ref> In a short period Mockingbird moves back into [[Avengers Mansion]] with Barton as he returns to active duty,<ref name="av239" /> she is formally introduced to the team as his wife,<ref>Stern, Roger (w), Milgrom, Al (p), Breeding, Brett & [[Joe Rubinstein|Rubinstein, Joe]] (i). "Easy Come… Easy Go!". ''Avengers '' vol. 1, #242 (Apr. 1984). Marvel Comics. p. 6–12</ref> the [[Vision (Marvel Comics)|Vision]] then proposes that Hawkeye and Mockingbird establish a second Avengers team on the [[West Coast of the United States]],<ref>Stern, Roger (w), Milgrom, Al (p), Sinnott, Joe (i). "Chain of Command!". ''Avengers '' vol. 1, #243 (May 1984). Marvel Comics. p. 30</ref> and the two move out to Los Angeles.<ref>Stern, Roger (w), Milgrom, Al (p), Sinnott, Joe (i). "And The Rockets Red Glare!". ''Avengers '' vol. 1, #244 (June 1984). Marvel Comics. p. 16</ref>
 
 ===West Coast Avengers===
 This leads into the 1984 four-issue ''[[West Coast Avengers]]'' limited series, also written by Stern and edited by Gruenwald. In this series Mockingbird becomes a full-fledged Avenger as she assists her husband in setting up a new branch of the organization.<ref>Stern, Roger (w), [[Bob Hall (comics)|Hall, Bob]], Breeding, Brett (i). ''[[West Coast Avengers]]'' vol. 1, #1–4 (Sept.–Dec. 1984). Marvel Comics.</ref>
 
 ''West Coast Avengers'' became a regular series in 1985 and [[Steve Englehart]], the series writer for its first 42 issues, featured Mockingbird heavily as one of the main cast members of the book. A year into the series Mockingbird begins to wear a modified version of her original costume, designed by series artist [[Al Milgrom]].<ref>[[Steve Englehart|Englehart, Steve]] (w), Milgrom, Al & (p), Sinnott, Joe (i). ''West Coast Avengers'' vol. 2, #12 (Oct. 1986). Marvel Comics. p. 3</ref>
 
-Over the latter course of his run, Englehart developed a storyline in which the relationship between Hawkeye and Mockingbird is put under serious strain. When the West Coast Avengers are transported to the old west of 1876 the [[Phantom Rider]] (Lincoln Slade) abducts, drugs, and brainwashes Mockingbird into forgetting her original life and convinces her she is in love with Slade (and by implication, raping her). After breaking free of his control, Mockingbird seeks revenge on the Rider, and is shown allowing him to plunge to his death off of a cliff.<ref>Englehart, Steve (w), Milgrom, Al & (p), [[Romeo Tanghal|Tanghal, Romeo]] & Sinnott, Joe (i). ''West Coast Avengers'' vol. 2. #18–23 (Mar.–Aug. 1987), Marvel Comics.</ref>
+Over the latter course of his run, Englehart developed a storyline in which the relationship between Hawkeye and Mockingbird is put under serious strain. When the West Coast Avengers are transported to the [[Old West]] of 1876, the [[Phantom Rider]] (Lincoln Slade) abducts, drugs, and brainwashes Mockingbird into forgetting her original life and convinces her she is in love with Slade (and by implication, raping her). After breaking free of his control, Mockingbird seeks revenge on the Rider, and is shown allowing him to plunge to his death off of a cliff.<ref>Englehart, Steve (w), Milgrom, Al & (p), [[Romeo Tanghal|Tanghal, Romeo]] & Sinnott, Joe (i). ''West Coast Avengers'' vol. 2. #18–23 (Mar.–Aug. 1987), Marvel Comics.</ref>
 
 Hawkeye learns that Mockingbird let the Phantom Rider die, and harshly disapproves of her actions which leads Mockingbird to leave both Hawkeye and the Avengers.<ref>Englehart, Steve (w), Milgrom, Al (p), DeZuniga, Tony & Machlan, Mike (i). ''West Coast Avengers'' vol. 2, #37 (Mar.–Aug. 1987). Marvel Comics.</ref> For a time she and ex-Avengers [[Tigra]] and [[Moon Knight]] operate as a small fighting unit and together they have various adventures including a battle with the [[High Evolutionary]]<ref>Englehart, Steve (w), Milgrom, Al (p), Ivy, Christopher (i). "Heads You Lose--!, Tails You Win!". ''West Coast Avengers Annual'' vol. 1, #3 (1988). Marvel Comics.</ref> and an encounter with the modern-day Phantom Rider who is possessed by his 19th century ancestor.<ref>Englehart, Steve (w), Milgrom, Al (a). "Upset!". ''West Coast Avengers'' vol. 2, #39 (Dec. 1988). Marvel Comics.</ref> In one story Mockingbird's arrest of the [[Digger (Marvel Comics)|Digger]] causes a rift between the West Coast Avengers and the [[Night Shift (comics)|Night Shift]].<ref>Englehart, Steve (w), Milgrom, Al (p), DeZuniga, Tony & Machlan, Mike (i). "And Now The …Night Shirt!". ''West Coast Avengers'' vol. 2, #40 (Jan. 1989). Marvel Comics.</ref> Mockingbird later reconciles with the no-longer-possessed Phantom Rider.<ref>[[Tom DeFalco|DeFalco, Tom]] & [[Ralph Macchio (comics)|Macchio, Ralph]] (w), [[Tom Morgan (comics)|Morgan, Tom]] (a). "When Ghosts Can Die, Even Gods Must Fear!". ''West Coast Avengers'' vol. 2, #41 (Feb. 1989). Marvel Comics</ref>
 
@@ -177,15 +171,15 @@ During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Mockingbird app
 
 During the "Iron Man 2020" event, Mockingbird appears as a member of [[Force Works]]. Their mission takes them to the island of Lingares where they deal with some [[Deathlok]]s and [[Ultimo (Marvel Comics)|Ultimo]].<ref>''2020 Force Works'' #1-2. Marvel Comics.</ref>
 
-During the "[[Empyre]]" storyline, Quicksilver, [[Mockingbird (Marvel Comics)|Mockingbird]], and [[Wonder Man]] deal with the Kree and the Skrull's fight with the [[Cotati (comics)|Cotati]] near [[Navojoa]]. When Quicksilver is hit by special spheres fired by the Cotati magicians, Mockingbird and Wonder Man come to his aid and help the Kree and the Skrull turn the tide against the Cotati.<ref>''Empyre: Avengers'' #1. Marvel Comics.</ref>
+During the "[[Empyre]]" storyline, Quicksilver, Mockingbird, and [[Wonder Man]] deal with the Kree and the Skrull's fight with the [[Cotati (comics)|Cotati]] near [[Navojoa]]. When Quicksilver is hit by special spheres fired by the Cotati magicians, Mockingbird and Wonder Man come to his aid and help the Kree and the Skrull turn the tide against the Cotati.<ref>''Empyre: Avengers'' #1. Marvel Comics.</ref>
 
 ==Powers, abilities, and equipment==
-Mockingbird is a trained S.H.I.E.L.D. agent who graduated at the top of her class<ref name="hwk2" /> and as such she is very proficient in several forms of hand-to-hand combat, including [[Kung Fu]]<ref name=":0">''The Official Handbook of the Marvel Universe Deluxe Edition'' #8 (July 1986). Marvel Comics.</ref> and [[Taekwondo]]<ref name=":0" /> and familiar with a wide range of weapons. The character usually uses a pair of [[Baton (law enforcement)|batons]] which can be combined to form a single [[Bō|bō-staff]] in combat, weapons with which she has great expertise.<ref name="nar2" /> Morse also used a pair of night vision and vision enhancing goggles, similarly to her once-husband [[Hawkeye (Clint Barton)|Hawkeye]] . She also possesses a [[Ph.D.]] in biology.<ref name="ast12" /><ref name="hwk2" /> During one comic book series, [[Spider-Man]] provided her with a new uniform courtesy of Parker Industries for being their [[S.H.I.E.L.D.]] liaison.{{issue|date=September 2018}} This costume came attached with wing-like extensions allowing Morse to glide on wind currents.
+Bobbi Morse is a trained S.H.I.E.L.D. agent who graduated at the top of her class<ref name="hwk2" /> and as such she is very proficient in several forms of hand-to-hand combat, including [[Kung Fu]]<ref name=":0">''The Official Handbook of the Marvel Universe Deluxe Edition'' #8 (July 1986). Marvel Comics.</ref> and [[Taekwondo]]<ref name=":0" /> and familiar with a wide range of weapons. The character usually uses a pair of [[Baton (law enforcement)|batons]] which can be combined to form a single [[Bō|bō-staff]] in combat, weapons with which she has great expertise.<ref name="nar2" /> Morse also used a pair of night vision and vision enhancing goggles, similarly to her once-husband [[Hawkeye (Clint Barton)|Hawkeye]] . She also possesses a [[Ph.D.]] in biology.<ref name="ast12" /><ref name="hwk2" /> During one comic book series, [[Spider-Man]] provided her with a new uniform courtesy of Parker Industries for being their [[S.H.I.E.L.D.]] liaison.{{issue|date=September 2018}} This costume came attached with wing-like extensions allowing Morse to glide on wind currents.
 
 To cope with a mortal injury she sustained in a mission, Mockingbird was injected with an experimental serum combining the Super Soldier Serum that gave Captain America his strength and the Infinity Formula that has slowed Nick Fury's aging. The obvious consequence of this was that her injuries were healed, but Fury admitted his uncertainty about the formula's long-term consequences on her biology. Thus far, she has exhibited greatly enhanced physical strength, healing and agility.<ref name="New Avengers 2/13" />
 
 ==Other versions==
-Mockingbird has been depicted in other [[fictional universes]]. Some of these include:
+Bobbi Morse has been depicted in other [[fictional universes]]. Some of these include:
 
 ===''The Last Avengers Story''===
 Set in a distant possible future, writer [[Peter David]]'s 1995 miniseries ''The Last Avengers Story'' depicts Mockingbird as an embittered retiree who cares for her blinded husband Clint Barton.<ref>[[Peter David|David, Peter]] (w), [[Ariel Olivetti|Olivetti, Ariel]] (a). ''The Last Avengers Story'' vol. 1, #1 (Nov. 1995). Marvel Comics.</ref> At the story's conclusion Mockingbird and Hawkeye return to duty and help the Avengers defeat [[Ultron]], [[Wiccan (comics)#The Last Avengers Story|Grim Reaper]], and [[Kang the Conqueror|Kang]].<ref>David, Peter (w), Olivetti, Ariel (a). ''The Last Avengers Story'' vol. 1, #2 (Dec. 1995). Marvel Comics.</ref>
@@ -205,10 +199,12 @@ During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline in the page
 ==In other media==
 ===Television===
 * Mockingbird appears in the animated series ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by [[Elizabeth Daily]].<ref>{{cite web | url = https://www.imdb.com/title/tt1626038/fullcredits?ref_=tt_cl_sm#cast | title = The Avengers: Earth's Mightiest Heroes (2010–2012) Full Cast & Crew | publisher = [[IMDb]] | access-date = 2014-11-02}}</ref> Like her comics' counterpart, Morse is a S.H.I.E.L.D. agent, with ties to [[Hawkeye (Clint Barton)|Hawkeye]]; taking their place in Special Operations when the former joined the Avengers and the latter seemingly went rogue. In season two, she is captured by the Skrulls and replaced by the [[Skrull]] Queen [[Veranke]], but she later escapes with [[Captain America]] and the Skrulls' other prisoners.
+
+===Marvel Cinematic Universe===
 [[File:Adrianne Palicki as Bobbi Morse.jpg|thumb|upright|Adrianne Palicki as Morse in ''Agents of S.H.I.E.L.D.'']]
 * Bobbi Morse appears in the live-action [[Marvel Cinematic Universe]] (MCU) series ''[[Agents of S.H.I.E.L.D.]]'', portrayed by [[Adrianne Palicki]].<ref>{{cite web|url=https://www.hollywoodreporter.com/live-feed/agents-shield-enlists-adrianne-palicki-726118|title='Agents of SHIELD' Enlists Adrianne Palicki as Marvel Favorite (Exclusive)|date=19 August 2014|work=The Hollywood Reporter|access-date=13 October 2014}}</ref> Debuting in the episode "[[A Hen in the Wolf House]]", she was assigned to work undercover within [[Daniel Whitehall]]'s [[Hydra (comics)|Hydra]] branch to protect [[Jemma Simmons]] before extracting her once their cover was blown.<ref>{{cite episode|title=[[A Hen in the Wolf House]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Dale, Holly (director); Brent Fletcher (writer)|network=[[American Broadcasting Company|ABC]]|airdate=October 21, 2014|season=2|number=5}}</ref><ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=54352 |title=SDCC: Marvel TV Presents "Agents of SHIELD" and "Agent Carter" |publisher=Comic Book Resources |access-date=2014-07-25}}</ref>  Palicki was promoted to the series' main cast following the episode "[[Aftershocks (Agents of S.H.I.E.L.D.)|Aftershocks]]".<ref name="PalickiMain">{{cite web |url=http://marvel.com/news/tv/24095/declassifying_marvels_agents_of_shield_aftershocks |title=Declassifying Marvel's Agents of S.H.I.E.L.D.: Aftershocks |publisher=[[Marvel Comics|Marvel.com]] |date=February 13, 2015 |access-date=February 13, 2015 |archive-url=https://www.webcitation.org/6WK2Iwcgi?url=http://marvel.com/news/tv/24095/declassifying_marvels_agents_of_shield_aftershocks |archive-date=February 13, 2015 |url-status=live }}</ref><ref name="PalickiMainVariety">{{cite web|url=https://variety.com/2015/tv/news/agents-of-shield-promotes-adrianne-palicki-to-series-regular-1201434285/|title='Agents of SHIELD' Promotes Adrianne Palicki to Series Regular|last=Khatchatourian|first=Maane|work=[[Variety (magazine)|Variety]]|date=February 14, 2015|access-date=February 15, 2015|archive-url=https://www.webcitation.org/6WLmx3AgC?url=http://variety.com/2015/tv/news/agents-of-shield-promotes-adrianne-palicki-to-series-regular-1201434285/|archive-date=February 15, 2015|url-status=live}}</ref> She was also previously married to mercenary [[Lance Hunter]], <ref>{{cite episode|title=[[Heavy Is the Head (Agents of S.H.I.E.L.D.)|Heavy Is the Head]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Bochco, Jesse (director); Paul Zbyszewski (writer)|network=[[American Broadcasting Company|ABC]]|airdate=September 30, 2014|season=2|number=2}}</ref> with whom she got back together while working as full-time field agents for S.H.I.E.L.D. Director [[Phil Coulson]] until they are forced to leave the organization following an incident in Russia during the episode "[[Parting Shot]]".<ref>{{cite episode|title=[[Parting Shot]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Zinberg, Michael (director); Paul Zbyszewski (writer)|network=[[American Broadcasting Company|ABC]]|airdate=March 22, 2016|season=3|number=13}}</ref>
 * A Mockingbird series was in development at [[ABC Family]] in 2011.<ref name="MockingbirdABCFamily">{{cite web|url=https://collider.com/comic-con-marvel-tv-aka-jessica-jones-hulk-cloak-and-dagger/|title=Comic-Con: Marvel TV Announces Development Slate; Includes Live-Action AKA Jessica Jones (Alias), The Hulk, Cloak And Dagger, Mockingbird, Animated Hulk And The Agents Of S.M.A.S.H., More|last=Daniels|first=Hunter|publisher=Collider|date=July 23, 2011|access-date=August 22, 2015|archive-url=https://www.webcitation.org/6axpmsT62?url=http://collider.com/comic-con-marvel-tv-aka-jessica-jones-hulk-cloak-and-dagger/|archive-date=August 22, 2015|url-status=live}}</ref> After the successful introduction of the character in ''Agents of S.H.I.E.L.D.'', a spin-off titled ''[[Marvel's Most Wanted]]'', starring Palicki as Morse and [[Nick Blood]] as Hunter, received a pilot order from ABC in August 2015.<ref name="THRPilotOrder">{{cite web|url=https://www.hollywoodreporter.com/live-feed/adrianne-palicki-nick-blood-star-816692|title=Adrianne Palicki, Nick Blood to Star in Marvel Pilot for ABC|last=Goldberg|first=Lesley|work=[[The Hollywood Reporter]]|date=August 20, 2015|access-date=August 21, 2015|archive-url=https://www.webcitation.org/6awNL8u39?url=http://www.hollywoodreporter.com/live-feed/adrianne-palicki-nick-blood-star-816692|archive-date=August 21, 2015|url-status=live}}</ref>  On May 12, 2016 however, ABC announced it did not pick up ''Most Wanted'' for a series.<ref name="THRPilotCancel">{{cite web|url=https://screenrant.com/marvels-most-wanted-agents-shield-spinoff-canceled/|title=Marvel's Most Wanted Passed Over By ABC|last=Freeman|first=Molly|date=May 12, 2016|access-date=May 16, 2016}}</ref>
-* In September 2020, Geoff Thorne revealed he had written a pilot for the character, with Palicki reprising the role.<ref>{{cite web|url=https://www.cinemablend.com/television/2555114/wait-agents-of-shields-mockingbird-was-going-to-get-her-own-spinoff-series|title=Remember When Agents Of S.H.I.E.L.D.'s Mockingbird Was Going To Get Her Own Spinoff Series?|last=Swann|first=Erik|work=Cinema Blend|date=September 20, 2020|access-date=September 24, 2020}}</ref>
+* In September 2020, [[Geoffrey Thorne]] revealed he had written a pilot for the character, with Palicki reprising the role.<ref>{{cite web|url=https://www.cinemablend.com/television/2555114/remember-agents-of-shields-mockingbird-was-going-to-get-her-own-spinoff-series-adrianne-palicki|title=Remember When Agents Of S.H.I.E.L.D.'s Mockingbird Was Going To Get Her Own Spinoff Series?|last=Swann|first=Erik|work=Cinema Blend|date=September 20, 2020|access-date=October 13, 2021}}</ref>
 
 ===Video games===
 * Mockingbird makes a cameo in Hawkeye's ending in ''[[Ultimate Marvel vs. Capcom 3]]'' as a member of his New West Coast Avengers.{{citation needed|date=November 2016}}
@@ -226,21 +222,20 @@ During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline in the page
 ! Year
 ! ISBN
 |-
-|''Mockingbird – Bobbi Morse Agent of S.H.I.E.L.D.''
-|''Astonishing Tales'' #10, #12–13, #15–20, ''Ka-Zar'' #3–5,<br />''Marvel Team-Up'' #95, ''Hawkeye'' #1–4,<br />material from ''Astonishing Tales'' #8, ''Savage Tales'' #8 and ''Marvel Super Action'' #1
-|August 2016
-|9781302900861
+| ''Mockingbird – Bobbi Morse Agent of S.H.I.E.L.D.''
+| ''Astonishing Tales'' #10, #12–13, #15–20, ''Ka-Zar'' #3–5,<br />''Marvel Team-Up'' #95, ''Hawkeye'' #1–4,<br />material from ''Astonishing Tales'' #8, ''Savage Tales'' #8 and ''Marvel Super Action'' #1
+| August 2016
+| 9781302900861
 |-
-|''Mockingbird Vol. 1 – I Can Explain''
-|''Mockingbird S.H.I.E.L.D. 50th Anniversary'' #1, ''Mockingbird'' #1–5
-|November 2016
-|978-1302901226
+| ''Mockingbird Vol. 1 – I Can Explain''
+| ''Mockingbird S.H.I.E.L.D. 50th Anniversary'' #1, ''Mockingbird'' #1–5
+| November 2016
+| 978-1302901226
 |-
-|''Mockingbird Vol. 2 – My Feminist Agenda''
-|''Mockingbird'' #6–8, ''New Avengers'' 13–14
-|April 2017
-|978-1302901233
-|-
+| ''Mockingbird Vol. 2 – My Feminist Agenda''
+| ''Mockingbird'' #6–8, ''New Avengers'' 13–14
+| April 2017
+| 978-1302901233
 |}
 
 {{Clear}}
@@ -249,8 +244,8 @@ During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline in the page
 {{Reflist}}
 
 ==External links==
-* [http://www.marvel.com/universe/Mockingbird Mockingbird] at the Marvel Universe
-* [http://marvel.wikia.com/Mockingbird Mockingbird] at the Marvel Database Project
+* [http://www.marvel.com/universe/Mockingbird Bobbi Morse] at the Marvel Universe
+* [http://marvel.wikia.com/Mockingbird Bobbi Morse] at the Marvel Database Project
 * {{comicbookdb|type=character|id=2438|title=Mockingbird}}
 * [http://goodcomics.comicbookresources.com/2011/09/24/a-hell-of-a-past-mockingbird/ A Hell Of A Past – Mockingbird] at Comics Should Be Good
 
@@ -267,6 +262,7 @@ During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline in the page
 [[Category:Fictional biologists]]
 [[Category:Fictional characters from San Diego]]
 [[Category:Fictional stick-fighters]]
+[[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics television characters]]

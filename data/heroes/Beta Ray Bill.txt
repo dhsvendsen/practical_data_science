@@ -1,4 +1,4 @@
-{{short description|Fictional Marvel Comics Character}}
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |character_name = Beta Ray Bill
 |image          = Beta Ray Bill.jpg
@@ -8,7 +8,7 @@
 |species        = [[List of Marvel Comics alien races#K|Korbinite]]
 |homeworld      = Korbin
 |publisher      = [[Marvel Comics]]
-|debut          = ''[[The Mighty Thor]]'' #337 (November 1983)
+|debut          = ''[[The Mighty Thor]]'' #337 ({{start date and age|1983|11}})
 |creators       = [[Walt Simonson]]
 |alliances      = [[Omega Flight]]<br>Star Masters<br>[[Asgard (comics)|Asgard]]<br>[[Alternative versions of Thor (Marvel Comics)|Thor Corps]]<br>[[Annihilators (Marvel Comics)|Annihilators]]<br>[[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]]
 |aliases        = Simon Walters, Beta Ray Thor
@@ -41,7 +41,7 @@ The character's introduction continued in ''Thor'' vol. 1 #338–340. He continu
 ==Fictional character biography==
 
 ===1980s===
-Spy organization [[S.H.I.E.L.D.]] detected an [[Extraterrestrial life|alien]] fleet passing through Earth's galaxy, with Director [[Nick Fury]] asking Thor to investigate. When Thor finds the advance ship, it scans Thor and perceives him to be a threat.  Unable to stop Thor, the sentient ship—called ''Skuttlebutt''—revives Beta Ray Bill, who is in [[suspended animation]]. Bill battles Thor to a standstill, until the ship reaches the Solar system, where one of the mystical enchantments of Thor's hammer [[Mjolnir (comics)|Mjolnir]] comes into effect, which means that Thor will revert to his mortal persona of Donald Blake if separated from the hammer for more than 60 seconds. When that happens, Blake is knocked unconscious by Bill, who examines Blake's cane (Mjolnir's "shell" when Thor is in Blake's form) and on striking the cane receives Thor's power and a variant of his costume.
+Spy organization [[S.H.I.E.L.D.]] detected an [[Extraterrestrial life|alien]] fleet passing through Earth's galaxy, with Director [[Nick Fury]] asking Thor to investigate. When Thor finds the advanced ship, it scans Thor and perceives him to be a threat.  Unable to stop Thor, the sentient ship—called ''Skuttlebutt''—revives Beta Ray Bill, who is in [[suspended animation]]. Bill battles Thor to a standstill, until the ship reaches the Solar system, where one of the mystical enchantments of Thor's hammer [[Mjolnir (comics)|Mjolnir]] comes into effect, which means that Thor will revert to his mortal persona of Donald Blake if separated from the hammer for more than 60 seconds. When that happens, Blake is knocked unconscious by Bill, who examines Blake's cane (Mjolnir's "shell" when Thor is in Blake's form) and on striking the cane receives Thor's power and a variant of his costume.
 
 Once ''Skuttlebutt'' arrives on Earth, Bill easily defeats an approaching S.H.I.E.L.D. team and is then transported to Asgard by the King of the Norse gods, [[Odin (comics)|Odin]], who mistakes Bill for Thor. After some initial confusion, Odin returns Thor to Asgard, and Bill's origin is revealed. Bill's race, the Korbinites, were almost rendered [[extinct]] when their galaxy exploded. The remnants of the Korbinite race fled in a fleet of warships, guarded by a [[Sentience|sentient]] ship called ''Skuttlebutt'' and a dedicated champion, Beta Ray Bill. Via Korbinite science, Bill was physically augmented and given the attributes of an [[indigenous (ecology)|indigenous]] wild beast (a process that killed all of Bill's predecessors). ''Skuttlebutt'' attacked Thor because the ship recognized the [[Asgard (comics)|Asgardian]] magic as similar to that of the previous global threat, and assumed the Korbinites were being threatened once again.
 
@@ -132,5 +132,7 @@ Some of the character's appearances have been collected in [[trade paperback (co
 [[Category:Comics characters introduced in 1983]]
 [[Category:Fictional cyborgs]]
 [[Category:Guardians of the Galaxy characters]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics extraterrestrial superheroes]]
 [[Category:Thor (Marvel Comics)]]

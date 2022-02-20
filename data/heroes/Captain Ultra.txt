@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{for|the Japanese television series and superhero|Captain Ultra (TV series)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
  | image              = CaptainUltra500.jpg
@@ -6,9 +7,9 @@
  | character_name     = Captain Ultra
  | real_name          = Griffin Gogol
  | publisher          = [[Marvel Comics]]
- | debut              = ''[[Fantastic Four]]'' Vol.1 #177 (December 1976)
+ | debut              = ''[[Fantastic Four]]'' #177 (Dec. 1976)
  | creators           = [[Roy Thomas]] (writer)<br>[[George Pérez]](artist)<br>[[Joe Sinnott]] (inker)
- | alliances          = [[Defenders (comics)|Defenders]]<br>[[Avengers: The Initiative|Initiative]]<br>[[Revengers#Earth-616|Revengers]]<ref>''New Avengers Annual'' vol. 2 #1 (2011)</ref>
+ | alliances          = [[Defenders (comics)|Defenders]]<br>[[Avengers: The Initiative|Initiative]]<br>[[Revengers#Earth-616|Revengers]]<ref>''The New Avengers'' Annual vol. 2 #1 (2011)</ref>
  | aliases            =
  | powers             = Superhuman strength, durability, reflexes and endurance<br>Flight<br>X-ray vision<br>Super breath<br>Intangibility<br>Ability to tap his "ultra potential"
 |}}
@@ -16,14 +17,14 @@
 
 ==Publication history==
 {{expand section|date=March 2016}}
-He first appeared in ''[[Fantastic Four]]'' #177 (December 1976) and was created by [[Roy Thomas]], [[George Pérez]] and [[Joe Sinnott]].<ref name=regrettable>{{cite book |last1=Morris |first1=Jon |title=The League of Regrettable Superheroes: Half Baked Heroes from Comic Book History |date=2015 |publisher=Quirk Books |location=Philadelphia, Pennsylvania |isbn=978-1-59474-763-2 |pages=198-199}}</ref>
+He first appeared in ''[[Fantastic Four]]'' #177 (Dec. 1976) and was created by [[Roy Thomas]], [[George Pérez]] and [[Joe Sinnott]].<ref name=regrettable>{{cite book |last1=Morris |first1=Jon |title=The League of Regrettable Superheroes: Half Baked Heroes from Comic Book History |date=2015 |publisher=Quirk Books |location=Philadelphia, Pennsylvania |isbn=978-1-59474-763-2 |pages=198-199}}</ref>
 
 ==Fictional character biography==
 When an elderly psychologist could not afford to pay [[plumber]] Griffin Gogol, he offers to cure Gogol's smoking habit via hypnosis. However, as Gogol later learned, the psychologist was an [[Extraterrestrial life in popular culture|extraterrestrial]] and the hypnosis unlocks Gogol's innate superhuman potential. Donning a clashing, colorful costume, Gogol became the superhero Captain Ultra. However, it is revealed he suffers from severe [[pyrophobia]] (fear of fire) as a side-effect.
 
 Captain Ultra's first appearance is as an applicant to the [[supervillain]] team called the [[Frightful Four]]. He is at first enthusiastically accepted by the other three villains, ecstatic at his large array of powers. However, when one of them began to light a [[cigarette]] in celebration, Captain Ultra faints in the presence of the [[matchstick|match]]. He is promptly rejected.<ref>''Fantastic Four'' #177</ref>
 
-An unauthorized television program informs Gogol of the super-hero team the [[Defenders (comics)|Defenders]]. Captain Ultra is one of a large group to investigate by traveling to the Richmond Riding Academy on Long Island. There he works with a small group to stop a crime spree back in New York. Like most of the other applicants, he is not pleased with the Defenders and never really petitions the core group for membership.<ref>''Defenders'' #62-64</ref>
+An unauthorized television program informs Gogol of the super-hero team the [[Defenders (comics)|Defenders]]. Captain Ultra is one of a large group to investigate by traveling to the Richmond Riding Academy on Long Island. There he works with a small group to stop a crime spree back in New York. Like most of the other applicants, he is not pleased with the Defenders and never really petitions the core group for membership.<ref>''The Defenders'' #62-64</ref>
 
 Soon after, he moves to Chicago. He has since had a minor career as a solo superhero, often teaming up with heroes like [[Thor (Marvel Comics)|Thor]] to battle minor villains.<ref>''Thor'' #336</ref>
 
@@ -33,7 +34,7 @@ He eventually overcomes his pathological fear of fire thanks to years of extensi
 
 Griffin then became the leader for the [[Nebraska]] team of the [[Fifty State Initiative|Initiative]] program, part of a government controlled superhero program. After two of his teammates, [[Paragon (comics)|Paragon]] and Gadget are killed, Griffin briefly fights [[Iron Man]] to protect the rest of his group.<ref>''Iron Man'' vol. 4 #22</ref> He is seen investigating the circumstances of Paragon and Gadget's tragic deaths with Doc Samson and Iron Man. During the course of their investigation it is revealed that there are two new Initiative recruits in the process of being fast-tracked to the Nebraska team, although Captain Ultra expressed irritation at the prospect of having to "babysit the punks".<ref>''Iron Man'' vol. 4 #24</ref>
 
-Captain Ultra is recruited by [[Wonder Man]] (whose ionic energy leaking problem was affecting his judgement) to join his [[Revengers]]. During the Revengers' attack on Avengers Mansion, he is scared off when [[Doctor Strange]] uses an illusion spell to make him believe he is on fire.<ref>''New Avengers Annual'' vol. 2 #1 (2011)</ref> He and the rest of the Revengers were defeated by all three Avengers teams and were remanded to the Raft. Captain Ultra's reason for joining the Revengers is that despite the fact that he was on the Initiative, he resents being disrespected despite having as much power as an Avenger.<ref>''Avengers Annual'' Vol. 4 #1</ref>
+Captain Ultra is recruited by [[Wonder Man]] (whose ionic energy leaking problem was affecting his judgement) to join his [[Revengers]]. During the Revengers' attack on Avengers Mansion, he is scared off when [[Doctor Strange]] uses an illusion spell to make him believe he is on fire.<ref>''The New Avengers'' vol. 2 Annual #1 (2011)</ref> He and the rest of the Revengers were defeated by all three Avengers teams and were remanded to the Raft. Captain Ultra's reason for joining the Revengers is that despite the fact that he was on the Initiative, he resents being disrespected despite having as much power as an Avenger.<ref>''The Avengers'' vol. 4 Annual #1</ref>
 
 During the ''[[Avengers: Standoff!]]'' storyline, Captain Ultra was an inmate of Pleasant Hill, a gated community established by S.H.I.E.L.D.<ref>''Avengers Standoff: Assault on Pleasant Hill Omega'' #1</ref>
 

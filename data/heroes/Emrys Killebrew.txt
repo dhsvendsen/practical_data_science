@@ -2,7 +2,7 @@
 {{primary sources|date=June 2016}}
 <!-- Don't mess with this line! --><!-- Write your article below this line -->
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Emrys Killebrew (Earth-616) from Deadpool Corps Rank and Foul Vol 1 1 001.png
 |imagesize= 
 |converted = y
 |caption = 

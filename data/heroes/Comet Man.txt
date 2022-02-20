@@ -1,13 +1,13 @@
+{{Short description|Fictional comic book character}}
 {{Cleanup|reason=lack of narrative clarity due to bad chronology and constant switching of subjects, people, and names|date=March 2013}}
-{{Notability|date=August 2018}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name = Comet Man
-|image          = <!-- Deleted image removed: [[Image:Comet man.jpg]] -->
+|image          = Stephen Beckley (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 1 0001.jpg
 |caption        = 
 |real_name      = Dr. Stephen Beckley
 |species        = Human (empowered)
 |publisher      = [[Marvel Comics]]
-|debut          = ''Comet Man'' #1 (February 1987)
+|debut          = ''Comet Man'' #1 (Feb. 1987)
 |creators       = [[Bill Mumy]], [[Miguel Ferrer]], and [[Kelley Jones]]
 |alliances      = 
 |aliases        = 
@@ -20,7 +20,7 @@
 '''Comet Man''' ('''Stephen Beckley''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Comet Man was the subject of a [[Limited series (comics)|limited series]] in 1987, created by [[Bill Mumy]], [[Miguel Ferrer]], and [[Kelley Jones]].<ref>[https://archive.org/details/BillMumyInterviewsOnOutsightRadioHours Bill Mumy interviews on Outsight Radio Hours]</ref> Comet Man first appeared in ''Comet Man'' #1 (February 1987), and appeared in the rest of the series from ''Comet Man'' #2-6 (March–July 1987).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=91}}</ref>
+Comet Man was the subject of a [[Limited series (comics)|limited series]] in 1987, created by [[Bill Mumy]], [[Miguel Ferrer]], and [[Kelley Jones]].<ref>[https://archive.org/details/BillMumyInterviewsOnOutsightRadioHours Bill Mumy interviews on Outsight Radio Hours]</ref> Comet Man first appeared in ''Comet Man'' #1 (Feb. 1987), and appeared in the rest of the series from ''Comet Man'' #2-6 (March–July 1987).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=91}}</ref>
 
 ==Fictional character biography==
 
@@ -43,7 +43,7 @@ Beckley makes an ally in [[Reed Richards]], who gives him a device to allow him 
 'The Superior' almost kills Max and Stephen but they escape to the colony unscathed. Stephen gains more control over his powers on Max's home world. Both return to Earth. Stephen finds his sister and son living with John. Comet Man used his powers to free Benny from his catatonic state. Ultimately, Comet Man learned John was the Superior, who then shot and killed himself.<ref>''Marvel Comics Presents'' #53</ref>
 
 ===The Initiative===
-Stephen tried to help some S.H.I.E.L.D. agents trying to take down the Superhuman Registration Act violator [[Cybermancer (comics)|Cybermancer]] during the [[Civil War (comics)|Civil War]], but was defeated.<ref>''Civil War: Front Line Vol. 1 #8''</ref>  Stephen was considered as a "potential recruit" for the [[Fifty State Initiative|Initiative]] program.<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref>
+Stephen tried to help some S.H.I.E.L.D. agents trying to take down the Superhuman Registration Act violator [[Cybermancer (comics)|Cybermancer]] during the [[Civil War (comics)|Civil War]], but was defeated.<ref>''Civil War: Front Line'' #8</ref>  Stephen was considered as a "potential recruit" for the [[Fifty State Initiative|Initiative]] program.<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = #1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref>
 
 ==Powers and abilities==
 Comet Man can [[Teleportation|teleport]] himself over vast distances, from Earth to any location in [[outer space]]. The limits on Comet Man's teleportation range are as yet unknown. Comet Man's teleportation ability is triggered subconsciously when he is in danger. He can utilize his teleportation power consciously through the use of a "psiamplifier" device given him by Reed Richards. Comet Man can teleport himself into the presence of another person by concentrating on that person, even if Comet Man does not know where that person is. Apparently Comet Man subconsciously psionically scans the area to which he teleports himself to make sure he does not materialize within a solid object.
@@ -68,6 +68,7 @@ Comet Man possesses superhuman strength, and durability, a regenerative healing 
 [[Category:Fictional astronomers]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics titles]]

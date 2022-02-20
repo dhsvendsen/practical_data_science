@@ -1,5 +1,5 @@
 {{Superherobox| <!--Wikipedia:WikiProject Comics--> 
-image=
+image=Baron Macabre.png
 |caption=
 |comic_color=background:#ff8080 
 |character_name=Baron Macabre
@@ -40,6 +40,7 @@ Baron Macabre was empowered by the Resurrection Altar. He can fire electric blas
 [[Category:Characters created by Gil Kane]]
 [[Category:Comics characters introduced in 1974]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Wakandans]]

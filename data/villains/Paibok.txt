@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{Multiple issues|
 {{refimprove|date=September 2020}}
 {{In-universe|date=August 2018}}
@@ -15,7 +16,7 @@
 | aliases        = Paul Balk
 | powers         = Expert armed/unarmed combatant<br>Superhuman strength, stamina and durability<br>Flight<br>Shapeshifting<br>Hypnosis<br>Energy and ice projection<br>Immunity to the effects of his energy and ice blasts<br>Ability to transform his skin into a durable steel-like substance
 |}}
-'''Paibok the Power Skrull''' is a [[Character (arts)|fictional]] [[Extraterrestrial life|alien]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a foe of the [[Fantastic Four]].
+'''Paibok the Power Skrull''' is an [[Extraterrestrial life|alien]] <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a foe of the [[Fantastic Four]].
 
 ==Publication history==
 {{expand-section|date=March 2014}}

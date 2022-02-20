@@ -1,3 +1,4 @@
+{{Short description|Superhero appearing in Marvel Comics}}
 {{distinguish|Jimmy Hudson}}
 {{Refimprove|date=January 2014}}
 {{Infobox comics character
@@ -69,7 +70,7 @@ Bruce said that he does not believe that Logan is a bad person and will prove it
 Nick Fury showed up and told them that they were free to go. Fury angrily warns Wolverine that he is now on his %^&* list, but Wolverine states that he is on humanity's %^&* list. Hulk let Fury go, who then left. In the middle of the desert, Hulk and Logan calmly discuss getting back to civilization, and Hulk agrees to pick up Logan and jump to the nearest town to drop him off.<ref>''Ultimate Wolverine vs Hulk'' #4</ref>
 
 ===Pre-''Ultimatum /'' Banshee===
-Wolverine found out that he was dosed with [[Banshee (comics)#Ultimate Marvel|Banshee]] and goes to [[Ultimate Spider-Man|Peter Parker]] for help. He discovered that he wasn't actually dosed, but that properties of the drug were derived from him.<ref>''Ultimate X-Men'' #94</ref>
+Wolverine found out that he was dosed with Banshee and goes to [[Ultimate Spider-Man|Peter Parker]] for help. He discovered that he wasn't actually dosed, but that properties of the drug were derived from him.<ref>''Ultimate X-Men'' #94</ref>
 
 Because certain members of the X-Men became Banshee addicts, the non-addicted members were forced to fight them and prevent them from using it. When Jean fell unconscious, he violently attacked Colossus, but soon cooled off. He then discovered that Xavier and Magneto were responsible for the creation of the power-enhancing drug and that [[Moira MacTaggert]] was distributing it. Moira fought him, though he destroyed the facility in which Banshee was produced <ref>''Ultimate X-Men'' #94</ref>
 
@@ -106,6 +107,7 @@ This version of Wolverine also appears to initially possess a darker, cynical, v
 {{Reflist}}
 
 {{Wolverine}}
+{{X-Men characters}}
 {{Ultimate Marvel}}
 {{Ultimate X-Men}}
 {{Mark Millar}}
@@ -115,20 +117,21 @@ This version of Wolverine also appears to initially possess a darker, cynical, v
 [[Category:Characters created by Mark Millar]]
 [[Category:Comics characters introduced in 2001]]
 [[Category:Fictional assassins]]
-[[Category:Fictional characters from parallel universes]]
-[[Category:Fictional Canadian people]]
 [[Category:Fictional Canadian Army personnel]]
-[[Category:Fictional characters from Alberta]]
-[[Category:Fictional mass murderers]]
+[[Category:Fictional Canadian people]]
 [[Category:Fictional Canadian secret agents]]
+[[Category:Fictional characters from Alberta]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional characters with amnesia]]
+[[Category:Fictional mass murderers]]
 [[Category:Fictional mercenaries]]
-[[Category:Marvel Comics special forces personnel]]
 [[Category:Fictional World War II veterans]]
 [[Category:Marvel Comics characters with accelerated healing]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics special forces personnel]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Ultimate Marvel characters]]
 [[Category:Wolverine (comics)|Ultimate Wolverine]]
-[[Category:Fictional characters with amnesia]]
+[[Category:X-Men members]]

@@ -1,65 +1,32 @@
+{{Short description|Supervillain appearing in Marvel Comics publications and related media}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 | image=[[File:Arnim Zola.PNG|225px]]
 | caption=Arnim Zola<br>Art by [[Steve Epting]]
 | publisher=[[Marvel Comics]]
-| debut=''[[Captain America (comic book)|Captain America]]'' #208 (April 1977)
+| debut=''[[Captain America (comic book)|Captain America and the Falcon]]'' #208 (April [[1977 in comics|1977]])
 | creators=[[Jack Kirby]]
 | alliances=[[Hydra (comics)|Hydra]]
 | partners=[[Red Skull]]
 | aliases=The Bio-Fanatic
-| powers=Genius biochemist and scientist<br/>Specially modified robot body grants:<br/>ESP Box<br/>Mind control<br/>Mind ray<br/>Mind transfer 
+| powers=*Genius biochemist and scientist
+*Specially modified robot body grants:
+**Superhuman strength and durability
+**ESP Box
+**Mind control
+**Mind ray
+**Mind transfer 
 |}}
-'''Arnim Zola''' is a [[fictional character|fictional]] [[supervillain]] appearing in [[American comic books]] by [[Marvel Comics]]. He is a master of [[biochemistry]] and is an enemy of [[Captain America]] and the [[Avengers (comics)|Avengers]]. He first appeared in ''[[Captain America (comic book)|Captain America]]'' #208 (April 1977), created by writer/artist [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=436}}</ref> He was originally a Nazi biochemist during [[World War II]] and survived into the modern age by transferring his conscious mind into the body of a sophisticated robot which protected it by storing it in its chest and displaying a digital image of Zola's face on its chest plate.
+'''Arnim Zola''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic books]] by [[Marvel Comics]]. He is a master of [[biochemistry]] and a recurring enemy of [[Captain America]] and the [[Avengers (comics)|Avengers]]. The character first appeared in ''[[Captain America (comic book)|Captain America and the Falcon]]'' #208 (April [[1977 in comics|1977]]), and was created by writer/artist [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=436}}</ref> When he was first introduced, Zola was a Nazi scientist experimenting with genetic engineering during [[World War II]]. His skills as a geneticist drew the attention of the [[Red Skull]], who recruited him into [[Hydra (comics)|Hydra]] to aid their efforts to create super soldiers. One of his experiments led to the brain of [[Adolf Hitler]] being copied into a being later known as [[Hate-Monger]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=9}}</ref> Later in life, Zola transferred his own mind into a sophisticated robot body which protected it by storing it in its chest and displaying a digital image of Zola's face on its chest plate. This robot body allowed Zola to survive until modern times, as whenever it is destroyed, Zola can simply upload his consciousness into a new body.
 
-Arnim Zola was a biochemist during World War II, experimenting with genetic engineering. His skills as a geneticist drew the attention of the [[Red Skull]] who used him in an attempt to create super soldiers. One of his experiments led to the brain of [[Adolf Hitler]] being copied into a being later known as [[Hate-Monger]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=9}}</ref> In order to survive the end of World War II Zola managed to transfer his mind into a robot body and later enabled his mind to survive by uploading itself to various networks as the robotic body was destroyed.
-
-Arnim Zola has appeared in animated television series and live-action movies. [[Toby Jones]] portrayed the character in the [[Marvel Cinematic Universe]] films ''[[Captain America: The First Avenger]]'' (2011) and ''[[Captain America: The Winter Soldier]]'' (2014) and the season one finale of the television series ''[[Agent Carter (TV series)|Agent Carter]]'' and returned to voice an alternate timeline version in the [[Disney+]] animated series ''[[What If...? (TV series)|What If...?]]'' (2021).
+The character has appeared in several forms of media outside of comics. Zola made his live-action debut in the television film ''[[Nick Fury: Agent of S.H.I.E.L.D.]]'' (1998), played by Peter Haworth. [[Toby Jones]] portrays the character in the [[Marvel Cinematic Universe]] films ''[[Captain America: The First Avenger]]'' (2011) and ''[[Captain America: The Winter Soldier]]'' (2014), the television series ''[[Agent Carter (TV series)|Agent Carter]]'', and the animated television series ''[[What If...? (TV series)|What If...?]]'' as alternate versions.
 
 ==Publication history==
-Created by [[Jack Kirby]], Arnim Zola first appeared in ''[[Captain America (comic book)|Captain America]]'' #208 (April 1977), followed by issues #209-212 (May–August 1977) of the same title.
-
-The character subsequently appeared in:
-{{columns-list|colwidth=30em|
-* ''Super-Villain Team-Up'' #17 (June 1980)
-* ''Captain America'' #275-277 (November 1982-January 1983)
-* ''The Avengers Annual'' #13 (1984)
-* ''X-Factor Annual'' #3 (1988)
-* ''Captain America'' #350 (February 1989)
-* ''Marvel Comics Presents'' #24 (July 1989)
-* ''Excalibur'' v.1 #36 (April 1991)
-* ''Captain America'' #383 (March 1991)
-* #387 (July 1991)
-* #393-396 (October 1991-January 1992)
-* ''Captain America Annual'' #11 (1992)
-* ''Marvel Comics Presents'' #106 (1992)
-* ''Fury'' #1 (May 1994)
-* ''Captain America'' #437 (March 1995)
-* ''Iron Man/X-O Manowar: Heavy Metal'' #1
-* ''X-O Manowar/Iron Man in Heavy Metal'' #1 (September 1996)
-* ''Thunderbolts'' #4 (July 1997)
-* #24 (March 1999)
-* ''Wolverine'' #139 (June 1999)
-* ''Thunderbolts'' #33 (December 1999)
-* ''Captain America'' #50 (February 2002)
-* ''Secret War: From the Files of Nick Fury'' (2005)
-* ''Marvel Holiday Special'' #2006
-* ''Captain America'' #24 (January 2007)
-* #26 (July 2007)
-* ''X-Men'' #200 (August 2007)
-* ''The Uncanny X-Men'' #488 (September 2007)
-* ''Cable & Deadpool'' #45 (November 2007)
-* ''Thunderbolts: International Incident'' (April 2008)
-* ''Captain America'' #34-36 (March–May 2008)
-* #38 (July 2008)
-* ''Wizard Deadpool'' #0
-* ''Invaders Now!'' #2 (November 2010).
-}}
-Arnim Zola received an entry in the original ''[[Official Handbook of the Marvel Universe]]'' #1 (January 1983), ''The Official Handbook of the Marvel Universe Deluxe Edition'' #1 (August 1985), and ''All-New Official Handbook of the Marvel Universe A-Z'' #12 (2006).
+Created by [[Jack Kirby]], Arnim Zola first appeared in ''[[Captain America (comic book)|Captain America and the Falcon]]'' #208 (April [[1977 in comics|1977]]).
 
 ==Fictional character biography==
 Arnim Zola was a [[Swiss people|Swiss]] [[biochemist]] during [[World War II]] who became one of the first human [[genetic engineer]]s in history after finding papers and equipment used by the offshoot race of humanity known as the [[Deviant (comics)|Deviants]]. He finds a ready home among the [[Nazi Party]], who see his experiments as a means to ensure the existence of the Master Race.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=179}}</ref>
 
-One of his first accomplishments is the creation of a brain pattern imprinting device, which allows a person's mental essence to be projected into a cloned brain. Zola uses this machine on [[Adolf Hitler]], creating the [[Hate-Monger]]. Zola was later approached by [[Baron Strucker|Baron Wolfgang von Strucker]] into taking part in the establishment of [[Hydra (comics)|HYDRA]].<ref>''Nick Fury, Agent of S.H.I.E.L.D.'' #9 - 11. Marvel Comics..</ref>
+One of his first accomplishments is the creation of a brain pattern imprinting device, which allows a person's mental essence to be projected into a cloned brain. Zola uses this machine on [[Adolf Hitler]], creating the [[Hate-Monger]]. Zola was later approached by [[Baron Strucker|Baron Wolfgang von Strucker]] into taking part in the establishment of [[Hydra (comics)|Hydra]].<ref>''Nick Fury, Agent of S.H.I.E.L.D.'' #9 - 11. Marvel Comics..</ref>
 
 The [[Red Skull]] also financed some of Zola's experiments, allowing him to produce such creations as [[Primus (Marvel Comics)|Primus]], [[Doughboy (comics)|Doughboy]], and [[Man-Fish]].<ref>''Captain America'' #209 (May 1977). Marvel Comics.</ref> During one such experiment, Zola collects humans from the rubble of [[New York City]] after the devastation caused by the being known as [[Onslaught (comics)|Onslaught]]. Zola endows a teenager with superpowers, creating the hero known as [[Jolt (comics)|Jolt]], who is eventually stopped by the [[Thunderbolts (comics)|Thunderbolts]].<ref>''Thunderbolts #1-4. Marvel Comics.</ref> Zola also collected DNA samples of [[Captain America]] at the time when Red Skull's body began to age rapidly,<ref>''Captain America'' #293-300. Marvel Comics.</ref> and used this template to create a new body for his ally.<ref>''Captain America'' #350. Marvel Comics.</ref>
 
@@ -111,37 +78,36 @@ During the 2015 "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline, there
 
 ==In other media==
 ===Television===
-====Live-action====
-Arnim Zola appears in the [[television film]] ''[[Nick Fury: Agent of S.H.I.E.L.D. (film)|Nick Fury: Agent of S.H.I.E.L.D.]]'', portrayed by [[Peter Haworth (actor)|Peter Haworth]]. This version is an elderly, wheelchair-bound [[Hydra (comics)|Hydra]] chemist.
-
-====Animation====
-* Arnim Zola makes a non-speaking cameo appearance in ''[[The Super Hero Squad Show]]'' episode "Wrath of the Red Skull".
-* Arnim Zola appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by [[Grant Moninger]]. In the episode "The Man in the Ant-Hill", he is initially imprisoned in the [[Features of the Marvel Universe#Lang Memorial Penitentiary|Big House]] before escaping in the episode "Breakout, Part 1" alongside his fellow inmates. In the episode "Living Legend", [[Baron Zemo]] reunites with Zola when they unleash [[Doughboy (comics)|Doughboy]] on New York to fight the [[Avengers (comics)|Avengers]]. After Doughboy is defeated, the [[Enchantress (Marvel Comics)|Enchantress]] and [[Executioner (comics)|Executioner]] recruit Zola and Zemo into the [[Masters of Evil]]. In the episode "Acts Of Vengeance", Zola monitors Masters of Evil members [[Living Laser]] and [[Chemistro]] until the Enchantress and Executioner eliminate them. Zola and Doughboy attempt to fight back when the Asgardians come for them next, but are easily defeated.
+* Arnim Zola makes a cameo appearance in ''[[The Super Hero Squad Show]]'' episode "Wrath of the Red Skull".
+* Arnim Zola appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by Grant Moninger. In the episode "The Man in the Ant-Hill", he is initially imprisoned in the [[Features of the Marvel Universe#Lang Memorial Penitentiary|Big House]] before escaping in the episode "Breakout, Part 1" alongside his fellow inmates. In the episode "Living Legend", [[Baron Zemo]] reunites with Zola when they unleash [[Doughboy (comics)|Doughboy]] on New York to fight the [[Avengers (comics)|Avengers]]. After Doughboy is defeated, the [[Enchantress (Marvel Comics)|Enchantress]] and [[Executioner (comics)|Executioner]] recruit Zola and Zemo into the [[Masters of Evil]]. In the episode "Acts Of Vengeance", Zola monitors Masters of Evil members [[Living Laser]] and [[Chemistro]] until the Enchantress and Executioner eliminate them. Zola and Doughboy attempt to fight back when the Asgardians come for them next, but are easily defeated.
 * Arnim Zola appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'', voiced by [[Mark Hamill]].
-* Arnim Zola appears in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]'' animated series two-part episode "Avengers No More", voiced again by Mark Hamill. This version is a member of the [[Cabal (comics)|Cabal]].
-* Arnim Zola appears in the 2010s ''[[Spider-Man (2017 TV series)|Spider-Man]]'' animated series episode "[[Spider-Island]]" Pt. 2, voiced again by Mark Hamill.<ref>{{cite episode|title=Spider-Island: Part 2|series=Spider-Man|network=Disney XD|season=1|number=20|airdate=February 4, 2018}}</ref>
-* Arnim Zola appears in the anime series ''[[Marvel Future Avengers]]'', voiced by Volcano Ota in Japanese and [[Kirk Thornton]] in English.
+* Arnim Zola appears in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]'' two-part episode "Avengers No More", voiced again by Mark Hamill. This version is a member of the [[Cabal (comics)|Cabal]].
+* Arnim Zola appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' episode "Spider-Island: Part 2", voiced again by Mark Hamill.<ref>{{cite episode|title=Spider-Island: Part 2|series=Spider-Man|network=Disney XD|season=1|number=20|airdate=February 4, 2018}}</ref>
+* Arnim Zola appears in ''[[Marvel Future Avengers]]'', voiced in Japanese by Volcano Ota and in English by [[Kirk Thornton]].<ref>{{Cite web |title=Behind The Voice Actors – Marvel Future Avengers |url=https://www.behindthevoiceactors.com/tv-shows/Marvel-Future-Avengers/voice-credits/ |website=Behind The Voice Actors}}</ref>
+
+===Film===
+* Arnim Zola appears in ''[[Nick Fury: Agent of S.H.I.E.L.D. (film)|Nick Fury: Agent of S.H.I.E.L.D.]]'', portrayed by Peter Haworth. This version is an elderly, wheelchair-bound [[Hydra (comics)|Hydra]] chemist.
 
 ===Marvel Cinematic Universe===
 {{See also|Arnim Zola (Marvel Cinematic Universe)}}
 [[File:Toby Jones as Arnim Zola.jpg|right|thumb|200px|[[Toby Jones]] as Arnim Zola in the 2011 film ''[[Captain America: The First Avenger]]''.]]
-[[Toby Jones]] portrays Arnim Zola in media set in the Marvel Cinematic Universe and produced by [[Marvel Studios]]. This version is a [[Hydra (comics)|Hydra]] scientist and a close associate of the [[Red Skull (Marvel Cinematic Universe)|Red Skull]]. 
-* First appearing in the 2011 live-action film ''[[Captain America: The First Avenger]]'', Zola helps the Red Skull harness the [[Cosmic Cube|Tesseract]]'s during WWII. After being captured by [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]] however, Zola is forced to reveal the location of the Red Skull's base.{{citation needed|date=October 2020}}
-* In the live-action television series ''[[Agent Carter (TV series)|Agent Carter]]'' episode "[[Valediction (Agent Carter)|Valediction]]", Zola receives [[Doctor Faustus (comics)|Johann Fennhoff]] as a cellmate and recruits him into Hydra.<ref>{{cite episode|title=[[Valediction (Agent Carter)|Valediction]]|series=Marvel's Agent Carter|credits=Misiano, Christopher (director); Michele Fazekas & Tara Butters (writer)|network=[[American Broadcasting Company|ABC]]|airdate=February 24, 2015|season=1|number=8}}</ref>
-* As revealed in the 2014 live-action film ''[[Captain America: The Winter Soldier]]'', Zola took advantage of [[S.H.I.E.L.D.]]'s participation in [[Operation Paperclip]] to revive Hydra by slowly taking over the former from within over the course of the intervening decades. Having also experimented on [[Bucky Barnes (Marvel Cinematic Universe)|Bucky Barnes]] during WWII, Zola personally oversees the young man's transformation into the Winter Soldier. After contracting a terminal illness in 1972, Zola had his consciousness transferred into a supercomputer in a secret S.H.I.E.L.D. facility. From there, Zola masterminded S.H.I.E.L.D.'s "Project Insight" in the present as a means to identify and target potential threats to Hydra's interests. Zola reveals all of this to Rogers and [[Natasha Romanoff (Marvel Cinematic Universe)|Natasha Romanoff]] when the two find the supercomputer housing his consciousness, stalling them in a sacrificial attempt to kill them with a missile sent by [[Alexander Goodwin Pierce|Alexander Pierce]]. Zola's supercomputer is destroyed, but Rogers and Romanoff survive and eventually foil "Project Insight" and expose Hydra.{{citation needed|date=October 2020}}
-* Zola was originally set to appear in the 2015 live-action film ''[[Ant-Man (film)|Ant-Man]]'', with concept art suggesting he downloaded a copy of his artificial intelligence to an android body akin to the comics.<ref>{{cite web|title=Ant-Man|url=http://www.joshnizzi.com/portfolio/ant-man/|first=Josh|last=Nizzi|website=joshnizzi.com}}</ref>
-* Jones voices an [[Multiverse (Marvel Comics)|alternate reality]] version of Zola in the [[Disney+]] animated series ''[[What If...? (TV series)|What If...?]]''<ref>{{cite web |last1=Hughes |first1=William |title=Marvel just released an extremely intriguing cast list for Disney+'s animated What If…? |url=https://news.avclub.com/marvel-just-released-an-extremely-intriguing-cast-list-1836569935 |website=A.V. Club |access-date=21 July 2019}}</ref> episode "[[What If... Captain Carter Were the First Avenger?]]".
+[[Toby Jones]] portrays Arnim Zola in media set in the [[Marvel Cinematic Universe]]. This version is a [[Hydra (Marvel Cinematic Universe)|Hydra]] scientist and a close associate of the [[Red Skull (Marvel Cinematic Universe)|Red Skull]]. 
+* The character first appears in the live-action film ''[[Captain America: The First Avenger]].'' Zola helps the Red Skull harness the [[Tesseract (Marvel Cinematic Universe)|Tesseract]]'s power during World War II, creating advanced weaponry for Hydra to use. After being captured by [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]] however, Zola is forced to reveal the location of the Red Skull's base.{{citation needed|date=October 2020}}
+* Zola appears in the live-action television series ''[[Agent Carter (TV series)|Agent Carter]]'' episode "[[Valediction (Agent Carter)|Valediction]]", where he receives [[Doctor Faustus (comics)|Johann Fennhoff]] as a cellmate and recruits him into Hydra.<ref>{{cite episode|title=[[Valediction (Agent Carter)|Valediction]]|series=Marvel's Agent Carter|credits=Misiano, Christopher (director); Michele Fazekas & Tara Butters (writer)|network=[[American Broadcasting Company|ABC]]|airdate=February 24, 2015|season=1|number=8}}</ref>
+* Zola appears in the live-action film ''[[Captain America: The Winter Soldier]]''. It is revealed that, following the end of World War II, Zola took advantage of [[S.H.I.E.L.D. (Marvel Cinematic Universe)|S.H.I.E.L.D.]]'s participation in [[Operation Paperclip]] to revive Hydra by slowly taking over the former from within over the course of the intervening decades. During this time, he also experimented on [[Bucky Barnes (Marvel Cinematic Universe)|Bucky Barnes]], transforming him into an assassin called the "Winter Soldier". After contracting a terminal illness in 1972, Zola had his consciousness transferred into a supercomputer in a secret S.H.I.E.L.D. facility. From there, Zola masterminded S.H.I.E.L.D.'s "Project Insight" in the present as a means to identify and target potential threats to Hydra's interests. Zola reveals all of this to Rogers and [[Natasha Romanoff (Marvel Cinematic Universe)|Natasha Romanoff]] when the two find the supercomputer housing his consciousness, stalling them in a sacrificial attempt to kill them with a missile sent by [[Alexander Goodwin Pierce|Alexander Pierce]]. Zola's supercomputer is destroyed, but Rogers and Romanoff survive and eventually foil "Project Insight" and expose Hydra.{{citation needed|date=October 2020}}
+* [[Multiverse (Marvel Comics)|Alternate reality]] versions of Zola appear in the animated television series ''[[What If...? (TV series)|What If...?]]''.<ref>{{cite web |last1=Hughes |first1=William |title=Marvel just released an extremely intriguing cast list for Disney+'s animated What If…? |url=https://news.avclub.com/marvel-just-released-an-extremely-intriguing-cast-list-1836569935 |website=A.V. Club |access-date=21 July 2019}}</ref> 
+** The first variant appears in the first episode, "[[What If... Captain Carter Were the First Avenger?]]", where he is captured and interrogated by [[Captain Carter|Peggy Carter / Captain Carter]] during World War II. 
+** The second variant appears in the eighth episode, "[[What If... Ultron Won?]]", revealing that Zola created back-ups of himself to survive through. The last copy of Zola’s mind is tracked down by Natasha Romanoff and [[Clint Barton (Marvel Cinematic Universe)|Clint Barton]] to help them defeat [[Ultron (Marvel Cinematic Universe)|Ultron]], who has killed all life in the universe. Zola agrees to help, as Ultron's actions have resulted in Hydra's destruction, leaving Zola purposeless, and has his consciousness transferred into an Ultron drone before escaping from a legion of drones with Romanoff. However, when he tries to transfer his consciousness into Ultron's mind and destroy him from the inside, he finds himself unable to do so because Ultron has left their universe. Returning in the following episode, "[[What If... the Watcher Broke His Oath?]]", Zola has his consciousness transferred into one of Barton's arrows. Later, during the final battle between the Guardians of the Multiverse and Ultron, Romanoff fires the arrow at Ultron's eye, inserting Zola's consciousness into Ultron's body and eliminating him. This also allows Zola to briefly take control of Ultron's body, though both he and [[Erik "Killmonger" Stevens|Erik Killmonger]] are sealed in a pocket dimension by the [[Watcher (Marvel Cinematic Universe)|Watcher]] and [[Doctor Strange Supreme]] after trying to take the [[Infinity Stones]] for themselves. Strange Supreme subsequently takes Zola and Killmonger back to his native universe in order to guard them for the rest of eternity.
 
 ===Video games===
-* Arnim Zola appears as a boss in ''[[Captain America: Super Soldier]]'', voiced by [[André Sogliuzzo]].<ref>{{cite web|author=Jim Reilly |url=http://xbox360.ign.com/articles/112/1125597p1.html#ixzz11WLb93H2 |title=Captain America: Super Soldier Announced |publisher= News Corporation | work = Xbox 360 IGN |date=2010-10-05 |access-date=2011-01-11}}</ref>
-* Arnim Zola appears as a boss in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.
-* Arnim Zola appears as a playable character in ''[[Lego Marvel Super Heroes]]'', voiced by [[Robin Atkin Downes]].<ref>{{cite web|url=http://marvel.com/news/story/21069/galactus_lands_in_new_lego_marvel_super_heroes_trailer#ixzz2cc1c8jqE|title=Galactus Lands in New LEGO Marvel Super Heroes Trailer - Marvel Heroes Games - News - Marvel.com}}</ref>
-* Arnim Zola appears in ''[[Lego Marvel's Avengers]]'', voiced again by [[Mark Hamill]]. He appears in both his original robotic body from the comics and a human body based on his appearance in ''Captain America: The First Avenger''.
-* Arnim Zola appears as a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://m.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=28 January 2018}}</ref>
+* Arnim Zola appears as a [[boss (gaming)|boss]] in ''[[Captain America: Super Soldier]]'', voiced by [[André Sogliuzzo]].<ref>{{cite web|author=Jim Reilly |url=http://xbox360.ign.com/articles/112/1125597p1.html#ixzz11WLb93H2 |title=Captain America: Super Soldier Announced |publisher= News Corporation | work = Xbox 360 IGN |date=2010-10-05 |access-date=2011-01-11}}</ref>
+* Arnim Zola appeared as a boss in ''[[Marvel Avengers Alliance]]''.
+* Arnim Zola appears as an [[unlockable (gaming)|unlockable]] playable character in ''[[Lego Marvel Super Heroes]]'', voiced by [[Robin Atkin Downes]].<ref>{{cite web|url=http://marvel.com/news/story/21069/galactus_lands_in_new_lego_marvel_super_heroes_trailer#ixzz2cc1c8jqE|title=Galactus Lands in New LEGO Marvel Super Heroes Trailer - Marvel Heroes Games - News - Marvel.com}}</ref>
+* Arnim Zola appears as an unlockable playable character in ''[[Lego Marvel's Avengers]]'', voiced again by Mark Hamill. He appears in both his original robotic body from the comics and a human body based on his appearance in ''Captain America: The First Avenger''.
+* Arnim Zola appears as an unlockable playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://m.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=28 January 2018}}</ref>
 
 ===Miscellaneous===
-* Arnim Zola appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series' Infinite Comics tie-in.
-* Toby Jones appears as Arnim Zola in the [[Ant-Man and The Wasp: Nano Battle!]] attraction at [[Hong Kong Disneyland]].
+* Arnim Zola appears in the [[Hong Kong Disneyland]] attraction [[Ant-Man and The Wasp: Nano Battle!]], portrayed by Toby Jones.
 
 ==References==
 {{Reflist|2}}
@@ -169,4 +135,4 @@ Arnim Zola appears in the [[television film]] ''[[Nick Fury: Agent of S.H.I.E.L.
 [[Category:Marvel Comics telepaths]]
 [[Category:Marvel Comics television characters]]
 [[Category:Marvel Comics Nazis]]
-[[Category:Hydra agents]]
+[[Category:Hydra (comics) agents]]

@@ -2,9 +2,9 @@
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Teen Abomination
-| image          = <!-- abomination -->
-| picture       = <!-- default 250 -->
-| caption        = Abomination transformation from human form next to Ironman.
+| image          = Jamie Carlson (Earth-616).jpg
+| picture        = <!-- default 250 -->
+| caption        = 
 | alt            = 
 | publisher      = [[Marvel Comics]]
 | debut          = ''Superior Iron Man'' #1
@@ -65,5 +65,6 @@ Teen Abomination has superhuman strength, speed, stamina and durability.
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Characters created by Tom Taylor (writer)]]

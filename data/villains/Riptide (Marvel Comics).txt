@@ -1,6 +1,6 @@
-{{short description|supervillain appearing in Marvel Comics}}
+{{Short description|Supervillain appearing in Marvel Comics}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Janos Quested (Earth-616) from X-Men Battle of the Atom (video game) 001.jpg
 |caption='''Riptide'''
 |character_name=Riptide
 |real_name=Janos Quested

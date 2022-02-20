@@ -1,17 +1,19 @@
+{{short description|Marvel Comics character}}
 {{Infobox comics character
-|image=
-|caption=
-|character_name=Peepers
-|real_name=Peter Quinn
-|species=[[Mutant (Marvel Comics)|Human Mutant]]
-|publisher=[[Marvel Comics]]
-|debut=''[[Captain America]] Annual'' #4 (1977)
-|creators=[[Jack Kirby]]
-|alliances=[[X-Men: The 198|The 198]]<br />[[Brotherhood of Mutants|Brotherhood of Evil Mutants]]<br />[[Resistants|Mutant Force]]<br />[[Resistants]]<br />[[Secret Empire (organization)|Secret Empire]]
-|aliases=Occult, Peeper
-|powers=Telescopic/microscopic eyesight<br />X-ray vision<br />Eye beams
+|image = Peter Quinn (Earth-616) from S.W.O.R.D. Vol 2 1 001.jpg
+|caption =
+|character_name = Peepers
+|real_name = Peter Quinn
+|species = [[Mutant (Marvel Comics)|Human Mutant]]
+|publisher = [[Marvel Comics]]
+|debut = ''[[Captain America]] Annual'' #4 (1977)
+|creators = [[Jack Kirby]]
+|alliances = [[X-Men: The 198|The 198]]<br />[[Brotherhood of Mutants|Brotherhood of Evil Mutants]]<br />[[Resistants|Mutant Force]]<br />[[Resistants]]<br />[[Secret Empire (organization)|Secret Empire]]
+|aliases = Occult, Peeper
+|powers = Telescopic/microscopic eyesight<br />X-ray vision<br />Eye beams
 }}
-'''Peepers''' is a [[fictional]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Captain America]] Annual'' #4 and was created by [[Jack Kirby]].
+
+'''Peepers''' is a [[fictional]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Captain America (comic book)|Captain America Annual]]'' #4 and was created by [[Jack Kirby]].
 
 ==Fictional character biography==
 Peter Quinn was born in [[Cedar City, Utah]]. He was recruited by [[Magneto (Marvel Comics)|Magneto]] as a mercenary and professional criminal to be part of his new [[Brotherhood of Mutants|Brotherhood of Evil Mutants]]. He takes the name ''Peeper'' and joins [[Slither (comics)|Slither]], [[Randall Darby|Shocker]], [[Lifter (comics)|Lifter]] and [[Burner (comics)|Burner]]. After the group fails their first mission, Magneto abandons them.<ref>''Captain America Annual'' #4</ref>

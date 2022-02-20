@@ -1,6 +1,7 @@
+{{Short description|Marvel Comics fictional character}}
 {{self-published|date=September 2012}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=
+image=Reptyl (Earth-616) from Official Handbook of the Marvel Universe A-Z Vol 1 9 0001.jpg
 |caption=
 |character_name=Reptyl
 |real_name=
@@ -16,7 +17,7 @@ image=
 |powers=
 }}
 
-'''Reptyl''' is a fictional character in the [[Marvel Universe]].
+'''Reptyl''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Fictional character biography==
 Cap'n Reptyl was born on an unnamed alien planet in the Coal Sack Nebula. He later became the leader of a band of space pirates. He sheltered a [[Skrull]] posing as the [[Contemplator (Marvel Comics)|Contemplator]] from [[Galactus]]'s vengeance. Reptyl captured the [[Silver Surfer]] and Galactus's herald [[Nova (Frankie Raye)|Nova]]. He battled the escaped Nova, and was forced to release the Silver Surfer. He partially devoured the Contemplator.<ref>''Silver Surfer'' Vol. 3 #11-12</ref> He set [[Firelord (comics)|Firelord]] and [[Starfox (comics)|Starfox]] against the Silver Surfer and Nova.<ref>''Silver Surfer'' Vol. 3 #19</ref> He abducted Lady Karlot and stole her treasure.<ref>''Silver Surfer Annual'' #2</ref> He later exchanged his crew with the [[Stranger (comics)|Stranger]] for Empress [[S'byll]] of the Skrulls, and formed an alliance.<ref>''Silver Surfer'' Vol. 3 #27</ref> He then battled and seemingly killed the [[Super-Skrull]].<ref>''Silver Surfer'' Vol. 3 #28</ref> Reptyl led the Skrull fleet against the [[Kree]] fleet, and was almost killed by Clumsy Foulup.<ref>''Silver Surfer'' Vol. 3 #29</ref> He was later attacked by the Super-Skrull, and cast adrift in space.<ref>''Fantastic Four Annual'' #24</ref>
@@ -46,6 +47,10 @@ Reptyl later became Reptyl Prime as a result of genetic mutation. His superhuman
 {{Silver Surfer}}
 [[Category:Characters created by Steve Englehart]]
 [[Category:Comics characters introduced in 1988]]
+[[Category:Fictional space pilots]]
 [[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics extraterrestrial supervillains]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Space pirates]]

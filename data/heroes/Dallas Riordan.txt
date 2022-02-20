@@ -1,12 +1,12 @@
 {{In-universe|date=November 2009}}
 {{notability|date=February 2021}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Dallas Riordan.jpg
 |caption=
 |character_name=Dallas Riordan
 |real_name=Dallas Riordan
 |publisher=[[Marvel Comics]]
-|debut=''Thunderbolts'' vol. 1 #1 (April 1997)<br>''Thunderbolts'' vol. 1 #16 (July 1998) (as Citizen V)<br>''Thunderbolts'' vol. 1 #57 (December 2001) (as Atlas)<br>''Avengers/Thunderbolts'' vol. 1 #1 (May 2004) (as Vantage)
+|debut=''Thunderbolts'' #1 (April 1997)<br>''Thunderbolts'' #16 (July 1998) (as Citizen V)<br>''Thunderbolts'' #57 (Dec. 2001) (as Atlas)<br>''Avengers/Thunderbolts'' #1 (May 2004) (as Vantage)
 |creators=[[Kurt Busiek]]<br>[[Mark Bagley]]
 |alliances=[[V-Battalion]]<br/>[[New York Police Department|NYPD]]<br/>[[Thunderbolts (comics)|Thunderbolts]]
 |aliases=[[Citizen V]], [[Atlas (Marvel Comics)|Atlas]], Vantage 
@@ -59,6 +59,7 @@ Dallas is not the granddaughter of John Watkins Sr, the original Citizen V, nor 
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Fictional characters from New York City]]
+[[Category:Fictional police officers in comics]]
 [[Category:Comics characters introduced in 1997]]
 [[Category:Characters created by Kurt Busiek]]
 [[Category:Characters created by Mark Bagley]]

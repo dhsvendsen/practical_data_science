@@ -1,5 +1,6 @@
+{{Short description|Fictional character from Marvel Comics}}
 {{Superherobox| <!--Wikipedia:WikiProject Comics-->
-image=
+image=Arcadia DeVille.jpg
 |caption=
 |character_name=Arcadia
 |real_name=Arcadia DeVille

@@ -4,7 +4,7 @@
 |converted=y
 |caption=Rockslide<br>Art by [[Chris Bachalo]]
 |alter_ego=Santo Vaccarro
-|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|species=[[Mutant (Marvel Comics)|Mutant]]
 |publisher=[[Marvel Comics]]
 |debut=''[[New Mutants]]'' vol. 2, #3 (September [[2003 in comics|2003]])
 |creators=[[Nunzio DeFilippis]]<br>[[Christina Weir]]
@@ -120,12 +120,13 @@ Rockslide appears in the early concept art of the 2014 film ''[[X-Men: Days of F
 ==External links==
 * [http://www.marvel.com/universe/Rockslide Rockslide] at Marvel.com
 
-{{X-Men}}
+{{X-Men characters}}
 
 [[Category:Fictional golems]]
 [[Category:Fictional characters with earth or stone abilities]]
 [[Category:Fictional characters from Boston]]
 [[Category:Marvel Comics male superheroes]]
+[[Category:Fictional Italian American people]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]
 [[Category:Italian superheroes]]

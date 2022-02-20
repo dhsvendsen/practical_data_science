@@ -1,4 +1,4 @@
-'''Crusher''' is the name of three fictional supervillains appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Crusher''' is the name of three <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->supervillains appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 The first Crusher first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #130 and was created by [[Stan Lee]] and [[Jack Kirby]].
@@ -85,4 +85,5 @@ Crusher II and Crusher III have superhuman strength, durable skin, and enhanced 
 [[Category:Fictional scientists]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics male supervillains]]
+[[Category:Marvel Comics martial artists]]<!--Boxing is a martial art-->
 [[Category:Marvel Comics supervillains]]

@@ -8,7 +8,7 @@ The second Synapse, '''Emily Guerrero''', was introduced as a new member of the 
 ==Fictional character biography==
 ===Max Mullins===
 {{Infobox comics character
-|image=
+|image=Max Mullins.jpg
 |caption=
 |character_name=Synapse
 |real_name=Max Mullins
@@ -71,6 +71,7 @@ The Emily Guerrero version of Synapse possesses telepathy, animal control, enhan
 [[Category:Comics characters introduced in 1998]]
 [[Category:Comics characters introduced in 2015]]
 [[Category:Inhumans]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

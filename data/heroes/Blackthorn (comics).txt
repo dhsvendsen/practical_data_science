@@ -1,20 +1,20 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image= Blackthorn_Morituri_cover.jpg
 |converted=y
-|caption= '''Blackthorn''' fighting an alien. Cover of ''Strikeforce: Morituri #7''. Art by [[Brent Anderson]].
+|caption= '''Blackthorn''' fighting an alien. Cover of ''Strikeforce: Morituri #7''. Art by [[Brent Anderson (comics)|Brent Anderson]].
 |character_name='''Blackthorn'''
 |real_name=Aline Pagrovna
 |publisher=[[Marvel Comics]]
 |debut= ''Strikeforce Morituri'' #1 (December 1986)
-|creators=[[Peter B. Gillis]]<br> [[Brent Anderson]]
+|creators=[[Peter B. Gillis]]<br> [[Brent Anderson (comics)|Brent Anderson]]
 |alliances=[[Strikeforce: Morituri]]
 |powers=Molecular bond disruption <br> Enhanced strength
 |}}
 
-'''Blackthorn''' ('''Aline Pagrovna''') is a [[Character (arts)|fictional character]], a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of the [[Strikeforce: Morituri]]. The character was created by [[Peter B. Gillis]] and [[Brent Anderson]].
+'''Blackthorn''' ('''Aline Pagrovna''') is a [[Character (arts)|fictional character]], a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of the [[Strikeforce: Morituri]]. The character was created by [[Peter B. Gillis]] and [[Brent Anderson (comics)|Brent Anderson]].
 
 ==Publication history==
-Aline Pagrovna (Blackthorn) was created by writer [[Peter B. Gillis]] and artist [[Brent Anderson]] and debuted in ''Strikeforce: Morituri'' #1 (December 1986), a [[Marvel Comics]] series set in a dystopian future, where young people, intent on fighting an invading alien species, undergo a scientific process which grants them superhuman abilities, albeit significantly reducing their lifespan in the process. The codename "Blackthorn" was introduced in issue #2. Blackthorn remained in the regular cast of the book throughout ''Strikeforce: Morituri'' #1-15. She subsequently went missing, before reappearing in issues #19-20, which tied up her hanging story threads and ended with her inevitable death.
+Aline Pagrovna (Blackthorn) was created by writer [[Peter B. Gillis]] and artist [[Brent Anderson (comics)|Brent Anderson]] and debuted in ''Strikeforce: Morituri'' #1 (December 1986), a [[Marvel Comics]] series set in a dystopian future, where young people, intent on fighting an invading alien species, undergo a scientific process which grants them superhuman abilities, albeit significantly reducing their lifespan in the process. The codename "Blackthorn" was introduced in issue #2. Blackthorn remained in the regular cast of the book throughout ''Strikeforce: Morituri'' #1-15. She subsequently went missing, before reappearing in issues #19-20, which tied up her hanging story threads and ended with her inevitable death.
 
 Blackthorn was the last member of the original roster to die and also has the distinction of appearing in more issues of the series than any other Morituri member, appearing in a total of 16 issues. Together with Adept, Blackthorn was the favorite character of series creator [[Peter B. Gillis]], thus explaining her prominence and longevity, amidst the ever-shifting cast of the book. According to Gillis,  Blackthorn "had some of the best moments in the book. Which is partly why I killed her last — sort of a [[Hannibal Lecter]] thing to say, isn’t it?".<ref>[http://magazine.uchicago.edu/0412/alumni/hero.shtml ''The University of Chicago Magazine, Volume 97, Number 2, December 2004'']</ref>
 
@@ -42,6 +42,7 @@ Blackthorn had the ability to disrupt the molecular bonds of virtually every sub
 
 {{DEFAULTSORT:Blackthorn (Comics)}}
 [[Category:Comics characters introduced in 1986]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Strikeforce: Morituri]]

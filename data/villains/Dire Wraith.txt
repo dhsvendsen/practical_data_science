@@ -51,7 +51,7 @@ Eventually, the female-dominated faction of magically-oriented Wraiths, blaming 
 
 [[Image:Rom-47.jpg|150px|thumb|left|The female Dire Wraiths arrive on Earth in ''Rom'' (vol. 1) #47 (October 1983).
 Cover art by [[Bill Sienkiewicz]]]]
-Soon afterwards, the Wraiths launched a plan to help them conquer Earth once and for all; they cast a spell on Earth's sun, allowing them to use its energies to draw Wraithworld into [[Earth]]'s [[solar system]]. This greatly increased their magical powers. Emboldened, the Wraiths made a mass attack on New York City, where they clashed with dozens of the city's [[superhero]]es. However, thanks to Rom, who used a special satellite to boost the power of his Neutralizer, Wraithworld in its entirety was banished into [[Limbo (Marvel Comics)|Limbo]], causing all Wraiths in this [[galaxy]] to lose their powers, including, apparently, their shapeshifting abilities. Subsequently, Rom banishes all the defeated Wraiths into Limbo.
+Soon afterwards, the Wraiths launched a plan to help them conquer Earth once and for all; they cast a spell on Earth's Sun, allowing them to use its energies to draw Wraithworld into [[Earth]]'s [[Solar System]]. This greatly increased their magical powers. Emboldened, the Wraiths made a mass attack on New York City, where they clashed with dozens of the city's [[superhero]]es. However, thanks to Rom, who used a special satellite to boost the power of his Neutralizer, Wraithworld in its entirety was banished into [[Limbo (Marvel Comics)|Limbo]], causing all Wraiths in this [[galaxy]] to lose their powers, including, apparently, their shapeshifting abilities. Subsequently, Rom banishes all the defeated Wraiths into Limbo.
 
 The Wraith Queen, Volx, later made appearances in issues of ''[[New Warriors]]'' (vol. 1) and ''[[Nova (Richard Rider)|Nova]]'' (vol. 2). It was later confirmed that this is the same Wraith queen introduced in ''Rom'' (vol. 1) #48.<ref>''Annihilators'' #3 (July, 2011)</ref>
 
@@ -65,7 +65,7 @@ The Dire Wraiths later appear as a member of the Universal [[Inhumans]] alongsid
 ===Standalone comic series===
 {{Expand section|date=August 2011}}
 
-The Dire Wraiths received their own comic book series, which has received mixed reviews.<ref name=Star>{{cite mag |last1=Fortune |first1=Ed |title=ROM – DIRE WRAITHS #1 |url=https://www.starburstmagazine.com/reviews/rom-dire-wraiths-1 |magazine=[[Starburst (magazine)|Starburst]] |date=27 January 2020}}</ref><ref name=Multi>{{cite web |last1=O'Neal |first1=Jonathan |title=Pick of the Week: "Rom: Dire Wraiths" #1 |url=http://www.multiversitycomics.com/reviews/potw-rom-dire-wraiths-1/ |website=Multiversity Comics |date=January 16, 2020}}</ref> While the characterization of the comic was praised,<ref name=Multi/> its cartoonish art style was heavily criticized.<ref name=Star/>
+The Dire Wraiths received their own comic book series, which has received mixed reviews.<ref name=Star>{{cite magazine |last1=Fortune |first1=Ed |title=ROM – DIRE WRAITHS #1 |url=https://www.starburstmagazine.com/reviews/rom-dire-wraiths-1 |magazine=[[Starburst (magazine)|Starburst]] |date=27 January 2020}}</ref><ref name=Multi>{{cite web |last1=O'Neal |first1=Jonathan |title=Pick of the Week: "Rom: Dire Wraiths" #1 |url=http://www.multiversitycomics.com/reviews/potw-rom-dire-wraiths-1/ |website=Multiversity Comics |date=January 16, 2020}}</ref> While the characterization of the comic was praised,<ref name=Multi/> its cartoonish art style was heavily criticized.<ref name=Star/>
 
 ==Dire Wraith characters==
 The following lists some of the more notable Dire Wraith characters
@@ -87,8 +87,8 @@ The Dire Wraith's have been criticized as being "evil for evil's sake" and as ha
 
 ==References==
 {{Reflist|refs=
-<ref name="feature9">{{cite mag |last1=Huber |first1=Chuck |title=Year in Review |magazine=Comics Feature |publisher=[[New Media Publishing]] |issue=9}}</ref>
-<ref name="feature17">{{cite mag |last1=Howell |first1=Richard |last2=Kalish |first2=Carol |last3=Busiek |first3=Kurt |title=Bill Mantlo |magazine=Comics Feature |publisher=[[New Media Publishing]] |issue=17|date=June 1981}}</ref>
+<ref name="feature9">{{cite magazine |last1=Huber |first1=Chuck |title=Year in Review |magazine=Comics Feature |publisher=[[New Media Publishing]] |issue=9}}</ref>
+<ref name="feature17">{{cite magazine |last1=Howell |first1=Richard |last2=Kalish |first2=Carol |last3=Busiek |first3=Kurt |title=Bill Mantlo |magazine=Comics Feature |publisher=[[New Media Publishing]] |issue=17|date=June 1981}}</ref>
 <ref name="Hasbro-TM">{{cite web |last1=Johnston |first1=Rich |title=Marvel Comics Abandons Trademark Challenge Against Hasbro Over "Dire Wraiths" |url=https://www.bleedingcool.com/2017/04/11/marvel-comics-abandons-trademark-challenge-against-hasbro-over-dire-wraiths/ |website=[[Bleeding Cool]] |publisher=[[Avatar Press]] |date=April 11, 2017}}</ref>}}
 
 ==External links==
@@ -108,6 +108,7 @@ The Dire Wraith's have been criticized as being "evil for evil's sake" and as ha
 [[Category:Characters created by Al Milgrom]]
 [[Category:Characters created by Bill Mantlo]]
 [[Category:Hasbro characters]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics characters who are shapeshifters]]
 [[Category:Marvel Comics characters who use magic]]
 [[Category:Marvel Comics extraterrestrial supervillains]]

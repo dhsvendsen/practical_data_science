@@ -1,6 +1,6 @@
 {{short description|Fictional Marvel Comics Character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Ezekiel Sims.png
 |imagesize=
 |caption=
 |character_name=Ezekiel
@@ -8,7 +8,7 @@
 |publisher=Marvel Comics
 |debut=''[[The Amazing Spider-Man]]'' vol. 2 #30 (June 2001)
 |creators=[[J. Michael Straczynski]]<br>[[John Romita Jr.]]
-|alliances=[[The Spider Society]]
+|alliances=The Spider Society
 |aliases=Zeke
 |powers=Highly skilled businessman<br>Formidable hand to hand combatant<br>Superhuman strength, speed, agility, stamina, reaction time and resistance to injury<br>Extrasensory perception<br>Knowledge of the nature of totems<br>Ability to stick to any solid surface
 |}}
@@ -31,7 +31,7 @@ During the ''[[Original Sin (comics)|Original Sin]]'' storyline following the mu
 ==Powers and abilities==
 Ezekiel possesses a number of superhuman attributes that are almost identical to those naturally possessed by Spider-Man. His strength, speed, stamina, agility, reaction time, and resistance to physical injury are all enhanced to superhuman levels. Although Ezekiel is of an advanced age, none of his physical attributes have declined over the decades.
 
-Ezekiel also possesses the ability to stick to most surfaces and crawl along them in the same way as Spider-Man. He also possesses a type of [[Extrasensory perception|E.S.P.]] that serves as an early warning system in much the same way as Spider-Man's spider-sense, although his was not as developed as Spider-Man's. Because of their nearly identical powers, Ezekiel and Spider-Man are immune to each other's early warning system.
+Ezekiel also possesses the ability to stick to most surfaces and crawl along them in the same way as Spider-Man. He also possesses a type of [[Extrasensory perception|E.S.P.]] that serves as an [[early warning system]] in much the same way as Spider-Man's spider-sense, although his was not as developed as Spider-Man's. Because of their nearly identical powers, Ezekiel and Spider-Man are immune to each other's early warning system.
 
 In addition to his powers, Ezekiel is extremely wealthy and is a highly skilled businessman and owner of a company with international connections. As with Spider-Man, he is a formidable hand-to-hand combatant though he has had no formal training. He uses a unique type of freestyle fighting that allows him to make full use of his powers. He does not seem to have any web-generating devices like Spider-Man's web-shooters, and is never seen to produce any webbing naturally. In his conversations with Peter Parker, the subject never comes up. He is knowledgeable of the mystical nature of totems, and once told Peter the legend of [[Anansi|the first "Spider-Man"]].
 
@@ -39,12 +39,12 @@ In addition to his powers, Ezekiel is extremely wealthy and is a highly skilled 
 ===Spider-Verse===
 During the "[[Spider-Verse]]" storyline, different versions of Ezekiel are featured:
 
-* {{anchor|Earth-4}}One of the Spider-Men recruited to fight the Inheritors is the "[[Alternative versions of Spider-Man#Old Man Spider|Old Man Spider]]" of Earth-4 who wears a similar outfit to the Spider-Man of Earth-312500 (as seen in "The Amazing Spider-Man" #500).<ref>''Edge of Spider-Verse'' #5</ref> After being fatally injured by [[Daemos]] of the Inheritors, the "Old Man Spider-Man" is revealed to be an alternate Ezekiel who took up the Spider-Man identity after his version of Peter was killed by Morlun. Before succumbing to his wounds, Ezekiel implores the Spider-Man of Earth-616 to protect "[[Silk (comics)|the Bride]], [[Kaine Parker|the Other]], and [[Benjamin Richard Parker|the Scion]]".<ref>{{Cite comic|writer = Dan Slott|penciller = Olivier Coipel|inker = Wade von Grawbadger|story = Spider-Verse: Part 2|title = The Amazing Spider-Man|volume = 3|issue = #10|date = 19 November 2014|publisher = Marvel Comics|location = United States}}</ref>
+* {{anchor|Earth-4}}One of the Spider-Men recruited to fight the Inheritors is the "[[Alternative versions of Spider-Man#Old Man Spider (Earth-4)|Old Man Spider]]" of Earth-4 who wears a similar outfit to the Spider-Man of Earth-312500 (as seen in "The Amazing Spider-Man" #500).<ref>''Edge of Spider-Verse'' #5</ref> After being fatally injured by [[Daemos]] of the Inheritors, the "Old Man Spider-Man" is revealed to be an alternate Ezekiel who took up the Spider-Man identity after his version of Peter was killed by Morlun. Before succumbing to his wounds, Ezekiel implores the Spider-Man of Earth-616 to protect "[[Silk (comics)|the Bride]], [[Kaine Parker|the Other]], and [[Benjamin Richard Parker|the Scion]]".<ref>{{Cite comic|writer = Dan Slott|penciller = Olivier Coipel|inker = Wade von Grawbadger|story = Spider-Verse: Part 2|title = The Amazing Spider-Man|volume = 3|issue = #10|date = 19 November 2014|publisher = Marvel Comics|location = United States}}</ref>
 * {{anchor|Earth-3145}}The Earth-3145 version of Ezekiel approached [[Uncle Ben|Ben Parker]] (who had retired from being Spider-Man after Aunt May and Peter were killed by the [[Norman Osborn|Emerald Elf]]) and informed Ben about the imminent arrival of Morlun to kill him. With nothing left, Ben accepted Ezekiel's offer and was maintained in a secret bunker in Sims Tower even after New York City was destroyed in a nuclear holocaust caused by one of [[Doctor Octopus]]' blackmail schemes going horribly wrong.<ref>{{Cite comic|writer = Dan Slott|penciller = Giuseppe Camuncoli|inker = Cam Smith|story = Spider-Verse Part Five: Spider-Men: No More|title = The Amazing Spider-Man|volume = 3|issue = #13|date = 21 January 2015|publisher = Marvel Comics|location = United States}}</ref>
 
 ==In other media==
 ===Video games===
-* Ezekiel appears as a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.<ref>https://news.marvel.com/games/86829/venom-inc-wreaks-havoc-across-spider-man-unlimited/</ref>
+* Ezekiel appears as a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.<ref>{{Cite web|url=https://news.marvel.com/games/86829/venom-inc-wreaks-havoc-across-spider-man-unlimited/|title=Venom Inc. Wreaks Havoc Across 'Spider-Man Unlimited'}}</ref>
 
 ==References==
 {{Reflist}}

@@ -1,10 +1,10 @@
 {{no footnotes|date=June 2010}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
-| image =
+| image = Enigma (Marvel Comics).png
 | imagesize =
 | converted = y
-| caption = "Tara" from ''Peter Parker: Spider-Man'' (vol. 2) #48
+| caption = 
 | publisher = [[Marvel Comics]]
 | debut = ''Peter Parker: Spider-Man'' (vol. 2) #48
 | creators = [[Paul Jenkins (writer)|Paul Jenkins]]<br>[[Mark Buckingham (comic book artist)|Mark Buckingham]]<br>Wayne Faucher
@@ -23,7 +23,7 @@
 | villain = y
 | sortkey =
 }}
-'''Enigma''' ('''Tara Virango''') is a [[Character (arts)|fictional character]], a [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Tara is a native of [[Bangladesh]] and through her [[Mutant (Marvel Comics)|mutation]] from a nano-virus, she gained superhuman powers giving her some sort of connection to the Buddhist goddess, [[Tara (Buddhism)|Tara]].
+'''Enigma''' ('''Tara Virango''') is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Tara is a native of [[Bangladesh]] and through her [[Mutant (Marvel Comics)|mutation]] from a nano-virus, she gained superhuman powers giving her some sort of connection to the Buddhist goddess, [[Tara (Buddhism)|Tara]].
 
 ==Character history==
 Enigma makes her comic debut in ''Peter Parker: Spider-Man'' (vol. 2) #48. Tara seeks revenge against those who infected the Bangladeshi village of Malpura: AGK, Inc. She contacts [[Spider-Man]] in order to seek his help in bringing justice to the people infected and killed by the nano-virus. The AGK corporation was commissioned by the [[CIA]] to create an intelligent metal nano-virus capable of enhancing latent mutant abilities. AGK tested the virus on Malpura, killing four thousand people. Tara survived, but was infected with the virus, which granted her superhuman abilities.

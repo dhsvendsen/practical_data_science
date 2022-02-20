@@ -1,4 +1,4 @@
-{{short description|Fictional Marvel comics supervillain}}
+{{short description|Fictional Marvel comics supervillan}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Ringmaster (Marvel Comics).png
 |caption=The Ringmaster.<br />Art by [[Jack Kirby]] and [[Dick Ayers]].
@@ -16,7 +16,7 @@ The '''Ringmaster''' is a [[fictional]] character, a [[supervillain]] appearing 
 ==Publication history==
 A villain known as the Ringmaster of Death appeared in ''[[Captain America Comics]]'' #5 (Aug 1941).  This character also appeared much later in flashback in ''Captain America'' #112 (April 1969).
 
-The second Ringmaster is '''Maynard Tiboldt'''. Since his first appearance in ''[[The Incredible Hulk (comic book)|Hulk]]'' #3, he has turned up as a somewhat pathetic and luckless opponent for virtually every hero in the Marvel universe, ranging from [[Spider-Man]] to [[Howard the Duck]]. He is a tall thin man who sports a [[Fu Manchu moustache]] and dresses in a green variation on the traditional circus [[ringmaster (circus)|ringmaster]] costume. Having acquired a hypnosis-wave generator originally created by the [[Red Skull]] and mounted said device in his costume's [[top hat]], the Ringmaster's usual scheme is to lead the self-titled "[[Circus of Crime]]" into a community and rob the local citizenry as they attend his circus. Nearly every appearance of the Ringmaster ends with him being thrown back into jail, having been defeated by his current foe.
+The second Ringmaster is Maynard Tiboldt. Since his first appearance in ''[[The Incredible Hulk (comic book)|Hulk]]'' #3, he has turned up as a somewhat pathetic and luckless opponent for virtually every hero in the Marvel universe, ranging from [[Spider-Man]] to [[Howard the Duck]]. He is a tall thin man who sports a [[Fu Manchu moustache]] and dresses in a green variation on the traditional circus [[ringmaster (circus)|ringmaster]] costume. Having acquired a hypnosis-wave generator originally created by the [[Red Skull]] and mounted said device in his costume's [[top hat]], the Ringmaster's usual scheme is to lead the self-titled "[[Circus of Crime]]" into a community and rob the local citizenry as they attend his circus. Nearly every appearance of the Ringmaster ends with him being thrown back into jail, having been defeated by his current foe.
 
 ==Fictional character biography==
 
@@ -65,6 +65,9 @@ With the Cosmic Ring, Tiboldt gained the ability to alter reality in a {{convert
 
 ===Video games===
 * Ringmaster appears in a Spider-Man [[interactive fiction]] game for various 8-bit computers in the 1980s.
+
+===Podcast===
+* Ringmaster appears in [[Marvel's Wastelanders|Marvel's Wastelanders: Hawkeye]], voiced by [[Joe Morton]].<ref>{{cite web |last1=Kaplan |first1=Rebecca |title=WASTELANDERS: Clint Barton’s No-Good Very Bad Repeating Day |url=https://marvelblog.com/2021/09/30/wastelanders-clint-bartons-no-good-very-bad-repeating-day/ |website=marvelblog.com |access-date=13 October 2021}}</ref>
 
 ==References==
 {{reflist}}

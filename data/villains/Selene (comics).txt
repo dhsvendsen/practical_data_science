@@ -1,4 +1,4 @@
-{{short description|Fictional character in Marvel Comics}}
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name=Selene
 |image=SELENEx.png
@@ -19,7 +19,7 @@
 |villain=y
 |sortkey=Selene
 }}
-'''Selene Gallio''' is a [[Character (arts)|fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. As a [[Mutant (Marvel Comics)|mutant]] and an enemy of the [[X-Men]], she is often associated with the [[Hellfire Club (comics)|Hellfire Club]]'s Inner Circle.
+'''Selene Gallio''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. As a [[Mutant (Marvel Comics)|mutant]] and an enemy of the [[X-Men]], she is often associated with the [[Hellfire Club (comics)|Hellfire Club]]'s Inner Circle.
 
 The character appeared in the 2019 film ''[[Dark Phoenix (film)|Dark Phoenix]]'', played by Kota Eberhardt.
 
@@ -125,7 +125,7 @@ Selene appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the 
 * [[Underworld (film series)|''Underworld'']] (2003–2016) co-creator [[Kevin Grevioux]] confirmed that the character [[Selene (Underworld)|Selene]], played by [[Kate Beckinsale]], is based on Selene Gallio.<ref>[http://moviesstock1.blogspot.com/2009/06/exclusive-kevin-grevioux-talks.html ]{{dead link|date=September 2017}}</ref><ref>{{cite web|url=https://www.cbr.com/underworld-secrets/|title=''Underworld'': 20 Juicy BTS Secrets Only Huge Fans Know|first=Sarah|last=LaPointe|date=13 April 2018 |work=[[Comic Book Resources|CBR]]|publisher=[[Comic Book Resources]]}}</ref>
 
 ==References==
-{{reflist|30em}}
+{{reflist}}
 
 ==External links==
 * [http://www.marvel.com/universe/Selene Selene] at Marvel.com
@@ -136,7 +136,7 @@ Selene appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the 
 * {{Marveldatabase|Selene}}
 
 {{New Mutants}}
-{{X-Men}}
+{{X-Men characters}}
 
 {{DEFAULTSORT:Selene (Comics)}}
 [[Category:Characters created by Chris Claremont]]
@@ -150,4 +150,5 @@ Selene appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the 
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics telepaths]]
 [[Category:Marvel Comics vampires]]
+[[Category:Selene]]
 [[Category:X-Men supporting characters]]

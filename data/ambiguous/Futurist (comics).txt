@@ -1,6 +1,6 @@
 {{Notability|date=August 2018}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
-|image=
+|image=Randolph James (Earth-616) from Fantastic Four Vol 1 215.jpg
 |caption=
 |character_name=Futurist
 |real_name=Randolph James
@@ -37,7 +37,7 @@ The Futurist floated towards the Fantastic Four's headquarters, the [[Baxter Bui
 *{{Marvunapp|http://www.marvunapp.com/Appendix/futuristff.htm|Futurist}}
 *http://www.comicbookdb.com/character.php?ID=1311
 
-[[Category:Characters created by John Byrne]]
+[[Category:Characters created by John Byrne (comics)]]
 [[Category:Characters created by Marv Wolfman]]
 [[Category:Comics characters introduced in 1980]]
 [[Category:Fictional scientists]]

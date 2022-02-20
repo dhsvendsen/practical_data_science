@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name=Sentry
 |image=Sentry (Robert Reynolds).png
@@ -11,36 +12,25 @@
 |alliances=[[The New Avengers (comics)|New Avengers]]<br>[[The Mighty Avengers|Mighty Avengers]]<br>[[Dark Avengers]]<br>[[Horsemen of Apocalypse|Horsemen of Death]]
 |aliases=The Void, Death
 |powers= '''Sentry''':<br>
-* Superhuman strength, durability, condition,  stamina, speed, agility, reflexes, intelligence 
-* Superhuman senses: hearing, vision, sight, and smell
-* Travel at a speed exceeding speed of light
+* Superhuman physical condition
+* Superhuman senses
 * Energy manipulation
 * Regeneration
 * Immortality
-* Complete invulnerability
-* Resurrection 
+* Nigh-Invulnerability
+* Photokinesis
 * Flight
 * Microscopic vision
 * Telescopic vision
 * Infrared vision 
 * X-Ray vision
 * Teleportation 
-* Telekinesis
-* Telepathy
-* Mind control
-* Empathy/emotion manipulation
-* Astral projection
-* Precognition
+* Psionic powers
 * Invisibility
-* Intangibility 
-* Shape-shifting
-* Illusion casting
 * Matter manipulation
-* Photokinesis
-* Force-field projection
-* Reality manipulation 
-* Power bestowal
-* The power of one million exploding suns
+* Resurrection
+* Biokinesis
+* Power sharing
 '''The Void''':
 * Molecular manipulation
 * Clairvoyance
@@ -55,8 +45,8 @@
 |hero=y
 |sortkey=Sentry (Marvel Comics)
 |}}
-
-'''Sentry''' ('''Robert''' "'''Bob'''" '''Reynolds''') is a fictional character and superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''The Sentry'' #1 (September 2000),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=311}}</ref> and was created by [[Paul Jenkins (writer)|Paul Jenkins]] and [[Jae Lee]] with uncredited conceptual contributions by [[Rick Veitch]].<ref name="veitch">{{cite web|url=http://www.rickveitch.com/tag/the-sentry/ |title=The Sentry |publisher=Rick Veitch |access-date=2013-10-02}}</ref>
+{{Lead too short|date=November 2021}}
+'''Sentry''' ('''Robert''' "'''Bob'''" '''Reynolds''') is a [[fictional character]] and [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''The Sentry'' #1 (September 2000),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=311}}</ref> and was created by [[Paul Jenkins (writer)|Paul Jenkins]] and [[Jae Lee]] with uncredited conceptual contributions by [[Rick Veitch]].<ref name="veitch">{{cite web|url=http://www.rickveitch.com/tag/the-sentry/ |title=The Sentry |publisher=Rick Veitch |access-date=2013-10-02}}</ref>
 
 ==Creation==
 In the late 1990s, Paul Jenkins and Rick Veitch developed an idea by Jenkins' about "an over-the-hill guy, struggling with an addiction, who had a tight relationship with his dog" into a proposal for Marvel Comics' [[Marvel Knights]] line. Jenkins conceived of the character "a guardian type, with a watchtower", and came up with the name "Sentry" (after previously considering "Centurion"). Veitch suggested that the character could be woven into the history of the [[Marvel Universe]], with versions of the character from the 1940s depicted in artistic styles matching the comics of each period. Veitch also suggested that due to some cataclysmic event, all recollection of the Sentry would have been removed from everyone's memory (including his own). Jenkins and Veitch decided that they would create not only a fictional history for the Sentry within the Marvel Universe, but also a fictional publication history in the real world, complete with imaginary creators ("Juan Pinkles" and "Chick Rivet", anagrams of Paul Jenkins and Rick Veitch). Jenkins pitched the concept to Marvel Knights editor [[Joe Quesada]]. Quesada decided to commission a miniseries written by Jenkins with art by Jae Lee, with whom Jenkins had previously worked on an ''[[Inhumans]]'' miniseries.<ref name="veitch"/>
@@ -76,7 +66,7 @@ The characters' memories of the Sentry and the Void resurface when Reynolds talk
 During the course of his investigation, Reynolds and Mister Fantastic discovered what had happened: as the Void had threatened the Earth, the heroes learned that the Sentry and the Void were two halves of the same person. In order to save the world, Robert Reynolds erased his memory from the mind of nearly every person on Earth, even his own. As the heroes stood along the United States' East Coast, united against the coming Void, Reynolds realized that he had to make the sacrifice again. With the help of his mechanical servant CLOC, Mister Fantastic, and [[Doctor Strange]], Reynolds erased the Sentry from the world's memories once more. However, in the final panels of the final one shot, it's left ambiguous as to whether or not Reynolds actually remembers who he is despite Richards' and Strange's work.<ref>''The Sentry'' Vol. 1 #1–5, Sentry and The Fantastic Four/Hulk/Spider-Man/X-Men one-shots, Sentry vs. The Void one shot. Marvel Comics.</ref>
 
 ===Avengers===
-Reynolds reappears inside the supervillain prison the Raft, voluntarily imprisoned for murdering his wife Lindy Lee. [[Electro (Marvel Comics)|Electro]] shuts down the security system, causing a massive jail break in which 42 villains escape. Several of the escaping villains are caught, while [[Daredevil (Marvel Comics character)|Matt Murdock]] is entering to talk to the Sentry. The Sentry defends several other characters from [[Carnage (comics)|Carnage]], whom he flies to space and rips in half.<ref>''New Avengers'' #1–6. Marvel Comics.</ref>
+Reynolds reappears inside the supervillain prison the Raft, voluntarily imprisoned for murdering his wife Lindy Lee. [[Electro (Marvel Comics)|Electro]] shuts down the security system, causing a massive jail break in which 42 villains escape. Several of the escaping villains are caught, while [[Daredevil (Marvel Comics character)|Matt Murdock]] is entering to talk to the Sentry. The Sentry defends several other characters from [[Carnage (character)|Carnage]], whom he flies to space and rips in half.<ref>''New Avengers'' #1–6. Marvel Comics.</ref>
 
 Eventually, the [[Avengers (comics)|Avengers]] learn that [[Mastermind (Jason Wyngarde)|Mastermind]], under the direction of an enemy of the Sentry known only as the General, implanted a psychic "virus" in Reynolds' mind that created delusions and the existence of the Void, which is actually Reynolds' repressed persona. The virus impairs Reynolds' ability to remember his life accurately, and, as a cry for help, he subconsciously implants his memories into the mind of comic book writer Paul Jenkins, who then transferred those memories to comic books. The Avengers track him down and show him that his wife, who he confessed to murdering, is alive and well. The Sentry flees, and he finds himself waking up in the small suburban house he shares with Lindy. His appearance has changed in an instant, and he appears to be living the life of an ordinary man. But the Avengers have tracked him down again, and, with the support of The [[Fantastic Four]], the [[X-Men]], the [[Inhumans]], [[Namor]], [[Doctor Strange]], and [[S.H.I.E.L.D.]], they confront and attempt to reason with him. But Robert tearfully insists that the Void is coming, who will destroy them all, and that he can't help it. The Void arrives, a separate entity from Robert, and it takes on several different monstrous forms as it attacks. Though a vicious battle ensues, no one is actually killed. As they are still having their dialogue, and start getting through to him, the Void slows down to a stop. Finally, the powerful telepath [[Emma Frost]] is able to release Reynolds from the virus and restore his memories, and the Sentry joins the Avengers. The world in general, however, does not regain their memories of the Sentry or the Void. In an astounding coincidence, or twist of fate, the Sentry's Watchtower appears atop [[Stark Tower]], where it had been all along. "Guess I was hiding it as part of my crazy," Robert explains.<ref>''New Avengers'' vol. 2 #7–10. Marvel Comics.</ref>
 
@@ -144,7 +134,7 @@ When a [[Skrull]] spacecraft is discovered approaching Earth's atmosphere, the M
 {{Main|Dark Reign (comics)}}
 Sentry joins the [[Dark Avengers]], [[Norman Osborn]]'s personal team of Avengers, stating that Osborn is helping him in return after Osborn confides his own mental deficiency in Bob.<ref>''Dark Avengers'' #1 and #3. Marvel Comics.</ref> Upon confronting the sorceress [[Morgan le Fay (Marvel Comics)|Morgan le Fay]], the Sentry kills her only to have her come back to life and kill him in turn.<ref>''Dark Avengers'' #2. Marvel Comics.</ref> After the Dark Avengers and Doctor Doom defeat Morgan, the team returns to New York City to find the Sentry reappears alive and well.<ref>''Dark Avengers'' #4. Marvel Comics.</ref> After a terrorist attack by an Atlantean cell, Norman Osborn demands to speak to the Void and tells him to kill all the terrorists. The Sentry obliges but is seen with black eyes, indicating the return of the Void within the Sentry persona.<ref>''Dark Avengers'' #5. Marvel Comics.</ref>
 
-When anti-mutant riots break out in San Francisco, the Dark Avengers and [[H.A.M.M.E.R.]] move in to contain the situation. The Sentry watches as the riots are quelled, when the Dark Avengers team up with Norman's [[Dark X-Men]] against the X-Men, Emma Frost frees the Void from Sentry to take him off the battlefield. However, a sliver of the Void becomes contained in her mind, forcing Emma to shift into her diamond form to keep it contained. When [[Psylocke]], [[Professor X]], and [[Cyclops (Marvel Comics)|Cyclops]] attempt to help Emma, she subsequently passes the Void sliver to Cyclops, whom the Void felt could be of more use to it. However, after years of dating and being married to the world's most powerful mutant telepath [[Jean Grey]], Cyclops uses all that she taught him to successfully lock the Void inside an unbreakable psychic prison within his own mind.<ref>''Uncanny X-Men'' #519. Marvel Comics.</ref>
+When anti-mutant riots break out in San Francisco, the Dark Avengers and [[H.A.M.M.E.R.]] move in to contain the situation. The Sentry watches as the riots are quelled, when the Dark Avengers team up with Norman's [[Dark X-Men]] against the X-Men, Emma Frost frees the Void from Sentry to take him off the battlefield. However, a sliver of the Void becomes contained in her mind, forcing Emma to shift into her diamond form to keep it contained. When [[Betsy Braddock|Psylocke]], [[Professor X]], and [[Cyclops (Marvel Comics)|Cyclops]] attempt to help Emma, she subsequently passes the Void sliver to Cyclops, whom the Void felt could be of more use to it. However, after years of dating and being married to the world's most powerful mutant telepath [[Jean Grey]], Cyclops uses all that she taught him to successfully lock the Void inside an unbreakable psychic prison within his own mind.<ref>''Uncanny X-Men'' #519. Marvel Comics.</ref>
 
 When Sentry returns to Avengers Tower, Lindy shoots him because she fears his mindset, but he returns unharmed.<ref>''Dark Avengers'' #9. Marvel Comics.</ref>
 
@@ -173,7 +163,7 @@ During the "[[King in Black]]" storyline, Sentry returns in his golden appearanc
 
 ==Powers and abilities==
 
-
+=== Sentry ===
 The Sentry's powers ostensibly derive from the Super Soldier-serum that "moves his [[molecule]]s an instant ahead of the current timeline".{{Citation needed|date=September 2013}} This was designed to be a hundred thousand times stronger than the original used on [[Captain America]], and was modified by [[Weapon X]].<ref name="Sentry1">''The Sentry'' #1. Marvel Comics.</ref> However, in ''The Age of the Sentry'' mini-series, it is suggested that the Sentry is a sentient life-force, a refugee from another universe which attempted to break through to another one for its new home, and that this was merely accommodated by the serum.<ref>''The Age of the Sentry'' #6. Marvel Comics.</ref>
 
 Although the character's exact abilities and their limits are unknown and also said to be omnipotent, he has shown a small portion of his powers by lifting a [[Helicarrier]] (with assistance from Ms. Marvel and [[Wonder Man]]); preventing the Celestial Exitar from crushing the Earth by lifting his foot (with the help of an empowered [[Rogue (comics)|Rogue]]) although later seen carrying it alone;<ref>''Mighty Avengers'' #3. Marvel Comics.</ref> also seen effortlessly toying with Thor, sending him flying with punches that produced shock waves felt around the planet. He dismembered Carnage with little effort. Sentry is considered by the mutant Emma Frost to be one of the best telepaths on Earth 616. He is somehow resistant to Rogue's mutate touch. Effortlessly defeating and breaking the handle of the axe of [[Terrax]],<ref name="Sentry1"/> a herald of [[Galactus]] shown as powerful enough to slice planets in half;<ref>''Annihilation: Heralds of Galactus'' #1. Marvel Comics.</ref> severely pummeling and nearly tearing apart the female [[Ultron]];<ref name="Mighty Avengers #6">''Mighty Avengers'' #6. Marvel Comics.</ref> and easily shattering shields of [[Doctor Doom]].<ref name="MA11">''Mighty Avengers'' #11. Marvel Comics.</ref> During the Sentry's initial miniseries, Spider-Man, in a moment of reflection, recalls that the Sentry fought and stalemated Galactus at one point.<ref name="TS1-7">''The Sentry'' Vol. 1 #1–7. Marvel</ref>
@@ -197,7 +187,7 @@ Robert Reynolds projects an entity as a dark side effect of his powers.<ref name
 
 Several reasons for the existence of the Void have been given: the innate division between good and evil in any nominally normal person;{{Citation needed|date=September 2013}} a "mind virus" put into place by the mutant Mastermind by order of the crazed General;<ref name="New Avengers #9"/> the idea that the Void is in fact the true personality of Rob Reynolds and the Sentry is the false one;<ref>''The Sentry'' vol. 2 #6. Marvel Comics.</ref> as mentioned above, the result of covering up his past;<ref name="Dark Avengers 13"/> and, according to Norman Osborn the Sentry's superhumanity eroded his humanity, leading to a 'void' in his life.{{Citation needed|date=September 2013}} During the [[Siege (comics)|Siege]] storyline, the Void exhibits a more demonic form, capable of nearly slaughtering Thor, bringing down the entire city of Asgard, and striking down every immortal and mortal hero set against it simultaneously,{{Citation needed|date=September 2013}} killing the Norn Stone-powered Loki in seconds, and even tearing the god of war, Ares, in half.{{Citation needed|date=September 2013}} Norman Osborn claims that it is the Angel of Death,<ref name="Siege#4"/> tying into an earlier prelude which showed the Void's presence in biblical times.{{Citation needed|date=September 2013}}
 
-The Void possesses the ability to shape-shift, and through its control over the weather and darkness it can create destructive storms and deadly "infini-tendrils" that attack the mind.{{Citation needed|date=September 2013}} Victims impaled on the tendrils experience traumatic visions of the past, present, and future. Its regular appearance varies between a shadowy, trench-coat-wearing villain to a massive hurricane of darkness.{{Citation needed|date=September 2013}} It can also assume powers dependent on shape, like a flame form that breathes fire,{{Citation needed|date=September 2013}} alternately an armored monster with superstrength and toughness.{{Citation needed|date=September 2013}} It is at its strongest during the night and in the [[Negative Zone]], where it has shown itself capable of easily overpowering the Hulk by breaking every single bone in his body in moments.{{Citation needed|date=September 2013}} Coincidentally, Sentry is at his weakest in the Negative Zone.{{Citation needed|date=September 2013}} A mere physical assault required much effort to hold off, even with the combined [[force shield|force fields]] of Iron Man, [[Doctor Strange]], and the [[Invisible Woman]], while the united forces of the [[The New Avengers (comics)|New Avengers]], [[Fantastic Four]], [[X-Men]], [[Inhumans]], [[Illuminati (comics)|Illuminati]], and heavily armed S.H.I.E.L.D. agents simultaneously attacked it.<ref>''New Avengers'' #7–10. Marvel Comics.</ref>
+The Void possesses the ability to shape-shift, and through its control over the weather and darkness it can create destructive storms and deadly "infini-tendrils" that attack the mind.{{Citation needed|date=September 2013}} Victims impaled on the tendrils experience traumatic visions of the past, present, and future. Its regular appearance varies between a shadowy, trench-coat-wearing villain to a massive hurricane of darkness.{{Citation needed|date=September 2013}} It can also assume powers dependent on shape, like a flame form that breathes fire,{{Citation needed|date=September 2013}} alternately an armored monster with superstrength and toughness.{{Citation needed|date=September 2013}} It is at its strongest during the night and in the [[Negative Zone]] (which is also [[Blue Marvel|Blue Marvel's]] source of his strength & power), where it has shown itself capable of easily overpowering the Hulk by breaking every single bone in his body in moments.{{Citation needed|date=September 2013}} Coincidentally, Sentry is at his weakest in the Negative Zone.{{Citation needed|date=September 2013}} A mere physical assault required much effort to hold off, even with the combined [[force shield|force fields]] of Iron Man, [[Doctor Strange]], and the [[Invisible Woman]], while the united forces of the [[The New Avengers (comics)|New Avengers]], [[Fantastic Four]], [[X-Men]], [[Inhumans]], [[Illuminati (comics)|Illuminati]], and heavily armed S.H.I.E.L.D. agents simultaneously attacked it.<ref>''New Avengers'' #7–10. Marvel Comics.</ref>
 
 ==Team==
 Joining Sentry to take on the Void are his sidekick, Scout, his loyal canine companion Watchdog and his equal, Sentress.
@@ -208,7 +198,7 @@ Better known as Scout, Billy Turner is the sidekick and partner of the Sentry. A
 Scout's powers are similar to Sentry (superhuman strength, speed and stamina, regenerative healing, flight etc.), and were also obtained by drinking the super serum.
 
 ===Watchdog===
-Watchdog is a super-powered Welsh Corgi. He takes verbal orders from the Sentry. The orders are given by the prefix Watchdog, directly followed by commands, such as, Guard, Stay etc. Watchdog always obeys.<ref>{{Cite web|url=https://www.writeups.org/sentry-avengers-marvel-comics/|title=Sentry - Marvel Comics - Avengers character - Broken Superman|date=2015-03-11|website=Writeups.org|language=en-GB|access-date=2019-08-09}}</ref>
+Watchdog is a super-powered Welsh Corgi. He takes verbal orders from the Sentry. The orders are given by the prefix Watchdog, directly followed by commands, such as, Guard, Stay, etc. Watchdog always obeys.<ref>{{Cite web|url=https://www.writeups.org/sentry-avengers-marvel-comics/|title=Sentry - Marvel Comics - Avengers character - Broken Superman|date=2015-03-11|website=Writeups.org|language=en-GB|access-date=2019-08-09}}</ref>
 
 ==Other versions==
 ===Age of Apocalypse===
@@ -220,12 +210,12 @@ After [[Scarlet Witch|Wanda Maximoff]] changes the world in ''[[House of M]]'' #
 ===Marvel Zombies===
 A version of the Sentry is responsible for the zombie outbreak depicted in ''[[Ultimate Fantastic Four]]'' and ''[[Marvel Zombies]]''. A costumed hero resembling the Sentry appears from another universe, looking for food. The Avengers attempt to intercept him, and are immediately infected. The zombie virus rapidly spreads to nearly every super-powered character in that world. The costumed hero responsible for the outbreak is never called by name, and is only distinguishable by his outfit. What happens to him after his initial contact with this universe is unknown.<ref>''[[Ultimate Fantastic Four]]'' #22. Marvel Comics.</ref>
 
-In ''[[Marvel Zombies vs. The Army of Darkness]]'', it is revealed that the zombie Sentry was undead in the [[afterlife]], eating everyone that came into the "light" and knocking Ash into the not yet infected world of superheroes. Unfortunately, the Sentry finds its way through the same portal and infects the Avengers who came to tackle him in the first place.<ref>''[[Marvel Zombies vs. Army of Darkness]]'' #1. Marvel Comics.</ref>
+In ''[[Marvel Zombies vs. The Army of Darkness]]'', it is revealed that the zombie Sentry was undead in the [[afterlife]], eating everyone that came into the "light" and knocking Ash into the not yet infected world of superheroes. Unfortunately, the Sentry finds its way through the same portal and infects the Avengers who came to tackle him in the first place. He joins them in decimating the city and consuming civilians. However, he is not seen after<ref>''[[Marvel Zombies vs. Army of Darkness]]'' #1. Marvel Comics.</ref>
 
 In ''[[Marvel Zombies Return]]'', it is revealed that the Sentry's infection and universal travel is a [[predestination paradox]]. When the Giant-Man of the Marvel Zombies universe comes to a past version of the Marvel Universe, he infects the Hulk, who then infects the Sentry. At the conclusion of the story, Sentry is sent through the multiverse by that Earth's version of [[Uatu]] the [[Watcher (comics)|Watcher]] and infects the Avengers, setting off the entire series of events while 'containing' the infection between these two universes so that it will essentially 'devour itself'.<ref>''[[Marvel Zombies Return]]'' #5. Marvel Comics.</ref> In the one-shot ''Marvel Zombies: Evil Evolution'', Zombie Reed Richards speculates that a dimensional teleporter he was testing may have pulled the Sentry from his reality, though whether this was from the Gates of Heaven or was the other end of Uatu's teleporter is not revealed.<ref>''Marvel Zombies: Evil Evolution''. Marvel Comics.</ref>
 
 ===Age of Sentry===
-This version of Sentry is mostly identical to the mainstream counterpart, becoming a hero and battling villains alongside Scout, Watchdog and the [[Carol Danvers|Sentress]] and falling in love with Lindy Lee. Afterwards, the villainous brain-like alien Gorax was able to take away the powers off Sentry, resulting in Robert and Lindy going back in time and regaining his powers. Then, the two villains known as Phineas Mason and the Mad Thinker started posing as two film-makers who were using their machinery to drain Sentry's power which ultimately failed.<ref>''The Age of the Sentry'' #1-6. Marvel Comics</ref>
+This version of Sentry is mostly identical to the mainstream counterpart, becoming a hero and battling villains alongside Scout, Watchdog and the [[Carol Danvers|Sentress]] and falling in love with Lindy Lee. Afterwards, the villainous brain-like alien Gorax was able to take away the powers of Sentry, resulting in Robert and Lindy going back in time and regaining his powers. Then, the two villains known as Phineas Mason and the Mad Thinker started posing as two film-makers who were using their machinery to drain Sentry's power which ultimately failed.<ref>''The Age of the Sentry'' #1-6. Marvel Comics</ref>
 
 ===Deadpool: Killustrated===
 In ''[[Deadpool: Killustrated]]'', the corpse of a Sentry is seen along with other deceased heroes after being killed by [[Alternative versions of Deadpool#Deadpool Kills the Marvel Universe|Dreadpool]].<ref>''Deadpool: Killustrated'' #1. Marvel Comics.</ref>
@@ -320,3 +310,4 @@ The Sentry has appeared in some issues of ''[[What If (comics)|What If]]'':
 [[Category:Marvel Comics telepaths]]
 [[Category:Merged fictional characters]]
 [[Category:S.H.I.E.L.D. agents]]
+[[Category:Marvel Comics mutates]]

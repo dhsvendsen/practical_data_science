@@ -1,9 +1,9 @@
 {{Short description|Mutant character in the Marvel Comics Universe}}
-{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+{{Infobox comics character<!--Part of Wikipedia:WikiProject Comics-->
+|character_name=Darwin
 |image= Darwin_XMDG.JPG
 |converted=y
 |caption=Art by [[Billy Tan]].
-|character_name=Darwin
 |real_name=Armando Muñoz
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
@@ -84,7 +84,7 @@ His power can also work when dealing with non-immediately-life-threatening situa
 * [http://worldofblackheroes.com/2011/06/01/darwin-armando-munoz/ World of Black Heroes: Darwin Biography]
 * [http://marvel.com/universe/Darwin Darwin] at Marvel.com
 
-{{X-Men}}
+{{X-Men characters}}
 
 {{DEFAULTSORT:Darwin (Comics)}}
 [[Category:Characters created by Ed Brubaker]]
@@ -96,3 +96,4 @@ His power can also work when dealing with non-immediately-life-threatening situa
 [[Category:African-American superheroes]]
 [[Category:Fictional Afro–Latin American people]]
 [[Category:X-Factor (comics)]]
+[[Category:X-Men members]]

@@ -5,7 +5,7 @@
 | character_name =Krang
 | publisher =[[Marvel Comics]]
 | debut = ''[[Fantastic Four (comic book)|Fantastic Four Annual]]'' #1 (1963)
-| creators = [[Stan Lee]] (Writer)<br>[[Jack Kirby]] (Artist)
+| creators = [[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
 | full_name = Krang
 | species = ''[[Homo mermanus]]''
 | homeworld = [[Atlantis (Marvel Comics)|Atlantis]]
@@ -30,7 +30,7 @@ After this he would attempt to steal the [[Serpent Crown]], a powerful object, w
 
 Somewhat after altering his physiology through the technological means of [[Wundagore|Wundagore Mountain]],<ref>''The Last Defenders'' #1. Marvel Comics.</ref> Krang has been recruited as a member of the [[Defenders (comics)|Defenders]].<ref>''The Last Defenders'' #6. Marvel Comics.</ref>
 
-Warlord Krang later appears as one of the Atlanteans living on the X-Men's base [[Asteroid M|Utopia]].<ref>''Uncanny X-Men'' #528. Marvel Comics.</ref>
+Warlord Krang later appears as one of the Atlanteans living on the X-Men's base [[Asteroid M|Utopia]].<ref>''The Uncanny X-Men'' #528. Marvel Comics.</ref>
 
 ==Powers and abilities==
 Krang has all the powers inherent to members of the [[Homo mermanus|Atlantean]] race, including superhuman strength. He is adapted to live underwater, having gills that allow him to breathe underwater, he can swim at high speeds and his body is resistant against the pressure and the cold of the deep oceans. His specially developed vision allows him to see clearly in the murky depths of the ocean.
@@ -77,4 +77,5 @@ In the ''[[House of M]]'' reality, Warlord Krang was shown as Namor's aide.<ref>
 [[Category:Fictional swordfighters]]
 [[Category:Fictional warlords]]
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]

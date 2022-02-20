@@ -1,6 +1,6 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=<!-- Deleted image removed: [[Image:TurboExcelsior.jpg]] -->
-|caption=From the cover to ''Runaways'' v2, #3. Art by [[Jo Chen]].
+image=Michiko Musashi.png
+|caption=Michiko Musashi
 |character_name=Turbo
 |real_name='''(I)''' Michiko "Mickey" Musashi<br>'''(II)''' Michael Brent "Mike" Jeffries
 |publisher=[[Marvel Comics]]
@@ -16,7 +16,7 @@ Suit grants:<br>
 *Superhuman strength
 }}
 
-'''Turbo''' is the name of two [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. One is a [[superheroine]], the other a [[superhero]]. '''Michiko "Mickey" Musashi''' debuted in ''[[New Warriors]]'' #28 (Oct 1992)<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=385}}</ref> and her ally '''Michael "Mike" Jeffries''' in ''[[New Warriors]]'' #33.
+'''Turbo''' is the name of two <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[Superhero|superheroes]] appearing in [[American comic book]]s published by [[Marvel Comics]]. '''Michiko "Mickey" Musashi''' debuted in ''[[New Warriors]]'' #28 (Oct 1992)<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=385}}</ref> and her ally '''Michael "Mike" Jeffries''' in ''[[New Warriors]]'' #33.
 
 ==Fictional character biography==
 ===The Torpedo armor===

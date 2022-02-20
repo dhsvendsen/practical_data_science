@@ -20,7 +20,7 @@
 | sortkey        = Man-Killer
 | addcharcat#    =
 }}
-'''Man-Killer''' (real name '''Katrina Luisa Van Horn''') is a [[fictional character|fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Critics have called her a "caricature of feminists, who despised all men."<ref>{{cite book |last1=Wright |first1=Bradford W. |title=Comic Book Nation: The Transformation of Youth Culture in America |date=2001 |publisher=Johns Hopkins Press |isbn=9780801865145 |page=250}}</ref>
+'''Man-Killer''' (real name '''Katrina Luisa Van Horn''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Critics have called her a "caricature of feminists, who despised all men."<ref>{{cite book |last1=Wright |first1=Bradford W. |title=Comic Book Nation: The Transformation of Youth Culture in America |date=2001 |publisher=Johns Hopkins Press |isbn=9780801865145 |page=250}}</ref>
 
 ==Publication history==
 Man-Killer first appeared in ''[[Marvel Team-Up]]'' volume 1 #8 (April 1973) by [[Gerry Conway]] and [[Jim Mooney]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=67}}</ref>
@@ -42,7 +42,7 @@ During an altercation with the Thunderbolts, Katrina told [[Songbird (comics)|So
 
 Man-Killer is seen to be among the new recruits for [[Camp H.A.M.M.E.R.]]<ref>''Avengers: The Initiative'' #31</ref>
 
-Man-Killer later appears as part of [[Helmut Zemo|Baron Helmut Zemo]]'s third incarnation of the Masters of Evil where they attacked [[Bucky Barnes|Winter Soldier]]'s incarnation of the Thunderbolts.<ref>''Thunderbolts'' Vol. 3 #10</ref> During the "Opening Salvo" part of the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Man-Killer was involved in the Masters of Evil's next fight with the Thunderbolts which ends in her apparent death at the hands of [[List of Marvel Comics characters: K#Kobik|Kobik]].<ref>''Thunderbolts'' Vol. 3 #12</ref>
+Man-Killer later appears as part of [[Helmut Zemo|Baron Helmut Zemo]]'s third incarnation of the Masters of Evil where they attacked [[Bucky Barnes|Winter Soldier]]'s incarnation of the Thunderbolts.<ref>''Thunderbolts'' vol. 3 #10</ref> During the "Opening Salvo" part of the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Man-Killer was involved in the Masters of Evil's next fight with the Thunderbolts which ends in her apparent death at the hands of [[List of Marvel Comics characters: K#Kobik|Kobik]].<ref>''Thunderbolts''vVol. 3 #12</ref>
 
 ==Powers and abilities==
 Robotic implants replacing and/or compounded with bones and nerves, which give her superhuman powers, good athletic abilities, and the ability to throw knives at a range of hundreds of meters.
@@ -63,8 +63,9 @@ She was given [[Pym particles]] to grow in strength proportionate to size.<ref>'
 
 [[Category:Comics characters introduced in 1973]]
 [[Category:Fictional bartenders]]
+[[Category:Fictional cyborgs]]
 [[Category:Fictional German people]]
 [[Category:Fictional skiers]]
-[[Category:Hydra agents]]
+[[Category:Hydra (comics) agents]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutates]]

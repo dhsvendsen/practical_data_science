@@ -1,3 +1,4 @@
+{{Short description|Marvel supervillain}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image= Spymaster.png
 |caption=Spymaster III<br/>Art by [[Frazer Irving]]
@@ -12,7 +13,7 @@
 |powers=Exceptional strategist<br/>Excellent hand to hand combatant<br/>Extraordinary industrial spy and saboteur<br/>Master of disguise<br/>Superb actor<br/>Highly agile and skilled athlete<br/>Greatly skilled in the uses of virtually any kind of gun<br/>Access to cutting-edge technology<br/>Use of electronically amplified nun-chakas<br/>Wears bulletproof battlesuit that grants:<br/>Minimal protection from physical attacks<br/>Various pockets for holding weaponry 
 }}
 
-'''Spymaster''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Spymaster''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 {{Expand section|date=December 2012}}

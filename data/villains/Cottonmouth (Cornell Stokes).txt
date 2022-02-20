@@ -2,7 +2,7 @@
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Cottonmouth
-| image          = 
+| image          = Cornell Stokes (Earth-616) from Shadowland Power Man Vol 1 1 001.jpg
 | imagesize      = 
 | caption        = 
 | alt            = 
@@ -24,9 +24,9 @@
 | sortkey        = Cottonmouth (Cornell Cottonmouth)
 | addcharcat#    = 
 }}
-'''Cottonmouth''' ('''Cornell Stokes''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Cottonmouth''' ('''Cornell Stokes''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
-The character was portrayed by [[Mahershala Ali]] in the [[Luke Cage (Season 1)|first season]] of the [[Marvel Cinematic Universe]] / [[Netflix]] television series ''[[Luke Cage (TV series)|Luke Cage]]''.
+The character was portrayed by [[Mahershala Ali]] in the [[Luke Cage (season 1)|first season]] of the [[Marvel Cinematic Universe]] television series ''[[Luke Cage (TV series)|Luke Cage]]''.
 
 ==Publication history==
 The character first appeared in ''[[Luke Cage, Power Man]]'' #18 (June 1974) in a story written by [[Len Wein]] and drawn by [[George Tuska]]. Cornell Cottonmouth, or just Cottonmouth, started out as a drug kingpin in [[New York City]]. He was involved in the events that led to [[Luke Cage]] gaining super powers and becoming "Power Man". Cottonmouth tried to recruit Cage to his organization, but was ultimately knocked out and turned over to police by Cage. During the "[[Shadowland (comics)|Shadowland]]" storyline, Cottonmouth returned as part of [[Nightshade (Marvel Comics)|Nightshade]]'s gang, Flashmob where they come into conflict with [[Daredevil (Marvel Comics character)|Daredevil]] as well as a new [[Power Man (Victor Alvarez)|Power Man]], who, like his predecessor, knocked Cottonmouth out and turned him over to police.

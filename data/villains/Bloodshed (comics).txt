@@ -1,5 +1,5 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=<!-- Deleted image removed: [[image:bloodshed-marvel.jpg]] -->
+|image=Wyndell Dickinson (Earth-616) from Web of Spider-Man Vol 1 81 0001.jpg
 |caption=
 |character_name=Bloodshed
 |publisher=[[Marvel Comics]]
@@ -18,7 +18,7 @@
 Bloodshed first appeared in ''[[Web of Spider-Man]]'' #81 (October 1991), and was created by [[Kurt Busiek]] and [[Steven Butler]].
 
 ==Fictional character biography==
-Wyndell Dichinson and his 16-year-old brother are caught in a car theft by the heroic [[Spider-Man]] and apprehended by the police. Ricky goes to jail but Wyndell manages to escape and flee the country before his court date takes place. He becomes a mercenary somewhere in the Far East. He begins work in [[Thailand]], where he is approached and employed by a Mr. Bazin.<ref>''Web of Spider-Man'' #81</ref>
+Wyndell Dichinson and his 16-year-old brother are caught in a car theft by the heroic [[Spider-Man]] and apprehended by the police. Ricky goes to jail but Wyndell manages to escape and flee the country before his court date takes place. He becomes a mercenary somewhere in the Far East. He begins work in [[Thailand]], where he is approached and employed by Mr. Bazin.<ref>''Web of Spider-Man'' #81</ref>
 
 Wyndell fails an American drug smuggling operation for Bazin and ends up deep in debt. He approaches his brother to ask for money; at that point he has only three days left to pay. Bazin became impatient and decided he wanted Bloodshed dead. Wyndell and his brother are confronted by gangsters, which catches the attention of Spider-Man. In the meantime, Bazin had placed a bomb in Ricky's home. It explodes, seemingly erasing all traces of the brothers. Spider-Man presumes them to be dead.<ref>''Spider-Man Unlimited'' #4</ref>
 
@@ -48,4 +48,5 @@ Bloodshed has super durable skin capable of deflecting bullets. When the buildin
 [[Category:Comics characters introduced in 1991]]
 [[Category:Characters created by Kurt Busiek]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male supervillains]]
 [[Category:Marvel Comics supervillains]]

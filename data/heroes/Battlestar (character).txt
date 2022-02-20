@@ -14,7 +14,7 @@
 |aliases=[[Bucky (Marvel Comics)|Bucky]]
 |powers=Highly trained acrobat and gymnast<br />Exceptional hand-to-hand combatant<br />Superhuman strength, durability and resilience<br />Enhanced endurance<br />Peak-level agility and reflexes<br />Wields a near indestructible [[vibranium]] shield
 }}
-'''Battlestar''' ('''Lemar Hoskins''') is a [[fictional character|fictional]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He became the fifth character to assume the alias '''[[Bucky (Marvel Comics)|Bucky]]''' before taking on the name "Battlestar".
+'''Battlestar''' ('''Lemar Hoskins''') is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He became the fifth character to assume the alias '''[[Bucky (Marvel Comics)|Bucky]]''' before taking on the name "Battlestar".
 
 [[Clé Bennett]] portrayed the character in the [[Marvel Cinematic Universe]] television series ''[[The Falcon and the Winter Soldier]]'' (2021).
 
@@ -46,9 +46,11 @@ Battlestar later returns, working as a security guard for [[Features of the Marv
 
 It was later mentioned during the "[[Death of Wolverine]]" that an unknown party had managed to steal Battlestar's [[adamantium]] shield.<ref>''Death of Wolverine'' #1. Marvel Comics.</ref>
 
-Battlestar participates in an [[Unlimited Class Wrestling Federation]] (UCWF) match against [[Demolition Man (comics)|D-Man]] as part of a charity event. It is revealed that prior to becoming a superhero, Lemar had been an aspiring wrestler whose career was ended by D-Man. The charity fight ends when it is revealed that the current head of the UCWF is trying to abscond with the money raised by the event, and the two heroes team up to stop the robbery.<ref>''Captain America: Sam Wilson'' #15. Marvel Comics.</ref>
+Battlestar participates in an Unlimited Class Wrestling Federation (UCWF) match against [[Demolition Man (comics)|D-Man]] as part of a charity event. It is revealed that prior to becoming a superhero, Lemar had been an aspiring wrestler whose career was ended by D-Man. The charity fight ends when it is revealed that the current head of the UCWF is trying to abscond with the money raised by the event, and the two heroes team up to stop the robbery.<ref>''Captain America: Sam Wilson'' #15. Marvel Comics.</ref>
 
 During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Battlestar appears as a member of the Underground when [[Hydra (comics)|Hydra]] overtakes the United States.<ref>''Occupy Avengers'' #9. Marvel Comics.</ref>
+
+Lamar is called to investigate the disappearance of US Agent, but is intercepted by a new super soldier who feels that Lemar is not doing enough to promote racial equality. The soldier breaks his arm.<ref>''U.S. Agent'' (2020) #2-3</ref>
 
 ==Powers and abilities==
 As a result of the experimental mutagenic process conducted on him by Karl Malus on behalf of the Power Broker, Lemar Hoskins has superhuman strength. His endurance is also heightened albeit to a lesser degree. His agility and reflexes are of the order of a superior Olympic athlete. Additionally, he possesses superhuman durability and resilience, enabling him to survive high impacts and blows, and in one instance to survive being hanged by the [[Watchdogs (Marvel Comics)|Watchdogs]] (a [[Red Skull]] front group).
@@ -79,9 +81,11 @@ He carries a near indestructible blunt-end triangular [[adamantium]] shield in c
 [[Category:Characters created by Paul Neary]]
 [[Category:Comics characters introduced in 1986]]
 [[Category:Fictional characters from Chicago]]
-[[Category:Fictional sport wrestlers]]
+[[Category:Fictional professional wrestlers]]
+[[Category:Fictional shield fighters]]
 [[Category:Fictional United States Army personnel]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]<!--Wrestling is a martial art-->
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics superheroes]]
 [[Category:United States-themed superheroes]]

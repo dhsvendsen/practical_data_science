@@ -1,6 +1,6 @@
 {{about|the Marvel Comics character|other comic book characters|Shockwave (disambiguation)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Shockwave Marvel.jpg
 |caption=
 |character_name=Shockwave
 |real_name=Lancaster Sneed
@@ -33,9 +33,9 @@ He was later involved in a [[Advanced Idea Mechanics#Splinter groups|R.A.I.D]] t
 
 During the height of the "[[Civil War (comics)|Civil War]]" storyline, he was captured by Heroes for Hire. Lancaster has been identified as one of the 142 registered superheroes who have registered as part of the [[Fifty State Initiative]].<ref>''[[Avengers: The Initiative]]'' #1. Marvel Comics.</ref><ref>[http://www.marvel.com/news/comicstories.947 ''Avengers: The Initiative'' #1 Character Map]</ref>
 
-Someone that looks like Shockwave was among the members of [[Hood (comics)|Hood]]'s Crime Syndicate.<ref>New Avengers #35 (2007). Marvel Comics.</ref> He was defeated by the New Avengers, however, he escaped from jail.<ref>''New Avengers Annual'' #2. Marvel Comics.</ref> 
+Someone that looks like Shockwave was among the members of [[Hood (comics)|Hood]]'s Crime Syndicate.<ref>New Avengers #35 (2007). Marvel Comics.</ref> He was defeated by the New Avengers, but he escaped from jail.<ref>''New Avengers Annual'' #2. Marvel Comics.</ref> 
 
-He's recently appeared in ''[[Spider-Man: Brand New Day|Brand New Day]]'' as one of the villains in the [[Bar With No Name]].
+He recently appeared in ''[[Spider-Man: Brand New Day|Brand New Day]]'' as one of the villains in the [[Bar With No Name]].
 
 During the "[[Secret Invasion]]" storyline, Shockwave is one of the villains incarcerated in The Raft when the [[Skrull]]s strike.<ref>''Secret Invasion'' #1</ref> He is one among many supervillains who rejoined The Hood's crime syndicate and attacked an invading Skrull force.<ref>''Secret Invasion'' #6. Marvel Comics.</ref>
 
@@ -47,7 +47,7 @@ During the "[[Avengers: Standoff!]]" storyline, Shockwave was an inmate of Pleas
 
 During the "Search for Tony Stark" arc, Shockwave is seen as a member of Hood's gang as they attack [[Castle Doom]].<ref>''Invincible Iron Man'' #597. Marvel Comics.</ref> He and [[Rampage (Marvel Comics)|Rampage]] held Doctor Doom's arms as [[Wrecker (comics)|Wrecker]] works to break open his Iron Man armor.<ref>''Invincible Iron Man'' #598. Marvel Comics.</ref>
 
-Shockwave is part of a group of Shang-Chi's enemies that includes [[Razor Fist]], [[Shen Kuei]], Death-Hand, Shadow Stalker, Tiger-Claw and led by Shang-Chi's adoptive brother [[Midnight Sun (Marvel Comics)|Midnight Sun]] that ambushes the Master of Kung Fu and [[Domino (comics)|Domino]] while the two are on a date in [[Hong Kong]].<ref>''Domino'' #4. Marvel Comics.</ref>  Shockwave is defeated after one of his shocks aimed for Domino misses and hits Shadow-Stalker, whose [[Flail (weapon)|flail]] is deflected off of a serving tray thrown by Domino and hits Shockwave in the face, knocking him out.  After the fight, Shang-Chi warns the group to retreat and forget the ambush ever took place or to face further attacks from Domino.<ref>''Domino'' #5. Marvel Comics.</ref>
+Shockwave is part of a group of Shang-Chi's enemies that includes [[Razor Fist]], [[Shen Kuei]], Death-Hand, Shadow Stalker, Tiger-Claw and led by Shang-Chi's adoptive brother [[Midnight Sun (Marvel Comics)|Midnight Sun]] that ambushes the Master of Kung Fu and [[Domino (comics)|Domino]] while the two are on a date in [[Hong Kong]].<ref>''Domino'' #4. Marvel Comics.</ref>  Shockwave is defeated after one of his shocks aimed for Domino misses and hits Shadow-Stalker, whose [[Flail (weapon)|flail]] is deflected off of a serving tray thrown by Domino and hits Shockwave in the face, knocking him out. After the fight, Shang-Chi warns the group to retreat and forget the ambush ever took place or to face further attacks from Domino.<ref>''Domino'' #5. Marvel Comics.</ref>
 
 ==Powers and abilities==
 Lancaster Sneed is a master of various martial arts, especially karate. He was trained in armed and unarmed combat by British military intelligence. He is an expert on electrical devices, and skilled in demolitions work. His body was surgically rebuilt using metal plates, enhancing his strength, speed, agility, stamina, durability and reflexes, but not to superhuman levels. He wears a stolen exoskeleton body armor suit which is equipped with an apparatus that generates electrical shocks on contact.
@@ -59,8 +59,8 @@ The suit is later waterproofed to prevent shorting out on contact with water.<re
 A variation of Shockwave appears in the ''[[Iron Man: Armored Adventures]]'' animated series episode "Armor Wars". This version is a member of [[Iron Monger|Obadiah Stane]]'s [[Guardsman (comics)|Guardsmen]], was a former [[Maggia (comics)|Maggia]] enforcer, and speaks with an Australian accent.
 
 ===Video games===
-* In ''[[Marvel Avengers Alliance]]'', Shockwave was found killed by the Circle of Eight.{{cn|date=July 2016}}
-* Shockwave appears in ''Captain America: The Winter Soldier - The Official Game''. He appears as part of terrorist organization R.A.I.D.{{cn|date=July 2016}} While R.A.I.D. invades a [[Features of the Marvel Universe#Project_Pegasus|Project Pegasus]] facility, Shockwave is sent to cause havoc in order to distract [[S.H.I.E.L.D.]] He is defeated by Captain America, who brought him to S.H.I.E.L.D. to be interrogated by [[Black Widow (Natasha Romanova)|Black Widow]], but she is unable to get much out of him.
+* Shockwave makes a minor appearance in ''[[Marvel Avengers Alliance]]'', having been killed by the Circle of Eight.{{cn|date=July 2016}}
+* Shockwave appears in ''Captain America: The Winter Soldier - The Official Game''. This version is a member of the terrorist organization R.A.I.D.{{cn|date=July 2016}} While R.A.I.D. invades a [[Features of the Marvel Universe#Project Pegasus|Project Pegasus]] facility, Shockwave is sent to cause havoc in order to distract [[S.H.I.E.L.D.]] He is defeated by Captain America, who brings him to S.H.I.E.L.D. to be interrogated by [[Black Widow (Natasha Romanova)|Black Widow]], but she is unable to get much out of him.
 
 ==References==
 {{reflist}}
@@ -79,5 +79,6 @@ A variation of Shockwave appears in the ''[[Iron Man: Armored Adventures]]'' ani
 [[Category:Fictional English people]]
 [[Category:Fictional mercenaries]]
 [[Category:Fictional people from Newcastle upon Tyne]]
+[[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Shang-Chi characters]]

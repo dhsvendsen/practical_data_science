@@ -1,5 +1,6 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name = Wong-Chu
+|image          = Wong-Chu (Earth-616) from All-New Iron Manual Vol 1 1 001.jpg
 |caption        =
 |publisher      = [[Marvel Comics]]
 |debut          = ''[[Tales of Suspense]]'' #39 (March 1963)
@@ -9,7 +10,7 @@
 |aliases        =
 |powers         = Expert martial artist
 }}
-'''Wong-Chu''' is a fictional character, a terrorist appearing in [[American comic book]]s published by [[Marvel Comics]]. He usually appears as an adversary of [[Iron Man]] and was the first figure that he faced and creates the moral dilemma prevalent throughout the [[Iron Man]] canon.
+'''Wong-Chu''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->supervillain appearing in [[American comic book]]s published by [[Marvel Comics]]. He usually appears as an adversary of [[Iron Man]] and was the first figure that he faced and creates the moral dilemma prevalent throughout the [[Iron Man]] canon.
 
 ==Publication history==
 Created by writer [[Larry Lieber]] and artists [[Jack Kirby]] and [[Don Heck]], Wong-Chu first appeared in ''[[Tales of Suspense]]'' #39 (March 1963).
@@ -51,4 +52,5 @@ Wong-Chu appears in ''[[The Invincible Iron Man (film)|The Invincible Iron Man]]
 [[Category:Fictional commanders]]
 [[Category:Fictional warlords]]
 [[Category:Superhero film characters]]
+[[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics supervillains]]

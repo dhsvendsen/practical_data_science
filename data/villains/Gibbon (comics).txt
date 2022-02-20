@@ -1,3 +1,4 @@
+{{Short description|Marvel Comics fictional character}}
 {{Infobox comics character
 |image=GibbonMarvelApes.png
 |caption=Gibbon as seen in ''[[Marvel Apes]]'' #1. Art by Ramon Bachs.
@@ -11,6 +12,7 @@
 |aliases=
 |powers=Superhuman strength, speed, agility, dexterity, reflexes, coordination, balance and endurance
 |}}
+{{Lead too short|date=February 2022}}
 '''Gibbon''' is the name of two [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
@@ -71,9 +73,11 @@ Blank has a gibbon-like appearance, with superhuman strength, speed, agility, de
 {{Stan Lee}}
 {{Portal bar|Speculative fiction}}
 
-[[Category:Comics characters introduced in 1972]]
 [[Category:Characters created by John Romita Sr.]]
 [[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1972]]
+[[Category:Fictional acrobats]]
+[[Category:Fictional circus performers]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]

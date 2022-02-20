@@ -3,7 +3,7 @@
 image=[[Image:Director Colcord.jpg|250px]]
 |caption=Malcolm Colcord in the cover of Weapon X #6. Art by Keron Grant and Pop Mahn.
 |character_name=Director Colcord
-|real_name=Malcolm POVP
+|real_name=Malcolm Colcord
 |publisher=[[Marvel Comics]]
 |debut=''[[Wolverine (comic book)|Wolverine]]'' vol. 2 #166 (2001)
 |creators=[[Frank Tieri (writer)|Frank Tieri]] and [[Sean Chen (artist)|Sean Chen]]
@@ -52,6 +52,7 @@ Colcord makes a cameo in ''[[Ultimate Marvel vs. Capcom 3]]''. He appears in Nem
 
 ==External links==
 * [https://marvel.fandom.com/wiki/Malcolm_Colcord_(Earth-616) Malcolm Colcord] at Marvel Wiki
+* [https://www.marvel.com/characters/malcolm-colcord Malcolm Colcord] at Marvel.com
 * [https://comicvine.gamespot.com/the-director/4005-15621/ Malcolm Colcord] at Comic Vine
 
 {{Weapon Plus}}

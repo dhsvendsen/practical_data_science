@@ -1,6 +1,7 @@
+{{Short description|Marvel Comics character}}
 {{Use mdy dates|date=August 2021}}
 {{Infobox comics character
-|image          =
+|image          = Wraith (Yuri Watanabe).jpg
 |imagesize      =
 |converted      =
 |caption        =
@@ -15,6 +16,7 @@
 |aliases        = 
 |powers         = Trained police officer<br />Fear gas<br />Access to Chameleon and Mysterio's tech<br />Yellow elastic straps that can cling onto objects and wrap enemies
 }}
+{{Lead too short|date=December 2021}}
 '''Wraith''' ('''Yuriko''' "'''Yuri'''" '''Watanabe''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 == Publication history ==
@@ -44,7 +46,7 @@ Yuri Watanabe appears in the 2017 ''[[Spider-Man (2017 TV series)|Spider-Man]]''
 
 === Video games ===
 * Yuri Watanabe / Wraith appears as a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.{{citation needed|date=January 2016}}
-* Yuri Watanabe appears as a supporting character in ''[[Spider-Man (2018 video game)|Marvel's Spider-Man]]'',<ref>{{cite web|url=https://nerdist.com/spider-man-takes-on-mister-negative-and-introduces-spoiler-in-e3-gameplay-trailer/|title=SPIDER-MAN Takes on Mister Negative and Introduces [SPOILER] in E3 Gameplay Trailer|date=June 12, 2017|website=Nerdist.com|access-date=January 7, 2019}}</ref> voiced by [[Tara Platt]]. Similarly to her comics counterpart, this version is an NYPD captain and long-time ally of [[Peter Parker (Insomniac Games character)|Spider-Man]]'s who aids him in foiling various crimes in New York. In ''[[Spider-Man: The City That Never Sleeps|The City That Never Sleeps]]'' DLC, she is emotionally compromised when her department's attempts to capture [[Hammerhead (comics)|Hammerhead]] results in the deaths of many of her officers. Taking matters into her own hands after becoming frustrated with Spider-Man's lack of progress, she goes on a violent quest for revenge against the crime lord. While trying to stop her, Spider-Man discovers Yuri is a third generation police officer whose father was arrested for taking bribes from Hammerhead and that Yuri has dedicated her entire career to bringing the crime boss down, going from precinct to precinct as her zealousness became too much. Once she catches up to Hammerhead, she nearly shoots and kills him before Spider-Man redirects her shot. Put on administrative leave for her actions, she refuses to give up her vendetta and goes into hiding. She kills one of Hammerhead's top enforcers and uses crime scenes connected to him to lead Spider-Man to the enforcer's body, where she contacts her former ally to tell him she quit the force and intends to take matters into her own hands.<ref>{{cite video game |title= Spider-Man (2018 video game)|developer= Insomniac Games|publisher= Sony Interactive Entertainment|date= September 7, 2018|platform= PlayStation 4}}</ref>
+* Yuri Watanabe appears as a supporting character in ''[[Spider-Man (2018 video game)|Marvel's Spider-Man]]'',<ref>{{cite web|url=https://nerdist.com/spider-man-takes-on-mister-negative-and-introduces-spoiler-in-e3-gameplay-trailer/|title=SPIDER-MAN Takes on Mister Negative and Introduces [SPOILER] in E3 Gameplay Trailer|date=June 12, 2017|website=Nerdist.com|access-date=January 7, 2019}}</ref> voiced by [[Tara Platt]]. Similarly to her comics counterpart, this version is an NYPD captain and long-time ally of [[Peter Parker (Insomniac Games character)|Spider-Man]]'s who aids him in foiling various crimes in New York. In ''[[Spider-Man: The City That Never Sleeps|The City That Never Sleeps]]'' DLC, she is emotionally compromised when her department's attempts to capture [[Hammerhead (comics)|Hammerhead]] results in the deaths of many of her officers. Taking matters into her own hands after becoming frustrated with Spider-Man's lack of progress, she goes on a violent quest for revenge against the crime lord. While trying to stop her, Spider-Man discovers Yuri is a third generation police officer whose father was arrested for taking bribes from Hammerhead and that Yuri has dedicated her entire career to bringing the crime boss down, going from precinct to precinct as her zealousness became too much. Once she catches up to Hammerhead, she nearly shoots and kills him before Spider-Man redirects her shot. Put on administrative leave for her actions, she refuses to give up her vendetta and goes into hiding. She kills one of Hammerhead's top enforcers and uses crime scenes connected to him to lead Spider-Man to the enforcer's body, where she contacts her former ally to tell him she quit the force to become a vigilante.<ref>{{cite video game |title= Spider-Man (2018 video game)|developer= Insomniac Games|publisher= Sony Interactive Entertainment|date= September 7, 2018|platform= PlayStation 4}}</ref>
 
 == References ==
 {{Reflist}}
@@ -59,8 +61,10 @@ Yuri Watanabe appears in the 2017 ''[[Spider-Man (2017 TV series)|Spider-Man]]''
 [[Category:Characters created by Dan Slott]]
 [[Category:Characters created by John Romita Jr.]]
 [[Category:Comics characters introduced in 2009]]
+[[Category:Fictional Japanese American people]]
 [[Category:Fictional New York City Police Department officers]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics female superheroes]]
+[[Category:Fictional police officers in comics]]
 [[Category:Spider-Man characters]]
 [[Category:Vigilante characters in comics]]

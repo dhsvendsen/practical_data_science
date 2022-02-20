@@ -1,6 +1,6 @@
 {{short description|Comics character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| image          = 
+| image          = Hellfire (J. T. Slade).jpg
 | imagesize      = <!-- default 250 -->
 | caption        = 
 | debut          = ''[[The Mighty Avengers]]'' #13 (July 2008)
@@ -49,6 +49,6 @@ An [[Inhumans|Inhuman]] version of J. T. James appears in ''[[Agents of S.H.I.E.
 
 [[Category:Characters created by Brian Michael Bendis]]
 [[Category:Fictional characters with fire or heat abilities]]
-[[Category:Hydra agents]]
+[[Category:Hydra (comics) agents]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

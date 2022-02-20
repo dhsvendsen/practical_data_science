@@ -1,5 +1,5 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|image=
+|image=Jonathan Bryant (Marvel).jpg
 |caption= 
 |character_name=Digitek
 |real_name=Jonathan Bryant
@@ -23,14 +23,14 @@ After the initial limited series, Digitek made no further appearances in Marvel 
 The final issue of ''Captain Britain and MI13'' included a cameo appearance by Digitek, confirming that he is working as a reserve agent for MI:13.
 
 ==Fictional character biography==
-The story of Digitek begins at the [[Mys-Tech]] organization. [[Warheads (comics)|Kether Troop]], a team of Mys-Tech mercenaries tasked with recovering alien technology from [[Parallel universe (fiction)|alternate dimensions]], manage to retrieve a product called Protosilicon from an unknown source and installs it on an item known as Jump 61. Technological analysis of the item followed, and '''Jonathan Byrant''' is assigned as its Project Leader. His supervisor, Mr. Grant, sabotages the project with a [[computer virus]], but Jonathan somehow gains a vision of this. He rushes back to the facility. He arrives just as the building explodes, and is believed to have been killed.  Unknown to all he survives and finds that the suit has bonded with him. Choosing to use his powers for good, Jonathan decides to call himself after the project: Digitek.<ref>''Digitek'' #1 (Dec 1992)</ref>  His first opponents are the villains known as [[Bacillicons]],<ref>[http://www.marvunapp.com/Appendix/bacillic.htm Bacillicons] at the Appendix to the Handbook of the Marvel Universe</ref> three mercenaries who had been similarly transformed, but are warped by the virus.{{issue|date=November 2015}}
+The story of Digitek begins at the [[Mys-Tech]] organization. [[Warheads (comics)|Kether Troop]], a team of Mys-Tech mercenaries tasked with recovering alien technology from [[Parallel universe (fiction)|alternate dimensions]], manage to retrieve a product called Protosilicon from an unknown source and installs it on an item known as Jump 61. Technological analysis of the item followed, and '''Jonathan Byrant''' is assigned as its Project Leader. His supervisor, Mr. Grant, sabotages the project with a [[computer virus]], but Jonathan somehow gains a vision of this. He rushes back to the facility. He arrives just as the building explodes, and is believed to have been killed. Unknown to all he survives and finds that the suit has bonded with him. Choosing to use his powers for good, Jonathan decides to call himself after the project: Digitek.<ref>''Digitek'' #1 (Dec. 1992)</ref> His first opponents are the villains known as [[Bacillicons]],<ref>[http://www.marvunapp.com/Appendix/bacillic.htm Bacillicons] at the Appendix to the Handbook of the Marvel Universe</ref> three mercenaries who had been similarly transformed, but are warped by the virus.{{issue|date=November 2015}}
 
-When Psi-Key is attacked by the virus, she broadcasts a worldwide distress signal, which locks onto the cyborg hero [[Deathlok]].  Deathlok is then transported to the UK. Together the two heroes defeat the Bacillicons, parting as friends.<ref>''Digitek'' #2 (Jan 1993)</ref>
+When Psi-Key is attacked by the virus, she broadcasts a worldwide distress signal, which locks onto the cyborg hero [[Deathlok]]. Deathlok is then transported to the UK. Together the two heroes defeat the Bacillicons, parting as friends.<ref>''Digitek'' #2 (Jan. 1993)</ref>
 
 === Civil War and MI:13===
 Digitek is later mentioned as having joined the heroes opposing the Super Hero Registration Act during the [[Civil War (comics)|Superhuman Civil War]]. Apprehended by [[S.H.I.E.L.D.]],<ref>''Civil War: Frontline'' #6</ref> Digitek seemingly commits suicide by transforming his arm into an M-110 particle shotgun and shooting himself. S.H.I.E.L.D. considers Digitek's suicide to be a possible hoax to allow the vigilante to escape from the Negative Zone Prison, as his CPU did not suffer terminal damage.<ref>''Civil War: Battle Damage Report''</ref>
 
-Digitek later appeares, alive and unharmed, as one of British intelligence agency [[MI-13 (comics)|MI:13]]'s reserve agents, battling against an army of vampires on the Moon. The caption accompanying his reintroduction stated that he is "back from intelligence gathering in the USA".<ref>''Captain Britain and MI13'' #15 (September 2009)</ref>
+Digitek later appeares, alive and unharmed, as one of British intelligence agency [[MI-13 (comics)|MI:13]]'s reserve agents, battling against an army of vampires on the Moon. The caption accompanying his reintroduction stated that he is "back from intelligence gathering in the USA".<ref>''Captain Britain and MI13'' #15 (Sept. 2009)</ref>
 
 ==Notes==
 {{reflist}}
@@ -40,7 +40,7 @@ Digitek later appeares, alive and unharmed, as one of British intelligence agenc
 *[http://www.marvunapp.com/Appendix/digitekp.htm Digitek] at the Appendix to the Handbook of the Marvel Universe
 *{{gcdb series|id=4504|title=''Digitek''}}
 *{{comicbookdb|type=character|id=10587|title=Digitek}}
-*[https://archive.is/20130120025736/http://www.comics-db.com/Marvel_Comics/D/Digitek/index.html ''Digitek''] at the [[Big Comic Book DataBase]]
+*[https://archive.today/20130120025736/http://www.comics-db.com/Marvel_Comics/D/Digitek/index.html ''Digitek''] at the [[Big Comic Book DataBase]]
 {{refend}}
 
 {{Dan Abnett and Andy Lanning}}
